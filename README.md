@@ -1,7 +1,6 @@
 # Recipes
 
-[![Checks](https://github.com/artflag/recipes/workflows/checks/badge.svg)](https://github.com/artflag/recipes/actions)
-[![Deploy](https://github.com/artflag/recipes/workflows/gh-release/badge.svg)](https://github.com/artflag/recipes/actions)
+[![Checks](https://github.com/artflag/recipes/workflows/CI/badge.svg)](https://github.com/artflag/recipes/actions)
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/).
 

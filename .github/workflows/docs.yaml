@@ -1,4 +1,4 @@
-name: docs
+name: CI
 
 on:
   pull_request:
@@ -7,7 +7,8 @@ on:
     branches: [master]
 
 jobs:
-  checks:
+  build:
+    name: Build
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
@@ -26,6 +27,7 @@ jobs:
           fi
           npm run build
   gh-release:
+    name: Publish
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
