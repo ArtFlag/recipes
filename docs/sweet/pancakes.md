@@ -1,0 +1,24 @@
+---
+title: Pancakes
+---
+
+-   Beurre
+-   Farine: 125g
+-   Lait demi écrémé: 150 ml
+-   Levure chimique: 1 sachet
+-   Oeufs: 2
+-   Sel: 1 pincee
+-   Sucre vanillé: 1 sachet ou une cac d'extrait de vanille
+-   Sucre: 2 CaS
+
+1.  Dans un grand bol, mélangez les ingrédients secs : farine, levure,
+    le sucre, sel et un sachet de sucre vanillé.
+2.  Dans un autre bol, mélangez les 2 jaunes d'oeuf avec le lait puis
+    ajoutez aux ingrédients secs en mélangeant. Vous obtenez une texture
+    de pâte à crêpes bien épaisse, laissez reposer 15 à 30 minutes.
+3.  Battez les blancs en neige et ajoutez-les délicatement à la
+    préparation.
+4.  Faites cuire dans une petite poêle beurrée bien chaude 1 minute de
+    chaque côté.
+5.  Le bord doit être doré, et des petites bulles doivent se former sur
+    le dessus, c'est le moment de retourner le pancake !
