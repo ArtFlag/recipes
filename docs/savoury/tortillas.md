@@ -56,11 +56,11 @@ Yields 32 tortillas.
 
 ## Shortening tortillas
 
-- 1 ¾ cups all-purpose flour (190g)
-- ¾ teaspoon salt
-- ¼ teaspoon baking powder
-- ¼ cup vegetable shortening / Biskin Planzenfett (35g)
-- ½ cup hot water
+- 1 ¾ cups all-purpose flour (195g)
+- ¾ teaspoon salt (3g)
+- ¼ teaspoon baking powder (3g)
+- ¼ cup vegetable shortening / Biskin Planzenfett (44g)
+- ½ cup hot water (118g)
 
 1. Whisk flour, salt, and baking powder together in a large bowl. Add vegetable shortening and work into flour mixture using a pastry cutter until it resembles coarse crumbs.
 
