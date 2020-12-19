@@ -53,3 +53,25 @@ Yields 32 tortillas.
 
 1.  Lay out cooked tortillas on a baking sheet and let them cool slightly before
     placing them in a tortilla warmer or closed container.
+
+## Shortening tortillas
+
+- 1 ¾ cups all-purpose flour
+- ¾ teaspoon salt
+- ¼ teaspoon baking powder
+- ¼ cup vegetable shortening
+- ½ cup hot water
+
+1. Whisk flour, salt, and baking powder together in a large bowl. Add vegetable shortening and work into flour mixture using a pastry cutter until it resembles coarse crumbs.
+
+1. Form a well in the middle of flour mixture and mix in lukewarm water. Work flour and water mixture together with a fork and transfer to a cutting board.
+
+1. Knead until a smooth, soft dough is formed, about 3 minutes. Add more flour if dough is too sticky.
+
+1. Place more flour on cutting board, cover dough with bowl, and let rest for 15 minutes.
+
+1. Cut ball of dough into eight equal parts and cover until needed.
+
+1. Roll out balls of dough either by hand or with a tortilla press.
+
+1. Heat a large skillet over medium-high heat. Place flattened tortilla in skillet and cook until it begins to bubble, about 1 minute. Flip tortilla over and cook for an additional minute. Flip again and cook for 1 more minute. Repeat with remaining dough.
