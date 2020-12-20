@@ -57,12 +57,37 @@ Yields 32 tortillas.
 ## Shortening tortillas
 
 - 1 ¾ cups all-purpose flour (195g)
-- ¾ teaspoon salt (3g)
+- ¾ teaspoon salt (4g)
 - ¼ teaspoon baking powder (3g)
 - ¼ cup vegetable shortening / Biskin Planzenfett (44g)
 - ½ cup hot water (118g)
 
+### With Tangzhong
+
+Use 5% to 10% of the original flour as tangzhong.
+
+Tangzhong:
+
+5%:
+
+- Flour: 10g
+- Water: 50g
+
+Tortillas:
+
+- All-purpose flour: 185g
+- Baking powder: 3g
+- Hot water (68g)
+- Salt: (4g)
+- Vegetable shortening / Biskin Planzenfett: 44g
+
+### Method
+
+1. If using tangzhong, prepare the thangzhong and set aside for 6h-1day in the fridge.
+
 1. Whisk flour, salt, and baking powder together in a large bowl. Add vegetable shortening and work into flour mixture using a pastry cutter until it resembles coarse crumbs.
+
+1. Add thanzong.
 
 1. Form a well in the middle of flour mixture and mix in lukewarm water. Work flour and water mixture together with a fork and transfer to a cutting board.
 

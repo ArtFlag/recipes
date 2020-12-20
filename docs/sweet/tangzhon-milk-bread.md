@@ -6,6 +6,8 @@ title: Tangzhong milk bread
 
 **Tangzhong:**
 
+(1:5 ratio, by weight)
+
 - Bread flour: 35g
 - Water: 175g
 
