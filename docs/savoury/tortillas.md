@@ -2,20 +2,6 @@
 title: Tortillas
 ---
 
--   200 g de farine de blé ou de maïs
--   5 cl d'huile d'olive
--   8 cl d'eau
--   2 pincées de sel
-
-1.  Disposez la farine et le sel dans un saladier, creusez un puits au
-    milieu dans lequel on verse l'huile, puis l'eau.
-2.  Mélangez et pétrissez de façon à obtenir une boule de pâte bien
-    élastique que l'on divise en 4.
-3.  Farinez le plan de travail et étalez les 4 boulettes en « crêpes »
-    assez finement, à la main façon pizza.
-4.  Faites chauffer une poêle sans matière grasse (à fond téflon) et
-    faites-les cuire chacune leur tour 1 ou 2 minutes de chaque côté.
-
 ## Sourdough tortillas
 
 Yields 32 tortillas.
@@ -56,6 +42,8 @@ Yields 32 tortillas.
 
 ## Shortening tortillas
 
+Yields 8 small tortillas.
+
 - 1 ¾ cups all-purpose flour (195g)
 - ¾ teaspoon salt (4g)
 - ¼ teaspoon baking powder (3g)
@@ -64,20 +52,20 @@ Yields 32 tortillas.
 
 ### With Tangzhong
 
-Use 5% to 10% of the original flour as tangzhong.
+#### Tangzhong
 
-Tangzhong:
+Use 5% to 10% of the original flour as tangzhong. Mix until mix reaches 65c.
 
 5%:
 
 - Flour: 10g
 - Water: 50g
 
-Tortillas:
+#### Tortillas
 
 - All-purpose flour: 185g
-- Baking powder: 3g
-- Hot water (68g)
+- Baking powder: 4g
+- Hot water (70g) (a bit more if dough too dry)
 - Salt: (4g)
 - Vegetable shortening / Biskin Planzenfett: 44g
 
