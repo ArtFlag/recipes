@@ -20,5 +20,5 @@ title: Biscochitos
 1. Add this mixture to the flour mixture and knead well.
 1. Let rest for at least 30 minutes in the fridge.
 1. Roll the dough very thin and then use cookie cutters into desired shapes.
-1. Bake at 180c for about 12 minutes or until golden brown.
+1. Bake at 180c for about 10 minutes or until golden brown.
 1. While the cookies are still hot, dip both sides into the sugar/cinnamon mixture. (cookies should be hot so the sugar/cinnamon sticks to the cookies.)
