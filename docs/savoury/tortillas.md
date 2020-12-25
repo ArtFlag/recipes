@@ -61,13 +61,15 @@ Use 5% to 10% of the original flour as tangzhong. Mix until mix reaches 65c.
 - Flour: 10g
 - Water: 50g
 
+Yields 35ish g of tangzhong.
+
 #### Tortillas
 
 - All-purpose flour: 185g
 - Baking powder: 4g
-- Hot water (70g) (a bit more if dough too dry)
-- Salt: (4g)
-- Vegetable shortening / Biskin Planzenfett: 44g
+- Hot water: 70g (a bit more if dough too dry)
+- Salt: 4g
+- Vegetable shortening / Biskin Planzenfett: 46g
 
 ### Method
 
@@ -85,6 +87,6 @@ Use 5% to 10% of the original flour as tangzhong. Mix until mix reaches 65c.
 
 1. Cut ball of dough into eight equal parts and cover until needed.
 
-1. Roll out balls of dough either by hand or with a tortilla press.
+1. Roll out balls of dough either by hand.
 
 1. Heat a large skillet over medium-high heat. Place flattened tortilla in skillet and cook until it begins to bubble, about 1 minute. Flip tortilla over and cook for an additional minute. Flip again and cook for 1 more minute. Repeat with remaining dough.
