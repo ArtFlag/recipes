@@ -2,12 +2,12 @@
 title: Pain au levain
 ---
 
-| Ingredient | Proportion | Poids                                   |
-| :--------: | :--------- | :-------------------------------------- |
-|   Farine   | 100%       | 500g (dont 10% de complete si possible) |
-|    Eau     | 60%-80%    | 360g (72%)                              |
-|   Levain   | 10-20%     | 80g (16%)                               |
-|    Sel     | 2%         | 10g (2%)                                |
+| Ingredient | Proportion | Poids      |
+| :--------: | :--------- | :--------- |
+| Farine     | 100%       | 500g       |
+| Eau        | 60%-80%    | 325g (65%) |
+| Levain     | 10-20%     | 80g (16%)  |
+| Sel        | 2%         | 10g (2%)   |
 
 **Note:** Plus la farine a de proteine, plus il est possible d'hydrater.
 Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de
@@ -28,28 +28,58 @@ vérifier si la pâte s'étire bien, ou si elle casse trop rapidement.
 </thead>
 <tbody>
   <tr>
-    <td>T1050 Alnatura: 400g<br/>Vollkorn rewe: 100g<br/></td>
+    <td>
+      <ul>
+        <li>
+          T1050 Alnatura: 400g
+        </li>
+        <li>
+          Vollkorn rewe: 100g
+        </li>
+      </ul>
+    </td>
     <td>90g</td>
     <td>320g (64%)</td>
     <td>12g</td>
     <td></td>
   </tr>
   <tr>
-    <td>T550 rewe: 400g<br/>T1050 Alnatura: 100g<br/></td>
+    <td>
+      <ul>
+        <li>T550 rewe: 400g</li>
+        <li>T1050 Alnatura: 100g</li>
+      </ul>
+    </td>
     <td>60g</td>
     <td>325 (65%)</td>
     <td>12g</td>
     <td>Walnuts: 55g</td>
   </tr>
   <tr>
-    <td>T550 backstark (12% protein): 250g<br/>Dinkelmehl: 250g</td>
+    <td>
+      <ul>
+        <li>
+          T550 backstark (12% protein): 250g
+        </li>
+        <li>Dinkelmehl: 250g</li>
+      </ul>
+    </td>
     <td>50g</td>
     <td>340g (68%)</td>
     <td>11g</td>
     <td></td>
   </tr>
   <tr>
-    <td>T550 khati: 900g<br/>Vollkorn mehl: 100g</td>
+    <td>
+      <ul>
+        <li>
+          T550 khati: 900g
+        </li>
+        <li>
+          Vollkorn mehl: 100g
+        </li>
+      </ul>
+    </td>
     <td>120g</td>
     <td>700g (70%)</td>
     <td>20g</td>
