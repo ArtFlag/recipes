@@ -19,10 +19,10 @@ title: Tangzhong milk bread
 1. Take out the tangzhong from the fridge and wait for it to be at room temp.
 1. (Optional) If dry active yeast, activate 6g using some of the milk and sugar.
 1. Once it's active, mix:
-   - Bread flour: 340g (add at least 90g if protein = 12g)
-   - Sugar: 30g (keep some to activate the yeast if needed)
+   - Bread flour: 350g (add at least 90g if protein = 12g)
+   - Sugar: 35g (keep some to activate the yeast if needed)
    - Dry yeast: 6g (8g if fresh yeast)
-   - Salt: 4 g
+   - Salt: 5 g
 1. Add and mix:
    - Milk: 140g (lukewarm) (keep some to activate the yeast if needed)
    - Eggs (beaten): 40g (less than 1 medium egg)
