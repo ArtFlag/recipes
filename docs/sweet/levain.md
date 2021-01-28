@@ -7,7 +7,7 @@ title: Levain
 
 
 -   Eau non chloree (laisser a l'air libre 1h)
--   Farine (seigle et ble) au moins T65.
+-   Farine (seigle et ble) au moins T65, complet est mieux.
 -   Miel: 1 cac (liquide) ou sucre
 
 Toujours ajouter l'eau en premier et bien mélanger, ensuite ajouter la
@@ -15,10 +15,10 @@ farine.
 
 **Jour 1**
 
-1.  Peser le bocal a vide sans couvercle.
+1.  Peser le bocal a vide sans couvercle et marquer le poids sur le bocal ou dans un telephone.
 2.  Dans un bocal de 500ml ou plus ajouter:
-    -   l'eau: 20g (30c)
-    -   la farine: 20g (seigle ou ble mais seigle est mieux)
+    -   eau: 20g (30c)
+    -   farine: 20g
     -   (Optionel) le miel: 1/2 cac (5g)
 3.  Mélanger.
 4.  Couvrir d'un torchon et laisser reposer 24h à l'abri de la
@@ -54,7 +54,7 @@ farine.
 
 **Jour 5**
 
-Si le levain n'a pas leve, il faut le nourrir:
+Si le levain n'a pas levé, il faut le nourrir:
 
 -   50g de farine
 -   1/2 cac de miel
@@ -64,21 +64,23 @@ Si le levain n'a pas leve, il faut le nourrir:
 
 **Jour 6**
 
-Le levain doit avoir leve.
+Le levain doit avoir levé.
 
-Si le levain n'est pas tres actif, garder 100g de levain, et le nourrir
-de la 50g d'eau et de farine.
+Si le levain n'est pas très actif, garder 100g de levain, et le nourrir
+de 50g d'eau et de farine.
 
 **Utilisation**
 
-Nourir et attendre qu'il monte. Il doit avoir au moins double de
+Nourir et attendre qu'il monte. Il doit avoir au moins doublé de
 taille. Ne pas attendre son max pour l'utiliser.
+
+Voir [Pain au levain](pain.md).
 
 ## Conservation
 
-
-Un fois que le levain est fait, et a ete utilise une fois. Fermez le
-bocal et gardez le au frigo/congelateru.
+Un fois que le levain est fait, et a été utilisé une fois,
+garder une petite quantité (15g) et fermez le
+bocal et gardez le au frigo/congelater.
 
 ### Au frigo
 
