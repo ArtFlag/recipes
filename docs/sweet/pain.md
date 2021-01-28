@@ -170,5 +170,6 @@ A la cocotte:
 
 ## Videos
 
+- [Video en francais](https://www.youtube.com/watch?v=PX4HDv98tH8)
 - [Video 1](https://www.youtube.com/watch?v=KkulM98briI)
 - [Video 2](https://www.youtube.com/watch?v=BJEHsvW2J6M)
