@@ -13,8 +13,8 @@ const shortcuts_sweet = [
     title: "Pain",
   },
   {
-    id: "sweet/levain",
-    title: "Levain",
+    id: "sweet/brioche",
+    title: "Brioche",
   },
   {
     id: "sweet/tarte-regent",
