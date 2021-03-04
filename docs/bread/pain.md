@@ -116,18 +116,27 @@ Debut de la fermentation qui durera au total entre 3 et 5h, selon la temperature
 
 1.  Laisser reposer 1h.
 1.  Faire 3 sets de tiré-plié. Un toutes les 30 minutes. [Video](https://youtu.be/hNzJLP61nnQ?t=271).
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hNzJLP61nnQ?start=271" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1.  A ce moment, la pate doit s'etirer jusqu'a devenir comme un rideau sans se dechirer. Si ce n'est pas le cas, refaire un tire-plie ou 2.
 1.  Attendre que la pate est atteint le volume souhaite dans le tableau au dessus.
 
 1.  Quand c'est fait, mise en forme et detente: mettre la pâte en boule en la raclant sur
     le plan de travail pour augmenter la tension. Saupoudrer de farine
     et couvrir et laisser reposer 20-30 minutes. [Video](https://youtu.be/KkulM98briI?t=529).
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KkulM98briI?start=529" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1.  Prendre un banneton, mettre un linge dans le fond, bien saupoudrez
     de farine.
 1.  Faconnage: Retourner la pâte sur le dos. Applatir la pâte legerement, et la
     replier sur elle-meme plusieurs fois par les bords et rouler bord
     court vers l'autre bord court. Racler la pâte sur le plan pour bien
     la fermer en dessous. [Video](https://youtu.be/hNzJLP61nnQ?t=629).
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hNzJLP61nnQ?start=629" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1.  Prendre la pâte et la placer à l'envers dans le banneton, soudure
     sur le dessus.
 1.  Mettre au frigo pour 10-16h dans un zip bag.

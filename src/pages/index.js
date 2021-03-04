@@ -9,11 +9,11 @@ import { short } from "webidl-conversions";
 
 const shortcuts_sweet = [
   {
-    id: "sweet/pain",
-    title: "Pain",
+    id: "bread/pain",
+    title: "Pain au levain",
   },
   {
-    id: "sweet/brioche",
+    id: "bread/brioche",
     title: "Brioche",
   },
   {
@@ -21,7 +21,7 @@ const shortcuts_sweet = [
     title: "Tarte du regent",
   },
   {
-    id: "sweet/tangzhon-milk-bread",
+    id: "bread/tangzhon-milk-bread",
     title: "Tangzhon milk bread"
   },
   {

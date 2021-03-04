@@ -32,7 +32,8 @@ title: Tangzhong milk bread
 1. When ready, form a boule and leave to rest for 1h. If you poke the dough, it should keep its shape.
 1. Divide in 3 parts.
 1. Boule each part and leave to rest for 15 minutes.
-1. Laminate and shape like a batard. See [video](https://youtu.be/tc3coiL36Cg?t=246)
+1. Laminate and shape like a batard. See [video](https://youtu.be/tc3coiL36Cg?t=246).
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/tc3coiL36Cg?start=246" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 1. Oil the sides of the mold (ideally 11x22cm).
 1. Put the rolls in the mold and cover.
 1. Let rest for 30 minutes.
