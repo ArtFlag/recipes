@@ -35,7 +35,7 @@ const shortcuts_savoury = [
     title: "Galettes",
   },
   {
-    id: "savoury/pizza",
+    id: "bread/pizza",
     title: "Pizza",
   },
   {
