@@ -5,7 +5,6 @@ title:  Pizza  (Napolitana)
 [Pizzapp+](https://apps.apple.com/fr/app/pizzapp/id1228158792#?platform=ipad)
 or [Pizza calculator](https://pizza-calculator.the-bread-code.io/)
 
-
 ## Fresh yeast
 
 ### Percentages
@@ -23,26 +22,24 @@ If dry yeast, divide fresh yeast value by 2
 
 [Calculator](https://www.stadlermade.com/pizza-dough-calculator/)
 
-
-1.  Mix water and salt until dissolved.
-1.  Add 10% of the flour and dissolve.
-1.  Add the yeast and dissolve.
-1.  Add the rest of the flour.
-1.  Work the dough on the counter-top for a while without tearing it.
-1.  When the dough is strong, shape it into a boule, the temperature
+1. Mix water and salt until dissolved.
+1. Add 10% of the flour and dissolve.
+1. Add the yeast and dissolve.
+1. Add the rest of the flour.
+1. Work the dough on the counter-top for a while without tearing it.
+1. When the dough is strong, shape it into a boule, the temperature
     inside the boule should be around 22-25c.
-1.  Leave at least for 2 hours covered with a damp cloth or in an airtight container for 1-3 days in the fridge.
-1.  Take out from fridge and cut in equal parts and make boules,
+1. Leave at least for 1-2 hours covered with a damp cloth then brush with olive oil and put
+   in an airtight container for 1-3 days in the fridge.
+1. Take out from fridge and when warn enough cut in equal parts and make boules,
     creating tension and let sit at room temp (19-22c) for at least 4-6h.
-1.  Make sure to prepare the pizza with room-temp dough.
-1.  Shape and bake:
+1. Shape and bake, grill at 250/280, no fan, top shelve, on a hot stone roughly 6-7 minutes:
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EI4RoemHe5M?start=1532" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recommended tomato: san marzano.
 
--   [Video](https://www.youtube.com/watch?v=8Q_9h6VKm9c)
-
+- [Video](https://www.youtube.com/watch?v=8Q_9h6VKm9c)
 
 ## Sourdough
 
@@ -65,6 +62,6 @@ Recommended tomato: san marzano.
 10. Add the toppings.
 11. Cook at max temperature for 4-5 minutes.
 
--   [Video 1](https://www.youtube.com/watch?v=PntHJgueOtQ)
--   [Video 2: etalage](https://www.youtube.com/watch?v=XQj_P6kOa-k)
+- [Video 1](https://www.youtube.com/watch?v=PntHJgueOtQ)
+- [Video 2: etalage](https://www.youtube.com/watch?v=XQj_P6kOa-k)
 
