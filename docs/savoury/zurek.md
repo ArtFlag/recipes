@@ -4,12 +4,12 @@ title: Żurek
 
 ## Zakwas (Sour Rye Soup Starter)
 
--   Whole rye flour: 1/2 cup  (1 portion flour, 3 water, in general)
+-   Whole rye flour: a half-cup / 75g
 -   Bay leaf: 1
 -   Peppercorns: 5
 -   All spice (whole): 5
 -   Garlic cloves: 2
--   Boiled and cooled water: 1/2 L
+-   Boiled and cooled water: 1/2 L / 500g
 
 Yields 2 cups.
 
