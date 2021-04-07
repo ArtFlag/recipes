@@ -18,9 +18,12 @@ title: Pâte sablée
     doigts.
 3.  Ajouter le beurre mou (mais surtout pas fondu), puis le parfum
     choisi éventuel et pétrir la pâte à la main afin d'amalgamer le
-    tout.
-4.  Mettre la pâte en boule, l'envelopper d'un linge et la laisser
-    reposer 30 mn à 1 h dans un endroit frais.
-5.  L'abaisser au rouleau sur une planche farinée : elle est prête à
-    être utilisée pour réaliser un fond de tarte, des tartelettes, des
-    sablés découpés à l'emporte-pièce\...
+    tout. Ne pas trop petrir.
+4.  Mettre la pâte en galette, l'envelopper d'un linge et la laisser
+    reposer la nuit au frigo.
+5.  Pour la cuisson, etaler la pate dans le moule et remettre au frigo pour 20 minutes minimum.
+1.  Prechauffer le four a 180.
+1.  Percer la pate et la cuire jusqu'a ce qu'elle se detache du bord du cercle.
+1.  Une fois cuite, enlever le cercle et attendre qu'elle refroidisse.
+1.  Enlever les imperfections avec le dos d'un tamis et badigeonner avec un jaune d'oeuf + 4gr de creme liquide.
+1.  Enfourner a 180c jusqu'a obtenir un couleur doree.
