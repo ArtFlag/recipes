@@ -13,15 +13,14 @@ title: Pâte sablée
 
 ---
 
-1.  Dans un saladier, battre l'œuf, le sucre et le sel.
-2.  Ajouter toute la farine d'un seul coup et mélanger du bout des
-    doigts.
-3.  Ajouter le beurre mou (mais surtout pas fondu), puis le parfum
+1.  Dans un saladier melanger tous les ingredients secs.
+1.  Ajouter l'oeuf.
+1.  Ajouter le beurre mou (mais surtout pas fondu), puis le parfum
     choisi éventuel et pétrir la pâte à la main afin d'amalgamer le
     tout. Ne pas trop petrir.
-4.  Mettre la pâte en galette, l'envelopper d'un linge et la laisser
+1.  Mettre la pâte en galette, l'envelopper d'un linge et la laisser
     reposer la nuit au frigo.
-5.  Pour la cuisson, etaler la pate dans le moule et remettre au frigo pour 20 minutes minimum.
+1.  Pour la cuisson, etaler la pate dans le moule et remettre au frigo pour 20 minutes minimum.
 1.  Prechauffer le four a 180.
 1.  Percer la pate et la cuire jusqu'a ce qu'elle se detache du bord du cercle.
 1.  Une fois cuite, enlever le cercle et attendre qu'elle refroidisse.
