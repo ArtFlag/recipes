@@ -32,9 +32,9 @@ Dorure :
 
 ## Cuisson
 
-1. Prechauffer à 180.
+1. Prechauffer à 180 chaleur tournante.
 1. Sortir la pate du frigo et cuire pour 15 minutes. La pâte doit être decollée du cercle.
 1. Supprimer les imperfections avec le ventre d'un tamis à farine.
-1. Dorer au pinceau avec 1 jaune d'oeuf + 4gr de crème liquide.
-1. Cuire 8-10 minutes.
+1. Dorer finement au pinceau avec 1 jaune d'oeuf + 4gr de crème liquide.
+1. Cuire 6-8 minutes chaleur tournante.
 1. Saupoudrer de beurre de cacao Mycryo pour conserver le croustillant.

@@ -21,8 +21,8 @@ title: Pâte sablée
 1.  Mettre la pâte en galette, l'envelopper d'un linge et la laisser
     reposer la nuit au frigo.
 1.  Pour la cuisson, etaler la pate dans le moule et remettre au frigo pour 20 minutes minimum.
-1.  Prechauffer le four a 180.
+1.  Prechauffer le four a 180 chaleur tournante.
 1.  Percer la pate et la cuire jusqu'a ce qu'elle se detache du bord du cercle.
 1.  Une fois cuite, enlever le cercle et attendre qu'elle refroidisse.
-1.  Enlever les imperfections avec le dos d'un tamis et badigeonner avec un jaune d'oeuf + 4gr de creme liquide.
-1.  Enfourner a 180c jusqu'a obtenir un couleur doree.
+1.  Enlever les imperfections avec le dos d'un tamis et badigeonner finement avec un jaune d'oeuf + 4gr de creme liquide en commencant par les bords.
+1.  Enfourner a 180c chaleur tournante jusqu'a obtenir un couleur doree (6-8 minutes).
