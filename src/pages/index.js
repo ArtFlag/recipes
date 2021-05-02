@@ -6,7 +6,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
-const shortcuts_sweet = [
+const shortcuts_bread =[
   {
     id: "bread/pain",
     title: "Pain au levain",
@@ -16,12 +16,19 @@ const shortcuts_sweet = [
     title: "Brioche",
   },
   {
+    id: "bread/tangzhon-milk-bread",
+    title: "Tangzhon milk bread"
+  }
+];
+
+const shortcuts_sweet = [
+  {
     id: "sweet/tarte-regent",
     title: "Tarte du regent",
   },
   {
-    id: "bread/tangzhon-milk-bread",
-    title: "Tangzhon milk bread"
+    id: "sweet/tarte-supreme-choco",
+    title: "Tarte chocolat suprême",
   },
   {
     id: "sweet/baklava-noix",
@@ -111,10 +118,11 @@ function Home() {
         </div>
       </header>
       <main>
-        <section className={styles.features}>
+          <div class="flex">
           <Shortcuts type="savoury" />
           <Shortcuts type="sweet" />
-        </section>
+          <Shortcuts type="bread" />
+          </div>
       </main>
     </Layout>
   );
