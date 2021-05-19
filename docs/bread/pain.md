@@ -32,10 +32,10 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          T1050 Alnatura: 400g
+          All-purpose: 400g
         </li>
         <li>
-          Vollkorn rewe: 100g
+          Whole-grain: 100g
         </li>
       </ul>
     </td>
@@ -60,7 +60,7 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          T550 backstark (12% protein): 250g
+          All-purpose: 12% protein: 250g
         </li>
         <li>Dinkelmehl: 250g</li>
       </ul>
@@ -84,6 +84,28 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>120g</td>
     <td>700g (70%)</td>
     <td>20g</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>
+      <ul>
+        <li>
+          All purpose: 450g
+        </li>
+        <li>
+          Whole-grain: 50g
+        </li>
+        <li>
+         Grated chedar: 110g
+        </li>
+        <li>
+         Jalapeno: 60g
+        </li>
+      </ul>
+    </td>
+    <td>60g</td>
+    <td>340g (68%)</td>
+    <td>10g</td>
     <td></td>
   </tr>
 </tbody>
