@@ -86,7 +86,7 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>20g</td>
     <td></td>
   </tr>
-   <tr>
+  <tr>
     <td>
       <ul>
         <li>
@@ -95,18 +95,42 @@ Pour faire un levain, voir [Levain](levain.md).
         <li>
           Whole-grain: 50g
         </li>
+      </ul>
+    </td>
+    <td>60g</td>
+    <td>340g (68%)</td>
+    <td>10g</td>
+    <td>
+      <ul>
         <li>
-         Grated chedar: 110g
+          Grated chedar: 110g
         </li>
         <li>
-         Jalapeno: 60g
+          Jalapeno: 60g
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          All purpose: 450g
+        </li>
+        <li>
+          Whole-grain: 50g
         </li>
       </ul>
     </td>
     <td>60g</td>
     <td>340g (68%)</td>
     <td>10g</td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Cinnamon: 5g (1%)</li>
+        <li>Raisins: 100g (20%)</li>
+      </ul>
+    </td>
   </tr>
 </tbody>
 </table>
