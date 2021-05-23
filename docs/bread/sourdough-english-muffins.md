@@ -22,6 +22,6 @@ title: Sourdough English muffins
 1. Sprinkle the tops with corn meal. Cover with a towel and let rise at
    room temperature for 1 hour.
 1. Preheat a non-stick skillet over low heat. Place 4 muffins into the skillet, making
-   sure there is space in between. Cover and cook 4 minutes per side. No need to add oil
-   to the pan before cooking.
+   sure there is space in between. Cover and cook 4-7 minutes on one side. Another 7 minutes
+   on the other side without lid. No need to add oil to the pan before cooking.
 1. Place the muffins back onto the parchment paper to cool before slicing in half.
