@@ -32,6 +32,12 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Pain',
           position: 'left',
+        },
+        {
+          to: 'docs/cocktails/pisco-sour',
+          activeBasePath: 'docs',
+          label: 'Cocktails',
+          position: 'left'
         }
       ],
     },

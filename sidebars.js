@@ -19,11 +19,13 @@ function getdircontent(dir){
 savoury = getdircontent('docs/savoury')
 sweet =  getdircontent('docs/sweet')
 bread =  getdircontent('docs/bread')
+cocktails = getdircontent('docs/cocktails')
 
 module.exports = {
   sidebars:{
     Savoury: savoury,
     Sweet: sweet,
-    Bread: bread
+    Bread: bread,
+    Cocktail: cocktails
   },
 };
