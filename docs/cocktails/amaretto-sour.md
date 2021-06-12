@@ -2,7 +2,7 @@
 title: Amaretto sour
 ---
 
-## Without whiskey
+## Classic
 
 - 2 oz / 60ml Amaretto
 - 1 oz / 30ml of lemon juice
@@ -15,7 +15,7 @@ title: Amaretto sour
 1. Double strain into glass.
 1. Garnish with agostura bitters drop.
 
-## Classic
+## With bourbon
 
 - 1½ oz/45 ml Amaretto
 - 15mL Bourbon Whiskey
