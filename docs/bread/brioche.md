@@ -6,7 +6,7 @@ title: Brioche
 - Farine: 300g
 - Fleur d'oranger: 1-2 CaS
 - Lait: 125ml
-- Levure boulangere seche: 10g (15 fraiche)
+- Levure boulangere sèche: 10g (20 fraiche)
 - Oeufs: 2
 - Sel: 1 CaC
 - Sucre: 50g

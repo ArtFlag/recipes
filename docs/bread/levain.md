@@ -1,10 +1,7 @@
 ---
 title: Levain
 ---
-
-
 ## Recette
-
 
 -   Eau non chloree (laisser a l'air libre 1h)
 -   Farine (seigle et ble) au moins T65, complet est mieux.
@@ -102,6 +99,10 @@ une fermentation plus longue.
 
 1.  Le mettre au frigo 2 jours avant de s'en servir.
 2.  Jour J-1: le nourrir comme ci-dessus.
+
+## Redonner de la force
+
+Garder qq grammes de levain et nourrir avec un ratio de 1:20:20 ou plus.
 
 ## Correspondance farines
 

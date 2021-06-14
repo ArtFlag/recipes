@@ -18,5 +18,5 @@ Pour 2:
     ecraser et remettre sur feu doux.
 3.  Raper et ajouter tout le cantal et la creme fraiche à la puree.
 4.  Ajouter l'ail, sel, poivre.
-5.  Melanger vigoureusement pour obtenir jusqu'a obtention d'une
+5.  Melanger vigoureusement pour obtenir une
     texture uniforme. Ajouter un peu d'eau si necessaire.

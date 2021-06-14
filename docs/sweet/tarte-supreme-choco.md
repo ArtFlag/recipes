@@ -2,7 +2,7 @@
 title: Tarte suprême chocolat
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TcCIcE1hr8?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TcCIcE1hr8?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Pâte
 

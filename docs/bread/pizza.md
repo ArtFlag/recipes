@@ -35,7 +35,7 @@ If dry yeast, divide fresh yeast value by 2
     creating tension and let sit at room temp (19-22c) for at least 4-6h.
 1. Shape and bake, grill at 250/280, no fan, top shelve, on a hot stone roughly 6-7 minutes:
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EI4RoemHe5M?start=1532" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EI4RoemHe5M?start=1532" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 Recommended tomato: san marzano.
 

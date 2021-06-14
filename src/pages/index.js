@@ -124,6 +124,16 @@ function Home() {
             >
               Bread
             </Link>
+            <Link
+              className={clsx(
+                "button button--outline button--secondary button--lg",
+                styles.getStarted,
+                styles.button
+              )}
+              to={useBaseUrl("docs/cocktails/pisco-sour")}
+            >
+              Cocktails
+            </Link>
           </div>
         </div>
       </header>

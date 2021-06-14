@@ -65,3 +65,7 @@
   width: 100%;
   height: 100%;
 }
+
+.buttons_src-pages-{
+  flex-wrap: wrap-reverse;
+}

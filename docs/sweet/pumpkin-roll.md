@@ -2,7 +2,7 @@
 title: Pumpkin roll
 ---
 
--   Baking pan/tray: 33cm \* 45 cm
+-   Baking pan/tray: 33 cm x  45 cm
 -   Baking powder: 1/2 tsp
 -   Baking soda: 1/2 tsp
 -   Butter (soft): 84g

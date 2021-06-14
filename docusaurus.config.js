@@ -30,7 +30,7 @@ module.exports = {
         {
           to: 'docs/bread/pain',
           activeBasePath: 'docs',
-          label: 'Pain',
+          label: 'Bread',
           position: 'left',
         },
         {

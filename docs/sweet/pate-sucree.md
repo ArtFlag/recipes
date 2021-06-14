@@ -16,7 +16,7 @@ Pâte :
 - Poudre de vanille : 1 pointe de couteau
 
 Dorure :
-- 1 jaune d’œuf
+- 1 jaune d'œuf
 - 4gr de crème liquide
 
 1. Sortir le beurre 1-2h avant.
