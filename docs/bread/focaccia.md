@@ -5,7 +5,7 @@ title: Focaccia
 ## Baker's yeast
 
 - Flour: 440g  70% AP + 30% Bread flour
-- Olive oil: 50g
+- Olive oil: 15g
 - Salt: 5g
 - Instant yeast: 5g
 - Water: 375g (85%)
