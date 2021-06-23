@@ -6,7 +6,7 @@ title: Amaretto sour
 
 - 2 oz / 60ml Amaretto
 - 1 oz / 30ml of lemon juice
-- 1/4 oz simple syrup
+- 1/4 oz simple syrup or less
 - bitters
 - Egg white : 0.5oz / half an egg white.
 
@@ -17,11 +17,13 @@ title: Amaretto sour
 
 ## With bourbon
 
-- 1½ oz/45 ml Amaretto
-- 15mL Bourbon Whiskey
-- 30mL Fresh Lemon Juice
-- 10mL Sugar Syrup (1:1)
-- 1/2 an Egg White
+- 1 1/2 oz amaretto liqueur
+- 3/4 oz bourbon or your favorite whiskey
+- 1 oz fresh lemon juice
+- 0.3 oz sugar syrup (1:1)
+- 1/2 oz egg white
+- dash of bitters (Angostura or orange)
+- Garnish: lemon twist and pitted black cherry (optional)
 
 1. Separate the egg white from the yolk and add half to your shaker
 2. Add a single cube of ice and shake to emulsify the egg (this is called a 'dry shake')
