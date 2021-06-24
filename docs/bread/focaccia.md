@@ -4,11 +4,11 @@ title: Focaccia
 
 ## Baker's yeast
 
-- Flour: 440g  70% AP + 30% Bread flour
+- Flour: 440g 40% AP + 60% Bread flour
 - Olive oil: 15g
 - Salt: 5g
 - Instant yeast: 5g
-- Water: 375g (85%)
+- Water: 330g (75%)
 
 1. Mix everything.
 1. Rest 15 minutes. (45 with sourdough starter).
@@ -33,11 +33,11 @@ title: Focaccia
 
 ## Sourdough
 
-- Flour: 440g  70% AP + 30% Bread flour
-- Olive oil: 50g
+- Flour: 440g 40% AP + 60% Bread flourr
+- Olive oil: 15g
 - Salt: 5g
 - Sourdough starter: 75g
-- Water: 350g (79%)
+- Water: 330g (75%)
 
 1. Mix everything.
 1. Rest 45 minutes.
