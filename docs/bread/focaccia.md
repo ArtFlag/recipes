@@ -33,7 +33,7 @@ title: Focaccia
 
 ## Sourdough
 
-- Flour: 440g 40% AP + 60% Bread flourr
+- Flour: 440g 40% AP  (176g) + 60% Bread flour (264g)
 - Olive oil: 15g
 - Salt: 5g
 - Sourdough starter: 75g
