@@ -33,9 +33,11 @@ Tous les ingredients doivent etre a temp ambiante.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5d9eUgVhRn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Source](https://www.enviedebienmanger.fr/fiche-recette/recette-brioche-pur-beurre)
+
 - 250 g de Beurre gastronomique doux (+30 g pour beurrer les moules)
 - 10 cl de Lait
-- 500 g de farine T45 + 100 pour le levain
+- 500 g de farine T45
 - 18 g de levure fraîche (ou 9g levure seche)
 - 100 g de sucre
 - 4 oeufs
@@ -56,13 +58,14 @@ Tous les ingredients doivent etre a temp ambiante.
 1. Placez le crochet sur votre robot et démarrez le pétrissage en vitesse 1 pendant 5 minutes.
   Après ce délai, poursuivez l'opération de pétrissage en vitesse 2 pendant 10 minutes.
 1. Progressivement, incorporez le beurre mou coupé en morceaux tout en laissant
-  tourner le robot. Pétrissez à nouveau pendant 15 à 20 minutes.
+  tourner le robot. Continuez a pétrir pendant 15 à 20 minutes.
 1. Vous pouvez stopper le robot lorsque la pâte se découle des bords de la cuve. La pâte doit alors être bien
   souple, élastique et ne pas coller aux mains.
 1. Otez le crochet et couvrez votre cuve avec un linge humide. Laissez la pâte lever pendant 1h30 à
   2h selon la température ambiante de la pièce.
-1. Farinez légèrement votre plan de travail puis récupérez la pâte. Abaissez-la grossièrement avec votre
-  main et donnez deux rabats dans un sens puis deux nouveaux rabats dans l'autre sens.
+1. Farinez légèrement votre plan de travail puis récupérez la pâte.
+   Dégazez grossièrement et donnez deux rabats dans un
+   sens puis deux nouveaux rabats dans l'autre sens.
 1. Placez la pâte dans un saladier et recouvrez ce dernier de film alimentaire.
 1. Disposez la pâte au réfrigérateur pour une durée de 8 à 16 heures.
 
