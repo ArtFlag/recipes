@@ -5,11 +5,11 @@ title: Cookies
 Pour environ 10 pièces:
 
 - Beurre demi-sel: 125g
-- Chocolat noir: 150g
+- Chocolat noir: 130g
 - Farine blanche: 200g  - Farine forte pour plus de chew. Farine standard pour cookie normal.
 - Levure chimique: 1 càc
 - Œuf: 1
-- Sucre cassonade: 100g
+- Sucre cassonade: 90g
 
 1. Coupez le chocolat au couteau pour en faire des pépites.
 1. Mettez le beurre mou et le sucre dans un saladier.
@@ -23,5 +23,5 @@ Pour environ 10 pièces:
 1. Préchauffez votre four à 150°C.
 1. Formez des boules de pâtes à l'aide d'une cuillère à glace et posez-les sur une plaque de cuisson.
 1. Ajoutez le reste des pépites de chocolat sur chaque boule de pâte.
-1. Enfournez et cuisez 15 minutes.
+1. Enfournez et cuisez 16-17 minutes.
 1. Sortez-les du four et posez-les sur une grille pour les refroidir.
