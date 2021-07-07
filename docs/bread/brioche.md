@@ -35,7 +35,7 @@ Tous les ingredients doivent etre a temp ambiante.
 
 [Source](https://www.enviedebienmanger.fr/fiche-recette/recette-brioche-pur-beurre)
 
-- 250 g de Beurre gastronomique doux (+30 g pour beurrer les moules)
+- 230 g de Beurre gastronomique doux (+10 g pour beurrer les moules)
 - 10 cl de Lait
 - 500 g de farine T45
 - 18 g de levure fraîche (ou 9g levure seche)
@@ -71,9 +71,7 @@ Tous les ingredients doivent etre a temp ambiante.
 
 ### Mise en forme et seconde levée
 
-1. Séparez la pâte en deux et réservez l'autre moitié au frais.
-   Vous allez ainsi pouvoir préparer une brioche (l'autre moitié servira pour la préparation d'une seconde brioche).
-1. Votre pâte a doublé de volume et, étant froide, celle-ci est plus facile à travailler.
+1. Séparez la pâte en deux et réservez l'autre moitié au frais. Votre pâte a doublé de volume.
 1. Récupérer votre pâte sur votre plan de travail légèrement fariné.
 1. Donner un tout simple: Abaissez la pâte en rectangle d'une largeur équivalente à la
    moitié de la longueur puis repliez-la en 3.
@@ -96,3 +94,7 @@ Tous les ingredients doivent etre a temp ambiante.
 1. Enfournez vos brioches et laissez cuire pendant 40 minutes pour une brioche familiale et 20 minutes pour des
    brioches individuelles. N'oubliez pas de surveiller la coloration.
 1. Laissez refroidir sur une grille.
+
+## Tour simple et double
+
+![tour simple et double](/img/tour-simple-double.png)
