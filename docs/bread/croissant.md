@@ -4,7 +4,7 @@ title: Croissant
 
 :::note
 Pour le tourage, il faut du beurre de tourage.
-N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse saturée élevées.
+N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasses saturées élevées et 82% minimum.
 
 **Exemple:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique, butter vom Fass...
 :::
@@ -73,40 +73,37 @@ Beurre de tourage: 125-130g (1/3 du poids du paton).
 
 ## Recette 2
 
-[source](https://rockthebretzel.com)
-
-Pour 16 à 18 croissants :
+Pour 10 - 12 croissants.
 
 Pour la détrempe :
 
-- 500 g de farine T45 gruau
-- 115 g de lait
-- 115 g d'eau
-- 75 g de beurre revenu à température ambiante
-- 75 g de sucre
-- 11 g de sel
-- 20 g de levure fraîche boulangère
+- Beurre: 100g
+- Eau: 140g
+- Farine T45: 500g
+- Lait: 80g
+- Levure seche: 10g
+- Sel: 11g
+- Sucre: 60g
 
 Pour le beurre de tourage :
 
-- 250 g de beurre (sec, de types AOC Poitou-Charentes)
+- 250 g de beurre (82% minimum, sec, de types AOC Poitou-Charentes)
 
 ### Détrempe
 
-1. Mélanger la farine avec le sucre et le sel. Ajouter le lait, l'eau et le beurre coupé en petits dès.
-   Emietter la levure par-dessus.
-1. Mélanger au robot pendant 5 minutes à vitesse 1 puis continuer 5 min à vitesse 2. La pâte doit
+1. Ajouter le lait et l'eau dans la cuve et tout le reste des ingredients.
+1. Mélanger au robot pendant 8 minutes à vitesse 1 puis continuer 5 min à vitesse 2. La pâte doit
    se décoller des parois de la cuve.
 1. Bouler la pâte et laisser reposer à température ambiante (ou à côté d'une source de chaleur)
    pendant 30 min au minimum. Une fois la pâte bien levée, la dégazer, et la mettre au frais pour 30 min à 1h.
 
-La détrempe ne doit pas developper de gluten.
+La détrempe ne doit pas developper trop de gluten.
 
 Pour le beurre de tourage :
 
 - Plier une feuille de papier sulfurisé en deux puis en trois afin de former un carré.
 - Déposer le beurre au centre du carré, rabattre les côtés de la feuille de papier sulfurisé et étaler le
-  beurre (faire un carré d'environ 15 x 15 cm).
+  beurre en 17x17cm
 - Remettre au frais pour 30 min au minimum.
 
 Pour le tourage :
@@ -114,32 +111,28 @@ Pour le tourage :
 Il faut travailler vite.
 
 1. Sortir la détrempe et le beurre (ils doivent être à la même température et de la même texture).
-1. Lorsque les 2 elements sont a la meme température, étalez la détrempe afin de lui donner des oreilles et y déposer le beurre comme le schéma suivant. Replier les oreilles sur le beurre, attention il ne faut pas superposer la pâte de la détrempe.
-
-   ![Croissant](/img/croissant1.png)
-1. Remettre au frais pendant environ 15 min (facultatif).
-1. Etaler la pâte dans la longueur et la plier en porte feuille (lui donner un tour double).
+1. La rouler en 20cm x 34cm.
+1. Lorsque les 2 elements sont a la meme température, mettre le beurre au milieu de la detrempe
+   et plier la detrempe dessus.
+1. Couper les bords qui n'ont pas de beurre.
+1. Rouler la pate dans le sens de la soudure pour atteindre 25x55cm.
+1. Donner un tour simple en essayant bien la farine.
 
    ![Croissants](/img/croissant3.png)
-1. L'étaler à nouveau dans le sens de la longueur et donner un tour simple.
-
-   ![Croissant](/img/croissant3.png)
-1. Filmer et laisser reposer au frais pour 30 min au minimum.
+1. Repos 1 heure.
+1. L'étaler à nouveau dans le sens de la longueur pour atteindre 25x55cm et donner un
+   tour double en essayant bien la farine.
+1. Filmer et laisser reposer au frais pour 1h.
 
 ### Façonnage
 
-1. Etaler la pâte en un rectangle 60 x 40 cm et le tailler en 2 bandes de 20 x 60 cm.
-   Détailler les croissants en suivant le schéma suivant :
-
-   ![Façonnage croissants](/img/croissant4.png)
+1. Etaler la pâte en un rectangle 58 x 26 cm.
+1. Couper les bords.
+1. Détailler les croissants en 9cm a la base et 26cm de long.
+1. Détailler les pains au chocolat en 8cm x 12cm
 1. Etirer la pointe de chaque triangle de sorte à l'allonger un peu puis faire une entaille sur la base du triangle.
-
-   ![Façonnage croissants](/img/croissant5.jpg)
-1. Ecarter un peu le bas pour former un V à l'envers, et rouler le croissant jusqu'au bout.
-   (Si vous avez des chutes c'est là que vous pourrez les insérer dans la pâte avant de rouler le croissant).
 1. Déposer les croissants sur une plaque de cuisson (la pointe doit être en dessous) et les aplatir
    légèrement.
-1. Dorer à l'œuf battu sans en mettre sur le côté du bord coupé.
 1. Laisser pousser à proximité d'une source de chaleur (ou dans un four éteint avec une casserole
    d'eau chaude) jusqu'à ce qu'ils doublent de volume (entre 1 h et 2 h).
-1. Dorer à nouveau, et enfourner pendant environ 15 min dans un four préchauffé à 190 °C (chaleur ventilée).
+1. Dorer, et enfourner pendant environ 5 min à 220 °C et 12 minutes a 180c (chaleur ventilée).
