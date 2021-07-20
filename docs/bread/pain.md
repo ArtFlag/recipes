@@ -91,15 +91,15 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          All purpose: 450g
+          Caputto 13-14%: 400g
         </li>
         <li>
-          Whole-grain: 50g
+          Whole-grain: 100g
         </li>
       </ul>
     </td>
     <td>60g</td>
-    <td>340g (68%)</td>
+    <td>400g (80%)</td>
     <td>10g</td>
     <td>
       <ul>
