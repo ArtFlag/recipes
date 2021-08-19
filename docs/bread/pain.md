@@ -133,6 +133,23 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          T55 biocoop: 440g
+        </li>
+        <li>
+          Seigle complete biocoop: 60g
+        </li>
+      </ul>
+    </td>
+    <td>80g</td>
+    <td>320g (64%)</td>
+    <td>11g</td>
+    <td>
+    </td>
+  </tr>
 </tbody>
 </table>
 
