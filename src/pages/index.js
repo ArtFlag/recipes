@@ -75,6 +75,10 @@ const shortcuts_cocktails = {
       id: "docs/cocktails/pisco-sour",
       title: "Pisco sour",
     },
+    {
+      id: "docs/cocktails/gin-basil-smash",
+      title: "Gin basil smash",
+    },
   ],
 };
 
