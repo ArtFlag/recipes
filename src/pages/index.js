@@ -64,6 +64,20 @@ const shortcuts_savoury = {
   ],
 };
 
+const shortcuts_cocktails = {
+  title: "Cocktails",
+  links: [
+    {
+      id: "docs/cocktails/amaretto-sour",
+      title: "Amaretto sour",
+    },
+    {
+      id: "docs/cocktails/pisco-sour",
+      title: "Pisco sour",
+    },
+  ],
+};
+
 function Shortcuts({contents}) {
   return (
     <div className="container shortcuts">
@@ -130,7 +144,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl("docs/cocktails/pisco-sour")}
+              to={useBaseUrl("docs/cocktails/amaretto-sour")}
             >
               Cocktails
             </Link>
@@ -142,6 +156,7 @@ function Home() {
           <Shortcuts contents={shortcuts_savoury} />
           <Shortcuts contents={shortcuts_sweet} />
           <Shortcuts contents={shortcuts_bread} />
+          <Shortcuts contents={shortcuts_cocktails} />
         </div>
       </main>
     </Layout>

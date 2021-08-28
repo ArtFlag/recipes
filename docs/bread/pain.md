@@ -99,7 +99,7 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
     <td>60g</td>
-    <td>400g (80%)</td>
+    <td>390g (78%)</td>
     <td>10g</td>
     <td>
       <ul>
@@ -145,7 +145,7 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
     <td>80g</td>
-    <td>320g (64%)</td>
+    <td>315g (63%)</td>
     <td>11g</td>
     <td>
     </td>
