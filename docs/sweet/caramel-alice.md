@@ -2,8 +2,7 @@
 title: Caramel au beurre salé d'Alice
 ---
 
--   250g de beurre salé à la fleur de sel de guérande (à la fleur de
-    sel)
+-   250g de beurre salé à la fleur de sel de guérande
 -   240 g de sucre semoule
 -   25 cl de crème fraîche liquide entière.
 
