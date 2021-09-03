@@ -76,27 +76,31 @@ const shortcuts_cocktails = {
       title: "Pisco sour",
     },
     {
+      id: "docs/cocktails/chicha-sour",
+      title: "Chicha sour",
+    },
+    {
       id: "docs/cocktails/gin-basil-smash",
       title: "Gin basil smash",
     },
   ],
 };
 
-function Shortcuts({contents}) {
+function Shortcuts({ contents }) {
   return (
     <div className="container shortcuts">
-        <React.Fragment>
-          <h2>{contents.title}</h2>
-          <div>
-            <ul>
-              {contents.links.map((link, index) => (
-                <li key={index}>
-                  <Link to={useBaseUrl(link.id)}>{link.title}</Link>
-                </li>
-              ))}
-            </ul>
+      <React.Fragment>
+        <h2>{contents.title}</h2>
+        <div>
+          <ul>
+            {contents.links.map((link, index) => (
+              <li key={index}>
+                <Link to={useBaseUrl(link.id)}>{link.title}</Link>
+              </li>
+            ))}
+          </ul>
         </div>
-        </React.Fragment>
+      </React.Fragment>
     </div>
   );
 }
