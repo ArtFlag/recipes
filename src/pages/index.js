@@ -21,6 +21,10 @@ const shortcuts_bread = {
       id: "docs/bread/tangzhon-milk-bread",
       title: "Tangzhon milk bread",
     },
+    {
+      id: "docs/bread/cinnamon-buns",
+      title: "Cinnamon buns",
+    },
   ],
 };
 
