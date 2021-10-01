@@ -99,7 +99,7 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
     <td>60g</td>
-    <td>390g (78%)</td>
+    <td>380g (76%)</td>
     <td>10g</td>
     <td>
       <ul>
