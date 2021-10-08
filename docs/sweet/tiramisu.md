@@ -46,3 +46,5 @@ Un 40 aine:
 1.  Laisse reposer minimum 12H au frigo.
 
 Avant de servir, saupoudrer généreusement de cacao.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1AIdNFscBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
