@@ -72,6 +72,10 @@ const shortcuts_cocktails = {
   title: "Cocktails",
   links: [
     {
+      id: "docs/cocktails/cafe",
+      title: "Café",
+    },
+    {
       id: "docs/cocktails/amaretto-sour",
       title: "Amaretto sour",
     },
