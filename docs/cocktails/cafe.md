@@ -2,7 +2,9 @@
 title: Café
 ---
 
-En général, 60-70g par litre d'eau.
+## French press / Drip
+
+**Ratio: 1:16**
 
 | Contenant | Cafe | Eau  |
 | --------- | ---- | ---- |
