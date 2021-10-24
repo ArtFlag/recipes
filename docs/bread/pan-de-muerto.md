@@ -8,16 +8,15 @@ title: Pan de muerto
 
 ## Ingredients
 
-- Bread Flour: 500 gram / 4 cups
-- Sugar: 3/4 cups
-- Milk: 1/2 cup - lukewarm
-- Dry yeast: 10-11g
-- Eggs: 3
-- Egg yolk: 3
-- Butter: 150 gram
-- (Optional) Orange water: 2 - 3 tsp
-- Orange zest: 2 oranges
-- Salt: 3/4 cups
+- farine: 500g
+- sucre: 100g
+- lait: 250 ml
+- cac de levure: 12g
+- 4 oeufs
+- 1/2 c. à café de sel
+- 1 c. à soupe de zeste d'orange
+- 2 c. à café de fleur d'oranger
+- 200 g de beurre froid coupé en dés
 
 ## Method
 
@@ -28,17 +27,16 @@ title: Pan de muerto
    1. Cover and let rest in a warm location for 20 minutes.
 
 1. Prepare the orange zest.
-1. Dump the flour on the counter top and create a hole in the center.
-1. Spread the sugar around the flour.
-1. Spear the salt around the sugar.
+1. Dump the flour in a bowl.
+1. Add the sugar and salt.
 1. Dump the yeast in the center of the flour.
 1. Add one egg to the yeast and mix well before adding the next one.
-1. Start mixing the flour to the yeast.
 1. When the flour is integrated, add the butter piece by piece.
 1. When the butter is integrated, add the orange zest.
 1. Keep on working the dough to give it strength. Try not to add flour.
    The dough is ready when it doesn't stick to your hands or to the countertop too much and the window pane test passes.
-1. Add a bit of oil to a large bowl and dump the dough in the bowl. Add a bit of oil on top of the dough. Cover it.
+1. Add a bit of oil to a large bowl and dump the dough in the bowl. Add a bit of oil on top of the dough.
+   Cover it.
 1. Let rest until doubled in size. (1h-2h)
 
 ## Buns
