@@ -15,18 +15,6 @@ title: Amaretto sour
 1. Double strain into glass.
 1. Garnish with agostura bitters drop.
 
-## Custom - More sour
-
-- 2 oz / 60ml Amaretto
-- 0.8 oz / 30ml of lemon juice
-- 0.3 oz simple syrup or less
-- A dash of campari
-- bitters
-
-1. Add all ingredients and ice cubes and shake well.
-1. Add ice cubes into glass.
-1. Double strain into glass.
-
 ## With bourbon
 
 - 1 1/2 oz amaretto liqueur
