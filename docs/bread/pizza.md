@@ -29,7 +29,7 @@ If dry yeast, divide fresh yeast value by 2
 1. Work the dough on the counter-top for a while without tearing it.
 1. When the dough is strong, shape it into a boule, the temperature
     inside the boule should be around 22-25c.
-1. Leave at least for 1-2 hours covered with a damp cloth then brush with olive oil and put
+1. Leave covered with a damp cloth until double in size or almost then brush with olive oil and put
    in an airtight container for 1-3 days in the fridge.
 1. Take out from fridge and when warn enough cut in equal parts and make boules,
     creating tension and let sit at room temp (19-22c) for at least 4-6h.
@@ -64,4 +64,3 @@ Recommended tomato: san marzano.
 
 - [Video 1](https://www.youtube.com/watch?v=PntHJgueOtQ)
 - [Video 2: etalage](https://www.youtube.com/watch?v=XQj_P6kOa-k)
-
