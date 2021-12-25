@@ -64,3 +64,31 @@ Recommended tomato: san marzano.
 
 - [Video 1](https://www.youtube.com/watch?v=PntHJgueOtQ)
 - [Video 2: etalage](https://www.youtube.com/watch?v=XQj_P6kOa-k)
+
+## Poolish neapolitan
+
+### Poolish
+
+1. Mix:
+
+   - Water: 200g
+   - Honey: 5g
+   - Active dry yeast: 5g
+   - 00 Flour: 200g
+
+1. Rest for 15 minutes.
+1. Cover and rest 1 hour at room temp.
+1. Put in the fridge for 16-24 hours.
+
+### Pizza dough
+
+1. Leave the poolish 1 hour at room temp.
+1. Mix poolish and 300g of strong flour.
+1. Mix 300g of water and 20g of salt until dissolved.
+1. Add 200g of 00 flour. to the poolish/flour bowl.
+1. Add the slated water and mix well for 10 minutes and develop gluten.
+1. Let rest 15 minutes and rework the gluten until the dough is smooth.
+1. Add a bit of olive oil on top and leave covered for 1 hour at room temp.
+
+
+[Video](https://www.youtube.com/watch?v=OjsCEJ8CWlg)
