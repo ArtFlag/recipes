@@ -5,6 +5,7 @@ title: Gougère
 - Beurre: 75g
 - Comté rapé: 200g
 - Eau: 250ml
+- Sel fin: 7-8g / 1 cac
 - Farine tamisée: 150g (dont 10g the complete, si voulu)
 - Oeufs: 3
 
@@ -14,7 +15,7 @@ title: Gougère
 
 3. Couper le beurre en petit morceau.
 
-4. Dans une casserole, verser 250ml d'eau. Ajouter 1 cac de sel fin et
+4. Dans une casserole, verser 250ml d'eau. Ajouter 1 cac (7g) de sel fin et
     le beurre et porter a ebullition.
 
 5. Des que l'eau est a ebullition, ajouter la farine d'un coup et
