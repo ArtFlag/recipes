@@ -4,13 +4,22 @@ title: Tortillas
 
 Yields 8 small tortillas.
 
-- 195g, 1 ¾ cups all-purpose flour (alnatura 550)
-- 4g, ¾ teaspoon salt
-- 4g, ¼ teaspoon baking powder
-- 47g, ¼ cup vegetable shortening / Biskin Planzenfett
-- 118g, ½ cup hot water
+|  Ingredient   | Proportion | Example 200g of flou |
+| ------------- | ---------- | -------------------- |
+| Flour         | 100%       | 200g                 |
+| Water         | 60%        | 120g                 |
+| Baking powder | 2-4%       | 8g (4%)              |
+| Sel           | 2%         | 5g (2%)              |
+| Shortening    | 25%        | 50g                  |
 
-Split into 75g balls for big ones, 50g for small ones.
+Split into 80g balls for big ones, 50g for small ones.
+
+1. Mix dry ingredients.
+1. Work then shortening into the flour.
+1. Add warm water.
+1. Knead on counter until smooth.
+1. Let rest 20min-1h.
+1. Separate into smaller balls and bake at high heat 20 minutes later. 30s-1min on each side.
 
 ### With Tangzhong
 
