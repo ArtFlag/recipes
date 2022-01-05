@@ -20,6 +20,7 @@ Split into 80g balls for big ones, 50g for small ones.
 1. Knead on counter until smooth.
 1. Let rest 20min-1h.
 1. Separate into smaller balls and bake at high heat 20 minutes later. 30s-1min on each side.
+1. Let cool down for 1-2 minutes on cooling rack and put in a zip bag.
 
 ### With Tangzhong
 
