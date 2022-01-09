@@ -2,15 +2,15 @@
 title: Tortillas
 ---
 
-Yields 8 small tortillas.
+Yields 5 large tortillas, 8 small ones.
 
 |  Ingredient   | Proportion | Example 200g of flou |
 | ------------- | ---------- | -------------------- |
 | Flour         | 100%       | 200g                 |
-| Water         | 60%        | 120g                 |
+| Water         | 57%        | 112g                 |
 | Baking powder | 2-4%       | 8g (4%)              |
 | Sel           | 2%         | 5g (2%)              |
-| Shortening    | 25%        | 50g                  |
+| Shortening    | 20%        | 40g                  |
 
 Split into 80g balls for big ones, 50g for small ones.
 
