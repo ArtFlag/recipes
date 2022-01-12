@@ -9,67 +9,9 @@ N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse
 **Example:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique, butter vom Fass...
 :::
 
-## Recette 1
-
-Donne 6 croissants.
-
-### Détrempe
-
-- Eau: 50g
-- Farine: T45 de gruau tamisée: 500g (ou melange T45 + T65  50/50)
-- Lait froid: 65g
-- Levure fraiche froide: 23g (sèche: 10g)
-- Eau froide: 145g
-- Oeuf: 10g
-- Sel: 8g
-- Sucre: 60g ou miel: 15g
-- Beurre mou: 115g
-
-1. Tout mélanger et pétrir 8 minutes en vitesse 1.
-1. Vérifier si la pate a bien developer son gluten, si ce n'est pas le cas, continuer a petrir a la main donnant de rabat. La pate ne doit pas dépasser 24c.
-1. Mise en forme, couvrir et détente pendant 20 minutes.
-1. Abaisser en rectangle 30 x 17cm x 3mm
-1. Laisser pointer 10 heures au frigo bien couvert.
-
-### Tourage
-
-Beurre de tourage: 250g (1/3 du poids du paton).
-
-1. Le beurre doit faire la moitié de la taille de la detrempe. Faire une poche de 20x20cm en papier
-   four qui va recevoir le beurre.
-1. Mettre le beurre froid dans la poche.
-1. En tappant avec un rouleau sur le beurre froid, abaisser le beurre dans le papier four plié.
-   Mettre au froid 5-10 minutes.
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/dLgi6kuX0B0?start=484" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-1. Sortir le beurre du frigo 5 minutes avant de tourer. S'il casse, c'est qu'il est trop froid.
-   Attendre qu'il se rechauffe pour devenir plus souple.
-1. Sortir la détrempe du frigo. Etaler a 20x40cm.
-1. Mettre le beurre au centre de la pate et replier la pate sur le beurre. La pate ne doit pas se superposer.
-1. Abaisser à 1-3mm d'epaisseur uniquement dans le sens de la soudure.
-1. Donner un tour double. Mettre 30 minutes ou plus au frigo.
-1. Sortir la pate et mettre la soudure à droite / feuillets face à soi-meme.
-1. Rabaisser à 1-3mm pour atteindre 50cm de long.
-1. Donner un tour simple. Mettre 30min-1h minutes ou plus au frigo.
-1. Abaisser encore pour atteindre 4-5mm d'epaisseur.
-1. Couper les bords pour garder 30x32cm et avoir des bords bien droits.
-1. Couper chaque paton sur la diagonale pour des croissants, ou en rectangle pour des pains au chocolats
-
-   ![coupe](/img/coupe.png)
-
-1. Tirer un peu sur les triangles et les enrouler vers la pointe. Il faut aller assez vite.
-1. Mettre les croissant sur une plaque de cuisson.
-1. Laisser fermenter dans four froid 2.5h à 27c. Ne pas depasser les 30c snon le beurre fond.
-1. Dorer.
-1. Enfourner à 160c, ventilé, pendant 14-18 minutes.
-1. Laisser refroidir sur grille.
-
-## Recette 2
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbdAq3B8Pzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pour 10 - 12 croissants.
+Pour 10 - 12 croissants
 
 Pour la détrempe :
 
@@ -82,6 +24,7 @@ Pour la détrempe :
 - Lait: 90g
 
 Pour le tourage:
+
 - Beurre non salé (82% de matiere grass): 250g
 
 ### Détrempe
