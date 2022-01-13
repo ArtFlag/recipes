@@ -9,10 +9,13 @@ title: Pain au levain
 | Levain     | 10-20%     | 80g (16%)                   |
 | Sel        | 2%         | 10g (2%)                    |
 
-**Note:** Plus la farine a de proteine, plus il est possible d'hydrater.
+:::note
+Plus la farine a de protéine, plus il est possible d'hydrater.
+
 Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de
 farine avec un pourcentage d'eau et laisser autolyser. 1h après,
 vérifier si la pâte s'étire bien, ou si elle casse trop rapidement.
+:::
 
 Pour faire un levain, voir [Levain](levain.md).
 
@@ -29,85 +32,41 @@ Pour faire un levain, voir [Levain](levain.md).
   </tr>
 </thead>
 <tbody>
-  <tr>
+<tr>
     <td>
       <ul>
         <li>
-          All-purpose: 400g
+          Alnatura 11%: 470g
         </li>
         <li>
-          Whole-grain: 100g
+          Whole-grain: 30g
         </li>
       </ul>
     </td>
-    <td>90g</td>
-    <td>320g (64%)</td>
-    <td>12g</td>
-    <td></td>
-  </tr>
-  <tr>
+    <td>80g</td>
+    <td>325g (65%)</td>
+    <td>10g</td>
     <td>
-      <ul>
-        <li>T550 rewe: 400g</li>
-        <li>T1050 Alnatura: 100g</li>
-      </ul>
     </td>
-    <td>60g</td>
-    <td>325 (65%)</td>
-    <td>12g</td>
-    <td>Walnuts: 55g</td>
   </tr>
   <tr>
     <td>
       <ul>
         <li>
-          All-purpose: 12% protein: 250g
-        </li>
-        <li>Dinkelmehl: 250g</li>
-      </ul>
-    </td>
-    <td>50g</td>
-    <td>340g (68%)</td>
-    <td>11g</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>
-          T550 khati: 900g
+          Caputto 13-14%: 470g
         </li>
         <li>
-          Vollkorn mehl: 100g
+          Whole-grain: 30g
         </li>
       </ul>
     </td>
-    <td>120g</td>
-    <td>700g (70%)</td>
-    <td>20g</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>
-          Caputto 13-14%: 400g
-        </li>
-        <li>
-          Whole-grain: 100g
-        </li>
-      </ul>
-    </td>
-    <td>60g</td>
-    <td>380g (76%)</td>
+    <td>80g</td>
+    <td>350g (70%)</td>
     <td>10g</td>
     <td>
       <ul>
         <li>
-          Grated chedar: 110g
-        </li>
-        <li>
-          Jalapeno: 60g
+          Walnuts: 50g
         </li>
       </ul>
     </td>
@@ -168,12 +127,10 @@ Pour faire un levain, voir [Levain](levain.md).
 
 Pour 1 pain:
 
-1.  Nourrir le levain et attendre qu'il ait doublé de volume au moins. Ca prend environ 3-8h.
+1.  Nourrir le levain et attendre qu'il ait doublé de volume, au moins.
 1.  Dans un grand saladier, melanger la farine et le sel.
-1.  Chauffer l'eau à 30-35c et hors du feu, ajouter le levain dedans et le dissoudre.
-1.  Ajouter le levain+eau à la farine+sel et bien melanger.
-1.  Prelever un morceau de pâte et le mettre de coté dans un verre à shot
-    et marquer le niveau. Ca sert a mesurer la fermentation.
+1.  Mettre le levain dans la quantité d'eau (tiède) voulue et le dissoudre.
+1.  Ajouter la farine+sel et bien melanger.
 1.  Laisser reposer 1h, couvert.
 
     Debut de la fermentation qui durera au total entre 3 et 9h, selon la temperature et la force du levain.
@@ -182,7 +139,7 @@ Pour 1 pain:
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hNzJLP61nnQ?start=271" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-1.  A ce moment, la pate doit s'etirer jusqu'a devenir comme un rideau sans se dechirer. Si ce n'est pas le cas, refaire un tire-plie ou 2.
+1.  A ce moment, la pate doit s'etirer jusqu'a devenir comme un rideau sans se dechirer. Si ce n'est pas le cas, refaire un tiré-plié ou 2.
 1.  Attendre que la pate ait atteint le volume souhaité dans le tableau au dessus.
 
 1.  Quand c'est fait, mise en forme et détente: mettre la pâte en boule en la raclant sur
