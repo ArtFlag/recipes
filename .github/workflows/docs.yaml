@@ -1,6 +1,8 @@
 name: CI
 
 on:
+  workflow_dispatch:
+    name: Manual deploy
   pull_request:
     branches: [master]
   push:
