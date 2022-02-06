@@ -4,13 +4,17 @@ title: Tortillas
 
 Yields 5 large tortillas, 8 small ones.
 
-|  Ingredient   | Proportion | Example 200g of flou |
-| ------------- | ---------- | -------------------- |
-| Flour         | 100%       | 200g                 |
-| Water         | 57%        | 112g                 |
-| Baking powder | 2-4%       | 8g (4%)              |
-| Sel           | 2%         | 5g (2%)              |
-| Shortening    | 20%        | 40g                  |
+|  Ingredient   | Proportion | Example 200g of flour |
+| ------------- | ---------- | --------------------- |
+| Flour         | 100%       | 200g                  |
+| Water         | 57%        | 112g                  |
+| Baking powder | 2-6%       | 8g (4%)               |
+| Sel           | 2%         | 5g (2%)               |
+| Shortening    | 25-30%     | 50g-60                |
+
+:::note
+Swap 5% of the flour for whole flour for added flavour. (10g for 200g)
+:::
 
 Split into 80g balls for big ones, 50g for small ones.
 
@@ -18,7 +22,7 @@ Split into 80g balls for big ones, 50g for small ones.
 1. Work then shortening into the flour.
 1. Add warm water.
 1. Knead on counter until smooth.
-1. Let rest 20min-1h.
+1. Let rest 20min and give a few stretch/folds if needed.
 1. Separate into smaller balls and bake at high heat 20 minutes later. 30s-1min on each side.
 1. Let cool down for 1-2 minutes on cooling rack and put in a zip bag.
 
