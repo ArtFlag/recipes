@@ -89,9 +89,9 @@ Oeuf: 1
 1. Filmer la galette et garder au frigo 2h - 1nuit.
 1. Sortir la galette et la retourner la galette sur le dos.
 1. Dorer à l'oeuf du centre vers l'exterieur.
-1. Frigo pour 30minutes.
+1. Frigo pour 30 minutes.
 1. Dorer à l'oeuf+creme liquide du centre vers l'exterieur.
-1. Elargir le trou au milieu
+1. Faire un trou large en plein milieu.
 1. Tracer les decorations.
 1. Faire des trous dans les decorations dans les 2 pates proche du bord et percer uniquement le dessus
    là où il ya la frangipane.
