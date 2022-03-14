@@ -29,6 +29,10 @@ const shortcuts_bread = {
       id: "docs/bread/croissant",
       title: "Croissants",
     },
+    {
+      id: "docs/bread/bagels",
+      title: "Bagels"
+    }
   ],
 };
 
