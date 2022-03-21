@@ -16,6 +16,10 @@ title: Café
 1 CAC = 8g de café fin
 :::
 
+:::note
+Jacobs coffee: 17g-410g (1:24) / 6min
+:::
+
 1. Chauffer l'eau a 85c.
 1. Mettre le cafe moulu moyen/gros dans la cafetiere. Ex: 30g
 1. Verser toute l'eau d'un coupo. Ex: 500g
