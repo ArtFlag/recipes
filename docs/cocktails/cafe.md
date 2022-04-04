@@ -13,7 +13,8 @@ title: Café
 | ½ Mug     | 12g         | 14          | 200g |
 
 :::note
-1 CAC = 8g de café fin
+- 1 CAC = 8g de café fin
+- 1/4 cup = 23g
 :::
 
 :::note
@@ -22,7 +23,7 @@ Jacobs coffee: 17g-410g (1:24) / 6min
 
 1. Chauffer l'eau a 85c.
 1. Mettre le cafe moulu moyen/gros dans la cafetiere. Ex: 30g
-1. Verser toute l'eau d'un coupo. Ex: 500g
+1. Verser toute l'eau d'un coup. Ex: 500g
 1. Bien mélanger le café et l'eau.
 1. Attendre environ 4-8 minutes selon la finesse du cafe moulu.
 1. Rabaissez doucement le piston.
