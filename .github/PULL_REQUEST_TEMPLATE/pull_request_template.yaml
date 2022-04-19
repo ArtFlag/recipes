@@ -1,0 +1,24 @@
+- type: textarea
+  attributes:
+    label: Operating System
+    description: What operating system are you using?
+    placeholder: "Example: macOS Big Sur"
+    value: operating system
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Checklist ✅
+    description:
+    options:
+      - label: Test
+        required: true
+      - label: The first paragraph of my page doesn't have line breaks (SEO meta description).
+        required: true
+      - label: I respected the line length limit of 90 characters per line.
+        required: true
+      - label: My pull request title starts with `update:`, `add:`, `fix:` or `delete:`
+        required: true
+- type: markdown
+  attributes:
+    value: "Thanks for completing our form!"
