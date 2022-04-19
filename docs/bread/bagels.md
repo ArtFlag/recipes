@@ -35,7 +35,7 @@ or
    though not necessarily doubled in bulk, 1 to 1 1/2 hours.
 1. Lightly grease two baking sheets, or line them with parchment and grease the parchment.
 1. Transfer the dough to a work surface. Divide it into balls of 70-90g. About 10 balls.
-1. Ball each piece. Place the balls on one of the prepared baking sheets. Cover the balls with plastic wrap, and let them rest for 30 minutes.
+1. Ball each piece. Place the balls on one of the prepared baking sheets. Cover the balls with plastic wrap, and let them rest for 30 minutes or up to 2 days in the fridge.
 1. While the dough is resting, prepare the water bath by heating the water (+brown sugar or barley malt syrup, and sugar) to a very gentle boil in a large, wide-diameter pot.
 1. Preheat your oven to 220°c.
 1. Use your index finger to poke a hole through the center of each ball, then twirl the dough on your finger to stretch the
