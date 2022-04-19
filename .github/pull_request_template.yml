@@ -1,3 +1,6 @@
+name: PR
+description: Test
+title: "Test: "
 - type: textarea
   attributes:
     label: Operating System
