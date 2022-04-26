@@ -46,7 +46,7 @@ title: Cinnamon buns
    <td>
       <ul>
       <li>Brown sugar: 200g</li>
-      <li>Butter (softened): 60g</li>
+      <li>Butter (softened): 70g</li>
       <li>Cinnamon: 17g</li>
       </ul>
    </td>
