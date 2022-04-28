@@ -1,4 +1,4 @@
-name: Workflow 1
+name: Build and publish
 
 on:
   workflow_dispatch:
@@ -15,9 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v3
         with:
-          node-version: "15.x"
+          node-version: "16.x"
       - name: Test Build
         run: |
           if [ -e yarn.lock ]; then
@@ -33,10 +33,10 @@ jobs:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: "15.x"
+          node-version: "16.x"
       - name: Build
         run: |
           if [ -e yarn.lock ]; then
