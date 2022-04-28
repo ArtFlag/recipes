@@ -2,8 +2,12 @@
 title: Whiskey sour
 ---
 
-- 2 ounces bourbon
+- 1.5 to 2 ounces bourbon
 - 3/4 ounces lemon juice
-- 3/4 ounces simple syrup
+- 3/4 ounces simple syrup or 1/2 demerara syrup
+- (optional) egg or auqafaba (1/2 ounce)
+- bitters
 
-Add all ingredients to a shaker with ice. Shake, then strain into a cocktail glass.
+1. Add all ingredients to a shaker. Shake for 10 seconds.
+1. Add ice and shake.
+1. Double strain into a cocktail glass.
