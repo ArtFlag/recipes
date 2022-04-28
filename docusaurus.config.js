@@ -16,28 +16,28 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/savoury/adjaruli',
-          activeBasePath: 'docs',
           label: 'Savoury',
           position: 'left',
+          type: 'doc',
+          docId: 'savoury/gougere'
         },
         {
-          to: 'docs/sweet/baklava-noix',
-          activeBasePath: 'docs',
           label: 'Sweet',
           position: 'left',
+          type: 'doc',
+          docId: 'sweet/cookies'
         },
         {
-          to: 'docs/bread/pain',
-          activeBasePath: 'docs',
           label: 'Bread',
           position: 'left',
+          type: 'doc',
+          docId: 'bread/brioche'
         },
         {
-          to: 'docs/cocktails/pisco-sour',
-          activeBasePath: 'docs',
           label: 'Cocktails',
-          position: 'left'
+          position: 'left',
+          type: 'doc',
+          docId: 'cocktails/pisco-sour'
         }
       ],
     },
