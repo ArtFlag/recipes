@@ -2,7 +2,6 @@ name: Build and publish
 
 on:
   workflow_dispatch:
-    name: Manual deploy
   pull_request:
     branches: [master]
   push:
