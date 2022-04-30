@@ -1,8 +1,6 @@
 # Recipes
 
-[![Checks](https://github.com/artflag/recipes/workflows/CI/badge.svg)](https://github.com/artflag/recipes/actions)
-
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/).
+[![Build and publish](https://github.com/ArtFlag/recipes/actions/workflows/docs.yaml/badge.svg)](https://github.com/ArtFlag/recipes/actions/workflows/docs.yaml)
 
 ## Installation
 

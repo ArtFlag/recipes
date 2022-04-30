@@ -1,8 +1,8 @@
 ---
-title: Whiskey sour
+title: Vodka sour
 ---
 
-- 1.5 to 2 ounces bourbon (Bulleit)
+- 1.5 to 2 ounces Vodka
 - 3/4 ounces lemon juice
 - 3/4 ounces simple syrup or 1/2 demerara syrup
 - (optional) egg or auqafaba (1/2 ounce)

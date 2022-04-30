@@ -10,6 +10,10 @@ const shortcuts_bread = {
   title: "Bread",
   links: [
     {
+      id: "docs/bread/kanelsnurrer",
+      title: "Kanelsnurrer",
+    },
+    {
       id: "docs/bread/pain",
       title: "Pain au levain",
     },
@@ -31,8 +35,8 @@ const shortcuts_bread = {
     },
     {
       id: "docs/bread/bagels",
-      title: "Bagels"
-    }
+      title: "Bagels",
+    },
   ],
 };
 
@@ -90,6 +94,14 @@ const shortcuts_cocktails = {
     {
       id: "docs/cocktails/pisco-sour",
       title: "Pisco sour",
+    },
+    {
+      id: "docs/cocktails/old-fashioned",
+      title: "Old fashioned",
+    },
+    {
+      id: "docs/cocktails/negroni",
+      title: "Negroni",
     },
     {
       id: "docs/cocktails/chicha-sour",

@@ -2,7 +2,7 @@
 title: Old fashioned
 ---
 
-- 2 ounces bourbon/rye/brandy/mezcal
+- 2 ounces bourbon/rye (Bulleit, Buffalo Trace) or brandy/mezcal
 - 1/4 ounce simple or demerara syrup
 - 2 to 4 dashes Angostura bitters
 
