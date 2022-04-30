@@ -104,7 +104,7 @@ const shortcuts_cocktails = {
 
 function Shortcuts({ contents }) {
   return (
-    <div className="container shortcuts">
+    <div className={styles.shortcutBlock}>
       <React.Fragment>
         <h2>{contents.title}</h2>
         <div>
@@ -176,7 +176,7 @@ function Home() {
         </div>
       </header>
       <main>
-        <div className="flex">
+        <div className={styles.flex}>
           <Shortcuts contents={shortcuts_savoury} />
           <Shortcuts contents={shortcuts_sweet} />
           <Shortcuts contents={shortcuts_bread} />

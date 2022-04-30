@@ -6,15 +6,14 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 2rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
-
 @media screen and (max-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1.5rem;
   }
 }
 
@@ -25,6 +24,14 @@
 
 .button {
   margin: 2px 8px;
+  background-color: var(--ifm-color-primary-light);
+  border-color: transparent;
+  color: #e7e7e7 !important;
+  font-weight: var(--ifm-font-weight-light);
+}
+.button:hover {
+  background-color: var(--ifm-color-primary-lighter);
+  border-color: var(--ifm-color-primary-light);
 }
 
 .features {
@@ -37,4 +44,28 @@
 .featureImage {
   height: 200px;
   width: 200px;
+}
+
+.shortcutBlock {
+  border: none;
+  border-radius: 10px;
+  margin: 30px;
+  margin: 20px 0px;
+  width: 300px;
+  padding: 1rem;
+}
+.shortcutBlock ul{
+  list-style: none;
+  padding:0;
+}
+.shortcutBlock li{
+  padding-bottom: 0.4rem;
+}
+
+.flex{
+  display: flex;
+  gap: 5px 0px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0px 40px;
 }

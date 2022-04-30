@@ -4,20 +4,20 @@ title: Kanelsnurrer
 
 **Dough**
 
-Milk (whole): 200 ml
-yeast: 7g (25g fresh)
-eggs: 2
-salt: 10g
-sugar: 30g
-cardamom or vanilla sugar: 1 tsp
-butter: 100-200g
-Strong Wheat flour: 500-600g
+- Milk (whole): 200 ml
+- Yeast: 7g (25g fresh)
+- Eggs: 2
+- Salt: 10g
+- Sugar: 30g
+- Cardamom or vanilla sugar: 1 tsp
+- Butter: 100-200g
+- Strong Wheat flour: 500-600g
 
 **Filling**
 
-soft butter: 150g-200g
-brown sugar: 200 g
-ground cinnamon: 3 tbsp
+- Soft butter: 150g-200g
+- Brown sugar: 200 g
+- Ground cinnamon: 3 tbsp
 
 **Glaze**
 

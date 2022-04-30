@@ -4,17 +4,24 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-
+ @font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto.ttf') format('truetype');
+}
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #3d7ce2;
+  --ifm-font-family-base: "Roboto";
+  --ifm-color-primary: #5681c5;
   --ifm-color-primary-dark: #164ea9;
   --ifm-color-primary-darker: #0b57d1;
   --ifm-color-primary-darkest: #032f76;
   --ifm-color-primary-light: #839fcd;
-  --ifm-color-primary-lighter: #5a91ea;
-  --ifm-color-primary-lightest: #80aaef;
+  --ifm-color-primary-lighter: #9eb5d9;
+  --ifm-color-primary-lightest: #b1c1db;
   --ifm-code-font-size: 95%;
+}
+h1,h2,h3,h4{
+  font-weight: var(--ifm-font-weight-light);
 }
 
 .docusaurus-highlight-code-line {
@@ -23,28 +30,14 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
-
-.shortcuts {
-  border: #c2c2c2 1px solid;
-  border-radius: 10px;
-  margin: 30px;
+.menu{
+  font-weight: var(--ifm-font-weight-light);
 }
-.flex{
-  display: flex;
-  gap: 5px 0px;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 0px 40px;
+.navbar,.navbar__item{
+  font-weight: var(--ifm-font-weight-light);
 }
-
-.shortcuts{
-  margin: 20px 0px;
-  width: 300px;
-}
-
-.shortcuts ul{
-  list-style-type: none;
-  padding-left: 0;
+.navbar__link--active{
+  font-weight: var(--ifm-font-weight-normal);
 }
 
 .video-container {
