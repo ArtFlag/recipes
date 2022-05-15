@@ -15,4 +15,5 @@ title: Quiche lorraine
     fromage.
 2.  Mélanger le lait, la crème, les œufs et le mettre le tout sur les
     lardons.
-3.  Enfourner 35-40 minutes à 180°.
+3.  Enfourner 40 minutes à 185°, etages inferieurs. Remonter
+    vers le milieu en fin de cuisson.
