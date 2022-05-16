@@ -44,11 +44,13 @@ Pour le beurre de tourage :
 
 ### Tourage
 
+La pate, en generale doit commencer a longueur = largeur x 2. Maintenir une epaisseur de 3-4mm, etaler en consequence.
+
 Il faut travailler vite.
 
 1. Sortir la détrempe et le beurre (ils doivent être à la même température et de la même texture).
 1. La rouler en **20x34cm**.
-1. Lorsque les 2 elements sont a la meme température, mettre le beurre au milieu de la detrempe
+1. Lorsque les 2 elements sont à la meme température, mettre le beurre au milieu de la detrempe
    et plier la detrempe dessus.
 1. Bien sceller les bords.
 1. Rouler la pate dans le sens de la soudure pour atteindre **25x55cm**.
@@ -56,7 +58,7 @@ Il faut travailler vite.
 
    ![Croissants](/img/tour-simple.png)
 1. Repos 1 heure.
-1. L'étaler à nouveau dans le sens de la longueur (coteé court face a vous) pour atteindre **25x55cm**
+1. L'étaler à nouveau dans le sens de la longueur (coté court face à vous) pour atteindre **25x55cm**. Environ 3-4mm. Pas plus epais sinon le beurre va s'echapper.
 1. Tour double en essuyant bien la farine.
 
    ![Croissants](/img/tour-double.png)
@@ -64,7 +66,7 @@ Il faut travailler vite.
 
 ### Façonnage
 
-1. Etaler la pâte en un rectangle **58x26cm**.
+1. Etaler la pâte en un rectangle **58x26cm**. (3-4mm)
 1. Couper les bords.
 1. Façonner:
    - Croissants: **9x26cm**.
