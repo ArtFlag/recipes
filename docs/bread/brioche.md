@@ -6,7 +6,9 @@ title: Brioche
 
 [Source](https://www.enviedebienmanger.fr/fiche-recette/recette-brioche-pur-beurre)
 
-## Ingredients
+## Normale
+
+### Ingredients
 
 - 220 g de Beurre gastronomique doux (+10 g pour beurrer les moules)
 - 10 cl de Lait
@@ -17,7 +19,7 @@ title: Brioche
 - 1 jaune d'oeuf
 - 12 g de sel (+ 1 pincée)  (-5g si beurre salé)
 
-## Levain
+### Levain
 
 1. Versez du lait tiède dans la cuve de votre robot pétrin puis ajoutez la levure et 100 g de farine.
 1. A l'aide du manche d'une cuillère en bois ou d'une baguette chinoise, mélangez grossièrement.
@@ -25,7 +27,7 @@ title: Brioche
 1. Laissez lever à température ambiante pendant 15 à 30 minutes.
 1. Le pré-ferment sera prêt lorsque celui-ci percera le dessus de la farine.
 
-## Petrissage
+### Petrissage
 
 1. Dans la cuve qui contient le préferment, ajoutez 4 œufs entiers ainsi que le sucre et le sel.
 1. Placez le crochet sur votre robot et démarrez le pétrissage en vitesse 1 pendant 5 minutes.
@@ -42,7 +44,7 @@ title: Brioche
 1. Placez la pâte dans un saladier et recouvrez ce dernier de film alimentaire.
 1. Disposez la pâte au réfrigérateur pour une durée de 8 à 16 heures.
 
-## Mise en forme et seconde levée
+### Mise en forme et seconde levée
 
 1. Séparez la pâte en deux et réservez l'autre moitié au frais. Votre pâte a doublé de volume.
 1. Récupérer votre pâte sur votre plan de travail légèrement fariné.
@@ -57,7 +59,7 @@ title: Brioche
 1. Dans un endroit chaud (dans le four en marche réglé à 27° par exemple), placez les brioches afin de leur permettre de
    lever. La pâte doit alors remonter en haut du moule. Cette opération peut durer entre 2h30 et 4 heures selon la température.
 
-## Cuisson
+### Cuisson
 
 1. Prechauffez le four.
    - Brioches familiales: 180.
@@ -68,6 +70,31 @@ title: Brioche
    - Brioches individuelles: 20 minutes
 1. Laissez refroidir sur une grille.
 
-## Tour simple et double
+### Tour simple et double
 
 ![tour simple et double](/img/tour-simple-double.png)
+
+## Poolish
+
+1. Melanger:
+   1. Farine: 60g
+   1. Levure seche: 8g
+   1. Lait froid: 50g
+1. Couvrir et laisser fermenter 1h a temperature ambiante.
+
+1. Melanger jusqu'a developer gluten:
+   1. Farine a pain: 340g
+   1. Sucre: 40g
+   1. SelP 8g
+   1. Ajouter 4 oeufs battu
+   1. Poolis
+
+1. Ajouter 150g de beurre.
+1. Bouler - pause 2h.
+1. Verifier gluten et frigo pour 12h-15h.
+
+1. Le ledemain, mise en forme: <iframe width="560" height="315" src="https://www.youtube.com/embed/QqBKaLnUw5A?start=315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. Laisser lever jusqu'a triplement 3-4.
+1. Dorer a l'oeuf. Saupoudrer sésame.
+1. Cuir a 180c 30min.
+1. Sortir du fourre, dorer au beurre et laisser refroidir dans le moule pdt 15 minutes.
