@@ -81,3 +81,28 @@ Il faut travailler vite.
 1. Laisser pousser à proximité a 26c dans un four éteint avec une casserole
    d'eau chaude jusqu'à ce qu'ils doublent de volume (entre 1 h et 2 h).
 1. Dorer, et enfourner pendant environ 5 min à 220 °C et 12 minutes a 180c (chaleur ventilée).
+
+## Recette 2 (Adrien Ozaneaux)
+
+15 croissants.
+
+Detrempe:
+
+- 500kg farine dont 25g de gruau, 25g tradition
+- 120g eau
+- 120g lait
+- 60g sucre
+- 10g miel
+- 10g sel
+- 25g beurre
+- 25g levure fraiche
+
+Beurre de tourage: 200g
+
+1. petrir vitesse 1 5minutes
+1. Ajouter 50g de beurre
+1. petrir vitesse 2 7minutes
+1. frigo 12h max
+1. cuire 170c 16minutes
+
+[Video](https://fb.watch/dgp3QM66CR/)
