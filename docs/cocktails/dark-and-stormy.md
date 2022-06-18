@@ -3,7 +3,7 @@ title: Dark 'N Stormy
 ---
 
 - Rum: 1.5  oz  (Gosling Black Seal, traditionally)
-- Ginger beer:  4-5 oz
+- Ginger beer: 4-5 oz
 
 1. Add ice to tall glass.
 1. Add ginger beer (half a tall glass).

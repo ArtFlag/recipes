@@ -2,6 +2,8 @@
 title: Tortillas
 ---
 
+## Wheat
+
 Yields 5 large tortillas, 8 small ones.
 
 |  Ingredient   | Proportion | Example 200g of flour |
@@ -66,3 +68,21 @@ Yields 35ish g of tangzhong.
 1. Roll out balls of dough either by hand.
 
 1. Heat a large skillet over medium-high heat. Place flattened tortilla in skillet and cook until it begins to bubble, about 1 minute. Flip tortilla over and cook for an additional minute. Flip again and cook for 1 more minute. Repeat with remaining dough.
+
+## Corn
+
+- 2 1/2 cups (231g) Masa Harina
+- pinch (5g) salt
+- 1 2/3 cups (378g) water, warm
+
+1. In a large, shallow mixing bowl, combine the masa harina and salt. Gradually add the warm water, stirring with your hands to make a cohesive dough.
+1. Using your hands, mix and knead the dough in the bowl for a minute or so, until it's smooth and somewhat firm; it should feel like Play-Doh.
+
+   - If the dough sticks to your hands and feels wet, add more masa harina a
+     teaspoon to a tablespoon at a time.
+   - If you roll a piece into a ball and squeeze it and the edges crack, add more water a
+     teaspoon to a tablespoon at a time.
+
+Divide the dough into 16 pieces (about 35g to 40g each) and roll each piece into a ball. Place the balls on a clean work surface and cover them with plastic or a damp kitchen towel to keep them moist.
+
+Preheat a comal, a cast iron or nonstick pan, or a griddle over medium heat for 5 minutes, or until evenly hot.

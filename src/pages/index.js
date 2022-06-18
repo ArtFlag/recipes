@@ -22,6 +22,10 @@ const shortcuts_bread = {
       title: "Brioche",
     },
     {
+      id: "docs/bread/brioche-feuilletee",
+      title: "Brioche Feuilletée",
+    },
+    {
       id: "docs/bread/tangzhon-milk-bread",
       title: "Tangzhon milk bread",
     },
