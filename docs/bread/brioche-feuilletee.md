@@ -4,27 +4,24 @@ title: Brioche feuilletée
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBBikR5jK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Ingredients
 
-- Lait: 140g
+- Lait: 150g
 - Sucre: 45g
 - Sel: 2g
-- Lait condensé: 20g
 - Farine forte: 300g
-- Levure seche: 4g
+- Beurre: 30g
+- Levure seche: 5g
 - Oeuf: 1
+
+- Beurre pour tourage: 120g
 
 ## Methode
 
-1. Tout mettre au robot vitesse 1 jusqu'a developer le gluten:
-   - Lait: 140g
-   - Sucre: 45g
-   - Sel: 2g
-   - Lait condensé: 20g
-   - Farine forte: 300g
-   - Levure seche: 4g
-   - Oeuf: 1
-1. Ajouter 20g de beurre et melanger jusqu'a integration.
+1. Tout mettre au sauf beurre au robot vitesse 1 jusqu'a developer le gluten.
+1. Ajouter 30g de beurre et melanger jusqu'a integration.
 1. Couvrir et mettre au frigo 30 minutes.
 1. Preparer 120g de beurre dans du papier sulfu 20x20cm
 1. Envelopper le beurrer dans la detrempe a 20x40cm.
