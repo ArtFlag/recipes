@@ -2,8 +2,10 @@
 title: Moscow mule
 ---
 
-- 1 1/2 ounces vodka
-- Lime wedge
+- 2 ounces vodka (or gin, tequila, whisky, cognac, pisco...)
+- 3/4 lime juice
 - 4-5 ounces ginger beer
 
-Pour vodka in a copper mug. Squeeze lime over the vodka. Add ice cubes and top with ginger beer.
+1. Fill in cup with ice cubes.
+1. Pour vodka and lime and top with ginger beer.
+1. 2 dashes of bitters
