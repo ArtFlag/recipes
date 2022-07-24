@@ -18,6 +18,10 @@ const shortcuts_bread = {
       title: "Pain au levain",
     },
     {
+      id: "docs/bread/brioche-suisse",
+      title: "Brioche suisse",
+    },
+    {
       id: "docs/bread/brioche",
       title: "Brioche",
     },
