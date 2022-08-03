@@ -15,7 +15,6 @@ title: Brioche feuilletée
 - Beurre: 30g
 - Levure seche: 5g
 - Oeuf: 1
-
 - Beurre pour tourage: 120g
 
 ## Methode
@@ -31,8 +30,10 @@ title: Brioche feuilletée
 1. Tour simple. Frigo 20 minutes.
 1. Etaler 25x15cm.
 1. Couper en 4 bandes et mettre dans le moule beurré.
-1. Entrelcer dans le moule
+1. Entrelacer dans le moule.
+
    <img width="50%" src="../../img/brioche-feuilletee.png" />
 1. Laisser lever 2-3h a 25-27c.
-1. Cuisson ventilée a 170c 22minutes. Puis 200c 5 minutes.
+1. Cuisson ventilée à 170c 22 minutes. Puis 200c à 5 minutes.
+1. Sortir et appliquer sirop ou beurre fondu au pinceau.
 1. Laisser refroidir avant de demouler.
