@@ -8,14 +8,15 @@ title: Brioche feuilletée
 
 ## Ingredients
 
-- Lait: 150g
-- Sucre: 45g
-- Sel: 2g
+- Lait entier: 150g
+- Sucre: 50-60g
+- Sel: 3g
 - Farine forte: 300g
 - Beurre: 30g
-- Levure seche: 5g
+- Levure sèche: 5g-7g
 - Oeuf: 1
 - Beurre pour tourage: 120g
+- Optionnel: arome vanille/orange
 
 ## Methode
 
@@ -34,6 +35,6 @@ title: Brioche feuilletée
 
    <img width="50%" src="../../img/brioche-feuilletee.png" />
 1. Laisser lever 2-3h a 25-27c.
-1. Cuisson ventilée à 170c 22 minutes. Puis 200c à 5 minutes.
+1. Cuisson **ventilée à 170c 22 minutes**. Puis **200c à 5 minutes**.
 1. Sortir et appliquer sirop ou beurre fondu au pinceau.
 1. Laisser refroidir avant de demouler.

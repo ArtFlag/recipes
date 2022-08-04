@@ -4,7 +4,7 @@ title: Bûche framboises et pistaches
 
 -   farine: 125 g
 -   framboises: 250 g
--   mascarpone: 250g
+-   mascarpone: 250g (+ 250g si couverture sur la bûche)
 -   oeufs: 4
 -   pistaches non salées: 50 g
 -   sachet de sucre vanillé: 1
@@ -13,7 +13,7 @@ title: Bûche framboises et pistaches
 
 1.  Séparez les jaunes d'œufs des blancs.
 1.  Fouettez les jaunes avec le sucre jusqu'a ce que le melange blanchisse.
-1.  Ajoutez la farine et bien mélanger. Le melange est pateux, c'est normal.
+1.  Ajoutez la farine et bien mélanger. Le meélange est pateux, c'est normal.
 1.  Battre les blancs en neige en ajoutant le sucre vanillé a mi-chemin.
 1.  Ajouter les blancs à la premiere preparation en 3 tiers. Le premier tiers fluidifie les jaunes.
 1.  Versez la pâte sur une plaque recouverte de papier sulfurisé,
