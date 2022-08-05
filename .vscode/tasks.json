@@ -1,0 +1,30 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"problemMatcher": [],
+			"label": "yarn: start",
+			"detail": "docusaurus start",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "open page",
+			"command": "open http://localhost:3000/recipes/${relativeFileDirname}/${fileBasenameNoExtension}",
+			"type": "shell",
+			"presentation": {
+			  "reveal": "always"
+			},
+			"group": {
+			  "kind": "build",
+			  "isDefault": true
+			},
+			"problemMatcher": []
+		  }
+	]
+
+}
