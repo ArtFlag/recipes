@@ -4,10 +4,10 @@ title: Ciabatta
 
 ## Sourdough
 
-Bread Flour: 515g
-Salt: 10g
-Water: 384g
-Starter: 90
+- Bread Flour: 515g
+- Salt: 10g
+- Water: 384g
+- Starter: 90
 
 1. Mix everything.
 1. Stretch and fold and rest 30 minutes.
@@ -21,17 +21,17 @@ Starter: 90
 
 1. Preheat oven to 250c without the baking tray, and if possible with a tray of water at bottom of oven.
 1. Bake for 5 minutes.
-1. Lower to 245g, bake for 10 minutes with steam.
+1. Lower to 240c, bake for 10 minutes with steam.
 1. Lower to 200c, bake for 15-20 minutes.
 
 
 ## Yeast
 
-550 Flour: 400g
-Olive oil: 30g
-Salt: 10g
-Water: 300g
-Fresh yeast: 4g
+- 550 Flour: 400g
+- Olive oil: 30g
+- Salt: 10g
+- Water: 300g
+- Fresh yeast: 4g / active 2g
 
 1. Disolve yeast in water + oil.
 1. Add all the flour and mix.
@@ -50,5 +50,5 @@ Fresh yeast: 4g
 1. Cut dough in 2 or 4 and close the sides.
 1. Preheat oven to 250c without the baking tray, and if possible with a tray of water at bottom of oven.
 1. Bake for 5 minutes.
-1. Lower to 200g, bake for 10 minutes.
+1. Lower to 200c, bake for 10 minutes.
 1. Lower to 150c, bake for 10 minutes.
