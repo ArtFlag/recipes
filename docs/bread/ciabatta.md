@@ -30,7 +30,7 @@ title: Ciabatta
 - 550 Flour: 400g
 - Olive oil: 30g
 - Salt: 10g
-- Water: 300g
+- Water: 280g
 - Fresh yeast: 4g / active 2g
 
 1. Disolve yeast in water + oil.
