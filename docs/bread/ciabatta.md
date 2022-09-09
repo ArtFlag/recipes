@@ -24,7 +24,6 @@ title: Ciabatta
 1. Lower to 240c, bake for 10 minutes with steam.
 1. Lower to 200c, bake for 15-20 minutes.
 
-
 ## Yeast
 
 - 550 Flour: 400g

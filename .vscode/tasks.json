@@ -5,26 +5,23 @@
 			"type": "npm",
 			"script": "start",
 			"problemMatcher": [],
-			"label": "yarn: start",
-			"detail": "docusaurus start",
+			"label": "Build the docs",
+			"detail": "Build the docs with yarn start.",
 			"group": {
 				"kind": "build",
 				"isDefault": true
 			}
 		},
 		{
-			"label": "open page",
-			"command": "open http://localhost:3000/recipes/${relativeFileDirname}/${fileBasenameNoExtension}",
 			"type": "shell",
-			"presentation": {
-			  "reveal": "always"
-			},
+			"problemMatcher": [],
+			"label": "Open this page",
+			"detail": "Open this file in the docs website.",
+			"command": "open http://localhost:3000/recipes/${relativeFileDirname}/${fileBasenameNoExtension}",
 			"group": {
-			  "kind": "build",
-			  "isDefault": true
-			},
-			"problemMatcher": []
-		  }
+				"kind": "build",
+				"isDefault": true
+			}
+		},
 	]
-
 }

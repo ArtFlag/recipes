@@ -30,10 +30,6 @@ const shortcuts_bread = {
       title: "Brioche feuilletée",
     },
     {
-      id: "docs/bread/tangzhon-milk-bread",
-      title: "Tangzhon milk bread",
-    },
-    {
       id: "docs/bread/cinnamon-buns",
       title: "Cinnamon buns",
     },
@@ -91,10 +87,6 @@ const shortcuts_savoury = {
 const shortcuts_cocktails = {
   title: "Cocktails",
   links: [
-    {
-      id: "docs/cocktails/cafe",
-      title: "Café",
-    },
     {
       id: "docs/cocktails/amaretto-sour",
       title: "Amaretto sour",
@@ -197,10 +189,10 @@ function Home() {
       </header>
       <main>
         <div className={styles.flex}>
-          <Shortcuts contents={shortcuts_savoury} />
-          <Shortcuts contents={shortcuts_sweet} />
           <Shortcuts contents={shortcuts_bread} />
           <Shortcuts contents={shortcuts_cocktails} />
+          <Shortcuts contents={shortcuts_sweet} />
+          <Shortcuts contents={shortcuts_savoury} />
         </div>
       </main>
     </Layout>

@@ -19,6 +19,11 @@
   --ifm-color-primary-lighter: #9eb5d9;
   --ifm-color-primary-lightest: #b1c1db;
   --ifm-code-font-size: 95%;
+  --ifm-list-paragraph-margin: 2px;
+  --ifm-paragraph-margin-bottom: 2px;
+}
+:root[data-theme="dark"]{
+  --ifm-heading-color: white;
 }
 h1,h2,h3,h4{
   font-weight: var(--ifm-font-weight-light);

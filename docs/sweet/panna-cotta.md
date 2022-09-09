@@ -1,5 +1,5 @@
 ---
-title: Panna Cotta
+title: Panna cotta
 ---
 
 -   50 cl de crème fraîche liquide (33)

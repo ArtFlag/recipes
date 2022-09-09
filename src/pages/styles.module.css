@@ -24,14 +24,15 @@
 
 .button {
   margin: 2px 8px;
+  min-width: 180px;
   background-color: var(--ifm-color-primary-light);
   border-color: transparent;
   color: #e7e7e7 !important;
   font-weight: var(--ifm-font-weight-light);
 }
 .button:hover {
-  background-color: var(--ifm-color-primary-lighter);
-  border-color: var(--ifm-color-primary-light);
+  background-color: var(--ifm-color-dark);
+  border-color: var(--ifm-color-primary-lighter);
 }
 
 .features {
@@ -48,12 +49,15 @@
 
 .shortcutBlock {
   border: none;
-  border-radius: 10px;
-  margin: 30px;
-  margin: 20px 0px;
+  margin-left: 15px;
   width: 300px;
-  padding: 1rem;
+  padding: 0.8rem;
 }
+
+.shortcutBlock h2{
+	margin-bottom: 0.3em;
+  }
+
 .shortcutBlock ul{
   list-style: none;
   padding:0;

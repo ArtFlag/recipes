@@ -10,7 +10,7 @@ title: Pan de muerto
 
 - farine: 500g
 - sucre: 100g
-- lait: 250 ml
+- lait: 190 ml
 - cac de levure: 12g
 - 4 oeufs
 - 1/2 c. à café de sel
