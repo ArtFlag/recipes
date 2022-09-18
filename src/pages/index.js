@@ -63,6 +63,10 @@ const shortcuts_sweet = {
       id: "docs/sweet/palets-bretons",
       title: "Palets bretons",
     },
+    {
+      id: "docs/sweet/sables-diamant",
+      title: "Sablés diamant",
+    },
   ],
 };
 
