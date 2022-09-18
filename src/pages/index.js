@@ -59,6 +59,10 @@ const shortcuts_sweet = {
       id: "docs/sweet/baklava-noix",
       title: "Baklava aux noix",
     },
+    {
+      id: "docs/sweet/palets-bretons",
+      title: "Palets bretons",
+    },
   ],
 };
 
