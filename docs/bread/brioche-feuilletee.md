@@ -30,7 +30,7 @@ title: Brioche feuilletée
 1. Etaler sur 3-4mm en gardant un coté a 20cm.
 1. Tour simple. Frigo 20 minutes.
 1. Etaler 25x15cm.
-1. Couper en 4 bandes et mettre dans le moule beurré.
+1. Couper en 2 ou + bandes et mettre dans le moule beurré.
 1. Entrelacer dans le moule.
 
    <img width="50%" src="../../img/brioche-feuilletee.png" />
