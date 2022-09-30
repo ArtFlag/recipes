@@ -71,9 +71,9 @@ Yields 35ish g of tangzhong.
 
 ## Corn
 
-- 2 1/2 cups (231g) Masa Harina
+- 2 1/2 cups (230g) Masa Harina
 - pinch (5g) salt
-- 1 2/3 cups (378g) water, warm
+- 1 2/3 cups (360g) water, warm
 
 1. In a large, shallow mixing bowl, combine the masa harina and salt. Gradually add the warm water, stirring with your hands to make a cohesive dough.
 1. Using your hands, mix and knead the dough in the bowl for a minute or so, until it's smooth and somewhat firm; it should feel like Play-Doh.
