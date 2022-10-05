@@ -9,8 +9,8 @@ title: Crockpot chicken noodle soup
 - Oignon: 1
 - Celeri: 1 cup / 4 stalks
 - Chicken breasts: 2-3 breasts
-- Salt: 2 tsp
-- Thyme or oregano: 2 tsp
+- Salt: 1 tbsp
+- Thyme or oregano: 1 tbsp
 - Olive oil: 1 tsp
 - Egg pasta: 100g
 - (Optional) 1 tsp soya sauce
