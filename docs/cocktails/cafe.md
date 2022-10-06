@@ -4,15 +4,13 @@ title: Café
 
 ## French press
 
-**70g/L**
+**60g/L**
 
-**Ratio: 1:14 - 1:16**
-
-| Contenant | Cafe | Eau  |
-| --------- | ---- | ---- |
-| Cafetiere | 35g  | 500g |
-| Mug       | 28g  | 400g |
-| ½ Mug     | 14   | 200g |
+| Contenant |  Cafe  | Eau  |
+| --------- | ------ | ---- |
+| Cafetiere | 30g    | 500g |
+| Mug       | 22-28g | 450g |
+| ½ Mug     | 14g    | 225g |
 
 :::note
 - 1 CAC = 8g de café fin

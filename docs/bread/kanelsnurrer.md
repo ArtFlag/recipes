@@ -34,7 +34,7 @@ title: Kanelsnurrer
    - 1 tsp either cardamom or vanilla
 1. Add 500g flour and knead.
 1. Work the 150g of soft butter in the flour mix.
-1. Cover and let rise until doubled in size.
+1. Cover and let rise until doubled in size or keep in fridge overnight.
 1. Using the mixer paddle, in a new container, mix:
    - 150g soft butter
    - 200g brown sugar
