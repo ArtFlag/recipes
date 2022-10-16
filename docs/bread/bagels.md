@@ -15,9 +15,7 @@ Dough:
 
 Water bath:
 
-For 2 quarts (1814g) water:
-
-Either:
+For 2 quarts (1814g) water, either:
 
 - Brown sugar or honey : 2 tablespoons (28g)
 - Granulated sugar: 1 tablespoon (14g)
@@ -63,3 +61,27 @@ or
 - Poppy seeds: 1 tbsp
 - Black sesame seeds 1 tbsp
 - Flaky see salt: heaping  half tablespoon
+
+# Sourdough
+
+Day One: The Dough
+
+- 383 ml sourdough starter
+- 240 ml cool water
+- 2 tablespoons molasses
+- 2 teaspoons yeast
+- 3½ or 4 teaspoons salt
+- ¼ cup sugar
+- 2 pounds bread flour
+
+1. Combine and knead.
+1. Divide the dough into 110g pieces.
+1. Cold proof for 12-24 hours.
+
+Day Two: Boiling and Baking
+
+1. Remove the bagels from the fridge and let sit at room temperature for 20-60 minutes.
+1. Preheat the oven (and your baking stone) to 450 degrees. Fill a wide cooking pot with a couple inches of water and a couple tablespoons of brown sugar and bring to a boil.
+1. Cut the parchment paper that the bagels are on so that there are two-three bagels on each sheet of paper.
+
+Once the oven is hot and the water is boiling, pull the baking stone from the oven and sprinkle it with cornmeal. Gently lower a section of parchment paper with bagels into the pot of water, flipping it so the bagels go into the water face-first. Tug off the paper and discard it. Boil the bagels for 20 seconds, flip, and boil for another 20 seconds. Keeping the bagels face up and using a slotted spoon, transfer the bagels one at a time to the baking stone. When the stone is full, bake the bagels for 16-18 minutes.
