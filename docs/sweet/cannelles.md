@@ -24,5 +24,5 @@ title: Cannellés
 1. Ajouter le rhum.
 1. Laisser reposer 24h a temperature ambiante.
 1. Remplir les moules aux ¾
-1. Préchauffer à 250°, cuire pendant 10 minutes, puis cuire 45 minutes à
-   180°.
+1. Préchauffer à 250°, cuire pendant 10 minutes, puis cuire 50 minutes à
+   190-200°, plutot dans le bas du four.
