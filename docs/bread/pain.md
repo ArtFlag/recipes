@@ -109,6 +109,31 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
     </td>
   </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          Gold medal: 485g
+        </li>
+        <li>
+          Whole-grain: 15g
+        </li>
+      </ul>
+    </td>
+    <td>75g</td>
+    <td>340g (68%)</td>
+    <td>10g</td>
+    <td>
+      <ul>
+        <li>
+          Raisins: 100g
+        </li>
+        <li>
+          Cinnamon: 6g
+        </li>
+      </ul>
+    </td>
+  </tr>
 </tbody>
 </table>
 
