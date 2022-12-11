@@ -23,3 +23,9 @@ yarn build
 ## Deployment
 
 Deploy is automatic on every merge to master.
+
+## Upgrade
+
+```bash
+yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-search-algolia@latest
+```
