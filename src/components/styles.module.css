@@ -1,0 +1,10 @@
+.cooking img{
+  max-height: 22px;
+  vertical-align: text-bottom;
+  padding: 0 3px 0 5px;
+}
+.cooking{
+  background-color: var(--ifm-color-primary-lightest);
+  padding: 0.5rem;
+  border-radius: var(--ifm-global-radius);
+}
