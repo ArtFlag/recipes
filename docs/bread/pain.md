@@ -121,7 +121,7 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
     <td>75g</td>
-    <td>340g (68%)</td>
+    <td>345g (69%)</td>
     <td>10g</td>
     <td>
       <ul>
