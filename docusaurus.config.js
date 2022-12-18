@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://artflag.github.io',
   baseUrl: '/recipes/',
   onBrokenLinks: 'throw',
-  favicon: '/img/apple-touch-icon-iphone-60x60',
+  favicon: '/img/favicons/favicon-32x32.png',
   organizationName: 'artflag', // Usually your GitHub org/user name.
   projectName: 'recipes', // Usually your repo name.
   themeConfig: {

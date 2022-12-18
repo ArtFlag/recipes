@@ -5,6 +5,8 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
+import Head from '@docusaurus/Head';
+
 
 const shortcuts_bread = {
   title: "Bread",
@@ -146,6 +148,15 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout description="">
+       <Head>
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png"/>
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png"/>
+        <link rel="manifest" href="/img/favicons/site.webmanifest"/>
+        <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+        <meta name="msapplication-TileColor" content="#da532c"/>
+        <meta name="theme-color" content="#1e1c1c"/>
+      </Head>
       <header className={clsx("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
