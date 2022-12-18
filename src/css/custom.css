@@ -11,7 +11,7 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-family-base: "Roboto";
-  --ifm-color-primary: #5681c5;
+  --ifm-color-primary: #6596e4;
   --ifm-color-primary-dark: #164ea9;
   --ifm-color-primary-darker: #0b57d1;
   --ifm-color-primary-darkest: #032f76;
@@ -24,13 +24,18 @@
 }
 :root[data-theme="dark"]{
   --ifm-heading-color: white;
-  --ifm-color-primary: #5681c5;
-  --ifm-color-primary-light: #365586;
-  --ifm-color-primary-lighter: #5f7191;
-  --ifm-color-primary-lightest: #25467d;
+  --ifm-color-primary: #6096ed;
+  --ifm-color-primary-light: #36588e;
+  --ifm-color-primary-lighter: #6f86a7;
+  --ifm-color-primary-lightest: #9ebcf4;
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-tabs-color-active: var(--ifm-link-color);
 }
 h1,h2,h3,h4{
   font-weight: var(--ifm-font-weight-light);
+}
+h4{
+  font-size: 120%;
 }
 
 .docusaurus-highlight-code-line {
@@ -67,4 +72,8 @@ h1,h2,h3,h4{
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.tabs.small{
+ line-height: 0.8rem;
 }

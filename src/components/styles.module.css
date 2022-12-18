@@ -4,7 +4,7 @@
   padding: 0 3px 0 5px;
 }
 .cooking{
-  background-color: var(--ifm-color-primary-lightest);
+  background-color: var(--ifm-color-primary);
   padding: 0.5rem;
   border-radius: var(--ifm-global-radius);
 }
