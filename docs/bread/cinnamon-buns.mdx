@@ -22,6 +22,10 @@ export const Flour = () => (
   <span>580g</span>
 );
 
+export const FlourSourDough = () => (
+  <span>530g</span>
+);
+
 export const ButterDough = () => (
   <span>80g</span>
 );
@@ -33,6 +37,13 @@ export const SugarDough = () => (
 export const Milk = () => (
   <span>230g</span>
 );
+
+export const MilkSourDough = () => (
+  <span>180g</span>
+);
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <table>
    <thead>
@@ -52,25 +63,26 @@ export const Milk = () => (
    <tr>
    <td>
       <ul>
-      <li>All-purpose flour: <Flour/></li>
+      <li>All-purpose flour: <FlourSourDough/></li>
       <li>Butter (softened): <ButterDough/></li>
+      <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
-      <li>Fine sea salt: 8g</li>
+      <li>Fine sea salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
-      <li>Lukewarm whole milk: <Milk/></li>
-      <li>Sourdough starter: 80g / 7g instant yeast</li>
+      <li>Lukewarm whole milk: <MilkSourDough/></li>
+      <li>Sourdough starter: 100g</li>
       </ul>
    </td>
    <td>
       <ul>
       <li>All-purpose flour: <Flour/></li>
-      <li>Butter: <ButterDough/></li>
+      <li>Butter (softened): <ButterDough/></li>
       <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
       <li>Fine sea salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
-      <li>Instant yeast: 7g</li>
       <li>Lukewarm whole milk: <Milk/></li>
+      <li>Instant yeast: 7g</li>
       </ul>
    </td>
    <td>
@@ -97,28 +109,57 @@ export const Milk = () => (
 ### Buns
 
 1. In a stand mixer bowl, whisk together:
-   - flour: <Flour/>
-   - granulated sugar: <SugarDough/>
-   - fine sea salt: 6g
+   <Tabs className="small" groupId="group1">
+     <TabItem value="yeast" label="Yeast">
+      <ul>
+       <li>Flour: <Flour/></li>
+       <li>Granulated sugar: <SugarDough/></li>
+       <li>Fine sea salt: 6g.</li>
+      </ul>
+      </TabItem>
+      <TabItem value="sourdough" label="Sourdough">
+        <ul>
+          <li>Flour: <FlourSourDough/></li>
+          <li>Granulated sugar: <SugarDough/></li>
+          <li>Fine sea salt: 6g.</li>
+        </ul>
+      </TabItem>
+   </Tabs>
+
 1. Add in softened unsalted butter: <ButterDough/>
-1. In a separate container, mix lukewarm whole milk <Milk/> and yeast/stater.
+1. In a separate container, mix:
+   <Tabs className="small" groupId="group1">
+    <TabItem value="yeast" label="Yeast">
+     Milk: <Milk/>. Yeast: 7g.
+     </TabItem>
+     <TabItem value="sourdough" label="Sourdough">
+     Milk: <MilkSourDough/>. Sourdough starter: 100g.
+     </TabItem>
+
+  </Tabs>
 1. Using the dough hook attachment set on medium-low speed, add:
    - Starter/yeast mixture
    - Whole eggs
    - Egg yolk.
-1. Mix for 2-3 minutes.
+1. Mix for 5-10 minutes.
 1. On a lightly floured work surface and knead for 30-60 seconds.
-1. If Sourdough:
+1. Develop gluten:
+<Tabs className="small" groupId="group1">
+  <TabItem value="yeast" label="Yeast">
+   <ol>
+       <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
+       <li>Keep in fridge overnight.</li>
+   </ol>
+  </TabItem>
+  <TabItem value="sourdough" label="Sourdough">
+    <ol>
+      <li>Perform stretches and folds over the next 2 hours.</li>
+      <li>Let rise until puffy then boule and keep in the fridge overnight.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
-   1. Perform stretches and folds over the next 2 hours.
-   1. Let rise until puffy then boule and keep in the fridge overnight.
-
-   If yeast:
-
-   1. On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.
-   1. Keep in fridge overnight.
-
-Next day:
+### Next day
 
 1. Mix
    - Brown sugar: <BrownSugar/>
@@ -133,7 +174,7 @@ Next day:
 1. <CookingStep temp="190" time="20-25 minutes"/>
 1. Let cool in the container for 15 minutes.
 
-### Filling
+#### Glazing
 
 1. Beat together cream cheese then blend in powdered sugar until smooth.
 1. Whisk in whole milk until smooth then add in half scraped vanilla bean and whisk together.
