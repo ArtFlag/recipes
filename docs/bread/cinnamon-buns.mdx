@@ -18,6 +18,21 @@ export const Cinnamon = () => (
   <span>17g</span>
 );
 
+export const Flour = () => (
+  <span>580g</span>
+);
+
+export const ButterDough = () => (
+  <span>80g</span>
+);
+
+export const SugarDough = () => (
+  <span>110g</span>
+);
+
+export const Milk = () => (
+  <span>230g</span>
+);
 
 <table>
    <thead>
@@ -37,25 +52,25 @@ export const Cinnamon = () => (
    <tr>
    <td>
       <ul>
-      <li>All-purpose flour: 580g</li>
-      <li>Butter (softened): 80g</li>
+      <li>All-purpose flour: <Flour/></li>
+      <li>Butter (softened): <ButterDough/></li>
       <li>Eggs: 2</li>
       <li>Fine sea salt: 8g</li>
-      <li>Granulated sugar: 120g</li>
-      <li>Lukewarm whole milk: 240g</li>
+      <li>Granulated sugar: <SugarDough/></li>
+      <li>Lukewarm whole milk: <Milk/></li>
       <li>Sourdough starter: 80g / 7g instant yeast</li>
       </ul>
    </td>
    <td>
       <ul>
-      <li>All-purpose flour: 580g</li>
-      <li>Butter: 84g</li>
+      <li>All-purpose flour: <Flour/></li>
+      <li>Butter: <ButterDough/></li>
       <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
       <li>Fine sea salt: 6g</li>
-      <li>Granulated sugar: 107g</li>
+      <li>Granulated sugar: <SugarDough/></li>
       <li>Instant yeast: 7g</li>
-      <li>Lukewarm whole milk: 235g</li>
+      <li>Lukewarm whole milk: <Milk/></li>
       </ul>
    </td>
    <td>
@@ -82,11 +97,11 @@ export const Cinnamon = () => (
 ### Buns
 
 1. In a stand mixer bowl, whisk together:
-   - flour: 580g
-   - granulated sugar: 110g
+   - flour: <Flour/>
+   - granulated sugar: <SugarDough/>
    - fine sea salt: 6g
-1. Add in softened unsalted butter: 80g
-1. In a separate container, mix lukewarm whole milk and sourdough starter.
+1. Add in softened unsalted butter: <ButterDough/>
+1. In a separate container, mix lukewarm whole milk <Milk/> and yeast/stater.
 1. Using the dough hook attachment set on medium-low speed, add:
    - Starter/yeast mixture
    - Whole eggs
@@ -112,9 +127,10 @@ Next day:
 1. Spread softened unsalted butter across the whole rectangle then sprinkle the cinnamon sugar evenly across the whole dough.
 1. Tightly roll from the bottom all the way to the top.
 1. Slice into **5cm-thick** segments.
-1. Grease a **22x33cm** baking dish, line the bottom of the pan the rolls and cover with plastic wrap once filled.
-1. Let rise at room temperature for 30-45 minutes.
-1. <CookingStep temp="190" time="20-25 minutes" fan/>
+1. Grease a **22x33cm** baking dish, line the bottom of the pan the rolls, put rolls with tails facing to another.
+1. Cover with plastic wrap.
+1. Let rise at room temperature until 1.5x bigger.
+1. <CookingStep temp="190" time="20-25 minutes"/>
 1. Let cool in the container for 15 minutes.
 
 ### Filling
