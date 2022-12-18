@@ -28,7 +28,9 @@ Sucre: 130g
 1. Sortir le beurre et s'il se tient bien, relever les coins pour en faire un contenant et verser le sucre
    au milieu et fermer le beurre dessus.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=507" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=507" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 
 1. Prendre la détrempe et mettre le beurre au milieu et bien fermer de tous les cotés.
 1. Abaisser vers 6mm.
@@ -44,9 +46,9 @@ Sucre: 130g
 1. Couper un tranche de 11cm et faire des carrés de 11x11cm.
 1. Replier les coin vers le centre a se toucher.
 1. Le placer dans le moule, soudures coté moule.
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=759" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=759" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 ### Roulé
 
 1. Rouler toute la pate, en commencant coté long.

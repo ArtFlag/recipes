@@ -66,7 +66,7 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          Walnuts: 50g
+          Walnuts: 60g
         </li>
       </ul>
     </td>

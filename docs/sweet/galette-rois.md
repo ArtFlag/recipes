@@ -39,7 +39,7 @@ Vers la fin de la cuission, preparez un sirop:
 
 ## Recette normale
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ### Creme patissiere
 
@@ -77,7 +77,7 @@ Vers la fin de la cuission, preparez un sirop:
 
 Galette de 24cm.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=1014" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=1014" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 Oeuf: 1
 

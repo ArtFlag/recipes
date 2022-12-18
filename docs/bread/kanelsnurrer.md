@@ -2,27 +2,41 @@
 title: Kanelsnurrer
 ---
 
-**Dough**
 
-- Butter: 150g
-- Cardamom or vanilla sugar: 1 tsp
-- Eggs: 2
-- Milk (whole): 190 ml
-- Salt: 10g
-- Strong Wheat flour: 500g
-- Sugar: 30g
-- Yeast: 7g (25g fresh)
-
-**Filling**
-
-- Soft butter: 150g
-- Brown sugar: 200 g
-- Ground cinnamon: 3 tbsp
-
-**Glaze**
-
-- 1 beaten egg for brushing
-- 2 tbsp whole milk
+<table>
+  <tr>
+    <th>Dough</th>
+    <th>Filling</th>
+    <th>Glaze</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Butter: 150g</li>
+        <li>Cardamom or vanilla sugar: 1 tsp</li>
+        <li>Eggs: 2</li>
+        <li>Milk (whole): 190 ml</li>
+        <li>Salt: 10g</li>
+        <li>Strong Wheat flour: 500g</li>
+        <li>Sugar: 30g</li>
+        <li>Yeast: 7g (25g fresh)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Soft butter: 150g</li>
+        <li>Brown sugar: 200 g</li>
+        <li>Ground cinnamon: 3 tbsp</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>1 beaten egg for brushing</li>
+        <li>2 tbsp whole milk</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Method
 
@@ -45,11 +59,14 @@ title: Kanelsnurrer
 1. Flatten into 30x40~ again.
 1. Cut into 3 cm wide strips. Twist the strips. One end is
    twisted twice around the index and middle fingers of the opposite hand, and one end is stopped down the middle. Or gather the twisted dough into a ring.
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/N0g8hyUGcvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/N0g8hyUGcvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 
    Alternative:
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/wNiyp89pTi0?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/wNiyp89pTi0?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 1. Place them on a baking sheet or in muffin tray. Let rise for 30-60 min.
 1. Brush with beaten egg + whole milk.
 1. Bake on middle rack for 15-18 minutes at 200c.

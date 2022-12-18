@@ -17,8 +17,9 @@ title: Ciabatta
 1. Cut dough in 2 or 4 and close the sides.
 1. Let proof for 2h.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxe0BSWSZeU?start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxe0BSWSZeU?start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 1. Preheat oven to 250c without the baking tray, and if possible with a tray of water at bottom of oven.
 1. Bake for 5 minutes.
 1. Lower to 240c, bake for 10 minutes with steam.
@@ -43,9 +44,9 @@ title: Ciabatta
 
 
 1. When it has fermented enough, dump it on a floured counter top and fold it like a tube.
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxe0BSWSZeU?start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxe0BSWSZeU?start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 1. Cut dough in 2 or 4 and close the sides.
 1. Preheat oven to 250c without the baking tray, and if possible with a tray of water at bottom of oven.
 1. Bake for 5 minutes.

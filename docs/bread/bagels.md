@@ -39,7 +39,9 @@ or
 1. Use your index finger to poke a hole through the center of each ball, then twirl the dough on your finger to stretch the
    hole until it's about 3.5cm to 5cm in diameter.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/W8j-ZUp7KD0?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/W8j-ZUp7KD0?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
 
 1. Place six bagels on each of the baking sheets.
 

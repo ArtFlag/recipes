@@ -2,7 +2,9 @@
 title: Brioche
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5d9eUgVhRn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5d9eUgVhRn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+</div>
 
 [Source](https://www.enviedebienmanger.fr/fiche-recette/recette-brioche-pur-beurre)
 
@@ -72,7 +74,9 @@ title: Brioche
 
 ### Tour simple et double
 
-![tour simple et double](/img/tour-simple-double.png)
+import MyImg from "@site/static/img/tour-simple-double.png";
+
+<img src={MyImg} width="80%"/>
 
 ## Poolish
 
@@ -93,7 +97,12 @@ title: Brioche
 1. Bouler - pause 2h ou + jusqu'a doublement.
 1. Degazer. Rebouler. Frigo pour 12h-15h.
 
-1. Le ledemain, couper en 4, egaler en fuseau de 50cm et mise en forme: <iframe width="560" height="315" src="https://www.youtube.com/embed/QqBKaLnUw5A?start=315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. Le ledemain, couper en 4, egaler en fuseau de 50cm et mise en forme:
+
+   <div class="youtube-video-container">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/QqBKaLnUw5A?start=315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   </div>
+
 1. Laisser lever jusqu'a triplement 3-4.
 1. Dorer a l'oeuf. Saupoudrer sésame.
 1. Cuir a 180c 30min.

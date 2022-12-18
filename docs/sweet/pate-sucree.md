@@ -38,3 +38,6 @@ Dorure :
 1. Dorer finement au pinceau avec 1 jaune d'oeuf + 4gr de crème liquide.
 1. Cuire 6-8 minutes chaleur tournante.
 1. Saupoudrer de beurre de cacao Mycryo pour conserver le croustillant.
+
+- [Pate feuilletee](/docs/sweet/pate-feuilletee)
+- [Pate sablée](/docs/sweet/pate-sablee)

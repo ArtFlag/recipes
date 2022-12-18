@@ -24,7 +24,7 @@ title: Gâche
 1. Degazer et couper en patons de 380g.
 1. Tressez les patons (5 brins) tant que la pate est foide.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Gc_QfWpRoQg?start=596" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Gc_QfWpRoQg?start=596" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 1. Laisser pousser 2h.
 1. Dorer.
 1. Cuire a 150 28-30min, ventiler.

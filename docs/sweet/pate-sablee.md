@@ -25,3 +25,7 @@ title: Pâte sablée
 1.  Une fois cuite, enlever le cercle et attendre qu'elle refroidisse.
 1.  Enlever les imperfections avec le dos d'un tamis et badigeonner finement avec un jaune d'oeuf + 4gr de creme liquide en commencant par les bords.
 1.  Enfourner à 180c chaleur tournante jusqu'à obtenir une couleur dorée (6-8 minutes).
+
+
+- [Pate feuilletee](/docs/sweet/pate-feuilletee)
+- [Pate sucrée](/docs/sweet/pate-sucree)
