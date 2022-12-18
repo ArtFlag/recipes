@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://artflag.github.io',
   baseUrl: '/recipes/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: '/img/apple-touch-icon-iphone-60x60',
   organizationName: 'artflag', // Usually your GitHub org/user name.
   projectName: 'recipes', // Usually your repo name.
   themeConfig: {
@@ -12,7 +12,7 @@ module.exports = {
       title: 'Recipes',
       logo: {
         alt: 'Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
