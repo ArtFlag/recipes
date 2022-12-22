@@ -75,5 +75,14 @@ h4{
 }
 
 .tabs.small{
- line-height: 0.8rem;
+ line-height: 0.6rem;
+ padding: 0rem 0;
+}
+
+.tabs.small li{
+  padding: 0.6rem 0.5rem;
+}
+
+li[role="tab"]{
+  background-color: var(--ifm-color-gray-80);
 }
