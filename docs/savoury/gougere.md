@@ -2,6 +2,8 @@
 title: Gougère
 ---
 
+import CookingStep from "../../src/components/CookingStep";
+
 - Beurre: 75g
 - Comté rapé: 200g
 - Eau: 250ml
@@ -11,29 +13,31 @@ title: Gougère
 
 1. Préchauffer le four a 210c.
 
-2. Beurrer la plaque.
+1. Beurrer la plaque.
 
-3. Couper le beurre en petit morceau.
+1. Couper le beurre en petit morceau.
 
-4. Dans une casserole, verser 250ml d'eau. Ajouter 1 cac (7g) de sel fin et
-    le beurre et porter a ebullition.
+1. Dans une casserole, verser et porter a ebullition :
 
-5. Des que l'eau est a ebullition, ajouter la farine d'un coup et
-    mélanger vivement.
+   - Eau: 250ml
+   - Sel fin: 1CAC-7g
+   - Beurre: 75g
 
-    La pate doit former une boule qui se détache de la parois de la
-    casserole.
+1. Dès que l'eau est à ebullition, ajouter la farine d'un coup et mélanger vivement.
 
-6. Hors du feu, ajouter les oeufs un par un et mélanger parfaitement
+   La pate doit former une boule qui se détache de la parois de la casserole.
+
+1. Hors du feu, ajouter les oeufs un par un et mélanger parfaitement
     avant d'ajouter l'oeuf suivant.
 
-7. Ajouter le fromage rapé et bien melanger.
+1. Ajouter le fromage rapé et bien mélanger.
 
-8. Ajouter poivre, sel, muscade.
+1. Ajouter poivre et muscade.
 
-9. Mettre le melange sur la plaque en forme de couronne.
+1. Mettre le mélange sur la plaque en forme de couronne ou des boules.
 
-10. (Optionnel) Dorer au jaune d'oeuf.
+1. (Optionnel) Dorer au jaune d'oeuf.
 
-11. Faire cuire environ 25 minutes. Ne pas ouvrir la porte du four pour
-    les 15 premières minutes.
+1. <CookingStep temp="210" time="25 minutes" preheat />
+
+    Ne pas ouvrir la porte du four pour les 15 premières minutes.
