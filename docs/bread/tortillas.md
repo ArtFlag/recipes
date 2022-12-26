@@ -20,9 +20,10 @@ Swap 5% of the flour for whole flour for added flavour. (10g for 200g)
 
 Split into 80g balls for big ones, 50g for small ones.
 
-1. Mix dry ingredients.
+1. Mix boiling water and salt + baking powder.
+1. Add flour and mix.
+1. Autolyse for 30 minutes.
 1. Work then shortening into the flour.
-1. Add warm water.
 1. Knead on counter until smooth.
 1. Let rest 20min and give a few stretch/folds if needed.
 1. Separate into smaller balls and bake at high heat 20 minutes later. 30s-1min on each side.
