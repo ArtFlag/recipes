@@ -2,11 +2,17 @@
 title: Pâte feuilletée
 ---
 
+Détrempe:
+
 - farine type 55: 500g
 - Eau temprée: 240-250g
 - Sel fin ou fleur de sel: 10g
-- Beurre de tourage 84% mat grasse: 370g-375g (ou margarine à feuilletage)
 - (Optionel) Vinaigre blanc: 1 CAS
+- (Optionel) Beurre fondu: 50g
+
+Tourage:
+
+- Beurre de tourage (84% mat grasse): Moitié du poids de l'eau+farine: 370g-375g (ou margarine à feuilletage)
 
 ## Préparation
 

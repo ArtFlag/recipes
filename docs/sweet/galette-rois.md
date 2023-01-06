@@ -8,7 +8,7 @@ title: Galette des rois
 - Beurre mou: 100g
 - Jeune d'oeufs: 1
 - Oeufs: 2
-- Pâtes feuilletées: 2
+- [Pâtes feuilletées](pate-feuilletee): 2
 - Rhum ambré: 1 CaS
 - Sucre glace: 125g
 

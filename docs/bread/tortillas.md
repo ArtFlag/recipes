@@ -20,7 +20,7 @@ Swap 5% of the flour for whole flour for added flavour. (10g for 200g)
 
 Split into 80g balls for big ones, 50g for small ones.
 
-1. Mix boiling water and salt + baking powder.
+1. Mix 60c-ish water and salt + baking powder.
 1. Add flour and mix.
 1. Autolyse for 30 minutes.
 1. Work then shortening into the flour.
