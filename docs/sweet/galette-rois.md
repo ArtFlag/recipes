@@ -101,3 +101,4 @@ Oeuf: 1
    1. 15 minutes à 170
    1. Encore 5-10 minutes à 170 selon la couleur.
 1. Refroidir sur grille.
+1. Passer un coup de pinceau pour appliquer du sirop.

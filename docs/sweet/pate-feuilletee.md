@@ -2,6 +2,8 @@
 title: Pâte feuilletée
 ---
 
+import MyImg from "@site/static/img/tour-simple.png";
+
 Détrempe:
 
 - farine type 55: 500g
@@ -26,6 +28,8 @@ Preparation: 2 jours. Au moins 5 tours simples.
 1. Quand le beurre a la meme texture que la pate, mettre le beurre milieu et l'enfermer dans la pate.
 1. Etaler la pate sur 3-4mm dans le sense du raccord.
 1. Tour simple.
+   <img src={MyImg}/>
+
 1. Recommencer pour le 2eme tour simple. Frigo 30min-2h.
 1. Recommencer pour rajouter 3 tours.
 
