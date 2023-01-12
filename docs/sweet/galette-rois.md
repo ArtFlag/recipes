@@ -2,47 +2,19 @@
 title: Galette des rois
 ---
 
-## Recette facile
-
-- Arôme d'amande amère: 1 CaS
-- Beurre mou: 100g
-- Jeune d'oeufs: 1
-- Oeufs: 2
-- [Pâtes feuilletées](pate-feuilletee): 2
-- Rhum ambré: 1 CaS
-- Sucre glace: 125g
-
-Sirop:
-
-- Eau: 50ml
-- Sucre: 50g
-- Rhum: 1 cas
-
-1. Travaillez le beurre mou en paumade.
-1. Mélangez le beurre avec le sucre.
-1. Ajoutez les oeufs 1 à 1.
-1. Ajouter la poudre d'amande et l'arome et le rhum.
-1. Humidifiez le bord d'un disque de pâte feuilletée.
-1. Ajoutez la frangipane sur le disque.
-1. Avec le deuxième disque de pâte en soudant et en appuyant bien sur
-   les bords.
-1. Dorez le dessus avec le jaune d'oeuf, puis faites un cadrillage (ou
-   autre motif) avec les dents d'une fourchette.
-1. Mettre au frigo pour 20 minutes minimum.
-1. Faites cuire pendant 20 min à 200°C. Puis 30 minutes à 180.
-
-Vers la fin de la cuission, preparez un sirop:
-
-1. Versez l'eau et le sucre dans une casserole et portez à ebuilition.
-1. Hors du feu, ajoutez le rhum et melanger.
-1. Sortir la galette et badigeonez la galette.
-
 ## Recette normale
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
+### Pate feuilletée
+
+1. Voir [recette](pate-feuilletee).
+1. Abaisser la pate à 2-3mm. Elle doit faire 2 fois la longeur du cercle.
+1. Un fois abaissee, couper la pate en 2 au milieu. Les empiller et filmer au contact et laisser en detente au frigo 1h minimum.
+
 ### Creme patissiere
 
+- Beurre: 25g
 - Fecule de mais: 25g
 - Lait: 250g
 - Oeufs: 3
@@ -79,11 +51,13 @@ Galette de 24cm.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=1014" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-Oeuf: 1
+- Oeuf: 1
 
-1. Mettre la frangipane sur la pate, laissez 2cm sur les bords et mettre un peu d'eau froide.
+1. Mettre la frangipane sur la pate feuilletée. Laissez 2cm sur les bords et imbiber les bords avec de
+   l'eau froide a l'aide d'un pinceau.
 1. Mettre la feve.
 1. Poser la deuxieme pate dessus en chassant bien l'air et bien sceller les pates et percer la pate.
+1. Decouper autour du cerle.
 1. Mettre au congelateur 15 minutes
 1. Sortir du congelateur et couper le tour a 24cm de diametre.
 1. Filmer la galette et garder au frigo 2h - 1nuit.
@@ -102,3 +76,39 @@ Oeuf: 1
    1. Encore 5-10 minutes à 170 selon la couleur.
 1. Refroidir sur grille.
 1. Passer un coup de pinceau pour appliquer du sirop.
+
+## Recette facile
+
+- Arôme d'amande amère: 1 CaS
+- Beurre mou: 100g
+- Jeune d'oeufs: 1
+- Oeufs: 2
+- [Pâtes feuilletées](pate-feuilletee): 2
+- Rhum ambré: 1 CaS
+- Sucre glace: 125g
+
+Sirop:
+
+- Eau: 50ml
+- Sucre: 50g
+- Rhum: 1 cas
+
+1. Travaillez le beurre mou en paumade.
+1. Mélangez le beurre avec le sucre.
+1. Ajoutez les oeufs 1 à 1.
+1. Ajouter la poudre d'amande et l'arome et le rhum.
+1. Humidifiez le bord d'un disque de pâte feuilletée.
+1. Ajoutez la frangipane sur le disque.
+1. Avec le deuxième disque de pâte en soudant et en appuyant bien sur
+   les bords.
+1. Dorez le dessus avec le jaune d'oeuf, puis faites un cadrillage (ou
+   autre motif) avec les dents d'une fourchette.
+1. Mettre au frigo pour 20 minutes minimum.
+1. Faites cuire pendant 20 min à 200°C. Puis 30 minutes à 180.
+
+Vers la fin de la cuission, preparez un sirop:
+
+1. Versez l'eau et le sucre dans une casserole et portez à ebuilition.
+1. Hors du feu, ajoutez le rhum et melanger.
+1. Sortir la galette et badigeonez la galette.
+1.
