@@ -11,8 +11,8 @@ title: Pretzels
 - 4 cups + 2 tablespoons (500 g) bread flour
 
 Water bath:
-Water: 2L
-Baking soda: 2 tablespoons
+Water: 1L
+Baking soda: 2 tablespoons or Natron: 40g
 Dark brown sugar: 1 tablespoon
 
 1. In the bowl of a stand mixer, stir together the active sourdough starter, water, honey and salt. Cover the bowl and let rest at room temperature for 8-12 hours.
