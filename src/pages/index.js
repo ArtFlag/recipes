@@ -69,6 +69,10 @@ const shortcuts_sweet = {
       id: "docs/sweet/sables-diamant",
       title: "Sablés diamant",
     },
+    {
+      id: "docs/sweet/chocolate-cheesecake",
+      title: "Chocolate cheesecake",
+    },
   ],
 };
 
