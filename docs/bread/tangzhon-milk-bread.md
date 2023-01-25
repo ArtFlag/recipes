@@ -1,30 +1,29 @@
 ---
-title: Tangzhong milk bread
+title: Yudane milk bread
 ---
 
 [Video](https://www.youtube.com/watch?v=lD7a8wfJeWU)
 
-**Tangzhong:**
-
-(1:5 ratio, by weight)
+## Yudane
 
 - Bread flour: 35g
-- Water: 175g
+- Water: 52g
 
-1.  Mix flour and water in a pan and start heating the mixture on medium until it reaches 65c while mixing continuously.
-1.  Once thick enough, set aside to cook and keep in the fridge at least for 6h and up to 4 days.
+1. Boil water.
+1. Mix with flour away from the heat.
+1. Store in fridge overnight.
 
-**Milk bread**
+## Milk bread
 
-1. Take out the tangzhong from the fridge and wait for it to be at room temp.
+1. Take out the yudane from the fridge and wait for it to be at room temp.
 1. (Optional) If dry active yeast, activate 6g using some of the milk and sugar.
 1. Once it's active, mix:
-   - Bread flour: 350g (and add at least 90g if protein = 12g)
+   - Bread flour: 340g
    - Sugar: 35g (keep some to activate the yeast if needed)
    - Dry yeast: 7g (9g if fresh yeast)
-   - Salt: 5 g
+   - Salt: 8g
 1. Add and mix:
-   - Milk: 140g (lukewarm) (keep some to activate the yeast if needed)
+   - Milk: 115g (lukewarm) (keep some to activate the yeast if needed)
    - Eggs (beaten): 40g (less than 1 medium egg)
    - Tanzhong: approx 155g
 1. Add 50g butter (room temp).
