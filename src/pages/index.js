@@ -5,8 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
-import Head from '@docusaurus/Head';
-
+import Head from "@docusaurus/Head";
 
 const shortcuts_bread = {
   title: "Bread",
@@ -54,6 +53,10 @@ const shortcuts_sweet = {
       title: "Tarte du regent",
     },
     {
+      id: "docs/sweet/tarte-fine-pommes",
+      title: "Tarte aux pommes fine",
+    },
+    {
       id: "docs/sweet/tarte-supreme-choco",
       title: "Tarte chocolat suprême",
     },
@@ -68,10 +71,6 @@ const shortcuts_sweet = {
     {
       id: "docs/sweet/sables-diamant",
       title: "Sablés diamant",
-    },
-    {
-      id: "docs/sweet/chocolate-cheesecake",
-      title: "Chocolate cheesecake",
     },
   ],
 };
@@ -152,14 +151,32 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout description="">
-       <Head>
-        <link rel="apple-touch-icon" sizes="180x180" href="/recipes/img/favicons/apple-touch-icon.png"/>
-        <link rel="icon" type="image/png" sizes="32x32" href="/recipes/img/favicons/favicon-32x32.png"/>
-        <link rel="icon" type="image/png" sizes="16x16" href="/recipes/img/favicons/favicon-16x16.png"/>
-        <link rel="manifest" href="/recipes/img/favicons/site.webmanifest"/>
-        <link rel="mask-icon" href="/recipes/img/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
-        <meta name="msapplication-TileColor" content="#da532c"/>
-        <meta name="theme-color" content="#1e1c1c"/>
+      <Head>
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/recipes/img/favicons/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/recipes/img/favicons/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/recipes/img/favicons/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/recipes/img/favicons/site.webmanifest" />
+        <link
+          rel="mask-icon"
+          href="/recipes/img/favicons/safari-pinned-tab.svg"
+          color="#5bbad5"
+        />
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="theme-color" content="#1e1c1c" />
       </Head>
       <header className={clsx("hero hero--primary", styles.heroBanner)}>
         <div className="container">
