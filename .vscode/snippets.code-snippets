@@ -40,18 +40,21 @@
       "body": ["import CookingStep from \"../../src/components/CookingStep\";","" ,"<CookingStep temp=\"$1\" time=\"$2\" fan preheat />", "", ""],
       "description": "Insert cooking step"
     },
+    "video": {
+      "prefix": "video",
+      "body": ["<div class=\"youtube-video-container\">","","</div>",""],
+      "description": "Insert video"
+    },
     "tabs":{
       "prefix": "tabs",
       "body": ["import Tabs from '@theme/Tabs';","import TabItem from '@theme/TabItem';","","<Tabs>",
-        ,"<TabItem value=\"apple\" label=\"Apple\" default>",
-          "This is an apple 🍎",
+        "<TabItem value=\"$1\" label=\"$1\" groupId=\"group1\" default>",
+         "$2",
         "</TabItem>",
-        "<TabItem value=\"orange\" label=\"Orange\">",
-          "This is an orange 🍊",
+        "<TabItem value=\"$3\" label=\"$3\">",
+         "$4",
         "</TabItem>",
-        "<TabItem value=\"banana\" label=\"Banana\">",
-          "This is a banana 🍌",
-        "</TabItem>",
-      "</Tabs>"]
+      "</Tabs>",
+      "$5"]
     }
 }
