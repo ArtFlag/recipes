@@ -1,6 +1,7 @@
 ---
 title: Brownies
 ---
+import CookingStep from "../../src/components/CookingStep";
 
 Moule 18cm
 
@@ -15,7 +16,6 @@ Moule 18cm
 - Sel: 1 pincée
 - Sucre: 140g de sucre brun
 
-1. Préchauffer le four à 170°C.
 1. Coupez le chocolat et le beurre en morceaux, mettez-le à fondre au bain-marie.
 1. Dans un autre bol, fouettez rapidement les oeufs et le sucre.
 1. Mettre au bain marie pour dissoudre le sucre (40-45c max) en remuant constamment.
@@ -24,4 +24,4 @@ Moule 18cm
 1. Ajoutez le sel et la farine, la poudre de cacao tamisées et bien mélanger de bas en haut.
 1. Ajouter l'extrait de vanille.
 1. Versez dans un moule beurré carré ou rond et saupoudrez avec un peu de noix que vous aurez réservé.
-1. Enfournez 25-30 minutes.
+1. <CookingStep temp="170" time="20-30 minutes" preheat />
