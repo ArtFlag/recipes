@@ -6,15 +6,15 @@ import MyImg from "@site/static/img/tour-simple.png";
 
 Détrempe:
 
-- farine type 55: 500g
-- Eau temprée: 240-250g
+- Farine type 55: 500g
+- Eau temperée: 240-250g
 - Sel fin ou fleur de sel: 10g
 - (Optionel) Vinaigre blanc: 1 CAS
 - (Optionel) Beurre fondu: 50g
 
 Tourage:
 
-- Beurre de tourage (84% mat grasse): Moitié du poids de l'eau+farine: 370g-375g (ou margarine à feuilletage)
+- Beurre de tourage (84% mat grasse): Moitié du poids de l'eau+farine: 370g-375g
 
 ## Préparation
 
