@@ -4,16 +4,18 @@ title: Ginger ale
 
 ## Ginger bug
 
-- 3 tbsp ginger root
-- 3 tbsp sugar
+- 3 tbsp ginger root (21g)
+- 3 tbsp sugar (35g)
 
 1. Peel and chop the ginger.
 1. Put it in a 1 quart mason jar.
 1. Add 3 tbsp sugar.
-1. Add 2 cups non chlorinated water.
+1. Add 2 cups non chlorinated water. (470g)
 1. Stir well.
 1. Leave it for 5-6 days at room temp.
-1. Feed it every day with 1 tbsp of chopped ginger and of sugar.
+1. Feed it every day with:
+   1. 1 tbsp of chopped ginger: 7g
+   1. 1 tbsp of sugar: 11g
 
 To maintain it, 1 tea spoon of sugar/ginger. Once a week if it's in the fridge.
 
