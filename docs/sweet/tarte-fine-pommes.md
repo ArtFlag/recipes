@@ -28,7 +28,7 @@ import CookingStep from "../../src/components/CookingStep";
 1. Etaler du beurre sur la totalité au pinceau.
 1. Saupoudrer de sucre en poudre via un tamis.
 1. Saupoudrer de cannelle.
-1. <CookingStep temp="180" time="30" fan preheat />
+1. <CookingStep temp="180" time="30 minutes" fan preheat />
 1. Passer un nappage neutre sur la tarte:
    1. 50 g d'eau
    1. 50 g de sucre
