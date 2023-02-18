@@ -3,25 +3,25 @@ title: Brownies
 ---
 import CookingStep from "../../src/components/CookingStep";
 
-Moule 18cm
+19x19cm square pan
 
-- (optionel) Cafe instantanee: 1 cac
-- (optionel) Fruits a coque: 90g
-- Beurre: 90g
-- Chocolat noir: 150g
-- Extrait de vanille: 1 cac
-- Farine: 30g
-- Oeufs: 2
-- Poudre de cacao: 20g
-- Sel: 1 pincée
-- Sucre: 140g de sucre brun
+- 200g dark chocolate
+- 110g (1/2cup) unsalted butter
+- 3 eggs
+- 130g (3/4cup) granulated sugar
+- 50g (1/4cup) dark brown sugar
+- 65g (1/2cup) all-purpose flour
+- 25g (1/4cup) cocoa powder(unsweetened)
+- 1/4 tsp salt
+- 1 tsp vanilla extract
 
-1. Coupez le chocolat et le beurre en morceaux, mettez-le à fondre au bain-marie.
-1. Dans un autre bol, fouettez rapidement les oeufs et le sucre.
-1. Mettre au bain marie pour dissoudre le sucre (40-45c max) en remuant constamment.
-1. Une fois le sucre dissoud, battre au mixeur (preparation encore chaude) jusqu'a avoir un melange tres mousseux.
-1. Ajoutez le mélange de chocolat aux oeufs et melanger rapidement au batteur.
-1. Ajoutez le sel et la farine, la poudre de cacao tamisées et bien mélanger de bas en haut.
-1. Ajouter l'extrait de vanille.
-1. Versez dans un moule beurré carré ou rond et saupoudrez avec un peu de noix que vous aurez réservé.
+
+1. Melt chocolate and butter over water bath.
+1. In another bowl, mix sugar, vanilla extract and eggs.
+1. Set over water bath to disolve the sugar.
+1. Away from the heat, beat until white and fluffy. If you don't beat the eggs enough, it'll look like fudge.
+1. Add melted chocolate.
+1. In a different bowl, mix salt, flour and cocoa powder.
+1. Add it to the batter through a sifter.
+1. Mix delicately.
 1. <CookingStep temp="170" time="20-30 minutes" preheat />
