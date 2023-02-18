@@ -3,13 +3,13 @@ title: Crockpot chicken noodle soup
 ---
 
 - Can of chicken broth (400ml): 1 can/bottle
-- Water with chicken broth: 6 cups
+- Water with chicken broth: 6-7cups / 1.5-2L + 30-40g chicken broth
 - Carrtos: 2 cups
 - Garlic cloves: 3
 - Oignon: 1
 - Celeri: 1 cup / 4 stalks
 - Chicken breasts: 2-3 breasts
-- Salt: 1 tbsp
+- Salt: 1 tbsp (20g)
 - Thyme or oregano: 1 tbsp
 - Olive oil: 1 tsp
 - Egg pasta: 100g
