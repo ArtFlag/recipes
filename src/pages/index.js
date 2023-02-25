@@ -83,6 +83,14 @@ const shortcuts_savoury = {
       title: "Galettes",
     },
     {
+      id: "docs/savoury/gougere",
+      title: "Gougère",
+    },
+    {
+      id: "docs/savoury/Kimchi",
+      title: "Kimchi",
+    },
+    {
       id: "docs/bread/pizza",
       title: "Pizza",
     },
