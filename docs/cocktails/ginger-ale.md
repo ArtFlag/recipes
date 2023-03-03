@@ -21,14 +21,14 @@ To maintain it, 1 tea spoon of sugar/ginger. Once a week if it's in the fridge.
 
 ## Ginger ale
 
-- 1/4 cup ginger bug
-- 1 gallon filtered water
-- 1 cup sugar
-- 1/4 fresh peeled ginger.
+- Water: 4 cups / 1L
+- Chopped: Fresh ginger 1/3 Cup
+- (Optional) Lemon or lime: 1
+- Sugar: 1/2 cup (100g)
+- Filtered active ginger bug: 1/4 cup
 
-1. Bring water and ginger to a boil for 10ish minutes.
-1. Add one cup sugar and turn off heat.
-1. 2 table spoon lemon juice.
+1. Bring 1 cup (240g) water and the ginger to a boil for 10ish minutes.
+1. Away from the heat, add the remaining 3 cups water to cool down the wort.
 1. Wait until cooled off and strain into other recipient.
 1. Add 1/4 cup strained ginger bug liquid.
-1. Keep lid loose and keep at room temp for 4-5 days then bottle it and keep in fridge.
+1. Ferment for 3-6 days. During the fermentation process, "burp" the bottles every day.
