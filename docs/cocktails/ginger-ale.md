@@ -22,9 +22,9 @@ To maintain it, 1 tea spoon of sugar/ginger. Once a week if it's in the fridge.
 ## Ginger ale
 
 - Water: 4 cups / 1L
-- Chopped fresh ginger: 1/3 Cup (45g)
+- Chopped fresh ginger: 1/3+ Cup (50g)
 - (Optional) Lemon or lime: 1
-- Sugar: 1/2 cup (90-100g)
+- Sugar: 1/2 cup (80g)
 - Filtered active ginger bug: 1/4 cup/60ml/60g
 
 1. Bring 1 cup (240g) water and the ginger to a boil for 10ish minutes.
