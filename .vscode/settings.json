@@ -2,5 +2,6 @@
 	"files.trimTrailingWhitespace": true,
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
-	"npm.autoDetect": "off"
+  "npm.autoDetect": "off",
+  "task.autoDetect": "off"
 }

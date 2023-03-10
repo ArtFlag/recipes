@@ -9,8 +9,9 @@ const CookingStep = ({ time, temp, preheat = true, fan = false }) => {
     <>
       <span className={styles.cooking}>
         <img src={ThermometerUrl} />
-        <strong>{temp}</strong>° {preheat ? <strong>preheated</strong> : ``}{" "}
-        <img src={ClockUrl}/> <strong>{time}</strong>.{fan ? <img src={FanUrl} /> : ``}
+        <strong>{temp}</strong>° {fan ? <img src={FanUrl} /> : ``}{" "}
+        {preheat ? <strong>preheated</strong> : ``} <img src={ClockUrl} />{" "}
+        <strong>{time}</strong>.
       </span>
     </>
   );

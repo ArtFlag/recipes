@@ -132,6 +132,10 @@ const shortcuts_cocktails = {
       id: "docs/cocktails/gin-basil-smash",
       title: "Gin basil smash",
     },
+    {
+      id: "docs/cocktails/ginger-ale",
+      title: "Ginger ale",
+    }
   ],
 };
 

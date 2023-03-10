@@ -27,12 +27,12 @@
   min-width: 180px;
   background-color: var(--ifm-color-primary-light);
   border-color: transparent;
-  color: #e7e7e7 !important;
+  color: var(--ifm-color-primary-dark);
   font-weight: var(--ifm-font-weight-light);
 }
 .button:hover {
-  background-color: var(--ifm-color-dark);
-  border-color: var(--ifm-color-primary-lighter);
+  background-color: var(--ifm-color-primary-lightest);
+  box-shadow: 3px 3px 5px var(--ifm-color-primary-dark);
 }
 
 .features {
