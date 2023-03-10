@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://artflag.github.io',
   baseUrl: '/recipes/',
   onBrokenLinks: 'throw',
-  favicon: '/img/favicons/favicon-32x32.png',
+  favicon: '/favicon-32x32.png',
   organizationName: 'artflag', // Usually your GitHub org/user name.
   projectName: 'recipes', // Usually your repo name.
   themeConfig: {
@@ -72,5 +72,31 @@ module.exports = {
         },
       },
     ],
+  ],
+  stylesheets: [
+    {
+      href: '/recipes/apple-touch-icon.png',
+      rel: 'apple-touch-icon',
+      sizes: '180x180',
+    },
+    {
+      href: '/recipes/favicon-32x32.png',
+      rel: 'icon',
+      sizes: '32x32',
+    },
+    {
+      href: '/recipes/favicon-16x16.png',
+      rel: 'icon',
+      sizes: '16x16',
+    },
+    {
+      href: '/recipes/site.webmanifest',
+      rel: 'manifest',
+    },
+    {
+      href: '/recipes/safari-pinned-tab.svg',
+      rel: 'mask-icon',
+      color: '#5bbad5',
+    },
   ],
 };
