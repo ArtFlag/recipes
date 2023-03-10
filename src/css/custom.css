@@ -12,10 +12,10 @@
 :root {
   --ifm-font-family-base: "Roboto";
   --ifm-color-primary: #6596e4;
-  --ifm-color-primary-dark: #164ea9;
+  --ifm-color-primary-dark: #3d6cb7;
   --ifm-color-primary-darker: #0b57d1;
   --ifm-color-primary-darkest: #032f76;
-  --ifm-color-primary-light: #839fcd;
+  --ifm-color-primary-light: #a5b6d0;
   --ifm-color-primary-lighter: #9eb5d9;
   --ifm-color-primary-lightest: #b1c1db;
   --ifm-code-font-size: 95%;
