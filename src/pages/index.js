@@ -125,8 +125,8 @@ const shortcuts_cocktails = {
       title: "Negroni",
     },
     {
-      id: "docs/cocktails/chicha-sour",
-      title: "Chicha sour",
+      id: "docs/cocktails/whiskey-smash",
+      title: "Whiskey smash",
     },
     {
       id: "docs/cocktails/gin-basil-smash",
@@ -135,7 +135,11 @@ const shortcuts_cocktails = {
     {
       id: "docs/cocktails/ginger-ale",
       title: "Ginger ale",
-    }
+    },
+    {
+      id: "docs/cocktails/chicha-sour",
+      title: "Chicha sour",
+    },
   ],
 };
 
@@ -163,7 +167,7 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout description="">
-      <header className={clsx("hero hero--primary", styles.heroBanner)}>
+      <header className={clsx("hero ", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>

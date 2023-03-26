@@ -11,16 +11,17 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-family-base: "Roboto";
-  --ifm-color-primary: #6596e4;
+  --ifm-color-primary: #5a88d4;
   --ifm-color-primary-dark: #3d6cb7;
   --ifm-color-primary-darker: #0b57d1;
   --ifm-color-primary-darkest: #032f76;
-  --ifm-color-primary-light: #a5b6d0;
-  --ifm-color-primary-lighter: #9eb5d9;
-  --ifm-color-primary-lightest: #b1c1db;
+  --ifm-color-primary-light: #7d9ed0;
+  --ifm-color-primary-lighter: #91b3ea;
+  --ifm-color-primary-lightest: #c8d8f3;
   --ifm-code-font-size: 95%;
   --ifm-list-paragraph-margin: 2px;
   --ifm-paragraph-margin-bottom: 2px;
+  --ifm-hero-background-color: var(--ifm-color-primary-lighter);
 }
 :root[data-theme="dark"]{
   --ifm-heading-color: white;
