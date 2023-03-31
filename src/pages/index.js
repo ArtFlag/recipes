@@ -219,9 +219,9 @@ function Home() {
       <main>
         <div className={styles.flex}>
           <Shortcuts contents={shortcuts_bread} />
-          <Shortcuts contents={shortcuts_cocktails} />
           <Shortcuts contents={shortcuts_sweet} />
           <Shortcuts contents={shortcuts_savoury} />
+          <Shortcuts contents={shortcuts_cocktails} />
         </div>
       </main>
     </Layout>
