@@ -51,6 +51,10 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/artflag/recipes',
             },
+            {
+              label: 'Oven stuff',
+              href: '/docs/oven',
+            },
           ],
         },
       ],
