@@ -72,6 +72,18 @@ const shortcuts_sweet = {
       id: "docs/sweet/sables-diamant",
       title: "Sablés diamant",
     },
+    {
+      id: "docs/sweet/pate-feuilletee",
+      title: "Pâte feuilletée",
+    },
+    {
+      id: "docs/sweet/pate-sablee",
+      title: "Pâte sablée",
+    },
+    {
+      id: "docs/sweet/pate-sucree",
+      title: "Pâte sucrée",
+    },
   ],
 };
 

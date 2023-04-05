@@ -105,7 +105,7 @@ Pour faire un levain, voir [Levain](levain.md).
     </td>
     <td>80g</td>
     <td>315g (63%)</td>
-    <td>11g</td>
+    <td>10g</td>
     <td>
     </td>
   </tr>
@@ -134,6 +134,23 @@ Pour faire un levain, voir [Levain](levain.md).
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          AP: 400g
+        </li>
+        <li>
+          Whole-rye: 100g
+        </li>
+      </ul>
+    </td>
+    <td>100g</td>
+    <td>330g (66%)</td>
+    <td>10g</td>
+    <td>
+    </td>
+  </tr>
 </tbody>
 </table>
 
@@ -145,8 +162,6 @@ Pour faire un levain, voir [Levain](levain.md).
 | 10%-12%  | 20%-40%                |
 | 12%-14%  | 40%-70%                |
 | >15%     | 70%-110%               |
-
-**Note:** Avec farine Alnatura / Rewe, ne pas depasser 66% d'eau.
 
 ## Recette
 
