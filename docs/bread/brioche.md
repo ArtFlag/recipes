@@ -12,14 +12,36 @@ title: Brioche
 
 ### Ingredients
 
-- 220 g de Beurre gastronomique doux (+10 g pour beurrer les moules)
-- 10 cl de Lait
-- 500 g de farine T45
-- 18 g de levure fraîche (ou 9g levure seche)
-- 100 g de sucre
-- 4 oeufs
-- 1 jaune d'oeuf
-- 12 g de sel (+ 1 pincée)  (-5g si beurre salé)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="Recette 1" label="Recette 1" groupId="group1" default>
+
+- Farine forte: 500g
+- Beurre doux: 220g de Beurre gastronomique doux 44%
+- Lait: 10 cl de Lait 2%
+- Levure fraiche: 18g de levure fraîche (ou 9g levure seche)
+- Sucre: 100 g de sucre 20%
+- Oeufs: 4 oeufs
+- Sel: 10-12g
+- Jaune d'oeuf pour dorer: 1
+
+</TabItem>
+
+<TabItem value="Recette 2" label="Recette 2">
+
+- Farine forte: 300g
+- Beurre doux: 120g 40%
+- Lait: 75g 4,5%
+- Levure fraise 15g (7g levure seche) 4.5%
+- Sucr: 40g 13%
+- Oeufs: 120g 40%
+- Sel: 6g 2%
+- Jaune d'oeuf pour dorer: 1
+
+</TabItem>
+</Tabs>
 
 ### Levain
 
