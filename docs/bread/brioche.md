@@ -2,6 +2,8 @@
 title: Brioche
 ---
 
+import CookingStep from "../../src/components/CookingStep";
+
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5d9eUgVhRn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
@@ -19,11 +21,11 @@ import TabItem from '@theme/TabItem';
 <TabItem value="Recette 1" label="Recette 1" groupId="group1" default>
 
 - Farine forte: 500g
-- Beurre doux: 220g de Beurre gastronomique doux 44%
-- Lait: 10 cl de Lait 2%
+- Beurre doux: 200g de Beurre gastronomique doux 40%
+- Lait: 10cl de Lait 2%
 - Levure fraiche: 18g de levure fraîche (ou 9g levure seche)
-- Sucre: 100 g de sucre 20%
-- Oeufs: 4 oeufs
+- Sucre: 100g de sucre 20%
+- Oeufs: 4
 - Sel: 10-12g
 - Jaune d'oeuf pour dorer: 1
 
@@ -32,13 +34,17 @@ import TabItem from '@theme/TabItem';
 <TabItem value="Recette 2" label="Recette 2">
 
 - Farine forte: 300g
-- Beurre doux: 120g 40%
+- Beurre doux: 114g 38%
 - Lait: 75g 4,5%
-- Levure fraise 15g (7g levure seche) 4.5%
-- Sucr: 40g 13%
+- Levure fraiche 15g (7g levure seche) 4.5%
+- Sucre: 40g 13%
 - Oeufs: 120g 40%
 - Sel: 6g 2%
 - Jaune d'oeuf pour dorer: 1
+
+
+<CookingStep temp="150" time="92c dans la brioche" fan preheat />
+
 
 </TabItem>
 </Tabs>
@@ -85,6 +91,8 @@ import TabItem from '@theme/TabItem';
 
 ### Cuisson
 
+92c dans la brioche = brioche cuite.
+
 1. Prechauffez le four.
    - Brioches familiales: 180.
    - Brioches individuelles: 200.
@@ -108,7 +116,7 @@ import MyImg from "@site/static/img/tour-simple-double.png";
    1. Lait froid: 50g
 1. Couvrir et laisser fermenter 1h a temperature ambiante.
 
-1. Melanger jusqu'a developer gluten:
+1. Melanger jusqu'a developer le gluten:
    1. Farine a pain: 340g
    1. Sucre: 40g
    1. SelP 8g
@@ -119,7 +127,7 @@ import MyImg from "@site/static/img/tour-simple-double.png";
 1. Bouler - pause 2h ou + jusqu'a doublement.
 1. Degazer. Rebouler. Frigo pour 12h-15h.
 
-1. Le ledemain, couper en 4, egaler en fuseau de 50cm et mise en forme:
+1. Le lendemain, couper en 4, egaler en fuseau de 50cm et mise en forme:
 
    <div class="youtube-video-container">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/QqBKaLnUw5A?start=315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
