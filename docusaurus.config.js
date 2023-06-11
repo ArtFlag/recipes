@@ -7,6 +7,7 @@ module.exports = {
   favicon: '/favicon-32x32.png',
   organizationName: 'artflag',
   projectName: 'recipes',
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Recipes',
