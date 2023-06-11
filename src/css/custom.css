@@ -26,11 +26,13 @@
 :root[data-theme="dark"]{
   --ifm-heading-color: white;
   --ifm-color-primary: #6096ed;
+  --ifm-color-primary-dark: #191c22;
   --ifm-color-primary-light: #36588e;
   --ifm-color-primary-lighter: #6f86a7;
   --ifm-color-primary-lightest: #9ebcf4;
   --ifm-link-color: var(--ifm-color-primary);
   --ifm-tabs-color-active: var(--ifm-link-color);
+  --ifm-hero-background-color: var(--ifm-color-primary-dark);
 }
 h1,h2,h3,h4{
   font-weight: var(--ifm-font-weight-light);

@@ -3,6 +3,9 @@
   vertical-align: text-bottom;
   padding: 0 3px 0 5px;
 }
+:root[data-theme="dark"] .cooking img{
+  filter: invert(1);
+}
 .cooking{
   background-color: var(--ifm-color-primary);
   padding: 0.5rem;
