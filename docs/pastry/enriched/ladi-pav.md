@@ -2,7 +2,7 @@
 title: Ladi Pav
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import CookingStep from "../../../src/components/CookingStep";
 
 - Salt: 10g
 - AP Flour: 480g

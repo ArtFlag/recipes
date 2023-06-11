@@ -2,7 +2,7 @@
 title: Tarte aux pommes
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import CookingStep from "../../../src/components/CookingStep";
 
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IPbTzm6K-d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -31,7 +31,7 @@ import CookingStep from "../../src/components/CookingStep";
 **Autres**
 
 - 6 to 8 Pink Ladies apples
-- [Fond de tarte sucrée 20cm](/docs/sweet/pate-sucree)
+- [Fond de tarte sucrée 20cm](pate-sucree)
 
 ## Méthode
 

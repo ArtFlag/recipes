@@ -2,7 +2,7 @@
 title: Tarte aux pommes
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import CookingStep from "../../../src/components/CookingStep";
 
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ClDvzqZ5VbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -10,7 +10,7 @@ import CookingStep from "../../src/components/CookingStep";
 
 24-26cm:
 
-- [Pâte feuilletée](/docs/sweet/pate-feuilletee): 250g
+- [Pâte feuilletée](pate-feuilletee): 250g
 - Sucre en poudre: 50g
 - Sucre brun: 20g
 - Beurre: 50g
