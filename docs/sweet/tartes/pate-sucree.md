@@ -39,5 +39,5 @@ Dorure :
 1. Cuire 6-8 minutes chaleur tournante.
 1. Saupoudrer de beurre de cacao Mycryo pour conserver le croustillant.
 
-- [Pate feuilletee](/docs/sweet/pate-feuilletee)
-- [Pate sablée](/docs/sweet/pate-sablee)
+- [Pate feuilletee](pate-feuilletee)
+- [Pate sablée](pate-sablee)

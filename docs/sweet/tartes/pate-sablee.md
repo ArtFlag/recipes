@@ -27,5 +27,5 @@ title: Pâte sablée
 1.  Enfourner à 180c chaleur tournante jusqu'à obtenir une couleur dorée (6-8 minutes).
 
 
-- [Pate feuilletee](/docs/sweet/pate-feuilletee)
-- [Pate sucrée](/docs/sweet/pate-sucree)
+- [Pate feuilletee](pate-feuilletee)
+- [Pate sucrée](pate-sucree)

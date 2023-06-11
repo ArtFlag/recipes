@@ -111,4 +111,3 @@ Vers la fin de la cuission, preparez un sirop:
 1. Versez l'eau et le sucre dans une casserole et portez à ebuilition.
 1. Hors du feu, ajoutez le rhum et melanger.
 1. Sortir la galette et badigeonez la galette.
-1.
