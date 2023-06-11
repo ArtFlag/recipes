@@ -99,7 +99,7 @@ const shortcuts_savoury = {
       title: "Kimchi",
     },
     {
-      id: "docs/pastry/pizza",
+      id: "docs/pastry/bread/pizza",
       title: "Pizza",
     },
     {
@@ -197,7 +197,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl("docs/sweet/baklava-noix")}
+              to={useBaseUrl("docs/sweet/biscuits/alfajores")}
             >
               Sweet
             </Link>
@@ -207,7 +207,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl("docs/pastry/pain")}
+              to={useBaseUrl("docs/pastry/bread/pain")}
             >
               Bread
             </Link>
