@@ -1,7 +1,7 @@
 ---
 title: Brownies
 ---
-import CookingStep from "../../src/components/CookingStep";
+import CookingStep from "../../../src/components/CookingStep";
 
 19x19cm square pan
 
@@ -14,7 +14,6 @@ import CookingStep from "../../src/components/CookingStep";
 - 25g (1/4cup) cocoa powder(unsweetened)
 - 1/4 tsp salt
 - 1 tsp vanilla extract
-
 
 1. Melt chocolate and butter over water bath.
 1. In another bowl, mix sugar, vanilla extract and eggs.

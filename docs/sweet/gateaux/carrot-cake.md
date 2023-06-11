@@ -2,7 +2,7 @@
 title: Carrot cake
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import CookingStep from "../../../src/components/CookingStep";
 
 **Cake:**
 

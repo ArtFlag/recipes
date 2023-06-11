@@ -8,38 +8,38 @@ import styles from "./styles.module.css";
 import Head from "@docusaurus/Head";
 
 const shortcuts_bread = {
-  title: "Bread",
+  title: "Pastry",
   links: [
     {
-      id: "docs/bread/kanelsnurrer",
+      id: "docs/pastry/enriched/kanelsnurrer",
       title: "Kanelsnurrer",
     },
     {
-      id: "docs/bread/pain",
+      id: "docs/pastry/bread/pain",
       title: "Pain au levain",
     },
     {
-      id: "docs/bread/brioche-suisse",
+      id: "docs/pastry/enriched/brioche-suisse",
       title: "Brioche suisse",
     },
     {
-      id: "docs/bread/brioche",
+      id: "docs/pastry/enriched/brioche",
       title: "Brioche",
     },
     {
-      id: "docs/bread/brioche-feuilletee",
+      id: "docs/pastry/enriched/brioche-feuilletee",
       title: "Brioche feuilletée",
     },
     {
-      id: "docs/bread/cinnamon-buns",
+      id: "docs/pastry/enriched/cinnamon-buns",
       title: "Cinnamon buns",
     },
     {
-      id: "docs/bread/croissant",
+      id: "docs/pastry/enriched/croissant",
       title: "Croissants",
     },
     {
-      id: "docs/bread/bagels",
+      id: "docs/pastry/bread/bagels",
       title: "Bagels",
     },
   ],
@@ -49,39 +49,35 @@ const shortcuts_sweet = {
   title: "Sweet",
   links: [
     {
-      id: "docs/sweet/tarte-regent",
+      id: "docs/sweet/tartes/tarte-regent",
       title: "Tarte du regent",
     },
     {
-      id: "docs/sweet/tarte-fine-pommes",
+      id: "docs/sweet/tartes/tarte-fine-pommes",
       title: "Tarte aux pommes fine",
     },
     {
-      id: "docs/sweet/tarte-supreme-choco",
+      id: "docs/sweet/tartes/tarte-supreme-choco",
       title: "Tarte chocolat suprême",
     },
     {
-      id: "docs/sweet/baklava-noix",
-      title: "Baklava aux noix",
-    },
-    {
-      id: "docs/sweet/palets-bretons",
+      id: "docs/sweet/biscuits/palets-bretons",
       title: "Palets bretons",
     },
     {
-      id: "docs/sweet/sables-diamant",
+      id: "docs/sweet/biscuits/sables-diamant",
       title: "Sablés diamant",
     },
     {
-      id: "docs/sweet/pate-feuilletee",
+      id: "docs/sweet/tartes/pate-feuilletee",
       title: "Pâte feuilletée",
     },
     {
-      id: "docs/sweet/pate-sablee",
+      id: "docs/sweet/tartes/pate-sablee",
       title: "Pâte sablée",
     },
     {
-      id: "docs/sweet/pate-sucree",
+      id: "docs/sweet/tartes/pate-sucree",
       title: "Pâte sucrée",
     },
   ],
@@ -103,7 +99,7 @@ const shortcuts_savoury = {
       title: "Kimchi",
     },
     {
-      id: "docs/bread/pizza",
+      id: "docs/pastry/pizza",
       title: "Pizza",
     },
     {
@@ -211,7 +207,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl("docs/bread/pain")}
+              to={useBaseUrl("docs/pastry/pain")}
             >
               Bread
             </Link>

@@ -5,8 +5,8 @@ module.exports = {
   baseUrl: '/recipes/',
   onBrokenLinks: 'throw',
   favicon: '/favicon-32x32.png',
-  organizationName: 'artflag', // Usually your GitHub org/user name.
-  projectName: 'recipes', // Usually your repo name.
+  organizationName: 'artflag',
+  projectName: 'recipes',
   themeConfig: {
     navbar: {
       title: 'Recipes',
@@ -25,13 +25,13 @@ module.exports = {
           label: 'Sweet',
           position: 'left',
           type: 'doc',
-          docId: 'sweet/cookies'
+          docId: 'sweet/biscuits/alfajores'
         },
         {
-          label: 'Bread',
+          label: 'Pastry',
           position: 'left',
           type: 'doc',
-          docId: 'bread/brioche'
+          docId: 'pastry/enriched/brioche'
         },
         {
           label: 'Cocktails',
@@ -58,7 +58,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Absolutely no copyright © ${new Date().getFullYear()} ArtFlag, Built with Docusaurus.`,
+      copyright: `Built with Docusaurus`,
     },
   },
   presets: [

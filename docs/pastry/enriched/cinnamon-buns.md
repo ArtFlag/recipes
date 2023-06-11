@@ -2,7 +2,7 @@
 title: Cinnamon buns
 ---
 
-import CookingStep from '../../src/components/CookingStep'
+import CookingStep from '../../../src/components/CookingStep'
 
 ## Ingredients
 
