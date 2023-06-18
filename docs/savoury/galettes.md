@@ -12,18 +12,18 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="20">
 
-- Farine de sarrasin : 330g (44-47%)
-- Eau: 700
-- Gros sel gris: 14g
+- Farine de sarrasin : 330g
+- Eau: 700 (212%)
+- Gros sel gris: 14g (4%)
 - Œuf: 1 (Optionel)
 
 </TabItem>
 
 <TabItem value="10">
 
-- Farine de sarrasin/ buchweizen : 165g (44-47%)
-- Eau: 350
-- Gros sel gris: 7g
+- Farine de sarrasin/ buchweizen : 165g
+- Eau: 350 (212%)
+- Gros sel gris: 7g (4%)
 - Œuf: 1 (Optionel)
 
 </TabItem>
