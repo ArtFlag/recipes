@@ -14,38 +14,16 @@ import CookingStep from "../../../src/components/CookingStep";
 
 ### Ingredients
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs>
-<TabItem value="Recette 1" label="Recette 1" groupId="group1" default>
-
-- Farine forte: 500g
-- Beurre doux: 200g de Beurre gastronomique doux 40%
-- Lait: 10cl de Lait 2%
-- Levure fraiche: 18g de levure fraîche (ou 9g levure seche)
-- Sucre: 100g de sucre 20%
-- Oeufs: 4
-- Sel: 10-12g
-- Jaune d'oeuf pour dorer: 1
-
-</TabItem>
-
-<TabItem value="Recette 2" label="Recette 2">
-
 - Farine forte: 300g
 - Beurre doux: 114g 38%
 - Lait: 75g 4,5%
 - Levure fraiche 15g (7g levure seche) 4.5%
 - Sucre: 40g 13%
-- Oeufs: 120g 40%
+- Oeufs: 110g 36% (2)
 - Sel: 6g 2%
 - Jaune d'oeuf pour dorer: 1
 
 <CookingStep temp="150" time="35min (92c a coeur)" fan preheat />
-
-</TabItem>
-</Tabs>
 
 ### Levain
 
@@ -57,14 +35,13 @@ import TabItem from '@theme/TabItem';
 
 ### Petrissage
 
-1. Dans la cuve qui contient le préferment, ajoutez 4 œufs entiers ainsi que le sucre et le sel.
-1. Placez le crochet sur votre robot et démarrez le pétrissage en vitesse 1 pendant 5 minutes.
-   Après ce délai, poursuivez l'opération de pétrissage en vitesse 2 pendant 10 minutes.
+1. Dans la cuve qui contient le préferment, ajoutez œufs entiers, sucre, sel.
+1. Vitesse 1 pendant 5 minutes, puis vitesse 2 pendant 10 minutes.
 1. Progressivement, incorporez le beurre mou coupé en morceaux tout en laissant
   tourner le robot. Continuez a pétrir pendant 15 à 20 minutes.
-1. Vous pouvez stopper le robot lorsque la pâte se découle des bords de la cuve. La pâte doit alors être bien
-   souple, élastique et ne pas coller aux mains.
-1. Otez le crochet et couvrez votre cuve avec un linge humide. Laissez la pâte lever pendant 1h30 à
+1. Stopper le robot lorsque la pâte se découle des bords de la cuve.
+   La pâte doit alors être bien souple et ne doit pas coller.
+1. Laissez la pâte lever pendant 1h30 à
    2h selon la température ambiante de la pièce.
 1. Farinez légèrement votre plan de travail puis récupérez la pâte.
    Dégazez grossièrement et donnez deux rabats dans un
@@ -76,11 +53,7 @@ import TabItem from '@theme/TabItem';
 
 1. Séparez la pâte en deux et réservez l'autre moitié au frais. Votre pâte a doublé de volume.
 1. Récupérer votre pâte sur votre plan de travail légèrement fariné.
-1. Donner un tout simple: Abaissez la pâte en rectangle d'une largeur équivalente à la
-   moitié de la longueur puis repliez-la en 3.
-1. Renouvelez cette opération deux fois de plus.
-   Si après le deuxième tour simple vous constatez que votre pâte est devenue très élastique
-   et que celle-ci a déjà pris beaucoup de force, ne réalisez pas le troisième tour simple.
+1. Donner 2-3 tours simples.
 1. Choisissez la forme de la brioche que vous souhaitez selon vos envies ou vos moules disponibles.
 1. Par exemple abaisser la pâte en rectangle puis la rouler en boudin. A l'aide d'un couteau bien aiguisé, découpez des tronçons de pâte de la moitié de la hauteur de votre moule.
 1. Disposez-les ensuite à la verticale dans les moules préalablement beurrés.
@@ -100,12 +73,6 @@ import TabItem from '@theme/TabItem';
    - Brioches individuelles: 20 minutes
 1. Laissez refroidir sur une grille.
 
-### Tour simple et double
-
-import MyImg from "@site/static/img/tour-simple-double.png";
-
-<img src={MyImg} width="80%"/>
-
 ## Poolish
 
 1. Melanger:
@@ -117,8 +84,8 @@ import MyImg from "@site/static/img/tour-simple-double.png";
 1. Melanger jusqu'a developer le gluten:
    1. Farine a pain: 340g
    1. Sucre: 40g
-   1. SelP 8g
-   1. Ajouter 4 oeufs battu
+   1. Sel: 8g
+   1. Oeufs battus: 3 oeufs battu
    1. Poolish
 
 1. Ajouter 150g de beurre.
