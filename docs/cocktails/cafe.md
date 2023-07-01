@@ -6,11 +6,11 @@ title: Café
 
 **60g/L**
 
-| Contenant |  Cafe  | Eau  |
-| --------- | ------ | ---- |
-| Cafetiere | 30g    | 500g |
-| Mug       | 22-28g | 450g |
-| ½ Mug     | 14g    | 225g |
+|  Contenant  |  Cafe  | Eau  |
+|-------------|--------|------|
+| Cafetiere   | 30g    | 500g |
+| Mug         | 22-28g | 450g |
+| Regular Mug | 18g    | 270g |
 
 :::note
 - 1 CAC = 8g de café fin
