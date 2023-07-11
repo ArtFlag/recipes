@@ -39,13 +39,13 @@ import TabItem from '@theme/TabItem';
 
 ## Greek non-rising pita
 
-250g white bread flour
-5g salt
-3g instant dry yeast or 3.6g (0.12oz) active dry yeast or (0.3oz) 9g fresh yeast
-5g sugar
-25g olive oil
-1g fresh picked thyme leaves
-145g cold water*
+- 250g white bread flour
+- 5g salt
+- 3g instant dry yeast or 3.6g (0.12oz) active dry yeast or (0.3oz) 9g fresh yeast
+- 5g sugar
+- 25g olive oil
+- 1g fresh picked thyme leaves
+- 145g cold water*
 
 1. In a large bowl combine the water, yeast, salt, sugar, thyme, and olive oil. Mix well. Add the flour and mix to a dough.
 1. Tip the dough out on the table and knead it for 5 minutes. Desired dough temperature 25C (77F). If your dough is warmer, then it will ferment more rapidly. If it is cooler, then it will take longer. Adjust proofing time accordingly.

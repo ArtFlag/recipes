@@ -1,5 +1,5 @@
 ---
-title: Tarte aux pommes
+title: Tarte fine aux pommes
 ---
 
 import CookingStep from "../../../src/components/CookingStep";
