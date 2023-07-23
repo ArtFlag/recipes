@@ -27,7 +27,7 @@ or
 
 ## Dough
 
-1. Combine all of the dough ingredients and knead vigorously for 10 minutes (if you're using an electric mixer)
+1. Combine all ingredients and knead vigorously for 10 minutes (if you're using an electric mixer)
    or up to 15 minutes (if you're kneading by hand).
 1. Place the dough in a lightly greased bowl, cover, and set it aside to rise until it's noticeably puffy
    though not necessarily doubled in bulk, 1 to 1 1/2 hours.
@@ -49,20 +49,20 @@ or
 
 1. Transfer the bagels, 4 at a time if possible, to the simmering water. Do not stack them.
 1. Preheat oven to 220, fan off.
-1. Cook the bagels for -12 minutes. Flip them over, and cook 1 minute more.
+1. Cook the bagels for 1-2 minutes. Flip them over, and cook 1 minute more.
 1. Using a strainer, remove the bagels from the water and place them back on the baking sheet. Repeat with the remaining bagels.
 1. (Apply egg wash if needed) and add seasoning.
-1. Bake at 220 for 20 to 25 minutes opiontally turning them over about 15 minutes into the baking time.
+1. Bake at 220 for 20 to 25 minutes optionally turning them over about 15 minutes into the baking time.
 1. Remove the bagels from the oven, and cool completely on a rack.
 
 ## Seasoning
 
 - Dry garlic flakes: 2 tbsp
 - Dry onion flakes: 2.5 tbsp
-- White sesasme seeds: 1.5 tbsp
+- White sesame seeds: 1.5 tbsp
 - Poppy seeds: 1 tbsp
 - Black sesame seeds 1 tbsp
-- Flaky see salt: heaping  half tablespoon
+- Flaky see salt: heaping half tablespoon
 
 # Sourdough
 
