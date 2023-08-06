@@ -15,7 +15,7 @@ import CookingStep from "../../../src/components/CookingStep";
 ### Ingredients
 
 - Farine forte: 300g
-- Beurre doux: 114g 38%
+- Beurre doux: 110g 36%
 - Lait: 75g 4,5%
 - Levure fraiche 15g (7g levure seche) 4.5%
 - Sucre: 40g 13%
