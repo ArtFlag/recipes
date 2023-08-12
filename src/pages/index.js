@@ -49,6 +49,10 @@ const shortcuts_sweet = {
   title: "Sweet",
   links: [
     {
+      id: "docs/sweet/biscuits/oatmeal-cookies",
+      title: "Oatmeal cookies",
+    },
+    {
       id: "docs/sweet/tartes/tarte-regent",
       title: "Tarte du regent",
     },
