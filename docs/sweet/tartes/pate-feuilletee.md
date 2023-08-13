@@ -7,7 +7,7 @@ import MyImg from "@site/static/img/tour-simple.png";
 Détrempe:
 
 - Farine type 55: 500g
-- Eau temperée: 240-250g
+- Eau temperée: 250g
 - Sel fin ou fleur de sel: 10g
 - (Optionel) Vinaigre blanc: 1 CAS
 - (Optionel) Beurre fondu: 50g
