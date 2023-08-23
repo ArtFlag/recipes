@@ -11,6 +11,10 @@ const shortcuts_bread = {
   title: "Pastry",
   links: [
     {
+      id: "docs/pastry/bread/baguette",
+      title: "Baguettes",
+    },
+    {
       id: "docs/pastry/enriched/kanelsnurrer",
       title: "Kanelsnurrer",
     },

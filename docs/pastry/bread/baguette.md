@@ -1,13 +1,38 @@
 ---
-title: Baguette
+title: Baguettes
 ---
 
 import CookingStep from "../../../src/components/CookingStep";
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="Normal" label="Normal" groupId="group1" default>
 
 - T65/Strong flour: 500g
 - Eau: 340g (68%)
 - Sel: 9g de sel (1.8%)
 - Levure fraiche: 10g
+
+</TabItem>
+<TabItem value="Poolish" label="Poolish">
+
+Poolish:
+
+- T65/Strong flour: 170g
+- Eau: 170g
+- Sel: 0
+- Levure fraiche: 1g
+
+Reste:
+
+- T65/Strong flour: 330g
+- Eau: 170g (68%)
+- Sel: 9g de sel (1.8%)
+- Levure fraiche: 8g
+
+</TabItem>
+</Tabs>
 
 1. Autolyse 45 minutes.
 1. Tout melanger.

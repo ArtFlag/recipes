@@ -10,11 +10,14 @@ title: Pain au levain
 | Sel        | 2%         | 10g (2%)                    |
 
 :::note
-Plus la farine a de protéine, plus il est possible d'hydrater.
+- Plus la farine a de protéine, plus il est possible d'hydrater.
 
-Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de
-farine avec un pourcentage d'eau et laisser autolyser. 1h après,
-vérifier si la pâte s'étire bien, ou si elle casse trop rapidement.
+  Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de
+  farine avec un pourcentage d'eau et laisser autolyser. 1h après,
+  vérifier si la pâte s'étire bien, ou si elle casse trop rapidement.
+
+- Temperature de base recherchée = 75c, si petrissage a la main (TB= Tair + Tfarine + Teau).
+
 :::
 
 Pour faire un levain, voir [Levain](levain.md).
@@ -66,7 +69,7 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          Walnuts: 60g
+          Walnuts/Sesame: 60g
         </li>
       </ul>
     </td>

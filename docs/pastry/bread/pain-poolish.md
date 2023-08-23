@@ -2,29 +2,20 @@
 title: Pain poolish
 ---
 
-## Poolish
+Convertir en poolish:
 
-1. Mix:
+- Prendre la moitié du poids l'eau total du pain. Faire 1:1 en farine.
+- Le reste des ingredients est ajouté a la poolish le lendemain.
 
-   - Water: 100g
-   - Active dry yeast: 5g / 2 pinches
-   - 00 Flour: 100g
+:::note Example
 
-1. Rest for 15 minutes.
-1. Cover and rest a few hours at room temp until bubbly.
-1. Put in the fridge for 16-24 hours.
+|        | Final | J1  | J2  |
+|--------|-------|-----|-----|
+| T65    | 1000  | 325 | 675 |
+| Sel    | 18    | /   | 18  |
+| Levure | 8     | 1   | 7   |
+| Eau    | 650   | 170 | 325 |
 
-## Bread
+:::
 
-A few hours later, or the day after, mix:
-
-- 150g whole flour
-- 350g all purpose
-- 210 d'eau
-- 10g de sel
-- 1 poolish
-
-1. Mix and knead.
-1. Let rise then deflate.
-1. When the dough's doubled again, shape.
-1. Bake at 240 for 50min.
+1. Melanger la poolish. Laisser fermenter a temp ambiante 10h.
