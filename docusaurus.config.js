@@ -56,6 +56,10 @@ module.exports = {
               label: 'Oven stuff',
               href: '/docs/oven',
             },
+            {
+              label: 'Temperatures',
+              href: '/docs/temperatures',
+            },
           ],
         },
       ],
