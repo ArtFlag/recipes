@@ -4,9 +4,9 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
- @font-face {
-  font-family: 'Roboto';
-  src: url('/fonts/Roboto.ttf') format('truetype');
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto.ttf") format("truetype");
 }
 /* You can override the default Infima variables here. */
 :root {
@@ -23,7 +23,7 @@
   --ifm-paragraph-margin-bottom: 2px;
   --ifm-hero-background-color: var(--ifm-color-primary-lighter);
 }
-:root[data-theme="dark"]{
+:root[data-theme="dark"] {
   --ifm-heading-color: white;
   --ifm-color-primary: #6096ed;
   --ifm-color-primary-dark: #191c22;
@@ -34,10 +34,13 @@
   --ifm-tabs-color-active: var(--ifm-link-color);
   --ifm-hero-background-color: var(--ifm-color-primary-dark);
 }
-h1,h2,h3,h4{
+h1,
+h2,
+h3,
+h4 {
   font-weight: var(--ifm-font-weight-light);
 }
-h4{
+h4 {
   font-size: 120%;
 }
 
@@ -47,13 +50,14 @@ h4{
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
-.menu{
+.menu {
   font-weight: var(--ifm-font-weight-light);
 }
-.navbar,.navbar__item{
+.navbar,
+.navbar__item {
   font-weight: var(--ifm-font-weight-light);
 }
-.navbar__link--active{
+.navbar__link--active {
   font-weight: var(--ifm-font-weight-normal);
 }
 
@@ -65,7 +69,7 @@ h4{
 
 .youtube-video-container::after {
   display: block;
-  content: '';
+  content: "";
   padding-top: 56.25%;
 }
 
@@ -77,15 +81,25 @@ h4{
   height: 100%;
 }
 
-.tabs.small{
- line-height: 0.6rem;
- padding: 0rem 0;
+.tabs.small {
+  line-height: 0.6rem;
+  padding: 0rem 0;
 }
 
-.tabs.small li{
+.tabs.small li {
   padding: 0.6rem 0.5rem;
 }
+.tabs-container {
+  background-color: #f5f5f9;
+  /* border: 1px solid #e2e2e2; */
+}
+.tabs-container > div{
+  padding: 0.8em;
+}
+.tabs {
+  background-color: #ebedfa;
+}
 
-li[role="tab"]{
+li[role="tab"] {
   background-color: var(--ifm-color-gray-80);
 }
