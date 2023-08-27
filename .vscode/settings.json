@@ -1,7 +1,20 @@
 {
-	"files.trimTrailingWhitespace": true,
-	"files.insertFinalNewline": true,
-	"files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.rulers": [90],
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 90,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
   "npm.autoDetect": "off",
-  "task.autoDetect": "off"
+  "task.autoDetect": "off",
+  "markdownlint.config": {
+    "MD033": false,
+    "MD032": false,
+    "ul-style": {
+      "style": "dash"
+    }
+  }
 }

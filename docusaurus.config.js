@@ -17,29 +17,29 @@ module.exports = {
       },
       items: [
         {
-          label: 'Savoury',
+          label: 'Bread',
           position: 'left',
           type: 'doc',
-          docId: 'savoury/gougere'
+          docId: 'pastry/bread/baguettes',
         },
         {
           label: 'Sweet',
           position: 'left',
           type: 'doc',
-          docId: 'sweet/biscuits/alfajores'
+          docId: 'sweet/biscuits/chocolate-chip-cookies',
         },
         {
-          label: 'Pastry',
+          label: 'Savoury',
           position: 'left',
           type: 'doc',
-          docId: 'pastry/enriched/brioche'
+          docId: 'savoury/gougere',
         },
         {
           label: 'Cocktails',
           position: 'left',
           type: 'doc',
-          docId: 'cocktails/pisco-sour'
-        }
+          docId: 'cocktails/pisco-sour',
+        },
       ],
     },
     footer: {
@@ -73,8 +73,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
 
-          editUrl:
-            'https://github.com/artflag/recipes/edit/master/',
+          editUrl: 'https://github.com/artflag/recipes/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -108,4 +107,4 @@ module.exports = {
       color: '#5bbad5',
     },
   ],
-};
+}

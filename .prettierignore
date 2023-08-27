@@ -1,0 +1,9 @@
+# Ignore artifacts:
+**/build
+**/.docusaurus
+
+# Ignore all HTML and MD files:
+**/*.html
+**/*.md
+**/*.mdx
+**/*.svg
