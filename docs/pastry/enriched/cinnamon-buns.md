@@ -2,7 +2,7 @@
 title: Cinnamon buns
 ---
 
-import CookingStep from '../../../src/components/CookingStep'
+import BakingStep from '../../../src/components/BakingStep'
 
 ## Ingredients
 
@@ -177,7 +177,7 @@ import TabItem from '@theme/TabItem';
 1. Grease a **22x33cm** (9x13in) baking dish, line the bottom of the pan the rolls, put rolls with tails facing to another.
 1. Cover with plastic wrap.
 1. Let rise at room temperature until 1.5x bigger.
-1. <CookingStep temp="190" time="15-25 minutes"/>
+1. <BakingStep temp="190" time="15-25 minutes"/>
 1. Let cool in the container for 15 minutes.
 
 #### Glazing

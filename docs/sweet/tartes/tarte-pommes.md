@@ -2,7 +2,7 @@
 title: Tarte aux pommes
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IPbTzm6K-d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -40,7 +40,7 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Ajouter un bouchon de rhum, et melanger a la spatule pour avoir un melange homogene.
 1. Mettre en poche et etaler la creme sur 1 cm d'epaisseur sur le fond de tarte.
 1. Couper 10g de pomme en cubes et les poser sur la tarte.
-1. <CookingStep temp="180" time="10-15 minutes" preheat />
+1. <BakingStep temp="180" time="10-15 minutes" preheat />
 
 La crème doit être figée en sortie de four.
 

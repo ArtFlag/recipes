@@ -2,7 +2,7 @@
 title: Baguettes
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -53,4 +53,4 @@ Reste:
 1. 250 chaleur tournante avec pierre de cuisson au milieu et preparer un bac en dessous.
 1. Mettre les baguettes sur un papier cuisson sur une plaque et mettre 50ml d'eau a bouillir.
 1. Scarifier, en enfourner sur la pierre.
-1. <CookingStep temp="240" time="25 minutes" preheat fan /> + ajouter eau.
+1. <BakingStep temp="240" time="25 minutes" preheat fan /> + ajouter eau.

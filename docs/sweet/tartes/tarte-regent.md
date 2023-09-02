@@ -2,7 +2,7 @@
 title: Tarte du régent
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 - [1 pâte sablée](pate-sablee)
 - 100g chocolat noir
@@ -17,7 +17,7 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Faire la [pate sablee](pate-sablee) et la mettre au frais au moins 2h.
 1. Préchauffez le four à 150°.
 1. Mettez la pâte dans un moule et piquez le fond avec une fourchette.
-1. <CookingStep temp="150" time="15-20 minutes" preheat />
+1. <BakingStep temp="150" time="15-20 minutes" preheat />
 
    La pâte doit etre blonde. Laissez refroidir à température ambiante.
 

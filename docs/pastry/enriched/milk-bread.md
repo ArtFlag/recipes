@@ -4,7 +4,7 @@ title: Milk bread
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lD7a8wfJeWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -94,6 +94,6 @@ Yudane 20% of the bread:
 1. Put the rolls in the mold and cover.
 1. Let rest for 30 minutes.
 1. Coat in egg yolk + milk mix.
-1. <CookingStep temp="170" time="25-30min" preheat />
+1. <BakingStep temp="170" time="25-30min" preheat />
 
 1. Let cool down for 15 minutes and remove from mold.

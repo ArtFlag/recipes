@@ -2,7 +2,7 @@
 title: Oatmeal cookies
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 - 2 eggs
 - 1 cup (250g) peanut butter
@@ -17,4 +17,4 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Add in the peanut butter and pure maple syrup.
 1. Stir in the dry ingredients.
 1. Shape on baking sheet. 9-12 cookies.
-1. <CookingStep temp="180" time="9-15 min" preheat /> Unlike flour-based cookies, you can overbake these a bit.
+1. <BakingStep temp="180" time="9-15 min" preheat /> Unlike flour-based cookies, you can overbake these a bit.

@@ -2,7 +2,7 @@
 title: Carrot cake
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 **Cake:**
 
@@ -38,7 +38,7 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Pour the wet ingredients into the dry ingredients and mix until just combined.
    Do not to over mix the batter.
 1. Pour the cake batter in cake pan.
-1. <CookingStep temp="200" time="30-40" fan preheat /> Lowest rack.
+1. <BakingStep temp="200" time="30-40" fan preheat /> Lowest rack.
    Toothpick must come out clean.
 1. Remove from the oven, transfer to a wire rack, and allow to cool in the
    pans for about 20-25 minutes.

@@ -2,7 +2,7 @@
 title: Brioche feuilletée
 ---
 import MyImg from "@site/static/img/brioche-feuilletee.png";
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
@@ -40,6 +40,6 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Entrelacer dans le moule.
    <br/><img src={MyImg} width="56%"/>
 1. Laisser lever 2-3h a 25-27c.
-1. <CookingStep temp="170" time="22 min" preheat /> puis <CookingStep temp="200" time="5 min" preheat />
+1. <BakingStep temp="170" time="22 min" preheat /> puis <BakingStep temp="200" time="5 min" preheat />
 1. Sortir et appliquer sirop ou beurre fondu au pinceau.
 1. Laisser refroidir avant de demouler.

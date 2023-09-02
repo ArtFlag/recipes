@@ -2,7 +2,7 @@
 title: Adjaruli khachapuri
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import BakingStep from "../../src/components/BakingStep";
 
 For 2 people.
 
@@ -41,7 +41,7 @@ For 2 people.
 1. Connect the long side at the ends and twist the ends a couple times.
    It should have the shape of a boat.
 1. Add the feta/mozza mix to the center of the boat.
-1. <CookingStep temp="250" time="15 minutes. Lowest shelf" preheat />
+1. <BakingStep temp="250" time="15 minutes. Lowest shelf" preheat />
 1. Add an egg-yolk in the baked Khachapuri and put it back in the oven
    for 2 minutes.
 1. Take out of oven and add some butter and serve.

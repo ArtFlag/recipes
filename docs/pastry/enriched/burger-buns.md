@@ -31,7 +31,7 @@ Sesame seeds to sprinkle
 
 ## Method
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 1. Make the scald. Mix all ingredients until smooth and leave to cool down. We are aiming for a final dough temperature of around 25C, so let the scald come down to that temperature. It will take around 3 hours. Alternatively, you could use less boiling water in the scald and top it up with cold water to balance the temperature if you want to speed up the process.
 1. Make the dough. Add the yeast and egg yolk to the scald and whisk until smooth. Add the flour and mix to a dough.
@@ -44,7 +44,7 @@ import CookingStep from "../../../src/components/CookingStep";
 1. Final shape. Place the dough balls on a non-stick paper lined tray with plenty of space between them.
 1. Cover and final proof for 2 hours.
 1. Brush the dough balls with egg white and sprinkle with seeds.
-1. <CookingStep temp="160" time="25 minutes" fan preheat />
+1. <BakingStep temp="160" time="25 minutes" fan preheat />
 1. Leave to cool down.
 1. Make the burgers. Mix all ingredients until well combined. Divide in 4 equal pieces, shape them in balls and then flatten them to patties.
 1. Cook under the broiler at 250C (480F) for 10 minutes. Top with a piece of cheese and cook for 1 more minute.

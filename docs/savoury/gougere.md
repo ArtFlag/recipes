@@ -2,7 +2,7 @@
 title: Gougère
 ---
 
-import CookingStep from "../../src/components/CookingStep";
+import BakingStep from "../../src/components/BakingStep";
 
 - Beurre: 75g
 - Comté rapé: 200g
@@ -26,6 +26,6 @@ import CookingStep from "../../src/components/CookingStep";
 1. Ajouter le fromage rapé et bien mélanger.
 1. Mettre le mélange sur la plaque en forme de couronne ou de boules.
 1. (Optionnel) Dorer au jaune d'oeuf.
-1. <CookingStep temp="210" time="25 minutes" preheat />
+1. <BakingStep temp="210" time="25 minutes" preheat />
 
     Ne pas ouvrir la porte du four pour les 15 premières minutes. Étage du milieu.

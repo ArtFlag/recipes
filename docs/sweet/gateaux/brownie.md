@@ -1,7 +1,7 @@
 ---
 title: Brownies
 ---
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 19x19cm square pan
 
@@ -23,4 +23,4 @@ import CookingStep from "../../../src/components/CookingStep";
 1. In a different bowl, mix salt, flour and cocoa powder.
 1. Add it to the batter through a sifter.
 1. Mix delicately.
-1. <CookingStep temp="170" time="20-30 minutes" preheat />
+1. <BakingStep temp="170" time="20-30 minutes" preheat />

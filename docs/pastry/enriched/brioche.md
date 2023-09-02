@@ -2,7 +2,7 @@
 title: Brioche
 ---
 
-import CookingStep from "../../../src/components/CookingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5d9eUgVhRn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
@@ -23,7 +23,7 @@ import CookingStep from "../../../src/components/CookingStep";
 - Sel: 6g 2%
 - Jaune d'oeuf pour dorer: 1
 
-<CookingStep temp="150" time="35min (92c a coeur)" fan preheat />
+<BakingStep temp="150" time="35min (92c a coeur)" fan preheat />
 
 ### Levain
 
