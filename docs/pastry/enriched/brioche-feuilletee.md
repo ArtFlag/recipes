@@ -1,11 +1,13 @@
 ---
 title: Brioche feuilletée
 ---
+import MyImg from "@site/static/img/brioche-feuilletee.png";
+import CookingStep from "../../../src/components/CookingStep";
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
-
+<br/>
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TBBikR5jK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
@@ -36,9 +38,8 @@ title: Brioche feuilletée
 1. Etaler 25x15cm.
 1. Couper en 2 ou + bandes et mettre dans le moule beurré.
 1. Entrelacer dans le moule.
-
-   <img width="50%" src="../../img/brioche-feuilletee.png" />
+   <br/><img src={MyImg} width="56%"/>
 1. Laisser lever 2-3h a 25-27c.
-1. Cuisson **ventilée à 170c 22 minutes**. Puis **200c à 5 minutes**.
+1. <CookingStep temp="170" time="22 min" preheat /> puis <CookingStep temp="200" time="5 min" preheat />
 1. Sortir et appliquer sirop ou beurre fondu au pinceau.
 1. Laisser refroidir avant de demouler.
