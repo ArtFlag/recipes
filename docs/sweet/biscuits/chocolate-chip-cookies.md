@@ -4,15 +4,15 @@ title: Chocolate chip cookies
 
 [Source](https://bromabakery.com/best-chocolate-chip-cookies/)
 
-- 3/4 cup (168 g) unsalted butter*
-- 110 g brown sugar
-- 40 g granulated sugar
-- 1 egg + 1 egg yolk, room temperature
-- 1 tablespoon pure vanilla extract
-- 220 g all-purpose flour
-- 4g or 3/4 teaspoon baking soda
-- 6g or 3/4 teaspoon kosher salt + more flaky seat salt for sprinkling
-- 200g or 1 1/2 cup semi sweet chocolate, chopped
+- Unsalted butter: 3/4 cup (168 g)
+- Brown sugar: 110g
+- Granulated sugar: 40g
+- Eggs: 1 egg + 1 egg yolk
+- Vanilla extract: 1 tbsp
+- AP flour: 220g
+- Baking soda: 4g or 3/4 teaspoon
+- Salt: 6g or 3/4 teaspoon kosher salt + more flaky seat salt for sprinkling
+- Chocolate: 200g or 1 1/2 cup
 
 1. Brown the butter over medium heat, stirring constantly until the butter begins to foam and turns a golden brown,
    emitting a nutty aroma. Make sure you only brown the butter lightly. When butter browns the liquid evaporates off which can
