@@ -2,6 +2,13 @@
 title: Burger buns
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import BakingStep from "../../../src/components/BakingStep";
+
+<Tabs>
+<TabItem value="With yudane" label="With yudane" groupId="group1" default>
+
 ## For the scald
 
 - 60g (2.1oz) white bread flour
@@ -12,11 +19,35 @@ title: Burger buns
 
 ## For the main dough
 
-240g (8.45oz) white bread flour
-3g (0.1oz) instant dry yeast or 3.6g (0.12oz) active dry yeast or 9g (0.31oz) fresh yeast
-1 egg yolk
-1 egg white for glazing
-Sesame seeds to sprinkle
+1. 240g (8.45oz) white bread flour
+1. 3g (0.1oz) instant dry yeast or 3.6g (0.12oz) active dry yeast or 9g (0.31oz) fresh yeast
+1. 1 egg yolk
+1. 1 egg white for glazing
+1. Sesame seeds to sprinkle
+
+</TabItem>
+<TabItem value="Without yudane" label="Without yudane">
+
+- Farine T55: 600g
+- Sel: 6g
+- Sucre: 15g
+- Eau: 150g
+- Lait ecreme: 180g
+- Beurre doux: 30g
+- Oeuf moyen: 1
+- Levure fraiche: 25g
+
+1. Pétrir jusqu'a pouvoir bouler.
+1. Laisser lever 1h30.
+1. Diviser en 10 patons de 100g, bouler chaque paton.
+1. Laisse reposer 10 minutes.
+1. Prendre chaque paton, degazer un peu / applatir un peu.
+1. Tremper dans un bol d'eau, et deposer dans des graines de sesame ou autre.
+1. Poser sur un plaque de cuisson. Laisser reposer 1h, couvert.
+1. <BakingStep temp="200c" time="20 minutes" fan preheat /> avec un verre d'eau pour humidifier le four.
+
+</TabItem>
+</Tabs>
 
 ## For the burgers
 
@@ -30,8 +61,6 @@ Sesame seeds to sprinkle
 50g (1.75oz) stale bread (soaked in water and squeezed dry)
 
 ## Method
-
-import BakingStep from "../../../src/components/BakingStep";
 
 1. Make the scald. Mix all ingredients until smooth and leave to cool down. We are aiming for a final dough temperature of around 25C, so let the scald come down to that temperature. It will take around 3 hours. Alternatively, you could use less boiling water in the scald and top it up with cold water to balance the temperature if you want to speed up the process.
 1. Make the dough. Add the yeast and egg yolk to the scald and whisk until smooth. Add the flour and mix to a dough.
