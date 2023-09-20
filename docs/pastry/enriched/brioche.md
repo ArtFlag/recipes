@@ -16,7 +16,7 @@ import BakingStep from "../../../src/components/BakingStep";
 
 - Farine forte: 300g
 - Beurre doux: 110g 36%
-- Lait: 75g 4,5%
+- Lait: 75g 25%
 - Levure fraiche 15g (7g levure seche) 4.5%
 - Sucre: 40g 13%
 - Oeufs: 110g 36% (2)
