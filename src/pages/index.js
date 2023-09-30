@@ -103,6 +103,10 @@ const shortcuts_savoury = {
       title: 'Gougère',
     },
     {
+      id: 'docs/savoury/chicken-broccoli',
+      title: 'Chicken and broccoli',
+    },
+    {
       id: 'docs/savoury/Kimchi',
       title: 'Kimchi',
     },
