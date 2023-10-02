@@ -25,3 +25,18 @@ title: Chocolate chip cookies
 1. When you are ready to bake the cookies, preheat the oven to 180c and line a cookie sheet with parchment paper.
 1. Bake for **11 minutes**, or until the edges are just golden brown and the centers have puffed up but are still gooey.
 1. Allow to cool before eating.
+
+---
+
+[Video](https://www.youtube.com/watch?v=lJ7Ec3bKrxM)
+
+- 100g unsalted butter
+- 80g sugar
+- 1g salt
+- 1 egg
+- vanilla
+- 160g flour
+- 3g baking powder
+- 100g chocolate + 20 g
+- 50g nuts
+- Bake 190c for 13 to 14 minutes
