@@ -2,6 +2,9 @@
 title: Croissant
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 :::note
 Pour le tourage, il faut du beurre de tourage.
 N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasses saturées élevées et 82% minimum.
@@ -13,11 +16,12 @@ N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse
 <iframe width="736" height="418" src="https://www.youtube.com/embed/tbdAq3B8Pzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
-Pour 10 - 12 croissants
+<Tabs>
+<TabItem value="large" label="10-12 croissants" groupId="group1" default>
 
 Pour la détrempe :
 
-- Farine T45 gruau/00 (>11% proteine): 500g
+- Farine T45 gruau/manitoba oro (>11% proteine): 500g
 - Levure seche: 10g
 - Sel: 10g
 - Sucre: 60g
@@ -28,6 +32,26 @@ Pour la détrempe :
 Pour le tourage:
 
 - Beurre non salé (82% de matiere grass): 250g
+
+</TabItem>
+<TabItem value="small" label="6-7 croissants">
+
+Pour la détrempe :
+
+- Farine T45 gruau/manitoba oro (>11% proteine): 250g
+- Levure seche: 5g
+- Sel: 5g
+- Sucre: 30g
+- Beurre: 50g
+- Eau: 70g
+- Lait: 45g
+
+Pour le tourage:
+
+- Beurre non salé (82% de matiere grass): 125g
+
+</TabItem>
+</Tabs>
 
 ### Détrempe
 
@@ -71,7 +95,7 @@ Il faut travailler vite.
 1. Etaler la pâte en un rectangle **58x26cm**. (3-4mm)
 1. Couper les bords.
 1. Façonner:
-   - Croissants: **9x26cm**.
+   - Croissants: **9x26cm**. (65-70g par croissant)
    - Pains au chocolat: **8x12cm**.
 
    ![croissant](/img/coupe.png)
