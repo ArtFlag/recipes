@@ -16,5 +16,13 @@
     "ul-style": {
       "style": "dash"
     }
-  }
+  },
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  },
+  "markdown.extension.orderedList.marker": "one"
 }
