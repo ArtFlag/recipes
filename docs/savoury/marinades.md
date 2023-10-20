@@ -7,7 +7,7 @@ title: Marinades
 ### Veggetable marinade for bbq
 
 - olive oil
-- vinegah
+- vinegar
 - hot pepper flakes
 - salt + pepper
 - crushed coriander seeds
