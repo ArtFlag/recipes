@@ -69,6 +69,7 @@ h4 {
   position: relative;
   overflow: hidden;
   width: 100%;
+  margin: 10px 0;
 }
 
 .youtube-video-container::after {
