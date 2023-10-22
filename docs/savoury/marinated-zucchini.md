@@ -1,5 +1,5 @@
 ---
-title: Marinate zucchini
+title: Marinated zucchini
 ---
 
 - Olive oil: 5 tbsp
@@ -11,6 +11,7 @@ title: Marinate zucchini
 - Fresh parsley: 15g
 - Fresh mint leaves: 30g
 - White vinegar: 1 tbsp
+-
 
 1. Slice  zucchini thinly.
 1. Chop herbs.
