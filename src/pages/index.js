@@ -5,7 +5,6 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from './styles.module.css'
-import Head from '@docusaurus/Head'
 
 const shortcuts_bread = {
   title: 'Bread',

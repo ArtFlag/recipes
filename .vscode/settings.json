@@ -24,5 +24,11 @@
       "strings": true
     }
   },
-  "markdown.extension.orderedList.marker": "one"
+  "markdown.extension.orderedList.marker": "one",
+  "files.associations": {
+    "config": "properties"
+  },
+  "[properties]": {
+    "editor.formatOnSave": false
+  }
 }

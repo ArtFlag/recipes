@@ -23,19 +23,19 @@ import TabItem from '@theme/TabItem';
 1. Using a floured rolling pin, roll one of the pieces into an ellipsis that's 20-22 cm wide and about a 0.6-1cm thick.
 1. Then let it sit for 3-4 minutes, for it to rise well while cooking.
 1. <Tabs>
-<TabItem value="oven" label="Oven" default>
-<ul>
-<li>Bake for 3 min or until puffed up and nicely golden brown.</li>
-</ul>
-</TabItem>
- <TabItem value="pan" label="Pan">
-<ol>
-  <li>Heat a cast iron pan and lay the rolled-out pitas directly on the hot pan. Instead of cast iron, you can use the back of an oven tray as well.</li>
-  <li>Cook the breads until they become partially brown for about 1.5 minutes on low heat. Then flip the pita over to cook for another 1.5 minutes on the other side. The pita is ready when it puffs up forming a pocket.</li>
-  <li>Remove from the pan and cover the pitas with a clean towel while you work on the rest of the pitas to keep them warm and soft.</li>
-</ol>
-</TabItem>
-</Tabs>
+   <TabItem value="oven" label="Oven" default>
+   <ul>
+   <li>Bake for 3 min or until puffed up and nicely golden brown.</li>
+   </ul>
+   </TabItem>
+    <TabItem value="pan" label="Pan">
+   <ol>
+     <li>Heat a cast iron pan and lay the rolled-out pitas directly on the hot pan. Instead of cast iron, you can use the back of an oven tray as well.</li>
+     <li>Cook the breads until they become partially brown for about 1.5 minutes on low heat. Then flip the pita over to cook for another 1.5 minutes on the other side. The pita is ready when it puffs up forming a pocket.</li>
+     <li>Remove from the pan and cover the pitas with a clean towel while you work on the rest of the pitas to keep them warm and soft.</li>
+   </ol>
+   </TabItem>
+   </Tabs>
 
 ## Greek non-rising pita
 

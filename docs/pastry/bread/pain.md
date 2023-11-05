@@ -4,10 +4,10 @@ title: Pain au levain
 
 | Ingredient | Proportion | Exemple pour 500g de farine |
 | :--------: | :--------- | :-------------------------- |
-| Farine     | 100%       | 500g                        |
-| Eau        | 60%-80%    | 325g (65%)                  |
-| Levain     | 10-20%     | 80g (16%)                   |
-| Sel        | 2%         | 10g (2%)                    |
+|   Farine   | 100%       | 500g                        |
+|    Eau     | 60%-80%    | 325g (65%)                  |
+|   Levain   | 10-20%     | 80g (16%)                   |
+|    Sel     | 2%         | 10g (2%)                    |
 
 :::note
 - Plus la farine a de protéine, plus il est possible d'hydrater.
@@ -161,7 +161,7 @@ Pour faire un levain, voir [Levain](levain.md).
 
 | Proteine | Augmentation du volume |
 | -------- | ---------------------- |
-| <10%     | 10-20%                 |
+| 10%      | 10-20%                 |
 | 10%-12%  | 20%-40%                |
 | 12%-14%  | 40%-70%                |
 | >15%     | 70%-110%               |
@@ -212,17 +212,17 @@ presque sa forme doucement mais laisse une légère marque.
 
 ## Cuisson
 
-1.  Four à 250° et mettre un plat a cuisson vide dans le four tout en bas
+1. Four à 250° et mettre un plat a cuisson vide dans le four tout en bas
     et le lèche-frite pour le pain au milieu.
-1.  Retourner le pain sur du papier cuisson et le scarifier sur le
+1. Retourner le pain sur du papier cuisson et le scarifier sur le
     dessus.
-1.  Mettre le pain sur la plaque de cuisson.
-1.  Ajouter un bon verre d'eau bouillante dans dans la plaque de
+1. Mettre le pain sur la plaque de cuisson.
+1. Ajouter un bon verre d'eau bouillante dans dans la plaque de
     cuisson en bas.
-1.  Cuire pour 25 minutes avec la vapeur.
-1.  Apres 25 minutes, baisser la temperature a 200° en enlever la vapeur.
-1.  Cuire pour 30 minutes ou plus. Le pain est prt s'il sonne creux en tapant en dessous.
-1.  Ressuage: laisser refroidir le pain completement.
+1. Cuire pour 25 minutes avec la vapeur.
+1. Apres 25 minutes, baisser la temperature a 200° en enlever la vapeur.
+1. Cuire pour 30 minutes ou plus. Le pain est prt s'il sonne creux en tapant en dessous.
+1. Ressuage: laisser refroidir le pain completement.
 
 A la cocotte:
 

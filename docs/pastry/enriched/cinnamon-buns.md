@@ -3,6 +3,8 @@ title: Cinnamon buns
 ---
 
 import BakingStep from '../../../src/components/BakingStep'
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 ## Ingredients
 
@@ -42,8 +44,6 @@ export const MilkSourDough = () => (
   <span>180g</span>
 );
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 <table>
    <thead>
@@ -96,7 +96,6 @@ import TabItem from '@theme/TabItem';
    </tbody>
 </table>
 
-
 ### Glazing
 
 - Cream cheese: 115g
@@ -128,41 +127,48 @@ import TabItem from '@theme/TabItem';
 
 1. Add in softened unsalted butter: <ButterDough/>
 1. In a separate container, mix:
+
    <Tabs className="small" groupId="group1">
+
     <TabItem value="yeast" label="Yeast">
+
      <ul>
        <li>Milk: <Milk/></li>
        <li>Yeast: 7g</li>
      </ul>
+
      </TabItem>
+
      <TabItem value="sourdough" label="Sourdough">
+
      <ul>
        <li>Milk: <MilkSourDough/></li>
        <li>Sourdough starter: 100g</li>
      </ul>
-     </TabItem>
 
-  </Tabs>
+     </TabItem>
+   </Tabs>
+
 1. Using the dough hook attachment set on medium-low speed, add:
    - Starter/yeast mixture
    - Whole eggs
    - Egg yolk.
 1. Mix for 5-10 minutes.
 1. Develop gluten:
-<Tabs className="small" groupId="group1">
-  <TabItem value="yeast" label="Yeast">
-   <ol>
-       <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
-       <li>Keep in fridge overnight.</li>
-   </ol>
-  </TabItem>
-  <TabItem value="sourdough" label="Sourdough">
-    <ol>
-      <li>Perform stretches and folds over the next 2 hours.</li>
-      <li>Let rise until puffy then boule and keep in the fridge overnight.</li>
-    </ol>
-  </TabItem>
-</Tabs>
+   <Tabs className="small" groupId="group1">
+     <TabItem value="yeast" label="Yeast">
+      <ol>
+          <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
+          <li>Keep in fridge overnight.</li>
+      </ol>
+     </TabItem>
+     <TabItem value="sourdough" label="Sourdough">
+       <ol>
+         <li>Perform stretches and folds over the next 2 hours.</li>
+         <li>Let rise until puffy then boule and keep in the fridge overnight.</li>
+       </ol>
+     </TabItem>
+   </Tabs>
 
 ### Next day
 
