@@ -22,3 +22,15 @@ title: Pancakes
     chaque côté.
 5.  Le bord doit être doré, et des petites bulles doivent se former sur
     le dessus, c'est le moment de retourner le pancake !
+
+## Pumpkin pancakes
+
+260 g de farine
+170 g de purée de potimarron
+300 ml de lait
+2 oeufs
+25 g de sucre
+1/2 c. à café de sel
+1 c. à café de cannelle
+1 c. à soupe de levure chimique
+1 c. à café de bicarbonate

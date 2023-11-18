@@ -62,6 +62,8 @@ import BakingStep from "../../../src/components/BakingStep";
 - 10g Worcestershire sauce
 - 50g stale bread (soaked in water and squeezed dry)
 
+One patty: 125-150g.
+
 ## Method
 
 1. Make the scald. Mix all ingredients until smooth and leave to cool down. We are aiming for a final dough temperature of around 25C, so let the scald come down to that temperature. It will take around 3 hours. Alternatively, you could use less boiling water in the scald and top it up with cold water to balance the temperature if you want to speed up the process.
