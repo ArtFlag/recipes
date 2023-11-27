@@ -4,6 +4,7 @@ title: Croissant
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import BakingStep from "../../../src/components/BakingStep";
 
 :::note
 Pour le tourage, il faut du beurre de tourage.
@@ -21,12 +22,12 @@ N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse
 
 Pour la détrempe :
 
-- Farine T45 gruau/manitoba oro (>11% proteine): 500g
-- Levure seche: 10g
+- Farine T45 gruau/manitoba oro (>11% proteine): 500g ou mix T45 et T55.
+- Levure seche: 10g / levure fraiche: 15-20g
 - Sel: 10g
 - Sucre: 60g
-- Beurre: 100g
-- Eau: 140g
+- Beurre: 80g
+- Eau: 140g (ajouter de l'eau si besoin)
 - Lait: 90g
 
 Pour le tourage:
@@ -38,12 +39,12 @@ Pour le tourage:
 
 Pour la détrempe :
 
-- Farine T45 gruau/manitoba oro (>11% proteine): 250g
-- Levure seche: 5g
+- Farine T45 gruau/manitoba oro (>11% proteine): 250g ou mix T45 et T55.
+- Levure seche: 5g / levure fraiche: 10-15g
 - Sel: 5g
 - Sucre: 30g
-- Beurre: 50g
-- Eau: 70g
+- Beurre: 40g
+- Eau: 65g (ajouter de l'eau si besoin)
 - Lait: 45g
 
 Pour le tourage:
@@ -106,7 +107,8 @@ Il faut travailler vite.
    légèrement.
 1. Laisser pousser à proximité a 26c dans un four éteint avec une casserole
    d'eau chaude jusqu'à ce qu'ils doublent de volume (entre 1 h et 2 h).
-1. Dorer, et enfourner pendant environ 5 min à 220 °C et 12 minutes a 180c (chaleur ventilée).
+1. Dorer
+1. <BakingStep temp="220" time="5 min" fan preheat /> puis <BakingStep temp="180" time="12 min" fan preheat />
 
 ## Recette 2 (Adrien Ozaneaux)
 
