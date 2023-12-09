@@ -39,7 +39,7 @@ Pour le tourage:
 
 Pour la détrempe :
 
-- Farine T45 gruau/manitoba oro (>11% proteine): 250g ou mix T45 et T55.
+- Farine T45 gruau/manitoba oro (>11% proteine): 250g ou mix T45 et Caputo croissants.
 - Levure seche: 5g / levure fraiche: 10-15g
 - Sel: 5g
 - Sucre: 30g

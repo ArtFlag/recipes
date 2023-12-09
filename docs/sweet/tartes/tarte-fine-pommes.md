@@ -10,7 +10,7 @@ import BakingStep from "../../../src/components/BakingStep";
 
 24-26cm:
 
-- [Pâte feuilletée](pate-feuilletee): 250g
+- [Pâte feuilletée](/recipes/recipes/sweet/pates/pate-feuilletee): 250g
 - Sucre en poudre: 50g
 - Sucre brun: 20g
 - Beurre: 50g
@@ -33,7 +33,3 @@ import BakingStep from "../../../src/components/BakingStep";
    1. 50 g d'eau
    1. 50 g de sucre
    1. 1 feuille de gélatine
-
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';

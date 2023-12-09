@@ -43,5 +43,5 @@ Abaisser a 2-3mm et laisser reposer 1h avant utilisation. 2mm lève moins que 3m
 <iframe  width="736" height="418" src="https://www.youtube.com/embed/rcSOGffhU0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
 
-- [Pate sablée](pate-sablee)
-- [Pate sucrée](pate-sucree)
+- [Pate sablée](/recipes/sweet/pates/pate-sablee)
+- [Pate sucrée](/recipes/sweet/pates/pate-sucree)

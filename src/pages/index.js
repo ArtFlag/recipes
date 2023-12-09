@@ -10,39 +10,39 @@ const shortcuts_bread = {
   title: 'Bread',
   links: [
     {
-      id: 'docs/pastry/bread/baguettes',
+      id: '/recipes/pastry/bread/baguettes',
       title: 'Baguettes',
     },
     {
-      id: 'docs/pastry/enriched/kanelsnurrer',
+      id: '/recipes/pastry/enriched/kanelsnurrer',
       title: 'Kanelsnurrer',
     },
     {
-      id: 'docs/pastry/bread/pain',
+      id: '/recipes/pastry/bread/pain',
       title: 'Pain au levain',
     },
     {
-      id: 'docs/pastry/enriched/brioche-suisse',
+      id: '/recipes/pastry/enriched/brioche-suisse',
       title: 'Brioche suisse',
     },
     {
-      id: 'docs/pastry/enriched/brioche',
+      id: '/recipes/pastry/enriched/brioche',
       title: 'Brioche',
     },
     {
-      id: 'docs/pastry/enriched/brioche-feuilletee',
+      id: '/recipes/pastry/enriched/brioche-feuilletee',
       title: 'Brioche feuilletée',
     },
     {
-      id: 'docs/pastry/enriched/cinnamon-buns',
+      id: '/recipes/pastry/enriched/cinnamon-buns',
       title: 'Cinnamon buns',
     },
     {
-      id: 'docs/pastry/enriched/croissant',
+      id: '/recipes/pastry/enriched/croissant',
       title: 'Croissants',
     },
     {
-      id: 'docs/pastry/bread/bagels',
+      id: '/recipes/pastry/bread/bagels',
       title: 'Bagels',
     },
   ],
@@ -52,39 +52,39 @@ const shortcuts_sweet = {
   title: 'Sweet',
   links: [
     {
-      id: 'docs/sweet/biscuits/oatmeal-cookies',
+      id: '/recipes/sweet/biscuits/oatmeal-cookies',
       title: 'Oatmeal cookies',
     },
     {
-      id: 'docs/sweet/tartes/tarte-regent',
+      id: '/recipes/sweet/tartes/tarte-regent',
       title: 'Tarte du regent',
     },
     {
-      id: 'docs/sweet/tartes/tarte-fine-pommes',
+      id: '/recipes/sweet/tartes/tarte-fine-pommes',
       title: 'Tarte aux pommes fine',
     },
     {
-      id: 'docs/sweet/tartes/tarte-supreme-choco',
+      id: '/recipes/sweet/tartes/tarte-supreme-choco',
       title: 'Tarte chocolat suprême',
     },
     {
-      id: 'docs/sweet/biscuits/palets-bretons',
+      id: '/recipes/sweet/biscuits/palets-bretons',
       title: 'Palets bretons',
     },
     {
-      id: 'docs/sweet/biscuits/sables-diamant',
+      id: '/recipes/sweet/biscuits/sables-diamant',
       title: 'Sablés diamant',
     },
     {
-      id: 'docs/sweet/tartes/pate-feuilletee',
+      id: '/recipes/sweet/pates/pate-feuilletee',
       title: 'Pâte feuilletée',
     },
     {
-      id: 'docs/sweet/tartes/pate-sablee',
+      id: '/recipes/sweet/pates/pate-sablee',
       title: 'Pâte sablée',
     },
     {
-      id: 'docs/sweet/tartes/pate-sucree',
+      id: '/recipes/sweet/pates/pate-sucree',
       title: 'Pâte sucrée',
     },
   ],
@@ -94,39 +94,39 @@ const shortcuts_savoury = {
   title: 'Savoury',
   links: [
     {
-      id: 'docs/savoury/galettes',
+      id: '/recipes/savoury/galettes',
       title: 'Galettes',
     },
     {
-      id: 'docs/savoury/gougere',
+      id: '/recipes/savoury/gougere',
       title: 'Gougère',
     },
     {
-      id: 'docs/savoury/frittata',
+      id: '/recipes/savoury/frittata',
       title: 'Frittata',
     },
     {
-      id: 'docs/savoury/marinated-zucchini',
+      id: '/recipes/savoury/marinated-zucchini',
       title: 'Marinated zucchini',
     },
     {
-      id: 'docs/savoury/chicken-broccoli',
+      id: '/recipes/savoury/chicken-broccoli',
       title: 'Chicken and broccoli',
     },
     {
-      id: 'docs/savoury/fermented/kimchi',
+      id: '/recipes/savoury/fermented/kimchi',
       title: 'Kimchi',
     },
     {
-      id: 'docs/pastry/bread/pizza',
+      id: '/recipes/pastry/bread/pizza',
       title: 'Pizza',
     },
     {
-      id: 'docs/savoury/quiche-lorraine',
+      id: '/recipes/savoury/quiche-lorraine',
       title: 'Quiche lorraine',
     },
     {
-      id: 'docs/savoury/tarte-thon',
+      id: '/recipes/savoury/tarte-thon',
       title: 'Tarte au thon',
     },
   ],
@@ -136,35 +136,35 @@ const shortcuts_cocktails = {
   title: 'Cocktails',
   links: [
     {
-      id: 'docs/cocktails/amaretto-sour',
+      id: '/recipes/cocktails/amaretto-sour',
       title: 'Amaretto sour',
     },
     {
-      id: 'docs/cocktails/pisco-sour',
+      id: '/recipes/cocktails/pisco-sour',
       title: 'Pisco sour',
     },
     {
-      id: 'docs/cocktails/old-fashioned',
+      id: '/recipes/cocktails/old-fashioned',
       title: 'Old fashioned',
     },
     {
-      id: 'docs/cocktails/negroni',
+      id: '/recipes/cocktails/negroni',
       title: 'Negroni',
     },
     {
-      id: 'docs/cocktails/whiskey-smash',
+      id: '/recipes/cocktails/whiskey-smash',
       title: 'Whiskey smash',
     },
     {
-      id: 'docs/cocktails/gin-basil-smash',
+      id: '/recipes/cocktails/gin-basil-smash',
       title: 'Gin basil smash',
     },
     {
-      id: 'docs/cocktails/ginger-ale',
+      id: '/recipes/cocktails/ginger-ale',
       title: 'Ginger ale',
     },
     {
-      id: 'docs/cocktails/chicha-sour',
+      id: '/recipes/cocktails/chicha-sour',
       title: 'Chicha sour',
     },
   ],
@@ -205,7 +205,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('docs/pastry/bread/baguettes')}
+              to={useBaseUrl('/recipes/pastry/bread/baguettes')}
             >
               Bread
             </Link>
@@ -215,7 +215,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('docs/sweet/biscuits/chocolate-chip-cookies')}
+              to={useBaseUrl('/recipes/sweet/biscuits/chocolate-chip-cookies')}
             >
               Sweet
             </Link>
@@ -225,7 +225,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('docs/savoury/adjaruli')}
+              to={useBaseUrl('/recipes/savoury/adjaruli')}
             >
               Savoury
             </Link>
@@ -235,7 +235,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('docs/cocktails/amaretto-sour')}
+              to={useBaseUrl('/recipes/cocktails/amaretto-sour')}
             >
               Cocktails
             </Link>

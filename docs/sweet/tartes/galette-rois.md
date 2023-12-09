@@ -8,7 +8,7 @@ title: Galette des rois
 
 ### Pate feuilletée
 
-1. Voir [recette](pate-feuilletee).
+1. Voir [recette](/recipes/sweet/pates/pate-feuilletee).
 1. Abaisser la pate à 2-3mm. Elle doit faire 2 fois la longeur du cercle.
 1. Un fois abaissee, couper la pate en 2 au milieu. Les empiller et filmer au contact et laisser en detente au frigo 1h minimum.
 
@@ -83,7 +83,7 @@ Galette de 24cm.
 - Beurre mou: 100g
 - Jeune d'oeufs: 1
 - Oeufs: 2
-- [Pâtes feuilletées](pate-feuilletee): 2
+- [Pâtes feuilletées](/recipes/sweet/pates/pate-feuilletee): 2
 - Rhum ambré: 1 CaS
 - Sucre glace: 125g
 
