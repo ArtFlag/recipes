@@ -31,7 +31,7 @@ import BakingStep from "../../../src/components/BakingStep";
 **Autres**
 
 - 6 to 8 Pink Ladies apples
-- [Fond de tarte sucrée 20cm](pate-sucree)
+- [Fond de tarte sucrée 20cm](/recipes/sweet/pates/pate-sucree)
 
 ## Méthode
 

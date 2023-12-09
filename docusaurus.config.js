@@ -2,7 +2,7 @@ module.exports = {
   title: 'Recipes',
   tagline: '',
   url: 'https://artflag.github.io',
-  baseUrl: '/recipes/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: '/favicon-32x32.png',
   organizationName: 'artflag',
@@ -54,11 +54,11 @@ module.exports = {
             },
             {
               label: 'Oven stuff',
-              href: '/docs/oven',
+              href: '/recipes/oven',
             },
             {
               label: 'Temperatures',
-              href: '/docs/temperatures',
+              href: '/recipes/temperatures',
             },
           ],
         },
@@ -72,8 +72,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-
           editUrl: 'https://github.com/artflag/recipes/edit/master/',
+          routeBasePath: '/recipes',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
