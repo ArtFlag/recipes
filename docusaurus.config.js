@@ -2,7 +2,7 @@ module.exports = {
   title: 'Recipes',
   tagline: '',
   url: 'https://artflag.github.io',
-  baseUrl: '/',
+  baseUrl: '/recipes/',
   onBrokenLinks: 'throw',
   favicon: '/favicon-32x32.png',
   organizationName: 'artflag',
