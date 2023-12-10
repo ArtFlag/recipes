@@ -6,24 +6,24 @@ on:
     branches:
       - master
 
+env:
+  BASE_URL: /recipes/
+  DOCS_PATH: /
+
 jobs:
   build-deploy:
     name: Build and deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Set ENV variable
-        run: echo "PRODUCTION=true" >> .env
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: yarn
-
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Build website
         run: yarn build
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
