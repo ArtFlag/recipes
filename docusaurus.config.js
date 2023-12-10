@@ -1,8 +1,10 @@
+const production = process.env.PRODUCTION // set in .env
+
 module.exports = {
   title: 'Recipes',
   tagline: '',
   url: 'https://artflag.github.io',
-  baseUrl: '/recipes/',
+  baseUrl: production ? '/recipes/' : '/',
   onBrokenLinks: 'throw',
   favicon: '/favicon-32x32.png',
   organizationName: 'artflag',
@@ -73,7 +75,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/artflag/recipes/edit/master/',
-          routeBasePath: '/recipes/',
+          routeBasePath: production ? '/' : '/recipes/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
