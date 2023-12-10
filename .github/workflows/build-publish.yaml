@@ -11,6 +11,8 @@ jobs:
     name: Build and deploy
     runs-on: ubuntu-latest
     steps:
+      - name: Set ENV variable
+        run: echo "PRODUCTION=true" >> .env
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
