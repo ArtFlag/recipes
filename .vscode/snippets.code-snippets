@@ -42,7 +42,7 @@
     "description": "Insert an image"
   },
   "cooking step": {
-    "prefix": "cooking step",
+    "prefix": "baking step",
     "body": [
       "import BakingStep from \"../../src/components/BakingStep\";",
       "",
