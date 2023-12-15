@@ -6,7 +6,7 @@ import BakingStep from "../../../src/components/BakingStep";
 
 1 brioche:
 
-- Farine forte manitoba oro: 300g
+- Farine forte manitoba oro: 310g
 - Beurre doux: 110g 36%
 - Lait: 75g 25%
 - Levure fraiche 15g (7g levure seche) 4.5%
