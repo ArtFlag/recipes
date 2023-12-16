@@ -1,4 +1,5 @@
-module.exports = {
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs'
+const sidebars: SidebarsConfig = {
   sweet: [
     {
       type: 'category',
@@ -79,3 +80,5 @@ module.exports = {
     },
   ],
 }
+
+export default sidebars
