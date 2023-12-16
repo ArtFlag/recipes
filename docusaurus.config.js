@@ -1,5 +1,3 @@
-const production = process.env.PRODUCTION // set in .env
-
 module.exports = {
   title: 'Recipes',
   tagline: '',
@@ -73,7 +71,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.ts'),
           editUrl: 'https://github.com/artflag/recipes/edit/master/',
           routeBasePath: process.env.DOCS_PATH ?? '/recipes/',
         },
