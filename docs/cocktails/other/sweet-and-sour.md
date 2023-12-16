@@ -2,8 +2,8 @@
 title: Sweet and sour mix
 ---
 
-- 1 parts sugar
-- 1 parts water
+- 1 part sugar
+- 1 part water
 - 1 part lime juice
 - 2 parts lemon juice
 
