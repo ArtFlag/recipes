@@ -1,6 +1,6 @@
 # Recipes
 
-[![Build and publish](https://github.com/ArtFlag/recipes/actions/workflows/docs.yaml/badge.svg)](https://github.com/ArtFlag/recipes/actions/workflows/docs.yaml)
+[![Build and publish](https://github.com/ArtFlag/recipes/actions/workflows/build-publish.yaml/badge.svg)](https://github.com/ArtFlag/recipes/actions/workflows/build-publish.yaml)
 
 ## Installation
 
