@@ -2,7 +2,7 @@
 title: Gougère
 ---
 
-import BakingStep from "../../src/components/BakingStep";
+import BakingStep from "../../../src/components/BakingStep";
 
 - Beurre: 75g
 - Comté rapé: 200g
