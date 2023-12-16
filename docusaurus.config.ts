@@ -110,6 +110,14 @@ const config: Config = {
       color: '#5bbad5',
     },
   ],
+  markdown: {
+    // https://docusaurus.io/docs/migration/v3#using-the-mdx-extension
+    mdx1Compat: {
+      comments: false,
+      admonitions: false,
+      headingIds: false,
+    },
+  },
 }
 
 export default config
