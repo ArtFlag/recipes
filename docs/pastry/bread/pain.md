@@ -9,7 +9,7 @@ title: Pain au levain
 |   Levain   | 10-20%     | 80g (16%)                   |
 |    Sel     | 2%         | 10g (2%)                    |
 
-:::note
+:::note[Test]
 - Plus la farine a de protéine, plus il est possible d'hydrater.
 
   Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de
