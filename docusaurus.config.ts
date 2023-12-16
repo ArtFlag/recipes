@@ -41,7 +41,7 @@ const config: Config = {
           label: 'Cocktails',
           position: 'left',
           type: 'doc',
-          docId: 'cocktails/pisco-sour',
+          docId: 'cocktails/other/pisco-sour',
         },
       ],
     },

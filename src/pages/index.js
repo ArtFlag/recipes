@@ -136,35 +136,35 @@ const shortcuts_cocktails = {
   title: 'Cocktails',
   links: [
     {
-      id: '/recipes/cocktails/amaretto-sour',
+      id: '/recipes/cocktails/other/amaretto-sour',
       title: 'Amaretto sour',
     },
     {
-      id: '/recipes/cocktails/pisco-sour',
+      id: '/recipes/cocktails/other/pisco-sour',
       title: 'Pisco sour',
     },
     {
-      id: '/recipes/cocktails/old-fashioned',
+      id: '/recipes/cocktails/whiskey/old-fashioned',
       title: 'Old fashioned',
     },
     {
-      id: '/recipes/cocktails/negroni',
+      id: '/recipes/cocktails/gin/negroni',
       title: 'Negroni',
     },
     {
-      id: '/recipes/cocktails/whiskey-smash',
+      id: '/recipes/cocktails/whiskey/whiskey-smash',
       title: 'Whiskey smash',
     },
     {
-      id: '/recipes/cocktails/gin-basil-smash',
+      id: '/recipes/cocktails/gin/gin-basil-smash',
       title: 'Gin basil smash',
     },
     {
-      id: '/recipes/cocktails/ginger-ale',
+      id: '/recipes/cocktails/other/ginger-ale',
       title: 'Ginger ale',
     },
     {
-      id: '/recipes/cocktails/chicha-sour',
+      id: '/recipes/cocktails/other/chicha-sour',
       title: 'Chicha sour',
     },
   ],
@@ -235,7 +235,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('/recipes/cocktails/amaretto-sour')}
+              to={useBaseUrl('/recipes/cocktails/other/amaretto-sour')}
             >
               Cocktails
             </Link>
