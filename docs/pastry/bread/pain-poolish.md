@@ -7,7 +7,7 @@ Convertir en poolish:
 - Prendre la moitié du poids l'eau total du pain. Faire 1:1 en farine.
 - Le reste des ingredients est ajouté a la poolish le lendemain.
 
-:::note Example
+:::note[Example]
 
 |        | Final | J1  | J2  |
 | ------ | ----- | --- | --- |

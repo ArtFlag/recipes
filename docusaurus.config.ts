@@ -1,4 +1,7 @@
-module.exports = {
+import type { Config } from '@docusaurus/types'
+import type * as Preset from '@docusaurus/preset-classic'
+
+const config: Config = {
   title: 'Recipes',
   tagline: '',
   url: 'https://artflag.github.io',
@@ -65,10 +68,10 @@ module.exports = {
       ],
       copyright: `Built with Docusaurus`,
     },
-  },
+  } satisfies Preset.ThemeConfig,
   presets: [
     [
-      '@docusaurus/preset-classic',
+      'classic',
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
@@ -78,7 +81,7 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      },
+      } satisfies Preset.Options,
     ],
   ],
   stylesheets: [
@@ -107,4 +110,14 @@ module.exports = {
       color: '#5bbad5',
     },
   ],
+  markdown: {
+    // https://docusaurus.io/docs/migration/v3#using-the-mdx-extension
+    mdx1Compat: {
+      comments: false,
+      admonitions: false,
+      headingIds: false,
+    },
+  },
 }
+
+export default config

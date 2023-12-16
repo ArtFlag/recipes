@@ -10,7 +10,7 @@ import BakingStep from "../../../src/components/BakingStep";
 
 24-26cm:
 
-- [Pâte feuilletée](/recipes/recipes/sweet/pates/pate-feuilletee): 250g
+- [Pâte feuilletée](/recipes/sweet/pates/pate-feuilletee): 250g
 - Sucre en poudre: 50g
 - Sucre brun: 20g
 - Beurre: 50g
