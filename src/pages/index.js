@@ -94,23 +94,23 @@ const shortcuts_savoury = {
   title: 'Savoury',
   links: [
     {
-      id: '/recipes/savoury/galettes',
+      id: '/recipes/savoury/other/galettes',
       title: 'Galettes',
     },
     {
-      id: '/recipes/savoury/gougere',
+      id: '/recipes/savoury/other/gougere',
       title: 'Gougère',
     },
     {
-      id: '/recipes/savoury/frittata',
+      id: '/recipes/savoury/other/frittata',
       title: 'Frittata',
     },
     {
-      id: '/recipes/savoury/marinated-zucchini',
+      id: '/recipes/savoury/other/marinated-zucchini',
       title: 'Marinated zucchini',
     },
     {
-      id: '/recipes/savoury/chicken-broccoli',
+      id: '/recipes/savoury/other/chicken-broccoli',
       title: 'Chicken and broccoli',
     },
     {
@@ -122,11 +122,11 @@ const shortcuts_savoury = {
       title: 'Pizza',
     },
     {
-      id: '/recipes/savoury/quiche-lorraine',
+      id: '/recipes/savoury/other/quiche-lorraine',
       title: 'Quiche lorraine',
     },
     {
-      id: '/recipes/savoury/tarte-thon',
+      id: '/recipes/savoury/other/tarte-thon',
       title: 'Tarte au thon',
     },
   ],
@@ -225,7 +225,7 @@ function Home() {
                 styles.getStarted,
                 styles.button
               )}
-              to={useBaseUrl('/recipes/savoury/adjaruli')}
+              to={useBaseUrl('/recipes/savoury/other/adjaruli')}
             >
               Savoury
             </Link>

@@ -34,7 +34,7 @@ module.exports = {
           label: 'Savoury',
           position: 'left',
           type: 'doc',
-          docId: 'savoury/gougere',
+          docId: 'savoury/other/gougere',
         },
         {
           label: 'Cocktails',
