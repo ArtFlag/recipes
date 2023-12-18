@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3564],{2911:s=>{s.exports=JSON.parse('{"title":"Mushrooms","slug":"/category/mushrooms","permalink":"/recipes/category/mushrooms","navigation":{"next":{"title":"Boiled mushrooms","permalink":"/recipes/savoury/mushrooms/boiled-mushrooms"}}}')}}]);

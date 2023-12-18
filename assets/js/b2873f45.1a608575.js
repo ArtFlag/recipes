@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3564],{2911:e=>{e.exports=JSON.parse('{"title":"Mushrooms","slug":"/category/mushrooms","permalink":"/recipes/category/mushrooms","navigation":{"next":{"title":"Pulled king oyster","permalink":"/recipes/savoury/mushrooms/king-oyster"}}}')}}]);
