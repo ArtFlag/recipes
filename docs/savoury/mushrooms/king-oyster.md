@@ -2,7 +2,7 @@
 title: Pulled king oyster
 ---
 
-- 6 king oyster mushrooms, 'pulled'
+- 6 king oyster mushrooms (kräuter seitlinger), 'pulled'
 - 1/2 tsp granulated garlic
 - 2 tbsp onion/sage/parsley seasoning blend (or whatever you like/can find)
 - 1/2 tsp salt
