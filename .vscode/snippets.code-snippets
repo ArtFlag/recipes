@@ -24,10 +24,10 @@
     "body": ["<!-- vale on -->"],
     "description": "Turn on Vale"
   },
-  "Insert important": {
+  "Insert note": {
     "scope": "markdown",
-    "prefix": "important",
-    "body": [":::important", "$1", ":::", "", "$2"],
+    "prefix": "note",
+    "body": [":::note", "[$1]", ":::", "", "$2"],
     "description": "Insert a note"
   },
   "Img mdx": {
@@ -57,6 +57,17 @@
     "body": ["<div class=\"youtube-video-container\">", "", "</div>", ""],
     "description": "Insert video"
   },
+  "variables":{
+    "prefix": "variables",
+    "body": [
+      "export const $1 = {",
+      "  '$2': $3",
+     "}",
+     "",
+     "{$1.$2}",
+     ""
+    ]
+  }
   "tabs": {
     "prefix": "tabs",
     "body": [

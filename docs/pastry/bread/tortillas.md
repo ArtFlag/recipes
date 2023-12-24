@@ -2,20 +2,28 @@
 title: Tortillas
 ---
 
+export const i = {
+  'flour': 200,
+  'water': 110,
+  'bakingPowder': 8,
+  'salt': 5,
+  'shortening': 50
+}
+
 ## Wheat
 
 Yields 5 large tortillas, 8 small ones.
 
-|  Ingredient   | Proportion | Example 200g of flour |
-| ------------- | ---------- | --------------------- |
-| Flour         | 100%       | 200g                  |
-| Water         | 57%        | 112g                  |
-| Baking powder | 2-6%       | 8g (4%)               |
-| Sel           | 2%         | 5g (2%)               |
-| Shortening    | 25-30%     | 50g-60                |
+|  Ingredient   | Proportion | Example {i.flour} of flour |
+|---------------|------------|----------------------------|
+| Flour         | 100%       | {i.flour}g                 |
+| Water         | 57%        | {i.water}g                 |
+| Baking powder | 2-6%       | {i.bakingPowder}g (4%)     |
+| Sel           | 2%         | {i.salt}g (2%)             |
+| Shortening    | 25-30%     | {i.shortening}g            |
 
 :::note
-Swap 5% of the flour for whole flour for added flavour. (10g for 200g)
+Swap 5% of the flour for whole flour for added flavour.
 :::
 
 Split into 80g balls for big ones, 50g for small ones.
@@ -29,26 +37,30 @@ Split into 80g balls for big ones, 50g for small ones.
 1. Separate into smaller balls and bake at high heat 20 minutes later. 30s-1min on each side.
 1. Let cool down for 1-2 minutes on cooling rack and put in a zip bag.
 
-### With Tangzhong
+## With Tangzhong
 
-#### Tangzhong
+export var proportion = "10"
+export const tflour = i.flour*proportion/100
+export const twater = i.flour*proportion/100*2
 
-Use 5% to 10% of the original flour as tangzhong. Mix until mix reaches 65c.
+### Tangzhong
 
-5%:
+Use 10%-20% of the original flour as tangzhong. Mix until mix reaches 65c.
 
-- Flour: 10g
-- Water: 50g
+:::note[Example]
+{proportion}% of the original recipe, with 1:2 ratios:
 
-Yields 35ish g of tangzhong.
+- Flour: {tflour}
+- Water: {twater}
+:::
 
-#### Tortillas
+### Tortillas
 
-- All-purpose flour: 185g
-- Baking powder: 4g
-- Hot water: 70g (a bit more if dough too dry)
-- Salt: 4g
-- Vegetable shortening / Biskin Planzenfett: 46g
+- All-purpose flour: {i.flour - tflour}g
+- Baking powder: {i.bakingPowder}g
+- Water: {i.water - twater}g (a bit more if dough too dry)
+- Salt: {i.salt}g
+- Vegetable shortening / Biskin Planzenfett: {i.shortening}g
 
 ### Method
 
