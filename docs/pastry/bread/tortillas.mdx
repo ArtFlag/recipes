@@ -2,6 +2,8 @@
 title: Tortillas
 ---
 
+import Percent from "../../../src/components/Percent";
+
 export const i = {
   'flour': 200,
   'water': 110,
@@ -10,21 +12,17 @@ export const i = {
   'shortening': 40
 }
 
-export const percent = (param) => {
-  return param*100/i.flour + "%"
-}
-
 ## Wheat
 
 Yields 5 large tortillas, 8 small ones.
 
-|  Ingredient   |        Proportion         | Example {i.flour}g of flour |
-|---------------|---------------------------|-----------------------------|
-| Flour         | 100%                      | {i.flour}g                  |
-| Water         | {percent(i.water)}        | {i.water}g                  |
-| Baking powder | {percent(i.bakingPowder)} | {i.bakingPowder}g           |
-| Sel           | {percent(i.salt)}         | {i.salt}g                   |
-| Shortening    | {percent(i.shortening)}   | {i.shortening}g             |
+|  Ingredient   |                           Proportion                           | Example {i.flour}g of flour |
+|---------------|----------------------------------------------------------------|-----------------------------|
+| Flour         | 100%                                                           | {i.flour}g                  |
+| Water         | <Percent reference={i.flour} value={i.water} showSign/>        | {i.water}g                  |
+| Baking powder | <Percent reference={i.flour} value={i.bakingPowder} showSign/> | {i.bakingPowder}g           |
+| Sel           | <Percent reference={i.flour} value={i.salt} showSign/>         | {i.salt}g                   |
+| Shortening    | <Percent reference={i.flour} value={i.shortening} showSign/>   | {i.shortening}g             |
 
 :::note
 Swap 5% of the flour for whole flour for added flavour.
