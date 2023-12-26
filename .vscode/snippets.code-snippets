@@ -44,7 +44,7 @@
   "cooking step": {
     "prefix": "baking step",
     "body": [
-      "import BakingStep from \"../../src/components/BakingStep\";",
+      "import BakingStep from \"../../../src/components/BakingStep\";",
       "",
       "<BakingStep temp=\"$1\" time=\"$2\" fan preheat />",
       "",

@@ -4,7 +4,12 @@ import ThermometerUrl from '@site/static/img/thermometer.png'
 import ClockUrl from '@site/static/img/clock.png'
 import styles from './styles.module.css'
 
-const BakingStep = ({ time, temp, preheat = true, fan = false }) => {
+export default function BakingStep({
+  time,
+  temp,
+  preheat = true,
+  fan = false,
+}): JSX.Element {
   return (
     <>
       <span className={styles.baking}>
@@ -16,5 +21,3 @@ const BakingStep = ({ time, temp, preheat = true, fan = false }) => {
     </>
   )
 }
-
-export default BakingStep
