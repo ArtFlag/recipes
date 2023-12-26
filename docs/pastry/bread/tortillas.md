@@ -7,20 +7,24 @@ export const i = {
   'water': 110,
   'bakingPowder': 8,
   'salt': 5,
-  'shortening': 50
+  'shortening': 40
+}
+
+export const percent = (param) => {
+  return param*100/i.flour + "%"
 }
 
 ## Wheat
 
 Yields 5 large tortillas, 8 small ones.
 
-|  Ingredient   | Proportion | Example {i.flour} of flour |
-|---------------|------------|----------------------------|
-| Flour         | 100%       | {i.flour}g                 |
-| Water         | 57%        | {i.water}g                 |
-| Baking powder | 2-6%       | {i.bakingPowder}g (4%)     |
-| Sel           | 2%         | {i.salt}g (2%)             |
-| Shortening    | 25-30%     | {i.shortening}g            |
+|  Ingredient   |        Proportion         | Example {i.flour}g of flour |
+|---------------|---------------------------|-----------------------------|
+| Flour         | 100%                      | {i.flour}g                  |
+| Water         | {percent(i.water)}        | {i.water}g                  |
+| Baking powder | {percent(i.bakingPowder)} | {i.bakingPowder}g           |
+| Sel           | {percent(i.salt)}         | {i.salt}g                   |
+| Shortening    | {percent(i.shortening)}   | {i.shortening}g             |
 
 :::note
 Swap 5% of the flour for whole flour for added flavour.
