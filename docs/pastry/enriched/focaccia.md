@@ -1,6 +1,7 @@
 ---
 title: Focaccia
 ---
+import BakingStep from "../../../src/components/BakingStep";
 
 ## Baker's yeast
 
@@ -10,10 +11,11 @@ title: Focaccia
 - Instant yeast: 5g
 - Water: 330g (75%)
 
-1. Mix everything.
+1. Mix everything except the oil.
 1. Rest 15 minutes. (45 with sourdough starter).
 1. Stretch and fold.
 1. Rest 15 minutes  (45 with sourdough starter).
+1. Add the oil.
 1. Repeat until you have 3 sets of stretch and fold.
 1. Let proof for 1h or 2h until it doubles in size.
 1. Optional: put in fridge for a day or 2 if needed.
@@ -57,40 +59,9 @@ title: Focaccia
 1. Let proof for 30-60minutes until extra bubbly.
 
 
-1. Preheat oven to 230c.
-1. Bake for 25ish minutes until golden.
+1. <BakingStep temp="230" time="25" fan preheat />
 1. Let cool on a rack.
 
 ## Poolish
 
-Day 1
-
-1. In the evening, mix:
-
-   - 75 g flour
-   - 75 g water
-   - a pinch of instant yeast (~ 1/12 of a tsp)
-
-1. Keep in fridge overnight.
-
-Day 2
-
-1. Mix:
-
-   - All of your mature poolish
-   - 500 g bread flour
-   - 425 g water
-   - 14 g salt
-
-1. Rest for 20 minutes.
-1. Mix your dough with an electric mixer fitted with dough attachments for 5 minutes at low speed, then another 5 minutes at medium speed.
-1. During the first 2 hours you will need to do 4 sets of stretch and fold every half hour.
-1. Lightly oil the tin, then press a sheet of baking paper against it.
-1. Add more oil over the baking paper and spread it all over the surface. Transfer the dough by gently scraping it down from the bowl into the baking pan.
-1. Lightly stretch it to fit the whole tin.
-1. Pour a generous amount of olive oil all over the surface.
-1. Let the dough proof for about 4 hours at room temperature.
-1. After about 4 hours, the dough may have formed some bubbles of air.
-1. Properly coat your hand with more olive oil and proceed to press your fingers into the dough to create the typical focaccia pattern.
-1. Add filling.
-1. Bake the focaccia in the preheated oven at 230°C for 20-25 minutes.
+See [poolish](../bread/pain-poolish.md)
