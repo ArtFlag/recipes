@@ -26,8 +26,8 @@
 }
 
 .button {
-  margin: 2px 8px;
-  min-width: 180px;
+  margin: 8px;
+  min-width: 150px;
   background-color: var(--ifm-color-primary);
   border-color: transparent;
   color: white !important;
@@ -42,7 +42,6 @@
   display: flex;
   align-items: center;
   padding: 2rem 0;
-  width: 100%;
 }
 
 .featureImage {
@@ -54,25 +53,29 @@
   border: none;
   margin-left: 15px;
   width: 300px;
-  padding: 0.8rem;
+  padding: 0.5rem;
 }
 
-.shortcutBlock h2{
-	margin-bottom: 0.3em;
-  }
+.shortcutBlock h2 {
+  margin-bottom: 0.3em;
+}
 
-.shortcutBlock ul{
+.shortcutBlock ul {
   list-style: none;
-  padding:0;
+  padding: 0;
 }
-.shortcutBlock li{
+.shortcutBlock li {
   padding-bottom: 0.4rem;
 }
-
-.flex{
+.container {
   display: flex;
-  gap: 5px 0px;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin: 0 80px;
+}
+.flex {
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 0px 40px 0 50px;
 }

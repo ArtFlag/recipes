@@ -10,34 +10,70 @@
 }
 
 :root {
+  --text: #565656;
+  --textDark: #424242;
+  --color1: #326a27;
+  --color2: #006154;
+  --color3: #dbdbdb;
+  --color4: #c4c2c2;
+  --color5: #cfcfcf;
+  --baking-bg: var(--color2);
+  --baking-txt: var(--color3);
+  --ifm-navbar-background-color: var(--color2);
+  --ifm-navbar-link-color: var(--color3);
+  --ifm-navbar-link-hover-color: var(--color3);
+  --ifm-scrollbar-track-background-color: var(--color5);
+  --ifm-scrollbar-thumb-background-color: var(--color4);
+  --ifm-heading-color: var(--textDark);
   --ifm-font-family-base: 'Roboto';
-  --ifm-color-primary: #5a88d4;
-  --ifm-color-primary-dark: #3d6cb7;
-  --ifm-color-primary-darker: #0b57d1;
-  --ifm-color-primary-darkest: #032f76;
-  --ifm-color-primary-light: #7d9ed0;
-  --ifm-color-primary-lighter: #91b3ea;
+  --ifm-color-primary: var(--color1);
+  --ifm-color-primary-dark: var(--color2);
+  --ifm-color-primary-lighter: var(--color2);
   --ifm-color-primary-lightest: #c8d8f3;
+  --ifm-button-border-radius: 25px;
   --ifm-code-font-size: 95%;
   --ifm-list-paragraph-margin: 2px;
   --ifm-paragraph-margin-bottom: 2px;
-  --ifm-hero-background-color: var(--ifm-color-primary-lighter);
+  --ifm-hero-background-color: var(--color3);
   --tabs-body-bg: #ebedfa;
   --tabs-header-bg: #f5f5f9;
+  --ifm-background-color: var(--color3);
+  --tabs-body-bg: var(--color4);
+  --tabs-header-bg: var(--color5);
 }
 :root[data-theme='dark'] {
-  --ifm-heading-color: white;
-  --ifm-color-primary: #6096ed;
+  --color1: #2e6423;
+  --color2: #006641;
+  --color3: #006154;
+  --color4: #00595f;
+  --color5: #125160;
+  --color6: #dbdbdb;
+  --text: #d9d9d9;
+  --baking-bg: var(--color2);
+  --baking-txt: var(--color6);
+  --ifm-navbar-background-color: var(--color3);
+  --ifm-menu-color-active: var(--color6);
+  --ifm-navbar-link-color: var(--color6);
+  --ifm-navbar-link-hover-color: var(--color6);
+  --ifm-link-color: var(--color6);
+  --ifm-heading-color: var(--text);
+  --ifm-color-primary: var(--color1);
   --ifm-color-primary-dark: #191c22;
   --ifm-color-primary-light: #36588e;
-  --ifm-color-primary-lighter: #6f86a7;
-  --ifm-color-primary-lightest: #9ebcf4;
-  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-color-primary-lighter: var(--color2);
+  --ifm-color-primary-lightest: var(--color3);
   --ifm-tabs-color-active: var(--ifm-link-color);
-  --ifm-hero-background-color: var(--ifm-color-primary-dark);
+  --ifm-hero-background-color: var(--color5);
+  --ifm-background-color: var(--color5);
   --tabs-body-bg: #1f232a;
   --tabs-header-bg: #262c36;
+  --ifm-breadcrumb-color-active: var(--color6);
+  --ifm-toc-border-color: var(--color6);
+  --ifm-card-background-color: var(--color4);
+  --tabs-body-bg: var(--color4);
+  --tabs-header-bg: var(--color4);
 }
+
 h1,
 h2,
 h3,
@@ -47,7 +83,13 @@ h4 {
 h4 {
   font-size: 120%;
 }
-
+:root[data-theme='dark'] .table-of-content {
+  color: var(--color2) !important;
+}
+:root[data-theme='dark'] .toc-highlight,
+:root[data-theme='dark'] .table-of-contents__link--active {
+  color: var(--color6) !important;
+}
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
@@ -108,4 +150,8 @@ h4 {
 
 li[role='tab'] {
   background-color: var(--ifm-color-gray-80);
+}
+
+.pagination-nav__sublabel {
+  display: none;
 }

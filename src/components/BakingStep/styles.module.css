@@ -2,12 +2,14 @@
   max-height: 22px;
   vertical-align: text-bottom;
   padding: 0 3px 0 5px;
+  filter: invert(0.9);
 }
 :root[data-theme='dark'] .baking img {
   filter: invert(1);
 }
 .baking {
-  background-color: var(--ifm-color-primary);
+  background-color: var(--baking-bg);
+  color: var(--baking-txt);
   padding: 0.5rem;
   border-radius: var(--ifm-global-radius);
 }

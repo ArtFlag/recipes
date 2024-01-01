@@ -243,11 +243,13 @@ function Home() {
         </div>
       </header>
       <main>
-        <div className={styles.flex}>
-          <Shortcuts contents={shortcuts_bread} />
-          <Shortcuts contents={shortcuts_sweet} />
-          <Shortcuts contents={shortcuts_savoury} />
-          <Shortcuts contents={shortcuts_cocktails} />
+        <div className={styles.container}>
+          <div className={styles.flex}>
+            <Shortcuts contents={shortcuts_bread} />
+            <Shortcuts contents={shortcuts_sweet} />
+            <Shortcuts contents={shortcuts_savoury} />
+            <Shortcuts contents={shortcuts_cocktails} />
+          </div>
         </div>
       </main>
     </Layout>
