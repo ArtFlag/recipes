@@ -2,7 +2,7 @@
 title: Brioche
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 1 brioche:
 

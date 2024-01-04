@@ -2,7 +2,7 @@
 title: Pleurotes au four
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 - 200 g de pleurotes frais par personne
 - 1 cuillère à café de cumin en poudre

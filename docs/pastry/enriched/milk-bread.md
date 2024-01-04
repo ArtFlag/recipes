@@ -4,7 +4,7 @@ title: Milk bread
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lD7a8wfJeWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>

@@ -1,7 +1,7 @@
 ---
 title: Brownies
 ---
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 19x19cm square pan
 

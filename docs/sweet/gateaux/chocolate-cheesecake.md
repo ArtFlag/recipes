@@ -2,7 +2,7 @@
 title: Chocolate cheesecake
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 - 15cm Round shaped mold
 - Dark Chocolate (55% Equatorial Noir): 80g

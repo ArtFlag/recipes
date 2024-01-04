@@ -2,7 +2,7 @@
 title: Saffranskaka
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 Valeurs entre parentheses sont pour un moule à cake. Les valeurs
 normales sont pour un grand moule à charnière

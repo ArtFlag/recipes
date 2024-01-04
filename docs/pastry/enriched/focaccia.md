@@ -1,7 +1,7 @@
 ---
 title: Focaccia
 ---
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 ## Baker's yeast
 

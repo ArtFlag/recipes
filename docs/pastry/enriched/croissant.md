@@ -4,7 +4,7 @@ title: Croissant
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 :::note
 Pour le tourage, il faut du beurre de tourage.

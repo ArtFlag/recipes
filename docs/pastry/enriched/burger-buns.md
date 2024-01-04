@@ -4,7 +4,7 @@ title: Burger buns
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 <Tabs>
 <TabItem value="With yudane" label="With yudane" groupId="group1" default>

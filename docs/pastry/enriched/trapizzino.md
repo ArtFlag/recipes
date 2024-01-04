@@ -2,7 +2,7 @@
 title: Trapizzino
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 - Flour: 560g (half tipo 00 and tipo 1, if possible)
 - Instant Dry yeast: 0.8g

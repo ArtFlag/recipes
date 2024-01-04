@@ -2,7 +2,7 @@
 title: Tarte du régent
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 - [1 pâte sablée](/recipes/sweet/pates/pate-sablee)
 - 100g chocolat noir

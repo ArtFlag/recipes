@@ -2,7 +2,7 @@
 title: Adjaruli khachapuri
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 For 2 people.
 

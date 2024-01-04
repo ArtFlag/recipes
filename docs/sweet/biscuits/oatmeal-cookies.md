@@ -2,7 +2,7 @@
 title: Oatmeal cookies
 ---
 
-import BakingStep from "../../../src/components/BakingStep";
+import BakingStep from "@site/src/components/BakingStep";
 
 - 2 eggs
 - 1 cup (250g) peanut butter
