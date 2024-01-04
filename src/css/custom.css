@@ -15,6 +15,7 @@
   --color1: #326a27;
   --color2: #006154;
   --color3: #dbdbdb;
+  --color3contrast: #e8e8e8;
   --color4: #c4c2c2;
   --color5: #cfcfcf;
   --baking-bg: var(--color2);
@@ -40,11 +41,17 @@
   --ifm-background-color: var(--color3);
   --tabs-body-bg: var(--color4);
   --tabs-header-bg: var(--color5);
+  --navbar-btn: var(--color3);
+  --navbar-btn-text: var(--color2);
+  --ifm-alert-background-color: var(--color3contrast);
+  --ifm-color-secondary-contrast-background: var(--color3contrast);
+  --sidbar-btn: var(--color2);
 }
 :root[data-theme='dark'] {
   --color1: #2e6423;
   --color2: #006641;
   --color3: #006154;
+  --color3contrast: #175969;
   --color4: #00595f;
   --color5: #125160;
   --color6: #dbdbdb;
@@ -68,12 +75,29 @@
   --tabs-body-bg: #1f232a;
   --tabs-header-bg: #262c36;
   --ifm-breadcrumb-color-active: var(--color6);
-  --ifm-toc-border-color: var(--color6);
   --ifm-card-background-color: var(--color4);
   --tabs-body-bg: var(--color4);
   --tabs-header-bg: var(--color4);
+  --navbar-btn: var(--color6);
+  --sidbar-btn: var(--color6);
+  --ifm-alert-background-color: var(--color3contrast);
+  --ifm-color-secondary-contrast-background: var(--color3contrast);
+  --ifm-alert-foreground-color: var(--text);
+  --ifm-color-secondary-contrast-foreground: var(--text);
 }
-
+.navbar-sidebar__item.menu {
+  background-color: var(--color3);
+}
+.clean-btn svg,
+.clean-btn svg {
+  color: var(--navbar-btn);
+}
+.clean-btn {
+  color: var(--sidbar-btn);
+}
+.navbar__toggle {
+  color: var(--ifm-navbar-link-color);
+}
 h1,
 h2,
 h3,
@@ -104,7 +128,7 @@ h4 {
   font-weight: var(--ifm-font-weight-light);
 }
 .navbar__link--active {
-  font-weight: var(--ifm-font-weight-normal);
+  font-weight: var(--ifm-font-weight-semibold);
 }
 
 .youtube-video-container {
