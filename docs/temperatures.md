@@ -18,7 +18,7 @@ title: Temperatures
 
 ## Chicken/turkey, ground or whole
 
-74c
+74c (65 min)
 
 ## Ground meats, burgers, meat loaf, sausages except chicken/turkey
 
