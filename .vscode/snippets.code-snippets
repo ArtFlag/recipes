@@ -12,18 +12,6 @@
     "body": ["---", "title: $1", "---", "", "$2"],
     "description": "Inserts a title"
   },
-  "Turn off Vale": {
-    "scope": "markdown",
-    "prefix": "vof",
-    "body": ["<!-- vale off -->"],
-    "description": "Turn off Vale"
-  },
-  "Turn on Vale": {
-    "scope": "markdown",
-    "prefix": "von",
-    "body": ["<!-- vale on -->"],
-    "description": "Turn on Vale"
-  },
   "Insert note": {
     "scope": "markdown",
     "prefix": "note",
@@ -41,7 +29,7 @@
     ],
     "description": "Insert an image"
   },
-  "cooking step": {
+  "baking step": {
     "prefix": "baking step",
     "body": [
       "import BakingStep from \"@site/src/components/BakingStep\";",
@@ -51,6 +39,17 @@
       ""
     ],
     "description": "Insert cooking step"
+  },
+  "percentage calculator": {
+    "prefix": "percentage",
+    "body": [
+      "import Percent from \"@site/src/components/Percent\";",
+      "",
+      "<Percent value=\"$1\" reference=\"$2\" showSign />",
+      "",
+      ""
+    ],
+    "description": "Insert percentage component"
   },
   "video": {
     "prefix": "video",

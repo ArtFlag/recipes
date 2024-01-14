@@ -3,19 +3,32 @@ title: Brioche
 ---
 
 import BakingStep from "@site/src/components/BakingStep";
+import Percent from "@site/src/components/Percent";
+
+export const i = {
+  'farine': 310,
+  'lait': 75,
+  'levuref': 15,
+  'sel': 5,
+  'sucre': 40,
+  'beurre': 110,
+  'oeufs': 110
+}
+
+## Recette
 
 1 brioche:
 
-- Farine forte manitoba oro: 310g
-- Beurre doux: 110g 36%
-- Lait: 75g 25%
-- Levure fraiche 15g (7g levure seche) 4.5%
-- Sucre: 40g 13%
-- Oeufs: 110g 36% (2)
-- Sel: 6g 2%
-- Jaune d'oeuf pour dorer: 1
+- Farine forte manitoba oro: {i.farine}g
+- Beurre doux: {i.beurre}g <Percent reference={i.farine} value={i.beurre} showSign/>
+- Lait: {i.lait}g <Percent reference={i.farine} value={i.lait} showSign/>
+- Levure fraiche: {i.levuref}g <Percent reference={i.farine} value={i.levuref} showSign/>
+- Sucre: {i.sucre}g <Percent reference={i.farine} value={i.sucre} showSign/>
+- Oeufs: {i.oeufs}g <Percent reference={i.farine} value={i.oeufs} showSign/>
+- Sel: {i.sel}g <Percent reference={i.farine} value={i.sel} showSign/>
+- Jaune d'oeuf pour dorser: 1
 
-1. Melanger ingredients secs + oeufs.
+1. Melanger tout sauf beurre.
 1. Une fois gluten developpé, ajouter le beurre mou petit a petit.
 1. Laisser lever.
 1. Optionel: Frigo pour 10h.
