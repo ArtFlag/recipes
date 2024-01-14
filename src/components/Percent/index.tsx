@@ -13,7 +13,7 @@ function Percent({
 }: PercentProps): JSX.Element {
   return (
     <>
-      <span>{(value * 100) / reference}</span>
+      <span>{Math.round((value * 100) / reference)}</span>
       {showSign && '%'}
     </>
   )
