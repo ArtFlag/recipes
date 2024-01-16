@@ -56,6 +56,10 @@ const shortcuts_sweet = {
       title: 'Oatmeal cookies',
     },
     {
+      id: '/recipes/sweet/biscuits/cantucci',
+      title: 'Cantucci',
+    },
+    {
       id: '/recipes/sweet/tartes/tarte-regent',
       title: 'Tarte du regent',
     },
