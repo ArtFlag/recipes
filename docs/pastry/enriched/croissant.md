@@ -93,11 +93,11 @@ Il faut travailler vite.
 
 ### Façonnage
 
-1. Etaler la pâte en un rectangle **58x26cm**. (3-4mm)
+1. Etaler la pâte en un rectangle **58x26-30cm**. (3-4mm)
 1. Couper les bords.
 1. Façonner:
    - Croissants: **9x26cm**. (65-70g par croissant)
-   - Pains au chocolat: **8x12cm**.
+   - Pains au chocolat: **8x15cm**.
 
    ![croissant](/img/coupe.png)
 1. Etirer la pointe de chaque triangle de sorte à l'allonger un peu puis faire
