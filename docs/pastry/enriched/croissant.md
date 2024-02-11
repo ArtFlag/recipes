@@ -134,3 +134,49 @@ Beurre de tourage: 200g
 1. cuire 170c 16minutes
 
 [Video](https://fb.watch/dgp3QM66CR/)
+
+## Recette Yasmine Menacer
+
+<Tabs>
+<TabItem value="12 croissants" label="12 croissants" groupId="group1" default>
+
+- Farine T65 : 750g
+- Farine T45: 250g
+- Sel : 20 g
+- Sucre: 100 g
+- Miel: 50g
+- beurre: 80g
+- Lait: 200g
+- Eau: 260 g
+- Beurre de tourage 500g
+
+</TabItem>
+<TabItem value="6 croissants" label="6 croissants">
+
+- Farine T65: 375g
+- Farine T45: 125g
+- Sel: 10g
+- Sucre: 50g
+- Miel: 25g
+- Beurre: 40g
+- Lait: 100g
+- Eau: 130g
+- Beurre de tourage: 250g
+
+</TabItem>
+
+<TabItem value="6+1/3 croissants" label="6 croissants pour double lamination">
+
+- Farine T65: 499g
+- Farine T45: 166g
+- Sel: 13g
+- Sucre: 67g
+- Miel: 33g
+- Beurre: 53g
+- Lait: 133g
+- Eau: 174g
+- Beurre de tourage: 250g
+
+</TabItem>
+
+</Tabs>
