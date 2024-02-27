@@ -53,7 +53,7 @@
   },
   "video": {
     "prefix": "video",
-    "body": ["<div class=\"youtube-video-container\">", "", "</div>", ""],
+    "body": ["<div class=\"youtube-video-container\">", "$1", "</div>", ""],
     "description": "Insert video"
   },
   "variables":{
