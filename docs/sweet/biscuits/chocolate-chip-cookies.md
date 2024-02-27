@@ -2,7 +2,9 @@
 title: Chocolate chip cookies
 ---
 
-[Source](https://bromabakery.com/best-chocolate-chip-cookies/)
+## Bromabakery
+
+[Source - Bromabakery](https://bromabakery.com/best-chocolate-chip-cookies/)
 
 - Unsalted butter: 3/4 cup (168 g)
 - Brown sugar: 110g
@@ -26,7 +28,7 @@ title: Chocolate chip cookies
 1. Bake for **11 minutes**, or until the edges are just golden brown and the centers have puffed up but are still gooey.
 1. Allow to cool before eating.
 
----
+## Variant 1
 
 [Video](https://www.youtube.com/watch?v=lJ7Ec3bKrxM)
 
@@ -40,3 +42,28 @@ title: Chocolate chip cookies
 - 100g chocolate + 20 g
 - 50g nuts
 - Bake 190c for 13 to 14 minutes
+
+## Variant 2
+
+Pour environ 10 pièces:
+
+- Beurre demi-sel: 125g
+- Chocolat noir: 130g
+- Farine blanche: 190g  - Farine forte pour plus de chew. Farine standard pour cookie normal.
+- Levure chimique: 1 càc / 2g
+- Œuf: 1
+- Sel: 1g si beurre non salé.
+- Sucre cassonade: 90g
+
+1. Coupez le chocolat au couteau pour en faire des pépites.
+1. Mettez le beurre mou et le sucre dans un saladier. Melanger legerement au fouet.
+1. Battre l'oeuf, ajouter en 2 fois au melange sucre/beurre.
+1. Ajoutez la farine et la levure tamisees et melanger un peu à la spatule. Il faut voir la farine encore un peu.
+1. Ajoutez les ¾ des pépites et mélangez à la spatule.
+1. Couvrir et laisser reposer entre 1 heure et 1 jour.
+
+1. Préchauffez votre four à 150°C.
+1. Formez des boules de pâtes à l'aide d'une cuillère à glace et posez-les sur une plaque de cuisson.
+1. Ajoutez le reste des pépites de chocolat sur chaque boule de pâte.
+1. Enfournez et cuisez 16-17 minutes.
+1. Sortez-les du four et posez-les sur une grille pour les refroidir.
