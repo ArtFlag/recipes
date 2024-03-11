@@ -110,48 +110,11 @@ Il faut travailler vite.
 1. Dorer
 1. <BakingStep temp="220" time="5 min" fan preheat /> puis <BakingStep temp="180" time="12 min" fan preheat />
 
-## Recette 2 (Adrien Ozaneaux)
-
-15 croissants.
-
-Detrempe:
-
-- 500kg farine dont 25g de gruau, 25g tradition
-- 120g eau
-- 120g lait
-- 60g sucre
-- 10g miel
-- 10g sel
-- 25g beurre
-- 25g levure fraiche
-
-Beurre de tourage: 200g
-
-1. petrir vitesse 1 5minutes
-1. Ajouter 50g de beurre
-1. petrir vitesse 2 7minutes
-1. frigo 12h max
-1. cuire 170c 16minutes
-
-[Video](https://fb.watch/dgp3QM66CR/)
 
 ## Recette Yasmine Menacer
 
 <Tabs>
 <TabItem value="12 croissants" label="12 croissants" groupId="group1" default>
-
-- Farine T65 : 750g
-- Farine T45: 250g
-- Sel : 20 g
-- Sucre: 100 g
-- Miel: 50g
-- beurre: 80g
-- Lait: 200g
-- Eau: 260 g
-- Beurre de tourage 500g
-
-</TabItem>
-<TabItem value="6 croissants" label="6 croissants">
 
 - Farine T65: 375g
 - Farine T45: 125g
@@ -162,20 +125,37 @@ Beurre de tourage: 200g
 - Lait: 100g
 - Eau: 130g
 - Beurre de tourage: 250g
+- Levure seche: 10g / levure fraiche: 15-20g
+
+</TabItem>
+
+<TabItem value="6 croissants" label="6 croissants">
+
+- Farine T65: 187.5g
+- Farine T45: 62.5g
+- Sel: 5g
+- Sucre: 25g
+- Miel: 12.5g
+- Beurre: 20g
+- Lait: 50g
+- Eau: 65g
+- Beurre de tourage: 125g
+- Levure seche: 5g / levure fraiche: 10-15g
 
 </TabItem>
 
 <TabItem value="6+1/3 croissants" label="6 croissants pour double lamination">
 
-- Farine T65: 499g
-- Farine T45: 166g
-- Sel: 13g
-- Sucre: 67g
-- Miel: 33g
-- Beurre: 53g
-- Lait: 133g
-- Eau: 174g
-- Beurre de tourage: 250g
+- Farine T65: 250g
+- Farine T45: 83.375g
+- Sel: 6.65g
+- Sucre: 33.25g
+- Miel: 16.625g
+- Beurre: 26.6g
+- Lait: 66.5g
+- Eau: 87.45g
+- Beurre de tourage: 125g
+- Levure seche: 6g / levure fraiche: 15g
 
 </TabItem>
 
