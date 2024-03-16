@@ -9,12 +9,12 @@ Convertir en poolish:
 
 :::note[Example]
 
-|        | Final | J1  | J2  |
-| ------ | ----- | --- | --- |
-| T65    | 1000  | 325 | 675 |
-| Sel    | 18    | /   | 18  |
-| Levure | 8     | 1   | 7   |
-| Eau    | 650   | 325 | 325 |
+| Ingredient     | Final | J1  | J2  |
+| -------------- | ----- | --- | --- |
+| T65            | 500   | 150 | 350 |
+| Sel            | 10    | /   | 10  |
+| Levure fraiche | 4     | 3   | 5   |
+| Eau            | 300   | 150 | 150 |
 
 :::
 
