@@ -14,6 +14,10 @@ const shortcuts_bread = {
       title: 'Baguettes',
     },
     {
+      id: '/recipes/pastry/enriched/croissant',
+      title: 'Croissants',
+    },
+    {
       id: '/recipes/pastry/enriched/kanelsnurrer',
       title: 'Kanelsnurrer',
     },
@@ -36,10 +40,6 @@ const shortcuts_bread = {
     {
       id: '/recipes/pastry/enriched/cinnamon-buns',
       title: 'Cinnamon buns',
-    },
-    {
-      id: '/recipes/pastry/enriched/croissant',
-      title: 'Croissants',
     },
     {
       id: '/recipes/pastry/bread/bagels',

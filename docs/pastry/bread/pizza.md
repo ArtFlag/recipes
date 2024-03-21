@@ -2,6 +2,8 @@
 title:  Pizza  (Napolitana)
 ---
 
+import Percent from "@site/src/components/Percent";
+
 [Pizzapp+](https://apps.apple.com/fr/app/pizzapp/id1228158792#?platform=ipad)
 or [Pizza calculator](https://pizza-calculator.the-bread-code.io/)
 
@@ -9,12 +11,12 @@ or [Pizza calculator](https://pizza-calculator.the-bread-code.io/)
 
 ### Percentages
 
-|           Ingredient           | Percentage | Example for 4 pizzas of 210g |
-| ------------------------------ | ---------- | ---------------------------- |
-| Flour Tipo 00 (13-14g protein) | 100%       | 500                          |
-| Water (for tipo 00)            | 65%        | 325 ml                       |
-| Salt                           | 3%         | 15g                          |
-| Fresh yeast                    | 0.2%       | 1g                           |
+| Ingredient                     | Percentage                                       | Example for 4 pizzas of 210g |
+| ------------------------------ | ------------------------------------------------ | ---------------------------- |
+| Flour Tipo 00 (13-14g protein) | <Percent value="500" reference="500" showSign /> | 500                          |
+| Water (for tipo 00)            | <Percent value="325" reference="500" showSign /> | 325g                         |
+| Salt                           | <Percent value="15" reference="500" showSign />  | 15g                          |
+| Fresh yeast                    | <Percent value="1" reference="500" showSign />   | 1g                           |
 
 :::note
 If dry yeast, divide fresh yeast value by 2
@@ -43,24 +45,29 @@ Recommended tomato: san marzano.
 
 ## Sourdough
 
+| Ingredient                     | Percentage                                       | Example for 4 pizzas of 210g |
+| ------------------------------ | ------------------------------------------------ | ---------------------------- |
+| Flour Tipo 00 (13-14g protein) | <Percent value="500" reference="500" showSign /> | 500g                         |
+| Water (for tipo 00)            | <Percent value="310" reference="500" showSign /> | 310g                         |
+| Salt                           | <Percent value="15" reference="500" showSign />  | 15g                          |
+| Fresh yeast                    | <Percent value="90" reference="500" showSign />  | 90g                          |
+
 1.  Mix the water and the salt until disolved. Add around 10% of flour.
     Add the levain and mix. And the rest of the ingredients.
-2.  Fold the dough several times. Flour a bit more if the dough remains
-    too sticky.
-3.  Leave to rest at room temp 20 minutes.
-4.  Take the dough out on a floured countertop and give it a few folds.
+1.  Fold the dough several times. Flour a bit more if the dough remains too sticky.
+1.  Leave to rest at room temp 20 minutes.
+1.  Take the dough out on a floured countertop and give it a few folds.
     It shouldn't stick anymore.
-5.  Split the dough into the appropriate number of boules. Do not make
+1.  Split the dough into the appropriate number of boules. Do not make
     the boules too tight. Keep in a tight container.
-6.  Leave to proof for the number of hours in the table. It should have
+1.  Leave to proof for the number of hours in the table. It should have
     doubled in size.
-7.  Preheat oven to the max, with the pizza stone in it.
-8.  On a floured surface, make the dough into a disc using its own
-    weight.
-9.  Prepare the pizza with room-temp dough. Flour a cutting board and
+1.  Preheat oven to the max, with the pizza stone in it.
+1.  On a floured surface, make the dough into a disc using its own weight.
+1.  Prepare the pizza with room-temp dough. Flour a cutting board and
     put the pizza on it, make sure it can slide off.
-10. Add the toppings.
-11. Cook at max temperature for 4-5 minutes.
+1. Add the toppings.
+1. Cook at max temperature for 4-5 minutes.
 
 - [Video 1](https://www.youtube.com/watch?v=PntHJgueOtQ)
 - [Video 2: etalage](https://www.youtube.com/watch?v=XQj_P6kOa-k)
