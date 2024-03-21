@@ -2,6 +2,9 @@
 title: Chocolate chip cookies
 ---
 
+import Percent from "@site/src/components/Percent";
+import BakingStep from "@site/src/components/BakingStep";
+
 ## Bromabakery
 
 [Source - Bromabakery](https://bromabakery.com/best-chocolate-chip-cookies/)
@@ -28,32 +31,42 @@ title: Chocolate chip cookies
 1. Bake for **11 minutes**, or until the edges are just golden brown and the centers have puffed up but are still gooey.
 1. Allow to cool before eating.
 
-## Variant 1
+## Emojoio Macadamia cookies
 
-[Video](https://www.youtube.com/watch?v=lJ7Ec3bKrxM)
+- Flour: 160g
+- Unsalted butter: 100g  (<Percent value="100" reference="160" showSign />)
+- Sugar: 80g (<Percent value="80" reference="160" showSign />)
+- 100g chocolate + 20 g (<Percent value="120" reference="160" showSign />)
+- Salt: 1g
+- Egg: 1
+- Vanilla
+- Baking powder: 3g
+- Nuts: 50g
 
-- 100g unsalted butter
-- 80g sugar
-- 1g salt
-- 1 egg
-- vanilla
-- 160g flour
-- 3g baking powder
-- 100g chocolate + 20 g
-- 50g nuts
-- Bake 190c for 13 to 14 minutes
+1. Mix sugar and butter.
+1. Beat egg quicly and add.
+1. Add flour and baking powder.
+1. Chop chocolate and add to butter mixture with nuts.
+1. Fridge 1 hour.
+1. Divide in 135g balls.
+1. <BakingStep temp="190" time="13 minutes" fan preheat />
+1. Only put them on rack once they've hardened.
 
-## Variant 2
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ7Ec3bKrxM?si=n3QpAsQtLaKqL_W3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
+
+## Variant
 
 Pour environ 10 pièces:
 
-- Beurre demi-sel: 125g
-- Chocolat noir: 130g
 - Farine blanche: 190g  - Farine forte pour plus de chew. Farine standard pour cookie normal.
+- Beurre demi-sel: 125g (<Percent value="125" reference="190" showSign />)
+- Sucre cassonade: 90g (<Percent value="90" reference="190" showSign />)
+- Chocolat noir: 130g (<Percent value="130" reference="190" showSign />)
 - Levure chimique: 1 càc / 2g
 - Œuf: 1
 - Sel: 1g si beurre non salé.
-- Sucre cassonade: 90g
 
 1. Coupez le chocolat au couteau pour en faire des pépites.
 1. Mettez le beurre mou et le sucre dans un saladier. Melanger legerement au fouet.
@@ -67,3 +80,35 @@ Pour environ 10 pièces:
 1. Ajoutez le reste des pépites de chocolat sur chaque boule de pâte.
 1. Enfournez et cuisez 16-17 minutes.
 1. Sortez-les du four et posez-les sur une grille pour les refroidir.
+
+## Cookie De Chez Levain Bakery
+
+8 pieces.
+
+- Beurre mou:	240 g  (<Percent value="240" reference="300" showSign />)
+- Sucre en poudre:	100 (<Percent value="100" reference="300" showSign />)
+- Sucre vergeoise:	135 g (<Percent value="135" reference="300" showSign />)
+- Oeuf entier	x2
+- Farine T45:	100 g
+- Farine T55:	180 g
+- Fécule de maïs:	20 g
+- Levure chimique:	1 càc
+- Bicarbonate de sodium:	1 càc
+- Fleur de sel:	2 pincées
+- Chocolat noir + au lait:	350 g
+- Noix de pécans:	250 g
+
+1. Beurre dans un saladier. Malaxer pour transformcer en pommade.
+1. Ajouter sucre en poudre et vergeoise et incorporer au beurre.
+1. Battre les 2 oeufs rapidement et ajouter au saladier et bien incorporer en 2 fois.
+1. Dans un autre saladier, ajouter les farines, bicar, levure et fleur de sel.
+1. Tamiser le tout dans le saladier qui contient le beurre en 2 fois et incorporer legerement.
+1. Decouper le chocolat en pepites et les noix de pecan en 2.
+1. Tout ajouter au saladier et melanger.
+1. Faire de cookies de 170g.
+
+<BakingStep temp="200" time="11 minutes" fan preheat />
+
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZvAWZUK-kI?si=yLuQYCAvaum-SWyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
