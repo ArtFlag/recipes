@@ -36,7 +36,7 @@ import BakingStep from "@site/src/components/BakingStep";
 - Flour: 160g
 - Unsalted butter: 100g  (<Percent value="100" reference="160" showSign />)
 - Sugar: 80g (<Percent value="80" reference="160" showSign />)
-- 100g chocolate + 20 g (<Percent value="120" reference="160" showSign />)
+- 100g chocolate (<Percent value="120" reference="160" showSign />)
 - Salt: 1g
 - Egg: 1
 - Vanilla
@@ -48,7 +48,7 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Add flour and baking powder.
 1. Chop chocolate and add to butter mixture with nuts.
 1. Fridge 1 hour.
-1. Divide in 135g balls.
+1. Divide in 125g balls.
 1. <BakingStep temp="190" time="13 minutes" fan preheat />
 1. Only put them on rack once they've hardened.
 
