@@ -3,6 +3,11 @@ title: Brioche feuilletée
 ---
 import MyImg from "@site/static/img/brioche-feuilletee.png";
 import BakingStep from "@site/src/components/BakingStep";
+import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
+
+
+
+
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
@@ -37,6 +42,18 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Tour simple. Frigo 20 minutes.
 1. Etaler 25x15cm.
 1. Couper en 2 ou + bandes et mettre dans le moule beurré.
+
+   :::note
+
+   Pour une brioche feuilletee rectangulaire, etaler sur:
+   - `longueur = 3 x longueur du moule`
+   - `largeur = largeur du moule`.
+
+   <img src={MyImg2} width="30%"/>
+
+   :::
+
+
 1. Entrelacer dans le moule.
    <br/><img src={MyImg} width="56%"/>
 1. Laisser lever 2-3h a 25-27c.
