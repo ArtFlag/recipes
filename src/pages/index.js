@@ -10,39 +10,39 @@ const shortcuts_bread = {
   title: 'Bread',
   links: [
     {
-      id: '/recipes/pastry/bread/baguettes',
+      id: 'pastry/bread/baguettes',
       title: 'Baguettes',
     },
     {
-      id: '/recipes/pastry/enriched/croissant',
+      id: 'pastry/enriched/croissant',
       title: 'Croissants',
     },
     {
-      id: '/recipes/pastry/enriched/kanelsnurrer',
+      id: 'pastry/enriched/kanelsnurrer',
       title: 'Kanelsnurrer',
     },
     {
-      id: '/recipes/pastry/bread/pain',
+      id: 'pastry/bread/pain',
       title: 'Pain au levain',
     },
     {
-      id: '/recipes/pastry/enriched/brioche',
+      id: 'pastry/enriched/brioche',
       title: 'Brioche',
     },
     {
-      id: '/recipes/pastry/enriched/brioche-feuilletee',
+      id: 'pastry/enriched/brioche-feuilletee',
       title: 'Brioche feuilletée',
     },
     {
-      id: '/recipes/pastry/enriched/brioche-suisse',
+      id: 'pastry/enriched/brioche-suisse',
       title: 'Brioche suisse',
     },
     {
-      id: '/recipes/pastry/enriched/cinnamon-buns',
+      id: 'pastry/enriched/cinnamon-buns',
       title: 'Cinnamon buns',
     },
     {
-      id: '/recipes/pastry/bread/bagels',
+      id: 'pastry/bread/bagels',
       title: 'Bagels',
     },
   ],
@@ -52,43 +52,43 @@ const shortcuts_sweet = {
   title: 'Sweet',
   links: [
     {
-      id: '/recipes/sweet/biscuits/oatmeal-cookies',
+      id: 'sweet/biscuits/oatmeal-cookies',
       title: 'Oatmeal cookies',
     },
     {
-      id: '/recipes/sweet/biscuits/cantucci',
+      id: 'sweet/biscuits/cantucci',
       title: 'Cantucci',
     },
     {
-      id: '/recipes/sweet/tartes/tarte-regent',
+      id: 'sweet/tartes/tarte-regent',
       title: 'Tarte du regent',
     },
     {
-      id: '/recipes/sweet/tartes/tarte-fine-pommes',
+      id: 'sweet/tartes/tarte-fine-pommes',
       title: 'Tarte aux pommes fine',
     },
     {
-      id: '/recipes/sweet/tartes/tarte-supreme-choco',
+      id: 'sweet/tartes/tarte-supreme-choco',
       title: 'Tarte chocolat suprême',
     },
     {
-      id: '/recipes/sweet/biscuits/palets-bretons',
+      id: 'sweet/biscuits/palets-bretons',
       title: 'Palets bretons',
     },
     {
-      id: '/recipes/sweet/biscuits/sables-diamant',
+      id: 'sweet/biscuits/sables-diamant',
       title: 'Sablés diamant',
     },
     {
-      id: '/recipes/sweet/pates/pate-feuilletee',
+      id: 'sweet/pates/pate-feuilletee',
       title: 'Pâte feuilletée',
     },
     {
-      id: '/recipes/sweet/pates/pate-sablee',
+      id: 'sweet/pates/pate-sablee',
       title: 'Pâte sablée',
     },
     {
-      id: '/recipes/sweet/pates/pate-sucree',
+      id: 'sweet/pates/pate-sucree',
       title: 'Pâte sucrée',
     },
   ],
@@ -98,39 +98,39 @@ const shortcuts_savoury = {
   title: 'Savoury',
   links: [
     {
-      id: '/recipes/savoury/other/galettes',
+      id: 'savoury/other/galettes',
       title: 'Galettes',
     },
     {
-      id: '/recipes/savoury/other/gougere',
+      id: 'savoury/other/gougere',
       title: 'Gougère',
     },
     {
-      id: '/recipes/savoury/stocks/vegetable-stock',
+      id: 'savoury/stocks/vegetable-stock',
       title: 'Vegetable stock',
     },
     {
-      id: '/recipes/savoury/other/marinated-zucchini',
+      id: 'savoury/other/marinated-zucchini',
       title: 'Marinated zucchini',
     },
     {
-      id: '/recipes/savoury/other/chicken-broccoli',
+      id: 'savoury/other/chicken-broccoli',
       title: 'Chicken and broccoli',
     },
     {
-      id: '/recipes/savoury/fermented/kimchi',
+      id: 'savoury/fermented/kimchi',
       title: 'Kimchi',
     },
     {
-      id: '/recipes/pastry/bread/pizza',
+      id: 'pastry/bread/pizza',
       title: 'Pizza',
     },
     {
-      id: '/recipes/savoury/other/quiche-lorraine',
+      id: 'savoury/other/quiche-lorraine',
       title: 'Quiche lorraine',
     },
     {
-      id: '/recipes/savoury/other/tarte-thon',
+      id: 'savoury/other/tarte-thon',
       title: 'Tarte au thon',
     },
   ],
@@ -140,35 +140,35 @@ const shortcuts_cocktails = {
   title: 'Cocktails',
   links: [
     {
-      id: '/recipes/cocktails/other/amaretto-sour',
+      id: 'cocktails/other/amaretto-sour',
       title: 'Amaretto sour',
     },
     {
-      id: '/recipes/cocktails/other/pisco-sour',
+      id: 'cocktails/other/pisco-sour',
       title: 'Pisco sour',
     },
     {
-      id: '/recipes/cocktails/whiskey/old-fashioned',
+      id: 'cocktails/whiskey/old-fashioned',
       title: 'Old fashioned',
     },
     {
-      id: '/recipes/cocktails/gin/negroni',
+      id: 'cocktails/gin/negroni',
       title: 'Negroni',
     },
     {
-      id: '/recipes/cocktails/whiskey/whiskey-smash',
+      id: 'cocktails/whiskey/whiskey-smash',
       title: 'Whiskey smash',
     },
     {
-      id: '/recipes/cocktails/gin/gin-basil-smash',
+      id: 'cocktails/gin/gin-basil-smash',
       title: 'Gin basil smash',
     },
     {
-      id: '/recipes/cocktails/other/ginger-ale',
+      id: 'cocktails/other/ginger-ale',
       title: 'Ginger ale',
     },
     {
-      id: '/recipes/cocktails/other/chicha-sour',
+      id: 'cocktails/other/chicha-sour',
       title: 'Chicha sour',
     },
   ],
@@ -183,7 +183,7 @@ function Shortcuts({ contents }) {
           <ul>
             {contents.links.map((link, index) => (
               <li key={index}>
-                <Link to={useBaseUrl(link.id)}>{link.title}</Link>
+                <Link to={useBaseUrl('/recipes/' + link.id)}>{link.title}</Link>
               </li>
             ))}
           </ul>
