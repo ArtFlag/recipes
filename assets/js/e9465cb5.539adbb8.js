@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2982],{1473:e=>{e.exports=JSON.parse('{"title":"Gin","slug":"/category/gin","permalink":"/recipes/category/gin","navigation":{"next":{"title":"French 75","permalink":"/recipes/cocktails/gin/french-75"}}}')}}]);
