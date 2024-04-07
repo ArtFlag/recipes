@@ -63,6 +63,10 @@ const config: Config = {
               label: 'Temperatures',
               href: '/recipes/temperatures',
             },
+            {
+              label: 'Notes',
+              href: '/recipes/notes',
+            },
           ],
         },
       ],

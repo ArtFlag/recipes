@@ -26,16 +26,16 @@ const shortcuts_bread = {
       title: 'Pain au levain',
     },
     {
-      id: '/recipes/pastry/enriched/brioche-suisse',
-      title: 'Brioche suisse',
-    },
-    {
       id: '/recipes/pastry/enriched/brioche',
       title: 'Brioche',
     },
     {
       id: '/recipes/pastry/enriched/brioche-feuilletee',
       title: 'Brioche feuilletée',
+    },
+    {
+      id: '/recipes/pastry/enriched/brioche-suisse',
+      title: 'Brioche suisse',
     },
     {
       id: '/recipes/pastry/enriched/cinnamon-buns',
@@ -106,8 +106,8 @@ const shortcuts_savoury = {
       title: 'Gougère',
     },
     {
-      id: '/recipes/savoury/other/frittata',
-      title: 'Frittata',
+      id: '/recipes/savoury/stocks/vegetable-stock',
+      title: 'Vegetable stock',
     },
     {
       id: '/recipes/savoury/other/marinated-zucchini',
