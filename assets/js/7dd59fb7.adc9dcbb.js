@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecipes=self.webpackChunkrecipes||[]).push([[9583],{7082:e=>{e.exports=JSON.parse('{"title":"Bread","slug":"/category/bread","permalink":"/recipes/category/bread","navigation":{"next":{"title":"Bagels","permalink":"/recipes/pastry/bread/bagels"}}}')}}]);

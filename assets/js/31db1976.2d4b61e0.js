@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrecipes=self.webpackChunkrecipes||[]).push([[5276],{3910:e=>{e.exports=JSON.parse('{"title":"Fermented foods","slug":"/category/fermented-foods","permalink":"/recipes/category/fermented-foods","navigation":{"next":{"title":"Honey garlic","permalink":"/recipes/savoury/fermented/honey-garlic"}}}')}}]);
