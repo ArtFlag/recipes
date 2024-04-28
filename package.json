@@ -9,7 +9,8 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "upgrade": "yarn upgrade"
   },
   "dependencies": {
     "@docusaurus/core": "^3.2.1",
