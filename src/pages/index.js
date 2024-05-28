@@ -52,8 +52,8 @@ const shortcuts_sweet = {
   title: 'Sweet',
   links: [
     {
-      id: 'sweet/biscuits/oatmeal-cookies',
-      title: 'Oatmeal cookies',
+      id: 'sweet/biscuits/chocolate-chip-cookies',
+      title: 'Chocolate chip cookies',
     },
     {
       id: 'sweet/biscuits/cantucci',
