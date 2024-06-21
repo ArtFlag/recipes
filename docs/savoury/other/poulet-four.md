@@ -9,7 +9,10 @@ Poulet à temperature amibante.
 1. Farcir au sel, romarin entier. 3 gousses d'ail, 1 quart the citron coupe dans la longueur et grosse tranche de bacon.
 1. Fermer le poulet avec de la ficelle et le masser.
 1. Ajouter huile d'olive et sel apres l'huile et masser encore ou masser d'un melange beurre herbe sous et sur la peau.
-1. Enfourner à 200 pour 15 minutes puis 1h45 a 160 pour un poulet de 3kilos. Ajouter 30 minutes par kilo (72-74c tempé interne). 4kg=2h30.  2kg=1h30.
+1. Cuisson:
+   -  72-74c tempé interne.
+   -  40 minutes pour 500 grammes. 1 heure pour 1 kg. 1h30 pour 1,5 kg. 2h pour 2kg.
+   1. 3kg: Enfourner à 200 pour 15 minutes puis pour 1h45 à 160 pour un poulet de 3 kilos. Ajouter 30 minutes par kilo. 4kg=2h30.  2kg=1h30.
 1. Toutes les 15 minutes, l'arroser avec son propre jus.
 1. Quand il reste 5 minutes de cuisson, ajouter une gross noix de beurre, avec de l'ail et du romarin sur le poulet.
 1. Arroser le poulet avec son jus en permanance.

@@ -8,7 +8,7 @@ Un 40 aine:
 
 - Fécule de maïs : 50 g
 - Farine : 50 g
-- Œufs : 4
+- Œufs : 2
 - Sucre en poudre : 100 g
 - Sucre glace
 
