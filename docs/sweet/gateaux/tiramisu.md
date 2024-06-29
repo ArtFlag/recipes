@@ -13,7 +13,7 @@ Un 40 aine:
 - Sucre glace
 
 1. Séparer les blancs des jaunes et battre les blancs. Ajouter le sucre en cours de route. Ils doivent etre lisses et brillants.
-1. Mélanger un peu de blanc aux jaunes et verser le mélange sur les blancs et battre en vitesse moyenne.
+1. Mélanger un peu de blanc aux jaunes et verser le mélange sur les blancs et battre encore 20 secondes en vitesse moyenne.
    Le mélange doit être aérien.
 1. Tamiser la farine et la fécule.
 1. Mélanger délicatement.
