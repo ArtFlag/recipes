@@ -4,6 +4,37 @@ title: Pita
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Percent from "@site/src/components/Percent";
+
+## Turkihsh-style pita
+
+5 pita:
+
+- White bread flour: 125g
+- Whole wheat flour: 125g
+- Salt: 5g
+- Olive oil: 5g
+- Yeast: 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
+- Cold water: 150g (<Percent value="150" reference="250" showSign />)
+
+Avec yudane 20%:
+
+- Yudane:
+  - 50g flour
+  - 100g water
+- 100g white bread flour
+- 100g whole wheat flour
+- 5g salt
+- olive oil: 5g
+- 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
+- 120g water <Percent value="170" reference="250" showSign />
+
+1. Divide the dough into 4 equal pieces and shape them into balls.
+1. Place the dough balls on to an oiled plate and rub lightly with oil all over.
+1. Cover the dough balls and cold ferment them for 24 hours.
+1. Pre-heat your oven and baking tray/steel/stone to 250C (480F) fan off. The oven must be very hot, so heat it for at least 40 minutes.
+1. Dust the dough ball generously with flour and roll it flat with a rolling pin. But do not make it too thin or else it will not rise well. Bake one at a time and adjust if need be. Also, note the orientation of the dough. It must face the same way as it was sitting on the plate.
+1. Place the flattened dough onto the preheated tray and bake for 3-4 minutes.
 
 ## Poolish pita
 
@@ -12,7 +43,6 @@ import TabItem from '@theme/TabItem';
 
 1. Combine all ingredients in a medium-small mixing bowl, until all the flour is properly hydrated.
 2. Cover and leave for 4h at room temp or up to 24 hours in the fridge.
-
 
 FINAL DOUGH
 200 gr poolish
@@ -38,33 +68,3 @@ FINAL DOUGH
 17. Turn the heat down just before putting the pitas in. Put them in top side down.
 18. Flip the pita a few times to prevent burning.
 19. After a few flips, the pita will puff and it is done at that point. You can cook for longer for more browning on the sides.
-
-## Turkihsh-style pita
-
-import Percent from "@site/src/components/Percent";
-
-- 125g white bread flour
-- 125g whole wheat flour
-- 5g salt
-- olive oil: 5g
-- 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
-- 170g cold water <Percent value="170" reference="250" showSign />
-
-Avec yudane 20%:
-
-- Yudane:
-  - 50g flour
-  - 100g water
-- 100g white bread flour
-- 100g whole wheat flour
-- 5g salt
-- olive oil: 5g
-- 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
-- 120g water <Percent value="170" reference="250" showSign />
-
-1. Divide the dough into 4 equal pieces and shape them into balls.
-1. Place the dough balls on to an oiled plate and rub lightly with oil all over.
-1. Cover the dough balls and cold ferment them for 24 hours.
-1. Pre-heat your oven and baking tray/steel/stone to 250C (480F) fan off. The oven must be very hot, so heat it for at least 40 minutes.
-1. Dust the dough ball generously with flour and roll it flat with a rolling pin. But do not make it too thin or else it will not rise well. Bake one at a time and adjust if need be. Also, note the orientation of the dough. It must face the same way as it was sitting on the plate.
-1. Place the flattened dough onto the preheated tray and bake for 3-4 minutes.
