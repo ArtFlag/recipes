@@ -39,3 +39,14 @@ title: Notes
 <div class="youtube-video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EUyXvO9MQJk?si=IIRxrMupOuWFxbC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 </div>
+
+## Seasoning
+
+Choose unsaturated fats + high smoke point, example: Sunflowerseed oil, grapeseed oil and reach polymerization by heating.
+Exceeding smoke point carbonizes the oil, which we don't want because it leads to cracking and flaking.
+
+1. Clean pan and dry well.
+1. Apply thin layer of oil, spread well with towel.
+1. Bake for 1 hour a little under the oil's smokepoint.
+
+[Video](https://www.youtube.com/watch?v=By5_xL-BPwY)

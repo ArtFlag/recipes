@@ -1,0 +1,58 @@
+---
+title: Sauces
+---
+
+## Marsala mushroom sauce
+
+- Marsala: 250g
+- Honey: 1 tbsp
+- Gelatine: 2 packs
+- Chicken stock: 100g
+- Tomato paste: 10g
+- Worcester sauce: 40g
+- 2 packets of powdered gelatine (14g)
+- Brown button mushrooms: 8 / 100g
+- Shallot: 1, diced
+- Garlic: 3 cloves, diced
+
+
+1. Mix all liquids + honey + gelatine.
+1. Cook meat, like chicken.
+1. When done, reserve.
+1. Add 3 tbsp button to pan, the mushrooms and salt.
+1. Scrub fond with wooden spatula.
+1. When the mushrooms are brown, add garlic and shallot.
+1. When shallots are done, deglaze with the marsala mixture.
+1. Let reduce until the sauce thickens.
+1. Add 50g of cold butter and stir in, serve.
+
+## Mustard tarragon sauce
+
+- Tarragon: 2-3g chopped
+- Shallot: 50g, diced
+- Parsley: 5g
+- Garlic: 3 cloves, diced
+- Dry white wine (chardonnay): 250g
+- Chicken stock: 100g
+- 2 packs of gelatine (14g)
+- Grainy mustard: 25g
+- Heavy cream: 40g
+
+1. Sear meat (pork) and reserve.
+1. Add 2 tbsp butt and shallot, garlic and salt.
+1. When brown, add gelatine mix. Reduce for 6-7 minutes.
+1. Low heat: add 25g grainy mustard, 40g heavy cream, parsley, tarragon.
+1. Stir for a minute and serve.
+
+## Sauce bordelaise
+
+- Shallot: 50g, diced
+- Garlic: 3 cloves, diced
+- Fruity red wine (cab, merlot ): 250g
+- Demi glace: 42g (1 package)
+
+1. Sear meat (pork) and reserve.
+1. Add 2 tbsp butter and shallot, garlic and salt.
+1. When brown, add gelatine mix. Reduce for 6-7 minutes.
+1. Low heat: add 3 tbsp butter.
+1. Stir for a minute and serve.
