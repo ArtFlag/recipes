@@ -2,6 +2,8 @@
 title: Cannelés
 ---
 
+import BakingStep from "@site/src/components/BakingStep";
+
 - Lait entier: 1 demi-litre
 - Oeufs: 2 œufs + 2 jaunes
 - Farine: 130 g
@@ -24,5 +26,5 @@ title: Cannelés
 1. Laisser reposer 24h au frigo.
 1. Le lendemain, sortir l'appareil et le laisser revenir a temperature ambiante.
 1. Remplir les moules aux ¾.
-1. Préchauffer à 240°, cuire pendant 10 minutes, puis cuire 40 minutes à 190c,
-   plutot dans le bas du four. Démoulez les cannelés à chaud.
+1. <BakingStep temp="240" time="10 minutes" fan preheat />
+1. <BakingStep temp="190" time="40-45 mintues" fan preheat />

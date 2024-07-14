@@ -60,6 +60,10 @@ const shortcuts_sweet = {
       title: 'Cantucci',
     },
     {
+      id: 'sweet/autres/canneles',
+      title: 'Cannelés',
+    },
+    {
       id: 'sweet/tartes/tarte-regent',
       title: 'Tarte du regent',
     },
