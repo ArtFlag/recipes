@@ -28,3 +28,5 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Remplir les moules aux ¾.
 1. <BakingStep temp="240" time="10 minutes" fan preheat />
 1. <BakingStep temp="190" time="40-45 mintues" fan preheat />
+
+   A mi-cuisson, tourner la moule dans le four pour mettre les cannelés du fond a l'avant.
