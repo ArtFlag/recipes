@@ -25,12 +25,12 @@ title: Pancakes
 
 ## Pumpkin pancakes
 
-260 g de farine
-170 g de purée de potimarron
-300 ml de lait
-2 oeufs
-25 g de sucre
-1/2 c. à café de sel
-1 c. à café de cannelle
-1 c. à soupe de levure chimique
-1 c. à café de bicarbonate
+- 260 g de farine
+- 170 g de purée de potimarron
+- 300 ml de lait
+- 2 oeufs
+- 25 g de sucre
+- 1/2 c. à café de sel
+- 1 c. à café de cannelle
+- 1 c. à soupe de levure chimique
+- 1 c. à café de bicarbonate

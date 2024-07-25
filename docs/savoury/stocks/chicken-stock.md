@@ -1,8 +1,6 @@
 ---
-title: Bouillon
+title: Chicken stock
 ---
-
-## Poulet
 
 Ingrédients : Pour 1,5 à 2 litres de bouillon
 

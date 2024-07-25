@@ -114,6 +114,10 @@ const shortcuts_savoury = {
       title: 'Vegetable stock',
     },
     {
+      id: 'savoury/stocks/chicken-stock',
+      title: 'Chicken stock',
+    },
+    {
       id: 'savoury/other/marinated-zucchini',
       title: 'Marinated zucchini',
     },
