@@ -19,7 +19,7 @@ import TabItem from '@theme/TabItem';
 
 Poolish:
 
-- T65/Strong flour: 170g
+- T65/Strong flour: 170g (100g complete, si voulu)
 - Eau: 170g
 - Sel: 0
 - Levure fraiche: 1g
@@ -43,13 +43,13 @@ Reste:
 </TabItem>
 </Tabs>
 
-1. Apres petrissage, bulk, etc, faire des patons de 250-300g.
+1. Apres petrissage, bulk, etc, retard au frigo, faire des patons de 250-300g.
 1. Façonner en baguettes.
    <div class="youtube-video-container">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/WdROz5L2n5Y?start=330" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
    </div>
 
-1. Fermenter 45min-1.5h.
+1. Fermenter 45 min.
 1. 250 chaleur tournante avec pierre de cuisson au milieu et preparer un bac en dessous.
 1. Mettre les baguettes sur un papier cuisson sur une plaque et mettre 50ml d'eau a bouillir.
 1. Scarifier, en enfourner sur la pierre.
