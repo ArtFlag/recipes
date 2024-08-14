@@ -44,13 +44,14 @@ Avec yudane 20%:
 1. Combine all ingredients in a medium-small mixing bowl, until all the flour is properly hydrated.
 2. Cover and leave for 4h at room temp or up to 24 hours in the fridge.
 
-FINAL DOUGH
-200 gr poolish
-60 gr water
-5 gr salt
-5 gr sugar
-16 gr olive oil
-150 gr bread flour
+Final dough
+
+- 200 gr poolish
+- 60 gr water
+- 5 gr salt
+- 5 gr sugar
+- 16 gr olive oil
+- 150 gr bread flour
 
 3. Mix and kead until it has developed some gluten.
 4. Cover the dough to prevent it drying and let it rest for 30 minutes.
