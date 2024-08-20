@@ -15,7 +15,7 @@ import Percent from "@site/src/components/Percent";
 - Salt: 5g
 - Olive oil: 5g
 - Yeast: 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
-- Cold water: 150g (<Percent value="150" reference="250" showSign />)
+- Cold water: 140g (<Percent value="140" reference="250" showSign />)
 
 Avec yudane 20%:
 

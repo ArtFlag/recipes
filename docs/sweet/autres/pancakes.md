@@ -3,8 +3,8 @@ title: Pancakes
 ---
 
 -   Beurre
--   Farine: 125g
--   Lait demi écrémé: 150 ml
+-   Farine: 130g
+-   Lait demi écrémé ou butter milk: 140 ml
 -   Levure chimique: 1 sachet
 -   Oeufs: 2
 -   Sel: 1 pincee
@@ -13,14 +13,14 @@ title: Pancakes
 
 1.  Dans un grand bol, mélangez les ingrédients secs : farine, levure,
     le sucre, sel et un sachet de sucre vanillé.
-2.  Dans un autre bol, mélangez les 2 jaunes d'oeuf avec le lait puis
-    ajoutez aux ingrédients secs en mélangeant. Vous obtenez une texture
-    de pâte à crêpes bien épaisse, laissez reposer 15 à 30 minutes.
-3.  Battez les blancs en neige et ajoutez-les délicatement à la
+1.  Dans un autre bol, mélangez les 2 jaunes d'oeuf avec le lait puis
+    ajoutez aux ingrédients secs en mélangeant.
+1.  Laissez reposer 15 à 30 minutes ou toute la nuit.
+1.  Battez les blancs en neige et ajoutez-les délicatement à la
     préparation.
-4.  Faites cuire dans une petite poêle beurrée bien chaude 1 minute de
+1.  Faites cuire dans une petite poêle beurrée bien chaude 1 minute de
     chaque côté.
-5.  Le bord doit être doré, et des petites bulles doivent se former sur
+1.  Le bord doit être doré, et des petites bulles doivent se former sur
     le dessus, c'est le moment de retourner le pancake !
 
 ## Pumpkin pancakes
