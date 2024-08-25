@@ -11,7 +11,7 @@ export const i = {
   'levuref': 15,
   'sel': 5,
   'sucre': 40,
-  'beurre': 110,
+  'beurre': 100,
   'oeufs': 110
 }
 
