@@ -31,6 +31,7 @@
   --ifm-color-primary-dark: var(--color2);
   --ifm-color-primary-lighter: var(--color2);
   --ifm-color-primary-lightest: #c8d8f3;
+  --ifm-card-border-radius: 6px;
   --ifm-button-border-radius: 25px;
   --ifm-code-font-size: 95%;
   --ifm-list-paragraph-margin: 2px;
@@ -47,6 +48,7 @@
   --ifm-color-secondary-contrast-background: var(--color3contrast);
   --sidbar-btn: var(--color2);
 }
+
 :root[data-theme='dark'] {
   --color1: #2e6423;
   --color2: #006641;
@@ -85,48 +87,60 @@
   --ifm-alert-foreground-color: var(--text);
   --ifm-color-secondary-contrast-foreground: var(--text);
 }
+
 .navbar-sidebar__item.menu {
   background-color: var(--color3);
 }
+
 .clean-btn svg,
 .clean-btn svg {
   color: var(--navbar-btn);
 }
+
 .clean-btn {
   color: var(--sidbar-btn);
 }
+
 .navbar__toggle {
   color: var(--ifm-navbar-link-color);
 }
+
 h1,
 h2,
 h3,
 h4 {
   font-weight: var(--ifm-font-weight-light);
 }
+
 h4 {
   font-size: 120%;
 }
+
 :root[data-theme='dark'] .table-of-content {
   color: var(--color2) !important;
 }
+
 :root[data-theme='dark'] .toc-highlight,
 :root[data-theme='dark'] .table-of-contents__link--active {
   color: var(--color6) !important;
 }
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
 .menu {
   font-weight: var(--ifm-font-weight-light);
 }
+
 .navbar,
 .navbar__item {
   font-weight: var(--ifm-font-weight-light);
 }
+
 .navbar__link--active {
   font-weight: var(--ifm-font-weight-semibold);
 }
@@ -160,14 +174,16 @@ h4 {
 .tabs.small li {
   padding: 0.6rem 0.5rem;
 }
+
 .tabs-container {
   background-color: var(--tabs-header-bg);
   border-radius: 6px;
 }
 
-.tabs-container > div {
+.tabs-container>div {
   padding: 0.8em;
 }
+
 .tabs {
   background-color: var(--tabs-body-bg);
 }
@@ -178,4 +194,26 @@ li[role='tab'] {
 
 .pagination-nav__sublabel {
   display: none;
+}
+
+.pagination-nav__label {
+  font-weight: var(--ifm-font-weight-normal);
+}
+
+.pagination-nav__label:hover {
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.pagination-nav__link:hover {
+  border: none;
+  transition: none;
+}
+
+.pagination-nav__link {
+  border: none;
+  transition: none;
+}
+
+article table tr th {
+  background-color: var(--color5);
 }
