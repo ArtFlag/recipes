@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from './styles.module.css'
 
 const shortcuts_bread = {
-  title: 'Bread',
+  title: 'Bread/Viennoiserie',
   links: [
     {
       id: 'pastry/bread/baguettes',
@@ -16,6 +16,10 @@ const shortcuts_bread = {
     {
       id: 'pastry/enriched/croissant',
       title: 'Croissants',
+    },
+    {
+      id: 'pastry/enriched/pains-aux-raisins',
+      title: 'Pains aux raisins',
     },
     {
       id: 'pastry/enriched/kanelsnurrer',

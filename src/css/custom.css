@@ -217,3 +217,7 @@ li[role='tab'] {
 article table tr th {
   background-color: var(--color5);
 }
+
+ol ol {
+  list-style: decimal;
+}
