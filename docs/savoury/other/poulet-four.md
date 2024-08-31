@@ -21,3 +21,7 @@ Lorsque le poulet est cuit:
 1. Le sortir et le laisser reposer 15 minutes, tete en bas couvert de papier aluminium.
 1. Presser un citron dans la cocotte qui contient tjs les herbes et les jus, et utiliser ca comme fond de sauce.
 1. Apres 15 minutes, couper le poulet et servir.
+
+:::note
+Si le poulet est sur un lit de pommes de terre, et qu'il est suffisement petit pour cuire en 1h, precuire les pdt. 1h au four ne permet pas d'avoir des patate bien cuites.
+:::

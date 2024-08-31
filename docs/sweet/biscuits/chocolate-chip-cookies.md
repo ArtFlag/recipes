@@ -7,18 +7,19 @@ import BakingStep from "@site/src/components/BakingStep";
 
 ## Emojoie Macadamia cookies
 
-- Flour: 160g
-- Unsalted butter: 100g  (<Percent value="100" reference="160" showSign />)
-- Sugar: 80g (<Percent value="80" reference="160" showSign />)
-- 100g chocolate (<Percent value="120" reference="160" showSign />)
+- Flour: 150g
+- Unsalted butter: 100g  (<Percent value="100" reference="150" showSign />)
+- Sugar: 75g (<Percent value="75" reference="150" showSign />)
+- 100g chocolate (<Percent value="120" reference="150" showSign />)
 - Salt: 1g
 - Egg: 1
 - Vanilla
 - Baking powder: 3g
 - Nuts: 50g
 
+1. Optional: brown the butter. Add a tea spoon of water at the end.
 1. Mix sugar and butter.
-1. Beat egg quicly and add.
+1. Beat egg quicly and add. Mix everything well.
 1. Add flour and baking powder.
 1. Chop chocolate and add to butter mixture with nuts.
 1. Fridge 1 hour.
@@ -39,7 +40,7 @@ import BakingStep from "@site/src/components/BakingStep";
 - Granulated sugar: 40g
 - Eggs: 1 egg + 1 egg yolk
 - Vanilla extract: 1 tbsp
-- AP flour: 220g
+- AP flour: 210g
 - Baking soda: 4g or 3/4 teaspoon
 - Salt: 6g or 3/4 teaspoon kosher salt + more flaky seat salt for sprinkling
 - Chocolate: 200g or 1 1/2 cup
@@ -55,7 +56,6 @@ import BakingStep from "@site/src/components/BakingStep";
 1. When you are ready to bake the cookies, preheat the oven to 180c and line a cookie sheet with parchment paper.
 1. Bake for **11 minutes**, or until the edges are just golden brown and the centers have puffed up but are still gooey.
 1. Allow to cool before eating.
-
 
 ## Variant
 

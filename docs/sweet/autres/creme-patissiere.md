@@ -11,7 +11,7 @@ title: Crême pâtissière
 - jaunes d'oeufs: 3
 - Sucre en poudre: 70g
 - Fecule de mais: 45g
-- Mascarpone: 80g
+- Optionel: Mascarpone: 80g
 
 1. Verser le lait dans une casserole.
 1. Ouvrir et mettre la vanille dans le lait.
