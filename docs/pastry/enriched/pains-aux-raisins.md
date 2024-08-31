@@ -11,8 +11,8 @@ title: Pains aux raisins
 - Levure fraîche : 15g
 - Eau : 100g
 - Lait : 70g
-- Beurre : 70g
-- Beurre de tourage : 170g
+- Beurre : 60g
+- Beurre de tourage : 150g
 
 Creme patissiere:
 
@@ -26,9 +26,9 @@ Creme patissiere:
 
 Sirop :
 
-- Raisins : 160g
-- Eau : 200g
-- Sucre : 100g
+- Raisins : 150g
+- Eau : 180g
+- Sucre : 90g
 - Rhum : 50g
 
 ---
