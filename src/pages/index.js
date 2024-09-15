@@ -30,6 +30,10 @@ const shortcuts_bread = {
       title: 'Pain au levain',
     },
     {
+      id: 'pastry/bread/cornbread',
+      title: 'Cornbread',
+    },
+    {
       id: 'pastry/enriched/brioche',
       title: 'Brioche',
     },
