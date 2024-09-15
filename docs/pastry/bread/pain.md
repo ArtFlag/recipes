@@ -99,23 +99,6 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
-          T55 biocoop: 440g
-        </li>
-        <li>
-          Seigle complete biocoop: 60g
-        </li>
-      </ul>
-    </td>
-    <td>80g</td>
-    <td>315g (63%)</td>
-    <td>10g</td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>
           Gold medal: 485g
         </li>
         <li>
@@ -135,6 +118,23 @@ Pour faire un levain, voir [Levain](levain.md).
           Cinnamon: 6g
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          Farine de ble T55: 350g
+        </li>
+        <li>
+          Corn flour: 150g
+        </li>
+      </ul>
+    </td>
+    <td>100g</td>
+    <td>300g (60%)</td>
+    <td>10g</td>
+    <td>
     </td>
   </tr>
   <tr>
