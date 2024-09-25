@@ -15,7 +15,6 @@ title: Sauces
 - Shallot: 1, diced
 - Garlic: 3 cloves, diced
 
-
 1. Mix all liquids + honey + gelatine.
 1. Cook meat, like chicken.
 1. When done, reserve.
@@ -56,3 +55,16 @@ title: Sauces
 1. When brown, add gelatine mix. Reduce for 6-7 minutes.
 1. Low heat: add 3 tbsp butter.
 1. Stir for a minute and serve.
+
+## Dip au roquefort
+
+- Roquefort: 400g
+- Crème fraîche: 30cl
+- Sauce Worcestershire: 2 c. à café
+- Cerneaux de noix: 200g
+- Poivre du moulin
+
+1. Hachez les noix. Mixez le roquefort, la créme fraîche et
+   la sauce Worcestershire. Poivrez et salez légérement.
+1. Mélangez la sauce au roquefort avec les noix hachées.
+1. Servez ce dip avec des bâtonnets de céleri-branche.
