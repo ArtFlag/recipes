@@ -58,10 +58,10 @@ title: Sauces
 
 ## Dip au roquefort
 
-- Roquefort: 400g
-- Crème fraîche: 30cl
-- Sauce Worcestershire: 2 c. à café
-- Cerneaux de noix: 200g
+- Roquefort: 100g
+- Crème fraîche: 7.5cl
+- Sauce Worcestershire: 0.5 cac
+- Cerneaux de noix: 50g
 - Poivre du moulin
 
 1. Hachez les noix. Mixez le roquefort, la créme fraîche et
