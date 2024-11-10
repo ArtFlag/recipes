@@ -5,10 +5,6 @@ import MyImg from "@site/static/img/brioche-feuilletee.png";
 import BakingStep from "@site/src/components/BakingStep";
 import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
 
-
-
-
-
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 </div>
@@ -20,11 +16,11 @@ import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
 ## Ingredients
 
 - Lait entier: 150g
-- Sucre: 50-60g
-- Sel: 3g
+- Sucre: 60g
+- Sel: 4g
 - Farine forte: 300g
 - Beurre: 30g
-- Levure sèche: 5g-7g
+- Levure sèche: 7g (fraiche: 14g)
 - Oeuf: 1
 - Beurre pour tourage: 120g
 - Optionnel: arome vanille/orange
@@ -52,7 +48,6 @@ import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
    <img src={MyImg2} width="30%"/>
 
    :::
-
 
 1. Entrelacer dans le moule.
    <br/><img src={MyImg} width="56%"/>
