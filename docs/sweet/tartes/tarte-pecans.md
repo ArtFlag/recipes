@@ -4,6 +4,8 @@ title: Tarte aux noix de pécan
 
 import BakingStep from "@site/src/components/BakingStep";
 
+Pour un moule de **24cm** de diametre.
+
 ## J-1
 
 ### Pate sucrée
@@ -20,30 +22,32 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Mélanger sel + vanille.
 1. Ajouter oeuf battu et incorporer.
 1. Ajouter la farine, farine d'amandes et mixer.
-1. Flatten and wrap in platic film.
+1. Aplatir et conserver dans un film.
 1. **Frigo au moins 2h.**
 1. Etaler la pate sur 2-3mm.
 1. Mettre en cercle.
 1. **Reserver au frigo 8h.**
-1. Preparer le sirop:
+
+### Melange au sirop d'erable
+
    1. Melanger avec un mixeur:
-      - Oeuf:	50g
-      - Sucre:	55g
-      - Sirop d'erable:	70g
-      - Beurre fondu:	25g (780W max, 20s)
-      - Vanilla extract:	1tsp
+      - Œuf : 72 g
+      - Sucre : 79 g
+      - Sirop d'érable : 100 g
+      - Beurre fondu : 36 g
+      - Extrait de vanille : 1½ cuillères à café
    1. Filmer contact, **reserver une nuit.**
 
 ## Jour J
 
-1. Torrefier 35g de noix de pecan <BakingStep temp="150" time="15 minutes" fan preheat />
+1. Torrefier 50g de noix de pecan <BakingStep temp="150" time="15 minutes" fan preheat />
 1. Passer au food processor.
 1. Melanger:
-   - Beurre mou:	35g
-   - Poudre de pecan: 35g
-   - Sucre glace: 35g
-   - Oeuf:	35g
-   - Rhume ambrée:	10g
+   - Beurre mou : 50 g
+   - Poudre de pécan : 72 g
+   - Sucre glace : 50 g
+   - Œuf : 50 g
+   - Rhum ambré : 14 g
 1. Sortir la pate et la garnir la pate avec ce melange et bien repartir le mélange.
 1. <BakingStep temp="160" time="15-20 minutes" fan preheat />
 1. Laisser refroidir un peu.
@@ -55,7 +59,6 @@ import BakingStep from "@site/src/components/BakingStep";
 1. (Optionel) Glacage au sirop legerement tiede.
 1. Reserver au frigo.
 1. Sucre en poudre avant de servir.
-
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EFsZcT62uXU?si=oix9lN8-qIbLOmK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
