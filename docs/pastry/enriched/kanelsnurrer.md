@@ -2,6 +2,7 @@
 title: Kanelsnurrer
 ---
 
+import BakingStep from "@site/src/components/BakingStep";
 
 <table>
   <tr>
@@ -69,7 +70,7 @@ title: Kanelsnurrer
    </div>
 1. Place them on a baking sheet or in muffin tray. Let rise for 30-60 min.
 1. Brush with beaten egg + whole milk.
-1. Bake on middle rack for 15-18 minutes at 200c.
+1. <BakingStep temp="190" time="15-18 min" fan preheat />
 1. (Optional) Once cooled off, powder sugar on top.
 
 [video 1](https://www.youtube.com/watch?v=wNiyp89pTi0)
