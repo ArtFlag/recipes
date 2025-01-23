@@ -16,7 +16,7 @@ import BakingStep from "@site/src/components/BakingStep";
         <li>Butter: 150g</li>
         <li>Cardamom or vanilla sugar: 1 tsp</li>
         <li>Eggs: 2</li>
-        <li>Milk (whole): 190 ml</li>
+        <li>Milk (whole): 180g</li>
         <li>Salt: 10g</li>
         <li>Strong Wheat flour: 500g</li>
         <li>Sugar: 30g</li>
