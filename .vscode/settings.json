@@ -30,6 +30,5 @@
   },
   "[properties]": {
     "editor.formatOnSave": false
-  },
-  "typescript.tsdk": "node_modules/typescript/lib"
+  }
 }

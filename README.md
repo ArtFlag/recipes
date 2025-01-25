@@ -5,19 +5,19 @@
 ## Installation
 
 ```console
-pnpm install
+yarn install
 ```
 
 ## Local Development
 
 ```console
-pnpm run start
+yarn start
 ```
 
 ## Build
 
 ```console
-pnpm run build
+yarn build
 ```
 
 ## Deployment
@@ -27,5 +27,5 @@ Deploy is automatic on every merge to master.
 ## Upgrade
 
 ```bash
-pnpm up --latest
+yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-search-algolia@latest
 ```
