@@ -6,13 +6,13 @@ import BakingStep from "@site/src/components/BakingStep";
 import Percent from "@site/src/components/Percent";
 
 export const i = {
-  'farine': 310,
+  'farine': 320,
   'lait': 75,
   'levuref': 15,
   'sel': 5,
   'sucre': 40,
   'beurre': 100,
-  'oeufs': 110
+  'oeufs': 100
 }
 
 ## Recette
