@@ -6,7 +6,7 @@ title: Crêpes
 - Farine: 250g
 - Sucre: 2 CaS / 20-30g
 - Sel: 1 pincee
-- Oeufs: 2-3
+- Oeufs: 3
 - Beurre fondu: 30g
 - Extrait de vanille/rhum: 1 bouchon
 
