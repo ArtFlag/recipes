@@ -3,7 +3,7 @@ title: Old fashioned
 ---
 
 - 2 ounces high proof bourbon/rye (Bulleit, Buffalo Trace) or brandy/mezcal
-- 1/4 ounce simple or rich demerara syrup
+- 1/4 ounce simple or rich demerara syrup, or maple sirup
 - 2 to 4 dashes Angostura bitters
 
 1. Add all ingredients to a mixing glass.

@@ -7,7 +7,7 @@ import Percent from "@site/src/components/Percent";
 
 export const i = {
   'farine': 320,
-  'lait': 75,
+  'lait': 70,
   'levuref': 15,
   'sel': 5,
   'sucre': 40,
