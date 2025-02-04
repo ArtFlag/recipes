@@ -3,7 +3,7 @@ title: Beurre
 ---
 
 - Creme fraiche: 1 L minimum 30% de matiere grasse. (300g de beurre)
-- Sel: Entre 1.5g et 9g (0.5% - 3%)
+- Sel: Entre 1.5g et 9g (0.5% - 3%) pour un demi-sel. 3%-5% pour un beurre salé.
 
 1. Mettre la crème dans la cuve d'un robot avec un fouet.
 1. Battre en accélérant progressivement la vitesse jusqu'à obtenir de la chantilly, puis ralentir légèrement lorsque le petit-lait apparaît, et enfin jusqu'à formation du beurre.
