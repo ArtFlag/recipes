@@ -32,8 +32,9 @@ Pour 1 opéra de 30 cm X 30 cm (8-10 personnes).
 
 Ingrédients supplémentaires
 
-- Chocolat
-- Huile de pépin de raisin
+- Nappage:
+  - Chocolat 50g
+  - Huile de pépin de raisin
 - 300 ml de café pour l'imbibage
 - Feuille d'or
 
@@ -76,12 +77,11 @@ Ingrédients supplémentaires
 1. Laissez figer au réfrigérateur pendant 20 minutes.
 1. Retournez le biscuit et imbibez-le généreusement de café.
 1. Étalez une couche de crème au beurre café.
-1. Ajoutez le deuxième biscuit, imbibez de café, puis ajoutez une couche de ganache au chocolat.
-1. Placez le troisième biscuit, imbibez-le de café, puis étalez une dernière couche de crème au beurre café.
-1. Faites fondre du chocolat avec une cuillère à café d'huile de pépin de raisin.
-1. Étalez-le sur une feuille de papier Rhodoïd ou une face de poche plastique coupée en deux.
-1. Déposez immédiatement sur l'Opéra et laissez prendre 2 heures au réfrigérateur.
-1. Retirez la feuille plastique et décorez avec des feuilles d'or.
+1. Ajoutez le deuxième biscuit, face moins cuite vers le haut, imbibez de café, puis ajoutez une couche de ganache au chocolat.
+1. Placez le troisième biscuit, imbibez-le de café, puis étalez une dernière couche de crème au beurre café et mettre au frigo pendant 1-2h ou toute la nuit.
+1. Faites fondre 60g de chocolat au bain marie. Ajouter une cuillère à café d'huile de pépin de raisin  quand le chocolat est fondue et melanger doucement.
+1. Quand le chocolat est a 35c, verser sur l'opera et repartir le glaçage tres rapidement.
+1. Laissez prendre 2 heures au réfrigérateur.
 
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pD0q1R9pDEQ?si=GNIOu80z1QupHG06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>

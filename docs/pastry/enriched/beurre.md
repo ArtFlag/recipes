@@ -21,3 +21,4 @@ title: Beurre
 1. Mettre le beurre dans un tissu filtrant pour extraire le reste du lait, ou presser le beurre sous le robinet au dessus de la cuve du batteur jusqu'a ce que l'eau sortant soit claire.
 1. Le saler entre 0,5 % et 3 % de son poids, continuer a malaxer un peu.
 1. Le façonner et le placer au réfrigérateur.
+1. Attendre 3-4 jours pour le manger.
