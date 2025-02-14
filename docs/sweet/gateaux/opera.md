@@ -79,7 +79,7 @@ Ingrédients supplémentaires
 1. Étalez une couche de crème au beurre café.
 1. Ajoutez le deuxième biscuit, face moins cuite vers le haut, imbibez de café, puis ajoutez une couche de ganache au chocolat.
 1. Placez le troisième biscuit, imbibez-le de café, puis étalez une dernière couche de crème au beurre café et mettre au frigo pendant 1-2h ou toute la nuit.
-1. Faites fondre 60g de chocolat au bain marie. Ajouter une cuillère à café d'huile de pépin de raisin  quand le chocolat est fondue et melanger doucement.
+1. Faites fondre 100g de chocolat au bain marie. Ajouter 15g d'huile de pépin de raisin ou huile vegetale  quand le chocolat est fondue et melanger doucement.
 1. Quand le chocolat est a 35c, verser sur l'opera et repartir le glaçage tres rapidement.
 1. Laissez prendre 2 heures au réfrigérateur.
 
