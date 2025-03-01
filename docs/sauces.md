@@ -68,3 +68,16 @@ title: Sauces
    la sauce Worcestershire. Poivrez et salez légérement.
 1. Mélangez la sauce au roquefort avec les noix hachées.
 1. Servez ce dip avec des bâtonnets de céleri-branche.
+
+## Tahini + Cacao
+
+Mix 2 tablespoons of tahini, 2.5 tablespoons of honey, 2 teaspoons of cocoa.
+
+## Tahini salad dressing
+
+- 2 tablespoons tahini
+- 1 lemon juice
+- 5 tablespoons olive oil
+- 2 tablespoons yogurt
+- Salt
+- Pepper
