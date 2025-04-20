@@ -27,6 +27,9 @@ Yields 2 cups.
 
 -   All spice (grain): 6-7
 -   Bay leaf: 1
+-   Carrot: 1 or 2
+-   Onion: 1
+-   Celery root
 -   Dried mushrooms: 5-6
 -   Eggs: 3 eggs
 -   Marjoram: 1 tbsp
@@ -38,7 +41,7 @@ Yields 2 cups.
 
 1.  In a large pot, quickly brown the bacon and remove it.
 2.  Add 6 cups of water (and veggie broth, if wanted), add the bay leaf,
-    pepper and all spice..
+    pepper and all spice, let simmer for 30 minutes.
 3.  Add the sausages and cook for 10 minutes.
 4.  Take everything out of the water and keep the soup.
 5.  Peel the sausages and cut them into bite size.
