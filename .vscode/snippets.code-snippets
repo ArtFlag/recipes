@@ -15,7 +15,7 @@
   "Insert note": {
     "scope": "markdown",
     "prefix": "note",
-    "body": [":::note", "[$1]", ":::", "", "$2"],
+    "body": [":::note", "$1", ":::", "", "$2"],
     "description": "Insert a note"
   },
   "Img mdx": {
