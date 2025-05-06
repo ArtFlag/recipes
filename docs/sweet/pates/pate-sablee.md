@@ -2,7 +2,6 @@
 title: Pâte sablée
 ---
 
-
 | Ingredient | Moule normal |
 | :--------- | :----------- |
 | Oeuf       | 1            |
@@ -10,7 +9,6 @@ title: Pâte sablée
 | Farine 55  | 250 g        |
 | Sucre      | 80 g         |
 | Beurre     | 125 g        |
-
 
 1.  Dans un saladier melanger tous les ingredients secs.
 1.  Ajouter l'oeuf.
@@ -26,6 +24,21 @@ title: Pâte sablée
 1.  Enlever les imperfections avec le dos d'un tamis et badigeonner finement avec un jaune d'oeuf + 4gr de creme liquide en commencant par les bords.
 1.  Enfourner à 180c chaleur tournante jusqu'à obtenir une couleur dorée (6-8 minutes).
 
-
 - [Pate feuilletee](/recipes/sweet/pates/pate-feuilletee)
 - [Pate sucrée](/recipes/sweet/pates/pate-sucree)
+
+## Alternative
+
+- 250g de farine
+- 125g de beurre
+- 1 petit verre d eau (environ 10cl)
+- 1/2 sachet de levure
+- Un peu de sucre (facultatif)
+
+1. Mettre l'eau a bouillir dans une casserole.
+1. Faire fondre beurre.
+1. Ajouter la levure d'un coup.
+1. Ajouter la farine d'un coup et bien melanger.
+1. Etaler dans le moule à la main.
+
+Pour la cuisson, vous pouvez laisser la pâte à 180 degrés pendant environ 30 min.
