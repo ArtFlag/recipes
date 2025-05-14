@@ -78,6 +78,26 @@ Pour faire un levain, voir [Levain](levain.md).
     <td>
       <ul>
         <li>
+          550: 350g
+        </li>
+        <li>
+          Whole-grain: 50g
+        </li>
+        <li>
+          Einkorn: 100g
+        </li>
+      </ul>
+    </td>
+    <td>100g</td>
+    <td>300g (60%)</td>
+    <td>10g</td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>
           All purpose: 450g
         </li>
         <li>
