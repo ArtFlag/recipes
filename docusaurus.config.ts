@@ -71,6 +71,10 @@ const config: Config = {
               label: 'Sauces',
               href: '/recipes/sauces',
             },
+            {
+              label: 'Grill',
+              href: '/recipes/grill',
+            },
           ],
         },
       ],
