@@ -2,6 +2,21 @@
 title: Sauces
 ---
 
+## Stir fry brown sauce
+
+1. 1 tbsp dark soy sauce
+1. 3 tbsp light soy sauce
+1. 1 tbsp oyster sauce
+1. 1 tsp of sugar
+1. 1 tsp of salt
+1. 1 tsp chicken stock
+1. 1/4 cup boiling water
+
+Keep in the refrigerator.
+
+Use 1/3 or 1/4 of this batch size for any typical stir-fry dish, and thicken
+with a cornstarch slurry in the final stages of cooking.
+
 ## Marsala mushroom sauce
 
 - Marsala: 250g
