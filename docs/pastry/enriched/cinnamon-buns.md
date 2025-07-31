@@ -37,7 +37,7 @@ export const SugarDough = () => (
 );
 
 export const Milk = () => (
-  <span>230g</span>
+  <span>220g</span>
 );
 
 export const MilkSourDough = () => (
@@ -67,7 +67,7 @@ export const MilkSourDough = () => (
       <li>Butter (softened): <ButterDough/></li>
       <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
-      <li>Fine sea salt: 6g</li>
+      <li>Salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
       <li>Lukewarm whole milk: <MilkSourDough/></li>
       <li>Sourdough starter: 100g</li>
@@ -79,7 +79,7 @@ export const MilkSourDough = () => (
       <li>Butter (softened): <ButterDough/></li>
       <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
-      <li>Fine sea salt: 6g</li>
+      <li>Salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
       <li>Lukewarm whole milk: <Milk/></li>
       <li>Instant yeast: 7g</li>
@@ -113,7 +113,7 @@ export const MilkSourDough = () => (
       <ul>
        <li>Flour: <Flour/></li>
        <li>Granulated sugar: <SugarDough/></li>
-       <li>Fine sea salt: 6g.</li>
+       <li>Salt: 6g</li>
       </ul>
       </TabItem>
       <TabItem value="sourdough" label="Sourdough">
