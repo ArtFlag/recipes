@@ -18,6 +18,10 @@ const shortcuts_bread = {
       title: 'Croissants',
     },
     {
+      id: 'pastry/enriched/rugelach',
+      title: 'Rugelach',
+    },
+    {
       id: 'pastry/enriched/pains-aux-raisins',
       title: 'Pains aux raisins',
     },
