@@ -10,8 +10,7 @@ import Percent from "@site/src/components/Percent";
 
 5 pita:
 
-- White bread flour: 125g
-- Whole wheat flour: 125g
+- White bread flour: 250g
 - Salt: 5g
 - Olive oil: 5g
 - Yeast: 2.5g instant dry yeast or 3g active dry yeast or 7.5g fresh yeast
