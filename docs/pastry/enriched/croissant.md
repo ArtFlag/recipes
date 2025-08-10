@@ -10,7 +10,7 @@ import BakingStep from "@site/src/components/BakingStep";
 Pour le tourage, il faut du beurre de tourage.
 N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasses saturées élevées et 82% minimum.
 
-**Example:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique, butter vom Fass...
+**Example:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique...
 :::
 
 <div class="youtube-video-container">
@@ -109,7 +109,6 @@ Il faut travailler vite.
    d'eau chaude jusqu'à ce qu'ils doublent de volume (entre 1 h et 2 h).
 1. Dorer
 1. <BakingStep temp="220" time="5 min" fan preheat /> puis <BakingStep temp="180" time="12 min" fan preheat />
-
 
 ## Recette Yasmine Menacer
 
