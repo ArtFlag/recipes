@@ -122,6 +122,10 @@ const shortcuts_savoury = {
       title: 'Gougère',
     },
     {
+      id: 'savoury/pasta/cacio-e-pepe',
+      title: 'Cacio e pepe',
+    },
+    {
       id: 'savoury/stocks/vegetable-stock',
       title: 'Vegetable stock',
     },
