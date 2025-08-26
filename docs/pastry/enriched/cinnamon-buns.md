@@ -65,7 +65,6 @@ export const MilkSourDough = () => (
       <ul>
       <li>All-purpose flour: <FlourSourDough/></li>
       <li>Butter (softened): <ButterDough/></li>
-      <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
       <li>Salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
@@ -77,7 +76,6 @@ export const MilkSourDough = () => (
       <ul>
       <li>All-purpose flour: <Flour/></li>
       <li>Butter (softened): <ButterDough/></li>
-      <li>Egg yolk: 1</li>
       <li>Eggs: 2</li>
       <li>Salt: 6g</li>
       <li>Granulated sugar: <SugarDough/></li>
@@ -112,16 +110,16 @@ export const MilkSourDough = () => (
      <TabItem value="yeast" label="Yeast">
       <ul>
        <li>Flour: <Flour/></li>
-       <li>Granulated sugar: <SugarDough/></li>
+       <li>Sugar: <SugarDough/></li>
        <li>Salt: 6g</li>
       </ul>
       </TabItem>
       <TabItem value="sourdough" label="Sourdough">
-        <ul>
-          <li>Flour: <FlourSourDough/></li>
-          <li>Granulated sugar: <SugarDough/></li>
-          <li>Fine sea salt: 6g.</li>
-        </ul>
+      <ul>
+       <li>Flour: <FlourSourDough/></li>
+       <li>Granulated sugar: <SugarDough/></li>
+       <li>Salt: 6g.</li>
+      </ul>
       </TabItem>
    </Tabs>
 
@@ -158,8 +156,8 @@ export const MilkSourDough = () => (
    <Tabs className="small" groupId="group1">
      <TabItem value="yeast" label="Yeast">
       <ol>
-          <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
-          <li>Keep in fridge overnight.</li>
+       <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
+       <li>Keep in fridge overnight.</li>
       </ol>
      </TabItem>
      <TabItem value="sourdough" label="Sourdough">
