@@ -30,5 +30,6 @@
   },
   "[properties]": {
     "editor.formatOnSave": false
-  }
+  },
+  "chat.disableAIFeatures": false
 }
