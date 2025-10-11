@@ -26,19 +26,4 @@ title: Pâte sablée
 
 - [Pate feuilletee](/recipes/sweet/pates/pate-feuilletee)
 - [Pate sucrée](/recipes/sweet/pates/pate-sucree)
-
-## Alternative
-
-- 250g de farine
-- 125g de beurre
-- 1 petit verre d eau (environ 10cl)
-- 1/2 sachet de levure
-- Un peu de sucre (facultatif)
-
-1. Mettre l'eau a bouillir dans une casserole.
-1. Faire fondre beurre.
-1. Ajouter la levure d'un coup.
-1. Ajouter la farine d'un coup et bien melanger.
-1. Etaler dans le moule à la main.
-
-Pour la cuisson, vous pouvez laisser la pâte à 180 degrés pendant environ 30 min.
+- [Pate brisée](/recipes/sweet/pates/pate-brisee)
