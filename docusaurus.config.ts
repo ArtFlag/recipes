@@ -23,25 +23,25 @@ const config: Config = {
           label: 'Bread',
           position: 'left',
           type: 'doc',
-          docId: 'pastry/bread/baguettes',
+          docId: '/category/bread',
         },
         {
           label: 'Sweet',
           position: 'left',
           type: 'doc',
-          docId: 'sweet/biscuits/chocolate-chip-cookies',
+          docId: '/category/biscuits',
         },
         {
           label: 'Savoury',
           position: 'left',
           type: 'doc',
-          docId: 'savoury/other/gougere',
+          docId: '/category/other',
         },
         {
           label: 'Cocktails',
           position: 'left',
           type: 'doc',
-          docId: 'cocktails/other/pisco-sour',
+          docId: '/category/other-1',
         },
       ],
     },
@@ -49,7 +49,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'More',
+          title: 'General',
           items: [
             {
               label: 'GitHub',
@@ -74,6 +74,52 @@ const config: Config = {
             {
               label: 'Grill',
               href: '/recipes/grill',
+            },
+          ],
+        },
+        {
+          title: 'Sweet',
+          items: [
+            {
+              label: 'Pâtes',
+              href: '/recipes/category/p%C3%A2tes',
+            },
+            {
+              label: 'Biscuits',
+              href: '/recipes/category/biscuits',
+            },
+            {
+              label: 'Tartes',
+              href: '/recipes/category/tartes',
+            },
+            {
+              label: 'Gâteaux',
+              href: '/recipes/category/g%C3%A2teaux',
+            },
+            {
+              label: 'Autres',
+              href: '/recipes/category/autres',
+            },
+          ],
+        },
+        {
+          title: 'Savoury',
+          items: [
+            {
+              label: 'Stocks',
+              href: '/recipes/category/stocks',
+            },
+            {
+              label: 'Indian',
+              href: '/recipes/category/indian',
+            },
+            {
+              label: 'Soups',
+              href: '/recipes/category/soups',
+            },
+            {
+              label: 'Autres',
+              href: '/recipes/category/other',
             },
           ],
         },

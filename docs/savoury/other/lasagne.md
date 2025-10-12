@@ -2,7 +2,6 @@
 title: Lasagnes
 ---
 
-
 -   1 oignon
 -   1 gousse d'ail
 -   800g de pulpe de tomates ou 500g de tomates fraiches
@@ -17,7 +16,7 @@ title: Lasagnes
 3.  Saler, poivrer et mettre une bonne quantité d'origan
 4.  Ajouter une carotte finement tranchée
 5.  Faire revenir 300 ou 400g de viande hachée
-6.  Préparer la béchamel :
+6.  Préparer la béchamel:
     1.  Fondre 70g de beurre
     2.  Hors du feu, ajouter 70g de farine en remuant sans arret
     3.  Une fois le mélange bien homogène, ajouter 1/2L de lait et

@@ -22,4 +22,4 @@ title: Sauce hollandaise
 
 Utiliser dans les 2 heures qui suivent. Ne se garde pas sinon elle devient trop epaisse.
 
-Voir [oeufs pochés](oeufs-poches.md).
+Voir [oeufs pochés](../other/oeufs-poches.md).

@@ -150,7 +150,7 @@ const shortcuts_savoury = {
       title: 'Pizza',
     },
     {
-      id: 'savoury/other/quiche-lorraine',
+      id: 'savoury/pies/quiche-lorraine',
       title: 'Quiche lorraine',
     },
     {

@@ -1,5 +1,5 @@
 ---
-title: Saumure
+title: Saumure pour viande
 ---
 
 1. Prendre des morceaux sans peau.
@@ -25,7 +25,7 @@ title: Saumure
 1. Garder au frigo pour la duree souhaitee.
 1. Sortir du frigo, essuyer, et cuire une fois a temperature ambiante.
 
-## Saumure à sec
+## Saumure à sec / dry brine
 
 10g sel / kilo de viande.
 
