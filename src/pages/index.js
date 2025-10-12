@@ -154,7 +154,7 @@ const shortcuts_savoury = {
       title: 'Quiche lorraine',
     },
     {
-      id: 'savoury/other/tarte-thon',
+      id: 'savoury/pies/tarte-thon',
       title: 'Tarte au thon',
     },
   ],
