@@ -44,55 +44,21 @@ export const MilkSourDough = () => (
   <span>180g</span>
 );
 
+### Dough
 
-<table>
-   <thead>
-   <tr>
-      <th>
-         Sourdough
-      </th>
-      <th>
-      Yeast
-      </th>
-      <th>
-      Filling
-      </th>
-   </tr>
-   </thead>
-   <tbody>
-   <tr>
-   <td>
-      <ul>
-      <li>All-purpose flour: <FlourSourDough/></li>
-      <li>Butter (softened): <ButterDough/></li>
-      <li>Eggs: 2</li>
-      <li>Salt: 6g</li>
-      <li>Granulated sugar: <SugarDough/></li>
-      <li>Lukewarm whole milk: <MilkSourDough/></li>
-      <li>Sourdough starter: 100g</li>
-      </ul>
-   </td>
-   <td>
-      <ul>
-      <li>All-purpose flour: <Flour/></li>
-      <li>Butter (softened): <ButterDough/></li>
-      <li>Eggs: 2</li>
-      <li>Salt: 6g</li>
-      <li>Granulated sugar: <SugarDough/></li>
-      <li>Lukewarm whole milk: <Milk/></li>
-      <li>Instant yeast: 7g</li>
-      </ul>
-   </td>
-   <td>
-      <ul>
-      <li>Brown sugar: <BrownSugar/></li>
-      <li>Butter (softened): <Butter/></li>
-      <li>Cinnamon: <Cinnamon/></li>
-      </ul>
-   </td>
-   </tr>
-   </tbody>
-</table>
+- All-purpose flour: <Flour/>
+- Butter (softened): <ButterDough/>
+- Eggs: 2
+- Salt: 6g
+- Granulated sugar: <SugarDough/>
+- Lukewarm whole milk: <Milk/>
+- Instant yeast: 7g
+
+### Filling
+
+- Brown sugar: <BrownSugar/>
+- Butter (softened): <Butter/>
+- Cinnamon: <Cinnamon/>
 
 ### Glazing
 
@@ -106,67 +72,28 @@ export const MilkSourDough = () => (
 ### Buns
 
 1. In a stand mixer bowl, whisk together:
-   <Tabs className="small" groupId="group1">
-     <TabItem value="yeast" label="Yeast">
+
       <ul>
        <li>Flour: <Flour/></li>
        <li>Sugar: <SugarDough/></li>
        <li>Salt: 6g</li>
       </ul>
-      </TabItem>
-      <TabItem value="sourdough" label="Sourdough">
-      <ul>
-       <li>Flour: <FlourSourDough/></li>
-       <li>Granulated sugar: <SugarDough/></li>
-       <li>Salt: 6g.</li>
-      </ul>
-      </TabItem>
-   </Tabs>
 
 1. Add in softened unsalted butter: <ButterDough/>
 1. In a separate container, mix:
-
-   <Tabs className="small" groupId="group1">
-
-    <TabItem value="yeast" label="Yeast">
-
      <ul>
        <li>Milk: <Milk/></li>
        <li>Yeast: 7g</li>
      </ul>
-
-     </TabItem>
-
-     <TabItem value="sourdough" label="Sourdough">
-
-     <ul>
-       <li>Milk: <MilkSourDough/></li>
-       <li>Sourdough starter: 100g</li>
-     </ul>
-
-     </TabItem>
-   </Tabs>
-
 1. Using the dough hook attachment set on medium-low speed, add:
-   - Starter/yeast mixture
-   - Whole eggs
-   - Egg yolk.
+   - Yeast mixture
+   - Eggs
 1. Mix for 5-10 minutes.
 1. Develop gluten:
-   <Tabs className="small" groupId="group1">
-     <TabItem value="yeast" label="Yeast">
       <ol>
        <li>On a lightly floured work surface and knead for 30-60 seconds. Plop into a greased bowl and cover with plastic wrap, let rise for 1h30 / 2 hours.</li>
        <li>Keep in fridge overnight.</li>
       </ol>
-     </TabItem>
-     <TabItem value="sourdough" label="Sourdough">
-       <ol>
-         <li>Perform stretches and folds over the next 2 hours.</li>
-         <li>Let rise until puffy then boule and keep in the fridge overnight.</li>
-       </ol>
-     </TabItem>
-   </Tabs>
 
 ### Next day
 
@@ -184,7 +111,7 @@ export const MilkSourDough = () => (
 1. <BakingStep temp="190" time="15-25 minutes"/>
 1. Let cool in the container for 15 minutes.
 
-#### Glazing
+### Glazing
 
 1. Beat together cream cheese then blend in powdered sugar until smooth.
 1. Whisk in whole milk until smooth then add in half scraped vanilla bean and whisk together.
