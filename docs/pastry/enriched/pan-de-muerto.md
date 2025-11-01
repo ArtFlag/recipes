@@ -2,26 +2,24 @@
 title: Pan de muerto
 ---
 
-[Video](https://www.youtube.com/watch?v=Nzj6cfxeknY)
-
-3 panes.
+import MyImg from "@site/static/img/pandemuerto.png";
+import BakingStep from "@site/src/components/BakingStep";
 
 ## Ingredients
 
-- farine: 500g
-- sucre: 100g
-- lait: 140g
-- levure fraiche: 15g
-- oeufs: 150g (3)
-- sel: 8 g
-- zeste d'orange: 1 c. à soupe
-- fleur d'oranger: 1 c. à café
-- beurre froid (coupé en dés): 150 g
+- Farine: 500g
+- Sucre: 100g
+- Lait: 130g
+- Levure fraiche: 15g
+- Oeufs: 150g (3)
+- Sel: 8 g
+- Zeste d'orange: 1 c. à soupe
+- Fleur d'oranger: 1 c. à café
+- Beurre froid (coupé en dés): 150 g
 
 ## Method
 
-• Pétrissage: 4min en 1er Vitesse + 6min en 2nd vitesse + 5min avec le beurre
-
+_Pétrissage: 4min en 1er Vitesse + 6min en 2nd vitesse + 5min avec le beurre_
 
 1. Start the yeast:
    1. Put the yeast in a bowl.
@@ -44,10 +42,16 @@ title: Pan de muerto
 
 ## Buns
 
-1. Dump the dough on a counter-top and give a longer/cylindrical shape, and divide the dough in 4 equal parts.
-1. Roll 3 pieces in boules, keeping the seem at the bottom and set them on a baking tray, on parchment paper.
-1. Using the 4th piece, add a bit of flour and mix, then flatten it and divide it in 9 parts to decorate the buns.
-1. For each bun, mark a large cross with a wet brush, and stick the extra dough on it.
+1. Dump the dough on a counter-top and give a longer/cylindrical shape, and divide the
+   dough in 4 parts, 2 parts of 140g and 1 part of 30g, and the rest.
+1. Boule the 4 pieces and shape the two big ones into this shape:
+
+   <img src={MyImg} max-width="50%" height="auto"/>
+
+1. Mark a large cross with a wet brush, and stick the extra dough on it.
 1. Let rest for 1 hour.
-1. Bake at 170 for 25-30 minutes.
-1. Let cool a little. Brush the buns with melted butter. Cover in sugar.
+1. Apply egg wash.
+1. <BakingStep temp="170" time="25-30" fan preheat /> (92c inside temp)
+1. Let cool a little. Brush the buns with melted butter or sirup. Cover in sugar.
+
+[See Video](https://www.youtube.com/watch?v=Nzj6cfxeknY)
