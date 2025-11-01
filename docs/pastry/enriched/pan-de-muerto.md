@@ -5,6 +5,8 @@ title: Pan de muerto
 import MyImg from "@site/static/img/pandemuerto.png";
 import BakingStep from "@site/src/components/BakingStep";
 
+Yields 2 buns.
+
 ## Ingredients
 
 - Farine: 500g
@@ -43,11 +45,12 @@ _Pétrissage: 4min en 1er Vitesse + 6min en 2nd vitesse + 5min avec le beurre_
 ## Buns
 
 1. Dump the dough on a counter-top and give a longer/cylindrical shape, and divide the
-   dough in 4 parts, 2 parts of 140g and 1 part of 30g, and the rest.
-1. Boule the 4 pieces and shape the two big ones into this shape:
+   dough in 2 equal parts.
+1. From each doug, extract: 2 parts of 70g and 1 part of 15g.
+1. Boule the 70g parts into this shape:
 
    <img src={MyImg} max-width="50%" height="auto"/>
-
+1. Boule the main dough pieces.
 1. Mark a large cross with a wet brush, and stick the extra dough on it.
 1. Let rest for 1 hour.
 1. Apply egg wash.
