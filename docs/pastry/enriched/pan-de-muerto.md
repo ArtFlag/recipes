@@ -10,15 +10,18 @@ title: Pan de muerto
 
 - farine: 500g
 - sucre: 100g
-- lait: 190 ml
-- cac de levure: 12g
-- 4 oeufs
-- 1/2 c. à café de sel
-- 1 c. à soupe de zeste d'orange
-- 2 c. à café de fleur d'oranger
-- 200 g de beurre froid coupé en dés
+- lait: 140g
+- levure fraiche: 15g
+- oeufs: 150g (3)
+- sel: 8 g
+- zeste d'orange: 1 c. à soupe
+- fleur d'oranger: 1 c. à café
+- beurre froid (coupé en dés): 150 g
 
 ## Method
+
+• Pétrissage: 4min en 1er Vitesse + 6min en 2nd vitesse + 5min avec le beurre
+
 
 1. Start the yeast:
    1. Put the yeast in a bowl.
