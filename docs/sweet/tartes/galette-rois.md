@@ -1,5 +1,6 @@
 ---
 title: Galette des rois
+tags: ["french", "dessert", "cake"]
 ---
 
 ## Recette normale

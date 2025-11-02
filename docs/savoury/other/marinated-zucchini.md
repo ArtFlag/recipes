@@ -1,5 +1,6 @@
 ---
 title: Marinated zucchini
+tags: ["italian", "zucchini", "side"]
 ---
 
 - Olive oil: 5 tbsp

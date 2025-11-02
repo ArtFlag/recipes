@@ -1,5 +1,6 @@
 ---
 title: Cannelés
+tags: ["french", "viennoiserie"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

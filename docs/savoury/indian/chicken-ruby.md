@@ -1,5 +1,6 @@
 ---
 title: Chicken Ruby
+tags: ["indian", "chicken", "curry"]
 ---
 
 - 700g skinless, boneless

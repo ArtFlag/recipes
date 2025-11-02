@@ -1,5 +1,6 @@
 ---
 title: Guacamole
+tags: ["mexican", "avocado", "dip"]
 ---
 
 -   Avocados: 3 (ripe)

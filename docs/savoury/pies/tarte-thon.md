@@ -1,5 +1,6 @@
 ---
 title: Tarte au thon
+tags: ["french", "tuna", "pie"]
 ---
 
 -   Beurre : 3 C à S

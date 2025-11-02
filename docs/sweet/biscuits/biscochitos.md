@@ -1,5 +1,6 @@
 ---
 title: Biscochitos
+tags: ["latino", "biscuits"]
 ---
 
 - Anise seeds: 1 teaspoon

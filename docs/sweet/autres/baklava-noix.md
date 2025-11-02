@@ -1,5 +1,6 @@
 ---
 title: Baklava aux noix
+tags: ["turkish", "dessert"]
 ---
 
 ## Ingredients

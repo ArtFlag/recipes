@@ -1,5 +1,6 @@
 ---
 title: Tomato bisque soup
+tags: ["american", "tomato", "soup"]
 ---
 
 - Fresh basil

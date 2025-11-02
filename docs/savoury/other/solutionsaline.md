@@ -1,5 +1,6 @@
 ---
 title: Solution saline
+tags: ["french", "salt", "brine"]
 ---
 
 Solution a 0.9% de sel.

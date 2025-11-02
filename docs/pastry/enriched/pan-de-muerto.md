@@ -1,5 +1,6 @@
 ---
 title: Pan de muerto
+tags: ["latino", "brioche"]
 ---
 
 import MyImg from "@site/static/img/pandemuerto.png";

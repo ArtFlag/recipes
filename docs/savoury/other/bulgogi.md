@@ -1,15 +1,15 @@
 ---
 title: Bulgogi
+tags: ["korean", "beef"]
 ---
 
-
-### Meat
+## Meat
 
 - Beef (marbled, like rib eye for example): 700g
 - Sesame seed
 - Onion: 1
 
-### Sauce
+## Sauce
 
 - Sesame oil: 2 tbsp
 - Sugar (brown): 3 tbsp

@@ -1,5 +1,6 @@
 ---
 title: Chocolate cheesecake
+tags: ["cheesecake"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

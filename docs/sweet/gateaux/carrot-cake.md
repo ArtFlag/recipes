@@ -1,5 +1,6 @@
 ---
 title: Carrot cake
+tags: ["american", "cake", "fruits"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

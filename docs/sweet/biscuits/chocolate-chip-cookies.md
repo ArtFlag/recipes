@@ -1,5 +1,6 @@
 ---
 title: Chocolate chip cookies
+tags: ["american", "cookies"]
 ---
 
 import Percent from "@site/src/components/Percent";

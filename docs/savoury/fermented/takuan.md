@@ -1,5 +1,6 @@
 ---
 title: Danmuji / Takuan
+tags: ["japanese", "daikon", "pickle"]
 ---
 
 - 4 pounds daikon radish, washed, the tops trimmed, and dried for 3 days

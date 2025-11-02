@@ -1,5 +1,6 @@
 ---
 title: Shakshouka
+tags: ["turkish", "egg", "breakfast", "tomato"]
 ---
 
 4 people

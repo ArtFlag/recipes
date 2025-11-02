@@ -1,5 +1,6 @@
 ---
 title: Pulled king oyster
+tags: ["american", "mushroom", "sandwich"]
 ---
 
 - 6 king oyster mushrooms (kräuter seitlinger), 'pulled'

@@ -1,5 +1,6 @@
 ---
 title: Enchilada casserole
+tags: ["mexican", "beef", "casserole"]
 ---
 
 - Potatoes: 4 really large, or 6 medium

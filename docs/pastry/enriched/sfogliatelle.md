@@ -1,5 +1,6 @@
 ---
 title: Sfogliatelle
+tags: ["italian", "viennoiserie"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

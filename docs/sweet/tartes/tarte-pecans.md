@@ -1,5 +1,6 @@
 ---
 title: Tarte aux noix de pécan
+tags: ["french", "dessert", "nuts", "tart"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

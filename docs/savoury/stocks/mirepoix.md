@@ -1,5 +1,6 @@
 ---
 title: Mirepoix
+tags: ["french", "vegetable", "base"]
 ---
 
 - Carrots : 1 portion

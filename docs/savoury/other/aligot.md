@@ -1,5 +1,6 @@
 ---
 title: Aligot
+tags: ["french", "potato", "cheese"]
 ---
 
 Pour 2:

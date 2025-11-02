@@ -1,5 +1,6 @@
 ---
 title: Tokyo Cheesecake
+tags: ["japanese", "cheesecake"]
 ---
 
 

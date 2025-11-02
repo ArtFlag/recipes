@@ -1,5 +1,6 @@
 ---
 title: Gâteau aux noix
+tags: ["french", "dessert", "nuts"]
 ---
 
 Pour 8 personnes

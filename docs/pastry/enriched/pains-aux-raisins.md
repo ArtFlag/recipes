@@ -1,5 +1,6 @@
 ---
 title: Pains aux raisins
+tags: ["french", "viennoiserie"]
 ---
 
 12 pièces

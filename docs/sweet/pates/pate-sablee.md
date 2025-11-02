@@ -1,5 +1,6 @@
 ---
 title: Pâte sablée
+tags: ["pâte"]
 ---
 
 | Ingredient | Moule normal |

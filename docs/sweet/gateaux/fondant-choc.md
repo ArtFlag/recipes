@@ -1,5 +1,6 @@
 ---
 title: Fondant au chocolat
+tags: ["french", "dessert", "chocolate"]
 ---
 
 Pour moule de 18cm:

@@ -1,5 +1,6 @@
 ---
 title: Oeufs pochés
+tags: ["french", "egg", "technique"]
 ---
 
 1. Crack eggs in water/vinegar solution (1:1).

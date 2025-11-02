@@ -1,5 +1,6 @@
 ---
 title: Pav bhaji
+tags: ["indian", "vegetable", "street-food"]
 ---
 
 -   2 peppers

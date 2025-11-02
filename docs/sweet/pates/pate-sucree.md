@@ -1,5 +1,6 @@
 ---
 title: Pâte sucrée
+tags: ["pâte"]
 ---
 
 [Source](https://www.youtube.com/watch?v=jvsdM7D7IIs)

@@ -1,5 +1,6 @@
 ---
 title: Avgolemono soup
+tags: ["greek", "chicken", "soup"]
 ---
 
 - Chicken breasts: 2

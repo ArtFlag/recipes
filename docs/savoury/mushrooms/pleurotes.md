@@ -1,5 +1,6 @@
 ---
 title: Pleurotes au four
+tags: ["french", "mushroom", "roast"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

@@ -1,10 +1,9 @@
 ---
 title: Churchkhela
+tags: ["georgian", "dessert"]
 ---
 
 Turkish: Cevizli Sucuk
-
-
 
 -   3 glasses (grape) molasses (Tk: uzüm pekmezi)
 -   1/2 kg walnuts

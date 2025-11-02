@@ -1,5 +1,6 @@
 ---
 title: Gâteau pistache-framboise
+tags: ["french", "dessert", "pistachio", "raspberry"]
 ---
 
 - 1 pâte sablée

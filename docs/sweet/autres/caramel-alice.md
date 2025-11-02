@@ -1,5 +1,6 @@
 ---
 title: Caramel au beurre salé d'Alice
+tags: ["french", "spread"]
 ---
 
 -   250g de beurre salé à la fleur de sel de guérande

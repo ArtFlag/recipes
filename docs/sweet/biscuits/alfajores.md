@@ -1,5 +1,6 @@
 ---
 title: Alfajores
+tags: ["latino", "bisscuits"]
 ---
 
 - All Purpose Flour: 1 1/3 Cup (180g)

@@ -1,5 +1,6 @@
 ---
 title: Galettes
+tags: ["french", "buckwheat", "crepe"]
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

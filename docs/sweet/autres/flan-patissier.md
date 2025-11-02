@@ -1,5 +1,6 @@
 ---
 title: Flan patissier
+tags: ["french", "dessert"]
 ---
 
 

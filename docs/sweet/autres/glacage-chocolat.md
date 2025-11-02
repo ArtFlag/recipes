@@ -1,5 +1,6 @@
 ---
 title: Glaçage chocolat
+tags: ["french", "icing"]
 ---
 
 ## Glacage normal

@@ -1,5 +1,6 @@
 ---
 title: Pancakes
+tags: ["american", "pancakes"]
 ---
 
 -   Beurre

@@ -1,5 +1,6 @@
 ---
 title: Biscuits de mariage mexicains
+tags: ["latino", "biscuits"]
 ---
 
 -   Beurre: 225g

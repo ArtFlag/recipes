@@ -1,5 +1,6 @@
 ---
 title: Hot sauce
+tags: ["american", "chili", "sauce"]
 ---
 
 - 1 cup Fresno or Jalapeño peppers stems removed

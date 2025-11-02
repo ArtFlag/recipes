@@ -1,5 +1,6 @@
 ---
 title: Steak
+tags: [ "beef", "grill"]
 ---
 
 ## Stainless steel

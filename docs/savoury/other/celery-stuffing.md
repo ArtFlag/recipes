@@ -1,5 +1,6 @@
 ---
 title: Celeri stuffing
+tags: ["american", "celery", "thanksgiving"]
 ---
 
 -   125 grammes de noix

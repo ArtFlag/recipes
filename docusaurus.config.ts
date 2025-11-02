@@ -43,6 +43,11 @@ const config: Config = {
           type: 'doc',
           docId: '/category/other-1',
         },
+        {
+          label: 'Tags',
+          position: 'left',
+          to: 'recipes/tags',
+        },
       ],
     },
     footer: {

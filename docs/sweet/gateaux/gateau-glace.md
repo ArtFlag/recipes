@@ -1,5 +1,6 @@
 ---
 title: Gateau glacé à la meringue
+tags: ["french", "dessert", "ice-cream"]
 ---
 
 Pour un moule de 23cm de diamètre, 5cm de haut.

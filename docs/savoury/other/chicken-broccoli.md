@@ -1,5 +1,6 @@
 ---
 title: Chicken and broccoli
+tags: ["chinese", "chicken", "stir-fry"]
 ---
 
 **For the chicken**

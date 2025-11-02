@@ -1,5 +1,6 @@
 ---
 title: Kimchi
+tags: ["korean", "cabbage", "ferment"]
 ---
 
 - (Optional) Apple: 1/2

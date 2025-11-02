@@ -1,5 +1,6 @@
 ---
 title: Pollo adobabo
+tags: ["mexican", "chicken", "stew"]
 ---
 
 ## Ingredients

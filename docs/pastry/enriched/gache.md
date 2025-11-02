@@ -1,5 +1,6 @@
 ---
 title: Gâche
+tags: ["french", "brioche"]
 ---
 
 - Farine T65: 1kg

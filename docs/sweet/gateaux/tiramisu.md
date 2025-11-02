@@ -1,5 +1,6 @@
 ---
 title: Tiramisu
+tags: ["italian", "dessert", "coffee"]
 ---
 
 ## Biscuits cuillères

@@ -1,5 +1,6 @@
 ---
 title: Pâte feuilletée
+tags: ["pâte"]
 ---
 
 import MyImg from "@site/static/img/tour-simple.png";

@@ -1,5 +1,6 @@
 ---
 title: Marinated chicken
+tags: ["mexican", "chicken", "marinade"]
 ---
 
 -   Chicken breasts: 2

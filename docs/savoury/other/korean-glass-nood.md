@@ -1,5 +1,6 @@
 ---
 title: Korean glass noodles
+tags: ["korean", "noodle", "stir-fry"]
 ---
 
 -   1/2 pound dried Korean sweet potato noodles

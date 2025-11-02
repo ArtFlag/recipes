@@ -1,5 +1,6 @@
 ---
 title: Guinness bangers and mash
+tags: ["irish", "sausage", "main"]
 ---
 
 For 2 people:

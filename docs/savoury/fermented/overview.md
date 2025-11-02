@@ -1,5 +1,6 @@
 ---
 title: Fermentation table
+tags: ["ferment"]
 ---
 
 ## Vegetables

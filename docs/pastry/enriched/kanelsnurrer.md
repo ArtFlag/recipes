@@ -1,5 +1,6 @@
 ---
 title: Kanelsnurrer
+tags: ["nordic", "viennoiserie"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

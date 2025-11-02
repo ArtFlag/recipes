@@ -1,5 +1,6 @@
 ---
 title: Kouign-Amann
+tags: ["french", "viennoiserie"]
 ---
 
 ## Détrempe

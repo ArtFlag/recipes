@@ -1,5 +1,6 @@
 ---
 title: Banana bread
+tags: ["american", "bread", "fruits"]
 ---
 
 -   Baking soda: 1 tsp

@@ -1,5 +1,6 @@
 ---
 title: Bûche framboises et pistaches
+tags: ["french", "dessert", "christmas"]
 ---
 
 -   farine: 125 g
