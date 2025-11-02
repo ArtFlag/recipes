@@ -1,5 +1,6 @@
 ---
 title: Pain d'épices
+tags: ["french", "dessert", "spices"]
 ---
 
 -   Beurre: 100gr

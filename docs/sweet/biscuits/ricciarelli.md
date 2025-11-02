@@ -1,5 +1,6 @@
 ---
 title: Ricciarelli
+tags: ["italian", "biscuits"]
 ---
 
 For 12 cookies:

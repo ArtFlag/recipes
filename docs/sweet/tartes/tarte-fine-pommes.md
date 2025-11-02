@@ -1,5 +1,6 @@
 ---
 title: Tarte fine aux pommes
+tags: ["french", "dessert", "apple", "tart"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

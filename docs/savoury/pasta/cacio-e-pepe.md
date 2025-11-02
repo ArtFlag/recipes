@@ -1,5 +1,6 @@
 ---
 title: Cacio e Pepe Pasta
+tags: ["italian", "pasta", "cheese"]
 ---
 
 ## Ingredients

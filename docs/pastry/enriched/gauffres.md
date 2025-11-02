@@ -1,5 +1,6 @@
 ---
 title: Gaufres
+tags: ["belgian", "waffles"]
 ---
 
 ## Gaufres de foire

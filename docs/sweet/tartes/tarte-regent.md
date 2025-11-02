@@ -1,5 +1,6 @@
 ---
 title: Tarte du régent
+tags: ["french", "dessert", "tart", "chocolate"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

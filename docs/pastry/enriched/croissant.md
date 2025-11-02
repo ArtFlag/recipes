@@ -1,5 +1,6 @@
 ---
 title: Croissant
+tags: ["french", "viennoiserie"]
 ---
 
 import Tabs from '@theme/Tabs';

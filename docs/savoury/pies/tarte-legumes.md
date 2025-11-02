@@ -1,5 +1,6 @@
 ---
 title: Tarte aux légumes
+tags: ["french", "pie", "vegetable"]
 ---
 
 -   2 oignons

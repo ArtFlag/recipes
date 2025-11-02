@@ -1,5 +1,6 @@
 ---
 title: Focaccia
+tags: ["italian", "bread"]
 ---
 import BakingStep from "@site/src/components/BakingStep";
 

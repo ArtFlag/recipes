@@ -1,5 +1,6 @@
 ---
 title: Milk bread
+tags: ["japanese", "brioche"]
 ---
 
 import Tabs from '@theme/Tabs';

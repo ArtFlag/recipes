@@ -1,5 +1,6 @@
 ---
 title: Saffranskaka
+tags: ["nordic", "cake", "saffron"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

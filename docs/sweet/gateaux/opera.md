@@ -1,5 +1,6 @@
 ---
 title: Opera
+tags: ["french", "dessert", "cake"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

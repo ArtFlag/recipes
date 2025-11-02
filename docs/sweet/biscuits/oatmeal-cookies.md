@@ -1,5 +1,6 @@
 ---
 title: Oatmeal cookies
+tags: ["american", "cookies"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

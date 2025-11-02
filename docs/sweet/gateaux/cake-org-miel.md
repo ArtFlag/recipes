@@ -1,5 +1,6 @@
 ---
 title: Cake à l'orange et au miel
+tags: ["french", "cake"]
 ---
 
 -   1 ou 2 oranges fraiches

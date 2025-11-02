@@ -1,5 +1,6 @@
 ---
 title: Zuppa toscana
+tags: ["italian", "soup"]
 ---
 
 - Sausage: 2

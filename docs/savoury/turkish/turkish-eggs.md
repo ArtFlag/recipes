@@ -1,5 +1,6 @@
 ---
 title: Turkish eggs
+tags: ["turkish", "savoury", "eggs"]
 ---
 
 - 1 cup Turkish or Greek yogurt, at room temperature

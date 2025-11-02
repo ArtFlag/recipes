@@ -1,5 +1,6 @@
 ---
 title: Chicken noodle soup
+tags: ["soup", "chicken", "noodle"]
 ---
 
 ## Crockpot

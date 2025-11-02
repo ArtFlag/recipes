@@ -1,5 +1,6 @@
 ---
 title: Palets bretons
+tags: ["french", "biscuits"]
 ---
 
 8 palets.

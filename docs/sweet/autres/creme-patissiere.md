@@ -1,5 +1,6 @@
 ---
 title: Crême pâtissière
+tags: ["french", "pastry"]
 ---
 
 <div class="youtube-video-container">

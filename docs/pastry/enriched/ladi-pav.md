@@ -1,5 +1,6 @@
 ---
 title: Ladi Pav
+tags: ["indian", "brioche"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

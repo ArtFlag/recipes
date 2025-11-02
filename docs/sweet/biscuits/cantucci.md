@@ -1,5 +1,6 @@
 ---
 title: Cantucci
+tags: ["italian", "biscuits"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

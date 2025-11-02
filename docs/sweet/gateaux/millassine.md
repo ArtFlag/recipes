@@ -1,5 +1,6 @@
 ---
 title: Millassine de Pierre Perret
+tags: ["french", "dessert"]
 ---
 
 -   130 g de farine

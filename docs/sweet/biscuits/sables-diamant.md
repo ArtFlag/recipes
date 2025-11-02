@@ -1,5 +1,6 @@
 ---
 title: Sablés diamant
+tags: ["french", "biscuits"]
 ---
 
 - Lemon: 1

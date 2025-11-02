@@ -1,5 +1,6 @@
 ---
 title: Tarte ricotta-pumpkin
+tags: ["french", "pie", "pumpkin"]
 ---
 
 - Bacon: 6 slices, chopped

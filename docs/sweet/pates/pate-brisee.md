@@ -1,5 +1,6 @@
 ---
 title: Pâte brisée
+tags: ["pâte"]
 ---
 
 | Ingredient                          | Moule normal  |

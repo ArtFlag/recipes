@@ -1,5 +1,6 @@
 ---
 title: Sourdough English muffins
+tags: ["american", "muffins"]
 ---
 10 muffins
 

@@ -1,5 +1,6 @@
 ---
 title: Vegetable stock
+tags: ["stock", "vegetable"]
 ---
 
 1. Add butter and oil in large pot.

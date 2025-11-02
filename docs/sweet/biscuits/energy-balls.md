@@ -1,5 +1,6 @@
 ---
 title: Energy balls
+tags: ["healthy", "snack"]
 ---
 
 ## Almond date

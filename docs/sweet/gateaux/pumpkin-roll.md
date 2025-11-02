@@ -1,5 +1,6 @@
 ---
 title: Pumpkin roll
+tags: ["american", "dessert", "pumpkin"]
 ---
 
 -   Baking pan/tray: 33 cm x  45 cm

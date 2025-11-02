@@ -1,5 +1,6 @@
 ---
 title: Cornbread
+tags: ["american", "bread"]
 ---
 
 ## Cornmeal

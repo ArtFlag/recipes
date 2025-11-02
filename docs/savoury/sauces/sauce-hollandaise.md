@@ -1,5 +1,6 @@
 ---
 title: Sauce hollandaise
+tags: ["french", "sauce"]
 ---
 
 - Jaunes d'œufs: 4

@@ -1,5 +1,6 @@
 ---
 title: Pretzels
+tags: ["german", "bread"]
 ---
 
 ## Sourdough pretzels

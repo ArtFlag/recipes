@@ -1,5 +1,6 @@
 ---
 title: Maamoul
+tags: ["middle eastern", "biscuits"]
 ---
 import BakingStep from "@site/src/components/BakingStep";
 

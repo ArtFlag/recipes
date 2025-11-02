@@ -1,5 +1,6 @@
 ---
 title: Pralin
+tags: ["french", "dessert"]
 ---
 
 - 200 g de sucre en poudre

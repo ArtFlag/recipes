@@ -1,5 +1,6 @@
 ---
 title: Yudane
+tags: ["japanese", "bread"]
 ---
 
 Yudane: 1:1.5-1:2 ratio farine:eau par poids.

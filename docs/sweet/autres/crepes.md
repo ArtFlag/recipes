@@ -1,5 +1,6 @@
 ---
 title: Crêpes
+tags: ["french", "pancakes"]
 ---
 
 - Lait: 500g

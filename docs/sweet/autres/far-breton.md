@@ -1,5 +1,6 @@
 ---
 title: Far breton
+tags: ["french", "dessert"]
 ---
 
 - Sucre en poudre: 125g
