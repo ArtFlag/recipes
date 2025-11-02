@@ -1,5 +1,6 @@
 ---
 title: Samossa cumin pruneaux poulet
+tags: ["indian", "chicken", "snack"]
 ---
 
 4 personnes

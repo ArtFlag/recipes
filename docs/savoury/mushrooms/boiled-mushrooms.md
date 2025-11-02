@@ -1,5 +1,6 @@
 ---
 title: Boiled mushrooms
+tags: ["chinese", "mushroom"]
 ---
 
 - Scallions: 1

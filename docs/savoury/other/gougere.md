@@ -1,5 +1,6 @@
 ---
 title: Gougère
+tags: ["french", "cheese", "appetizer"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

@@ -1,5 +1,6 @@
 ---
 title: Honey garlic
+tags: ["korean", "garlic", "ferment"]
 ---
 
 - 2 heads of garlic

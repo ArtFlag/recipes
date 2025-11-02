@@ -1,5 +1,6 @@
 ---
 title: Adjaruli khachapuri
+tags: ["georgian", "cheese", "pizza"]
 ---
 
 import BakingStep from "@site/src/components/BakingStep";

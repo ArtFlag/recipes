@@ -1,5 +1,6 @@
 ---
 title: Riz à sushi
+tags: ["japanese", "rice", "base"]
 ---
 
 

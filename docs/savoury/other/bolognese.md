@@ -1,5 +1,6 @@
 ---
 title: Bolognaise
+tags: ["italian", "beef", "sauce"]
 ---
 
 -   1 ou 2 oignons

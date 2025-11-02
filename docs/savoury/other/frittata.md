@@ -1,5 +1,6 @@
 ---
 title: Frittata
+tags: ["italian", "egg", "breakfast"]
 ---
 
 import Tabs from '@theme/Tabs';

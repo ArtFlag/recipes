@@ -1,6 +1,6 @@
 ---
 title: Chicken stock
-tags: ["stock", "chicken"]
+tags: ["french", "chicken", "stock"]
 ---
 
 Ingrédients : Pour 1,5 à 2 litres de bouillon

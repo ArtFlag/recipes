@@ -1,6 +1,6 @@
 ---
 title: Quiche lorraine
-tags: ["french", "pie", "quiche"]
+tags: ["french", "bacon", "quiche", "pie"]
 ---
 
 -   (Optionel) Creme liquide (35%) : 30 cl

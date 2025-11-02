@@ -1,5 +1,6 @@
 ---
 title: King oyster scallops
+tags: ["japanese", "mushroom"]
 ---
 
 1. Cut mushrooms scallop size.

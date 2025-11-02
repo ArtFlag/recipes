@@ -1,6 +1,6 @@
 ---
 title: Vinaigrette
-tags: ["salad", "sauce"]
+tags: ["french", "olive-oil", "sauce"]
 ---
 
 - 1 volume de vinaigre pour 3 volumes d'huile olive (balsamic ou vin rouge). (ou 1 pour 6 pour vinaigre de Xeres)

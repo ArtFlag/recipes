@@ -1,5 +1,6 @@
 ---
 title: Cake feta olives
+tags: ["french", "feta", "cake"]
 ---
 
 -   200 g de farine

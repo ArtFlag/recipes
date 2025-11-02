@@ -1,5 +1,6 @@
 ---
 title: Chicken and glass noodles
+tags: ["korean", "chicken", "noodle"]
 ---
 
 2 people

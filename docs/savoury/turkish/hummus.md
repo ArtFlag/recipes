@@ -1,6 +1,6 @@
 ---
 title: Hummus
-tags: ["turkish", "mezze", "spread"]
+tags: ["turkish", "chickpea", "dip"]
 ---
 
 ## Hummus

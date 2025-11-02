@@ -1,5 +1,6 @@
 ---
 title: Chili con carne
+tags: ["mexican", "beef", "stew"]
 ---
 
 -   2 gros oignons

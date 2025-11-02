@@ -1,5 +1,6 @@
 ---
 title: Marinades
+tags: ["turkish", "olive-oil", "marinade"]
 ---
 
 ## Turkish

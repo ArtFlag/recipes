@@ -1,4 +1,8 @@
-# Chicken Tikka Masala
+---
+title: Chicken Tikka Masala
+tags: ["indian", "chicken", "curry"]
+---
+
 
 ## Ingredients
 

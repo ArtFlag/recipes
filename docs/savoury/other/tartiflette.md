@@ -1,6 +1,9 @@
 ---
-title: Tartiflette (pour 2)
+title: Tartiflette
+tags: ["french", "potato", "casserole"]
 ---
+
+Pour 2 personnes.
 
 -   1kg Pomme de terre à cuire à l'eau (chair ferme / festkochende)
 -   1 ou ½ roblochon/munster

@@ -1,5 +1,6 @@
 ---
 title: King oyster slices
+tags: ["french", "mushroom"]
 ---
 
 1. Cut mushrooms lengthwise, 5mm thick.

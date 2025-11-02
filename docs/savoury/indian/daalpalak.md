@@ -1,5 +1,6 @@
 ---
 title: Daal Palak
+tags: ["indian", "lentil", "curry"]
 ---
 
 -   100g de moong daal

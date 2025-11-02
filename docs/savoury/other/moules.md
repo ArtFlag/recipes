@@ -1,5 +1,6 @@
 ---
 title: Moules au vin blanc
+tags: ["belgian", "mussel", "seafood"]
 ---
 
 -   Lardon (optionnel): 100g

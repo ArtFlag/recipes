@@ -1,5 +1,6 @@
 ---
 title: Poulet roti
+tags: ["french", "chicken", "roast"]
 ---
 
 Poulet à temperature amibante.

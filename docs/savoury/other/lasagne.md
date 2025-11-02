@@ -1,5 +1,6 @@
 ---
 title: Lasagnes
+tags: ["italian", "beef", "casserole"]
 ---
 
 -   1 oignon

@@ -1,5 +1,6 @@
 ---
 title: Risotto
+tags: ["italian", "rice", "main"]
 ---
 
 -   200g de riz Arborio ou Carnolli

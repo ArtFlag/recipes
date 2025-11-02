@@ -1,6 +1,6 @@
 ---
 title: Żurek
-tags: ["polish", "soup"]
+tags: ["polish", "rye", "soup"]
 ---
 
 ## Zakwas (Sour Rye Soup Starter)

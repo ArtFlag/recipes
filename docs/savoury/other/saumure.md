@@ -1,5 +1,6 @@
 ---
 title: Saumure pour viande
+tags: ["american", "poultry", "brine"]
 ---
 
 1. Prendre des morceaux sans peau.
