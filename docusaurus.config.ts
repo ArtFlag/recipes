@@ -46,7 +46,7 @@ const config: Config = {
         {
           label: 'Tags',
           position: 'left',
-          to: 'recipes/tags',
+          to: 'tags',
         },
       ],
     },
