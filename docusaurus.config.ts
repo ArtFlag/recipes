@@ -5,7 +5,7 @@ const config: Config = {
   title: 'Recipes',
   tagline: '',
   url: 'https://artflag.github.io',
-  baseUrl: process.env.BASE_URL ?? '/',
+  baseUrl: 'recipes/',
   onBrokenLinks: 'throw',
   favicon: '/favicon-32x32.png',
   organizationName: 'artflag',
@@ -46,7 +46,7 @@ const config: Config = {
         {
           label: 'Tags',
           position: 'left',
-          to: 'tags',
+          to: '/tags',
         },
       ],
     },
@@ -139,7 +139,7 @@ const config: Config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
           editUrl: 'https://github.com/artflag/recipes/edit/master/',
-          routeBasePath: process.env.DOCS_PATH ?? '/recipes/',
+          routeBasePath: '',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
