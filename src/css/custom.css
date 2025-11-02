@@ -112,8 +112,20 @@ h4 {
   font-weight: var(--ifm-font-weight-light);
 }
 
+h1 {
+  font-size: 230%;
+}
+
+h2 {
+  font-size: 180%;
+}
+
 h4 {
   font-size: 120%;
+}
+
+.menu__caret::before {
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1.5rem 1.5rem;
 }
 
 :root[data-theme='dark'] .table-of-content {
