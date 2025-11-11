@@ -24,13 +24,16 @@ Méthode:
 1. Désosser le poulet au niveau de chaque articulation.
 1. Rincer les os.
 1. (Optionel) Mettre sur un plaque, arroser d'un peu d'huile et enfourner pour 30 minutes à 190.
-1. Mettre dans une marmite. Recouvrir d'eau et faire mijoter. Placer le pot a moitié au dessus du feu pour avoir une convection excentree.
+1. Mettre dans une marmite. Recouvrir d'eau et faire mijoter doucement sans couvrir.
+   :::tip
+   Placer le pot a moitié au dessus du feu pour avoir une convection excentree.
+   :::
 1. Apres qq minutes enlever le scum.
 1. Apres qq minutes ajouter qq glaçons pour extraire le gras.
 1. **Faire mijoter 90 minutes.**
 
    :::note
-   Ca doit mijiter, pas bouillir. Ne pas melanger pour eviter de remuer les particules au fond.
+   Ca doit mijiter, pas bouillir. Ne pas melanger pour eviter de remuer les particules au fond. Faire bouillir rend le bouillon trouble.
 
    Pour faire un fond, laisser mijoter 4h.
    :::

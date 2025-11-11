@@ -96,3 +96,16 @@ Mix 2 tablespoons of tahini, 2.5 tablespoons of honey, 2 teaspoons of cocoa.
 - 2 tablespoons yogurt
 - Salt
 - Pepper
+
+## Chicken sauce
+
+1. Get fond.
+1. Throw in chopped shallots, garlic, salt.
+1. Scrape fond with a wooden spatula.
+1. Add white wine, reduce by half.
+1. Add chicken stock, reduce by half.
+1. Temper 1 tbsp of dijon mustard in a small bowl with a bit of the sauce.
+1. Add the mustard back to the sauce.
+1. Add some cubes of cold butter off heat, stir in.
+1. Stir well with a whisk.
+1. Squeeze in lemon juice to taste.
