@@ -3,19 +3,19 @@ title: Poulet roti
 tags: ["french", "chicken", "roast"]
 ---
 
-Poulet à temperature amibante.
 
-1. Saler la peau et laisser au frigo 1h.
-1. Sortir le poulet et laissr a temperature ambiante pour 30 minutes, bien secher la peau.
-1. Farcir au sel, romarin entier. 3 gousses d'ail, 1 quart de citron coupe dans la longueur et grosse tranche de bacon.
+1. Saler la peau et laisser au frigo 1h-1nuit ou
+1. Sortir le poulet et laisser a temperature ambiante pour 30 minutes, bien secher la peau.
+1. Farcir au sel, romarin entier. 3 gousses d'ail.
 1. Fermer le poulet avec de la ficelle et le masser.
-1. Ajouter huile d'olive et sel apres l'huile et masser encore ou masser d'un melange beurre herbe sous et sur la peau.
-1. Cuisson a 180c:
+1. Ajouter huile d'olive et sel apres l'huile et masser encore ou masser d'un melange beurre aux herbes sous et sur la peau.
+1. Mettre le poulet sur une plaque de cuisson. Eviter les plats profonds.
+1. Cuisson à 180c pour 1h environ jusqu'à:
    -  72-74c tempé interne.
    -  Environ 50 minutes pour 1.4kg.
 1. Toutes les 15 minutes, l'arroser avec son propre jus.
-1. Quand il reste 5 minutes de cuisson, ajouter une gross noix de beurre, avec de l'ail et du romarin sur le poulet.
-1. Arroser le poulet avec son jus en permanance.
+1. Quand il reste 5 minutes de cuisson, ajouter une grosse noix de beurre, avec de l'ail et du romarin sur le poulet.
+1. Arroser le poulet avec son jus en permanence.
 
 Lorsque le poulet est cuit:
 
