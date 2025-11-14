@@ -5,7 +5,7 @@ tags: ["korean", "beef"]
 
 ## Meat
 
-- Beef (marbled, like rib eye for example): 700g
+- Beef. Marbled, like ribeye or sirloin (Rinderlende) for example: 500-700g
 - Sesame seed
 - Onion: 1
 
@@ -23,6 +23,7 @@ tags: ["korean", "beef"]
 1. Cut meat in thin slices against the grain. Freeze the meat before, if needed.
 1. Blend all sauce ingredients.
 1. In a bowl, add the meat an half an onion, sliced.
+1. Add a thinly sliced onion.
 1. Cover and marinate the meat for 10-12h.
 1. Cook on high eat in a skillet.
 1. Add sesame seed and scallions.

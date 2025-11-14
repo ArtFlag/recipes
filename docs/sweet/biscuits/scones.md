@@ -9,7 +9,7 @@ import BakingStep from "@site/src/components/BakingStep";
 
 - Plain flour: 500g (4 cups)
 - Baking powder: 30g (3 heaped tsp)
-- Salt: 9g
+- Salt: 8g
 - Sugar: 80g (⅓ cup + 1 tbsp)
 - Butter: 100g (1 stick)
 - Eggs: 2 (1 for egg wash)
