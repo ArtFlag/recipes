@@ -22,13 +22,13 @@ Yields about 11 scones.
    - 1 egg yolk
    - Pinch of salt and sugar
 1. Mix:
-   - flour
-   - baking powder
-   - butter
+   - Flour
+   - Baking powder
+   - Butter
 1. Add a pinch of salt, the sugar, the fruit.
 1. In a separate bowl, whisk:
    - 1 egg
-   - buttermilk
+   - Buttermilk
 1. Add the wet ingredients to the dry ingredients and mix
    until just combined. Do not develop gluten.
 1. Dump the dough on a floured surface and roughly stack the
