@@ -142,7 +142,7 @@ const config: Config = {
           routeBasePath: '',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: ['./src/css/custom.css', './src/css/local-search.css'],
         },
       } satisfies Preset.Options,
     ],
@@ -172,6 +172,40 @@ const config: Config = {
       rel: 'mask-icon',
       color: '#5bbad5',
     },
+  ],
+  plugins: [
+    [
+      '@cmfcmf/docusaurus-search-local',
+      {
+        indexDocs: true,
+        indexDocSidebarParentCategories: 0,
+        includeParentCategoriesInPageTitle: false,
+        // whether to index blog pages
+        indexBlog: true,
+
+        // whether to index static pages
+        // /404.html is never indexed
+        indexPages: false,
+
+        // language of your documentation, see next section
+        language: 'en',
+
+        // setting this to "none" will prevent the default CSS to be included. The default CSS
+        // comes from autocomplete-theme-classic, which you can read more about here:
+        // https://www.algolia.com/doc/ui-libraries/autocomplete/api-reference/autocomplete-theme-classic/
+        // When you want to overwrite CSS variables defined by the default theme, make sure to suffix your
+        // overwrites with `!important`, because they might otherwise not be applied as expected. See the
+        // following comment for more information: https://github.com/cmfcmf/docusaurus-search-local/issues/107#issuecomment-1119831938.
+        maxSearchResults: 10,
+        lunr: {
+          tokenizerSeparator: /[\s\-]+/,
+          titleBoost: 5,
+          contentBoost: 1,
+          tagsBoost: 3,
+          parentCategoriesBoost: 2, // Only used when indexDocSidebarParentCategories > 0
+        },
+      },
+    ],
   ],
   markdown: {
     // https://docusaurus.io/docs/migration/v3#using-the-mdx-extension
