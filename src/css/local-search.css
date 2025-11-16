@@ -1,0 +1,49 @@
+:root {
+  --aa-background-color-alpha: 1 !important;
+}
+
+.aa-Autocomplete {
+  min-width: 170px !important
+}
+
+.aa-DetachedSearchButton {
+  background-color: rgb(219, 219, 219) !important;
+  border-radius: var(--ifm-global-radius) !important;
+}
+
+:root[data-theme='dark'] .aa-DetachedSearchButton {
+  background-color: #828282 !important;
+}
+
+:root[data-theme='dark'] .aa-DetachedSearchButtonPlaceholder {
+  color: var(--color6) !important;
+}
+
+.aa-DetachedFormContainer,
+.aa-Panel {
+  background-color: rgb(235, 235, 235) !important;
+  border-radius: var(--ifm-global-radius) !important;
+}
+
+.aa-Panel {
+  border-top-right-radius: 0 !important;
+  border-top-left-radius: 0 !important;
+}
+
+.aa-DetachedFormContainer {
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+svg.aa-SubmitIcon {
+  fill: var(--color2) !important;
+  width: 16px !important;
+}
+
+:root[data-theme='dark'] svg.aa-SubmitIcon {
+  fill: var(--color6) !important;
+}
+
+mark[data-markjs] {
+  background-color: var(--color4) !important;
+}
