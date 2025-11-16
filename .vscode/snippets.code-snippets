@@ -1,6 +1,6 @@
 {
   "Add title": {
-    "prefix": "ttl",
+    "prefix": ["ttl", "title"],
     "scope": "markdown",
     "body": ["---", "title: $1", "---", "", "$2"],
     "description": "Inserts a title"
