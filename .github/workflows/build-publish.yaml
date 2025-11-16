@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        name: Checkout repository
         with:
           fetch-depth: 0
 
@@ -23,19 +24,22 @@ jobs:
         run: corepack enable
 
       - uses: actions/setup-node@v4
+        name: Setup Node.js
         with:
           node-version: 24
           cache: yarn
 
-      - name: Run install
-        uses: borales/actions-yarn@v4
+      - name: Install dependencies
+        uses: borales/actions-yarn@v5
         with:
           cmd: install
 
       - name: Build website
-        run: yarn build
+        uses: borales/actions-yarn@v5
+        with:
+          cmd: build
 
-      - name: Upload Build Artifact
+      - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: build
