@@ -1,16 +1,21 @@
 {
-  // Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
-  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
-  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
-  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
-  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
-  // Placeholders with the same ids are connected.
-  // Example:
   "Add title": {
-    "scope": "markdown",
     "prefix": "ttl",
+    "scope": "markdown",
     "body": ["---", "title: $1", "---", "", "$2"],
     "description": "Inserts a title"
+  },
+  "turn off Vale": {
+    "prefix": "vof",
+    "scope": "markdown",
+    "body": ["<!-- vale off -->"],
+    "description": "Turn off Vale"
+  },
+  "turn on Vale": {
+    "prefix": "von",
+    "scope": "markdown",
+    "body": ["<!-- vale on -->"],
+    "description": "Turn on Vale"
   },
   "Insert note": {
     "scope": "markdown",
@@ -18,8 +23,9 @@
     "body": [":::note", "$1", ":::", "", "$2"],
     "description": "Insert a note"
   },
-  "Img mdx": {
-    "prefix": "import image",
+  "Image": {
+    "prefix": ["image", "component"],
+    "scope": "markdown",
     "body": [
       "import ${1:MyImg} from \"@site/static/img/$2.png\";",
       "",
@@ -30,7 +36,8 @@
     "description": "Insert an image"
   },
   "baking step": {
-    "prefix": "baking step",
+    "prefix": ["baking", "baking", "component", "oven"],
+    "scope": "markdown",
     "body": [
       "import BakingStep from \"@site/src/components/BakingStep\";",
       "",
@@ -38,9 +45,10 @@
       "",
       ""
     ],
-    "description": "Insert cooking step"
+    "description": "Insert baking step"
   },
   "percentage calculator": {
+    "scope": "markdown",
     "prefix": "percentage",
     "body": [
       "import Percent from \"@site/src/components/Percent\";",
@@ -52,23 +60,19 @@
     "description": "Insert percentage component"
   },
   "video": {
+    "scope": "markdown",
     "prefix": "video",
     "body": ["<div class=\"youtube-video-container\">", "$1", "</div>", ""],
     "description": "Insert video"
   },
-  "variables":{
+  "variables": {
+    "scope": "markdown",
     "prefix": "variables",
-    "body": [
-      "export const $1 = {",
-      "  '$2': $3",
-     "}",
-     "",
-     "{$1.$2}",
-     ""
-    ]
-  }
+    "body": ["export const $1 = {", "  '$2': $3", "}", "", "{$1.$2}", ""]
+  },
   "tabs": {
     "prefix": "tabs",
+    "scope": "markdown",
     "body": [
       "import Tabs from '@theme/Tabs';",
       "import TabItem from '@theme/TabItem';",
@@ -83,5 +87,27 @@
       "</Tabs>",
       "$5"
     ]
+  },
+  "import reuseable snippet": {
+    "scope": "markdown",
+    "prefix": ["snippet", "reuseable", "component"],
+    "body": [
+      "import ${1:MySnippet} from \"@site/static/snippets/$2.md\";",
+      "",
+      "<$1/>",
+      ""
+    ],
+    "description": "Insert a snippet"
+  },
+  "import icon": {
+    "prefix": ["icon", "svg"],
+    "body": [
+      "import ${1:MyIcon} from \"@site/static/img/icons/$2.svg\";",
+      "",
+      "<$1 className=\"icon\"/>",
+      "",
+      ""
+    ],
+    "description": "Insert an SVG icon"
   }
 }
