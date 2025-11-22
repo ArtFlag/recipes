@@ -114,6 +114,10 @@ const shortcuts_savoury = {
   title: 'Savoury',
   links: [
     {
+      id: 'savoury/other/chicken-adobo',
+      title: 'Chicken adobo',
+    },
+    {
       id: 'savoury/other/galettes',
       title: 'Galettes',
     },
