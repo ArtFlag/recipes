@@ -2,10 +2,23 @@
 title: Pâte feuilletée
 tags: ["pâte"]
 ---
-
 import MyImg from "@site/static/img/tour-simple.png";
 
-Détrempe:
+| Ingrédient               | Rôle principal                                          | Dosage recommandé              | Remarques                                                  |
+| ------------------------ | ------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------- |
+| Farine                   | Base de la pâte, structure du gluten                    | 100 % (référence)              | Idéal : gruau (12–13 % protéines) ; ou mélange T45 + T65   |
+| Eau                      | Hydratation, formation du gluten, contrôle température  | Variable (42–50 % hydratation) | Ajuster selon conditions et proportion lait                |
+| Lait                     | Moelleux, couleur dorée, goût riche                     | Max. 20 %                      | Peut être remplacé en partie par poudre de lait            |
+| Poudre de lait           | Intensifie le goût sans ajouter de liquide              | 2–4 %                          | À utiliser en complément ou substitution partielle au lait |
+| Sucre                    | Nourrit la levure, coloration, goût                     | 8–12 %                         | Jusqu’à 20 % peut être remplacé par miel                   |
+| Miel                     | Douceur, conservation, arômes                           | ≤ 20 % du sucre                | Améliore la conservation et la couleur                     |
+| Sel                      | Régule fermentation, renforce gluten, équilibre saveurs | 2 %                            | Trop peu : pâte faible ; trop : fermentation ralentie      |
+| Levure fraîche           | Fermentation, volume, légèreté                          | 2–2,5 %                        | Cassante, non collante = qualité                           |
+| Levure sèche instantanée | Même rôle                                               | ÷2 par rapport à la fraîche    | Ex. 30 g fraîche = 15 g sèche                              |
+| Beurre d’incorporation   | Souplesse, saveur, texture                              | 5–10 %                         | À ajouter dans la détrempe                                 |
+| Beurre de tourage        | Feuilletage, croustillant                               | 30–50 %                        | Utiliser un beurre AOP 82–86 % MG ou beurre sec 84 %       |
+
+## Détrempe
 
 - Farine type 55: 500g
 - Eau temperée: 250g

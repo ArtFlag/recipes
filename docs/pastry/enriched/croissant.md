@@ -88,8 +88,6 @@ Il faut travailler vite.
 1. Repos 1 heure.
 1. L'étaler à nouveau dans le sens de la longueur (pli sur le coté) pour atteindre **25x55cm**. Environ 3-4mm. Pas plus epais sinon le beurre va s'echapper.
 1. Tour double en essuyant bien la farine.
-
-   ![Croissants](/img/tour-double.png)
 1. Filmer et laisser reposer au frais pour 1h.
 
 ### Façonnage
