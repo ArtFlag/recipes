@@ -1,5 +1,11 @@
 ---
 title: Pisco sour
+tags:
+  - pisco
+  - sour
+  - egg-white
+  - citrus
+  - classic
 ---
 
 For 1 cocktail:

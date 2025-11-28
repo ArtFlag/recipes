@@ -1,5 +1,11 @@
 ---
 title: Café
+tags:
+  - coffee
+  - non-alcoholic
+  - hot-drink
+  - morning
+  - simple
 ---
 
 ## Cafetière a piston

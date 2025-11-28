@@ -1,5 +1,11 @@
 ---
 title: Vodka sour
+tags:
+  - vodka
+  - sour
+  - citrus
+  - egg-white
+  - shaken
 ---
 
 - 1.5 to 2 ounces Vodka

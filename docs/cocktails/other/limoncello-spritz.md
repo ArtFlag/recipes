@@ -1,5 +1,11 @@
 ---
 title: Limoncello spritz
+tags:
+  - limoncello
+  - spritz
+  - citrus
+  - bubbly
+  - refreshing
 ---
 
 - Lemon: 1

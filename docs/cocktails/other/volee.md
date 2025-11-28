@@ -1,5 +1,11 @@
 ---
 title: Volee
+tags:
+  - volee
+  - spritz
+  - citrus
+  - aperitif
+  - low-abv
 ---
 
 - 120 ml volee

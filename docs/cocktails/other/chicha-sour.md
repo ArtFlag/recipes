@@ -1,5 +1,11 @@
 ---
 title: Chicha sour
+tags:
+  - pisco
+  - sour
+  - spiced
+  - egg-white
+  - peruvian
 ---
 
 ## Chicha syrup

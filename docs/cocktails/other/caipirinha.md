@@ -1,5 +1,11 @@
 ---
 title: Caipirinha
+tags:
+  - cachaca
+  - muddled
+  - citrus
+  - tropical
+  - refreshing
 ---
 
 - 2 ounces Cachaça (traditionnally unaged, but not necessarily) / or rhum agricole.

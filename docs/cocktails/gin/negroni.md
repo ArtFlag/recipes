@@ -1,5 +1,11 @@
 ---
 title: Negroni
+tags:
+  - gin
+  - bitter
+  - aperitif
+  - stirred
+  - classic
 ---
 
 1/3 each or:

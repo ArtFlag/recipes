@@ -1,5 +1,11 @@
 ---
 title: Whiskey sour
+tags:
+  - bourbon
+  - sour
+  - citrus
+  - egg-white
+  - shaken
 ---
 
 - 1.5 to 2 ounces bourbon (Bulleit)

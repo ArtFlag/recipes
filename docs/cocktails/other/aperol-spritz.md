@@ -1,5 +1,11 @@
 ---
 title: Aperol spritz
+tags:
+  - aperol
+  - spritz
+  - bubbly
+  - aperitif
+  - citrus
 ---
 
 - 3 ounces brut Prosecco (extra dry)

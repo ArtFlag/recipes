@@ -1,5 +1,11 @@
 ---
 title: Gin basil smash
+tags:
+  - gin
+  - herbal
+  - citrus-forward
+  - sour
+  - shaken
 ---
 
 - Gin: 60mL - 2 oz

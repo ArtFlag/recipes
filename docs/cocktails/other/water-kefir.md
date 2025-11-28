@@ -1,5 +1,11 @@
 ---
 title: Water kefir
+tags:
+  - alcohol-free
+  - fermented
+  - cultured
+  - bubbly
+  - mixer
 ---
 
 Rough ratio sugar/kefir/water: 45g-60g : 60g-120g : 1L

@@ -1,5 +1,11 @@
 ---
 title: Whiskey smash
+tags:
+  - bourbon
+  - mint
+  - citrus
+  - shaken
+  - crushed-ice
 ---
 
 - Lemon: 1/2 a lemon

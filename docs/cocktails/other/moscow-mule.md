@@ -1,5 +1,11 @@
 ---
 title: Moscow mule
+tags:
+  - vodka
+  - highball
+  - ginger
+  - citrus
+  - refreshing
 ---
 
 - 2 ounces vodka (or gin, tequila, whisky, cognac, pisco...)

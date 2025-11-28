@@ -1,5 +1,11 @@
 ---
 title: French 75
+tags:
+  - gin
+  - sparkling
+  - citrus-forward
+  - brunch
+  - refreshing
 ---
 
 - ½ oz lemon juice

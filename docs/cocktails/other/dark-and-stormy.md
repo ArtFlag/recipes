@@ -1,5 +1,11 @@
 ---
 title: Dark 'N Stormy
+tags:
+  - rum
+  - highball
+  - ginger
+  - spicy
+  - refreshing
 ---
 
 - Rum: 1.5  oz  (Gosling Black Seal, traditionally)

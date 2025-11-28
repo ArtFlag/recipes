@@ -1,5 +1,11 @@
 ---
 title: La Louisiane
+tags:
+  - rye-whiskey
+  - benedictine
+  - bitter
+  - stirred
+  - new-orleans
 ---
 
 - 1.5 oz rye whisky

@@ -1,5 +1,11 @@
 ---
 title: Lemonade
+tags:
+  - alcohol-free
+  - citrus
+  - fermented
+  - refreshing
+  - batch
 ---
 
 - Lemon juice: 1/2 cup, 140ml

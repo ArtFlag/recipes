@@ -1,5 +1,11 @@
 ---
 title: Ginger ale
+tags:
+  - alcohol-free
+  - ginger
+  - fermented
+  - homemade
+  - mixer
 ---
 
 ## Ginger bug

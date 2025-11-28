@@ -1,5 +1,11 @@
 ---
 title: Amaretto sour
+tags:
+  - amaretto
+  - sour
+  - egg-white
+  - citrus
+  - shaken
 ---
 
 ## Classic

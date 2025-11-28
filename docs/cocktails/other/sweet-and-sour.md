@@ -1,5 +1,11 @@
 ---
 title: Sweet and sour mix
+tags:
+  - alcohol-free
+  - citrus
+  - mixer
+  - batch
+  - bar-essentials
 ---
 
 - 1 part sugar

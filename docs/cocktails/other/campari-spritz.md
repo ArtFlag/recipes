@@ -1,5 +1,11 @@
 ---
 title: Campari spritz
+tags:
+  - campari
+  - spritz
+  - bitter
+  - bubbly
+  - aperitif
 ---
 
 - 2 ounces brut Prosecco (or 3) (extra dry)

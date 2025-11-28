@@ -1,5 +1,11 @@
 ---
 title: Syrups
+tags:
+  - alcohol-free
+  - sweetener
+  - mixer
+  - prep
+  - bar-essentials
 ---
 
 - Simple 1:1

@@ -1,5 +1,11 @@
 ---
 title: Rabo de Galo
+tags:
+  - cachaca
+  - bitter
+  - stirred
+  - nightcap
+  - aperitif
 ---
 
 - 1.5 oz. (45 ml) Novo Fogo Barrel-Aged Cachaça

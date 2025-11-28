@@ -1,5 +1,11 @@
 ---
 title: Irish godfather
+tags:
+  - irish-whiskey
+  - stirred
+  - nutty
+  - nightcap
+  - spirit-forward
 ---
 
 - 2 oz irish whiskey

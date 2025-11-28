@@ -1,5 +1,11 @@
 ---
 title: Martini
+tags:
+  - gin
+  - spirit-forward
+  - stirred
+  - aperitif
+  - classic
 ---
 
 - Gin: 1 1/2 oz

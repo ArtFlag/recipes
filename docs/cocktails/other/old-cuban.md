@@ -1,5 +1,11 @@
 ---
 title: Old cuban
+tags:
+  - rum
+  - sparkling
+  - mint
+  - citrus
+  - shaken
 ---
 
 - Unmuddled Mint leaves: 6-8

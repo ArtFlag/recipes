@@ -1,5 +1,11 @@
 ---
 title: Bijou
+tags:
+  - gin
+  - vermouth
+  - herbal
+  - stirred
+  - nightcap
 ---
 
 - 1 1/4 oz gin

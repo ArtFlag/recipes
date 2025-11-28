@@ -1,5 +1,11 @@
 ---
 title: Daiquiri
+tags:
+  - rum
+  - sour
+  - classic
+  - citrus
+  - shaken
 ---
 
 - Rum: 2oz

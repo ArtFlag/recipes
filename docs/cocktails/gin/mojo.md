@@ -1,5 +1,11 @@
 ---
 title: Mojo
+tags:
+  - gin
+  - lillet
+  - citrus
+  - aperitif
+  - stirred
 ---
 
 Lemon: 1/2 oz
