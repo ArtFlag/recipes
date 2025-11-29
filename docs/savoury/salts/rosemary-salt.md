@@ -3,7 +3,7 @@ title: Rosemary salt
 ---
 
 - Rosemary: 14 sprigs stripped
-- Salt: 1 cup
+- Salt: 1 cup / 260g
 - Sage: 8 sprigs stripped
 - Garlic: 3-5 cloves
 - Zested lemon: 1
