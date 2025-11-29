@@ -109,3 +109,15 @@ Mix 2 tablespoons of tahini, 2.5 tablespoons of honey, 2 teaspoons of cocoa.
 1. Add some cubes of cold butter off heat, stir in.
 1. Stir well with a whisk.
 1. Squeeze in lemon juice to taste.
+
+## Velouté
+
+1 part butter, 1 part flour, 15 parts stock.
+
+1. Melt 2 tbsp butter in a saucepan over medium heat.
+1. Whisk in 2 tbsp flour
+1. Cook on low heat.
+1. Once is looks like wet sand, slowly whisk in 1
+   cup of warm stock (chicken, fish, vegetable). Always on low heat.
+
+https://www.youtube.com/shorts/ERK4NhO4Zug
