@@ -50,3 +50,12 @@ Exceeding smoke point carbonizes the oil, which we don't want because it leads t
 1. Bake for 1 hour a little under the oil's smokepoint.
 
 [Video](https://www.youtube.com/watch?v=By5_xL-BPwY)
+
+## Steps to clean pipes
+
+1. Boil Water.
+1. Add Baking Soda: Pour about 1/2 cup of baking soda down the drain.
+1. Add Vinegar: Follow with 1 cup of vinegar. You will see fizzing as the two react.
+1. Cover the Drain: Place a drain plug or cloth over the drain to keep the reaction concentrated.
+1. Wait: Let the mixture sit for 10-15 minutes.
+1. Flush with Hot Water.
