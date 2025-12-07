@@ -114,3 +114,60 @@ Pour environ 10 pièces:
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YZvAWZUK-kI?si=yLuQYCAvaum-SWyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 </div>
+
+## Brown Butter Chocolate Chip Cookies
+
+(From "Cookies & Crumbs: Chunky, Chewy, Gooey Cookies for Every Mood")
+
+- Butter (browned and cooled): 160g (5¾oz/¾ cup minus 2 tsp)
+- Light muscovado sugar: 125g (4½oz/⅔ cup minus 2 tsp)
+- Caster sugar: 70g (2½oz/5⅔ tbsp)
+- Dark sugar beet syrup (or molasses): 10g (⅓oz/¾ tbsp)
+- Egg: 1
+- Plain (all-purpose) flour: 180g (6¼oz/1⅓ cups)
+- Spelt or emmer flour: 20g (⅔oz/2⅓ tbsp)
+- Bicarbonate of soda (baking soda): 3g (1 tsp)
+- Baking powder: 2g (⅔ tsp)
+- Salt: 2g (⅔ tsp)
+- Dark chocolate (roughly chopped): 150g (5½oz)
+- Sea salt flakes: 1 tbsp
+
+Method
+
+1. Beat the butter, muscovado sugar, caster sugar and syrup in a bowl using a balloon whisk for about 20 seconds.
+1. Add the egg and beat until the batter is smooth.
+1. Combine the plain flour, spelt flour, bicarbonate of soda, baking powder and salt in a separate bowl.
+1. Fold the dry ingredients into the butter mixture in two batches until they are just combined, ensuring that you scrape down the sides of the bowl between batches.
+1. Fold in the chocolate so that it is evenly distributed in the batter. Cover the bowl with a lid or cling film (plastic wrap) and leave to rest in the refrigerator for 45 minutes–1 hour.
+1. Take out of the refrigerator and scoop 62g (2¼oz) balls of dough using an ice cream scoop, or roll balls using 2 tablespoons of dough. There should be enough to make about 12 cookies.
+1. For a more distinct flavour and taller cookies, place the dough balls in a container with a lid or on a tray that you then cover with cling film. Leave to rest in the refrigerator for at least 3 hours – preferably overnight.
+1. Preheat the oven to 160°C fan (180°C/350°F/gas 4).
+1. Place the dough balls approximately 5cm (2in) apart on baking trays lined with baking parchment. Bake in the middle of the oven for 11-12 minutes. Bake one sheet at a time if not using a fan oven.
+1. The cookies should have expanded, risen and begun to develop a firm but slightly glistening surface.
+1. Remove the baking trays from the oven and sprinkle the cookies with sea salt. Leave to cool for 5 minutes, then transfer them to a cooling rack and leave to cool for at least another 10–15 minutes.
+
+## Zoe's Chocolate Chip Cookies
+
+Makes about 20 cookies
+
+- 2⅔ cups / 320g all-purpose flour
+- 1¼ tsp baking soda
+- 1½ tsp kosher salt
+- ¾ cup / 170g unsalted butter, at room temperature
+- ¼ cup / 57g shortening
+- 1 cup / 200g granulated sugar
+- 1½ cups / 300g lightly packed brown sugar
+- 1½ tsp pure vanilla extract
+- 2 eggs, at room temperature
+- 8 to 12 oz / 225 to 340g bittersweet chocolate, chopped in largish chunks (about ¼ inch / 6mm; see Baker’s Note)
+- Flaky sea salt for finishing
+
+1. In a medium bowl, whisk together the flour, baking soda, and salt. Set aside.
+1. With the paddle attachment, cream the butter, shortening, granulated and brown sugars, and vanilla on medium speed until creamy, about 3 minutes.
+1. Add the eggs, one at a time, beating on medium speed until incorporated.
+1. Add the flour mixture all at once and mix until just incorporated. Mix in the chopped chocolate pieces.
+1. Line a baking sheet with parchment paper. Scoop the cookie dough using a #20 (3-tablespoon) portion scoop onto the baking sheet. You can make the cookies larger or smaller, but it will affect the baking time.
+1. Refrigerate the dough balls for at least 30 minutes; but if you have the time, they improve if you let them sit for 24 to 36 hours. After they are chilled, you can bake them or freeze the dough balls for baking later.
+1. Preheat the oven to 375°F / 190°C. Line a baking sheet with parchment paper.
+1. Evenly space six chilled cookie balls on the prepared sheet and sprinkle them with flaky sea salt. Bake in the middle of the oven for about 12 minutes or until golden brown and slightly puffed. Repeat with as many batches as you need.
+1. Allow the cookies to cool slightly on the baking sheet, until you can move them without them falling apart, about 5 minutes. Then move them to a cooling rack to finish cooling.
