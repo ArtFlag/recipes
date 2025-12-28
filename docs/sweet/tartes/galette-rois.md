@@ -5,13 +5,45 @@ tags: ["french", "dessert", "cake"]
 
 ## Recette normale
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kU9xXehA0_4?si=3LTJuqFZX6bniX98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-### Pate feuilletée
+### Pate feuilletée inversée
 
-1. Voir [recette](/recipes/sweet/pates/pate-feuilletee).
-1. Abaisser la pate à 2-3mm. Elle doit faire 2 fois la longeur du cercle.
-1. Un fois abaissee, couper la pate en 2 au milieu. Les empiller et filmer au contact et laisser en detente au frigo 1h minimum.
+Beurre manié :
+- Beurre AOP : 195g
+- Farine T55 : 75g
+
+1. Mixer le beurre a temperature ambiante avec la farine jusqu'à obtenir une pate homogène.
+1. Etaler en un rectangle de 20x36cm sur 5mm, filmer et reserver au frigo.
+1. Minimum 2 heures, max 5 heures.
+
+Détrempe :
+- Farine T55 : 225g
+- Eau froide : 97g
+- Beurre mou: 33g
+- Sel: 7g
+- Vinaigre blanc: 1g
+
+1. Melanger eau froid sel et vinaigre et dissoudre le sel.
+1. Mettre le melange dans le mixeur et ajouter farine et beurre mou.
+1. Melanger au crochet jusqu'à obtenir une pate assez homogene, ne pas trop travailler.
+1. Etaler sur 20x15cm.
+1. Minimum 2 heures, max 5 heures.
+
+### Tourage
+
+Abaisse durant les tours : 6 à 8mm
+
+Tour 1 : double. Frigo 2 heures.
+Tour 2 : double. Frigo 2 heures.
+Tour 3 : double. Frigo 2 heures.
+
+### Abaisse
+
+1. Abaisser sur 2mm pour un cercle de 24cm.
+1. Mettre au frigo 2 heures minimum.
 
 ### Creme patissiere
 
@@ -20,9 +52,10 @@ tags: ["french", "dessert", "cake"]
 - Lait: 250g
 - Oeufs: 3
 - Sucre en poudre: 60g
+- Rhum: 2 cas
 
 1. Mix:
-   - jaunes d'oeuf: 3
+   - jaunes d'oeuf: 3 (50g)
    - sucre en poudre: 30g
 1. Ajouter fecule de mais: 25g
 1. Dans une casserole, versez 250g de lait et 30g de sucre en poudre
@@ -38,8 +71,9 @@ tags: ["french", "dessert", "cake"]
 
 - Beurre mou: 60g
 - Oeuf: 33g
-- Poudre d'amande: 90g-100g
+- Poudre d'amande: 100g
 - Sucre glace: 75g
+- Creme patissiere: 110g
 
 1. Melanger beurre et sucre glace et ajouter poudre d'amande.
 1. Ajouter un oeuf.
