@@ -31,3 +31,15 @@ tags: ["french", "pastry"]
 
 1. Une fois refroidi, enlever la gousse de vanille.
 1. Mettre dans un mixeur, et ajouter le mascarpone et bien battre en augmentant progressivement la vitesse. La crême doit être lisse et brillante.
+
+
+## Version micro-ondes
+
+- Œuf : 10g
+- Jaune d'œuf : 20g
+- Sucre : 20g
+- Lait entier : 100g
+- Poudre à crème ou maizena : 9g
+- 4-5 minute au micro-onde chaleur max.
+- Essence de vanille.
+- Beurre : 5g

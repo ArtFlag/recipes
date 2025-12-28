@@ -37,7 +37,7 @@ tags: ["french", "dessert", "cake"]
 ### Frangipane
 
 - Beurre mou: 60g
-- Oeuf: 1
+- Oeuf: 33g
 - Poudre d'amande: 90g-100g
 - Sucre glace: 75g
 
