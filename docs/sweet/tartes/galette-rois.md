@@ -43,7 +43,7 @@ tags: ["french", "dessert", "cake"]
 
 1. Melanger beurre et sucre glace et ajouter poudre d'amande.
 1. Ajouter un oeuf.
-1. Ajouter 120g de creme patissiere (detendre la creme en la melangeant un peu d'abord).
+1. Ajouter 110g de creme patissiere (detendre la creme en la melangeant un peu d'abord).
 1. Mettre un film en cercle de 20cm de diametre, deposez la frangipane et mettre au congélateur 2h minimum.
 
 ### Assemblage
@@ -112,3 +112,9 @@ Vers la fin de la cuission, preparez un sirop:
 1. Versez l'eau et le sucre dans une casserole et portez à ebuilition.
 1. Hors du feu, ajoutez le rhum et melanger.
 1. Sortir la galette et badigeonez la galette.
+
+## Recette version pate feuilletee inversee
+
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R0xe5nfB0qE?si=uFYfJR9KRTqhNSoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
