@@ -126,6 +126,10 @@ const shortcuts_savoury = {
       title: 'Gougère',
     },
     {
+      id: 'savoury/other/white-wine-chicken',
+      title: 'White wine chicken',
+    },
+    {
       id: 'savoury/pasta/cacio-e-pepe',
       title: 'Cacio e pepe',
     },
