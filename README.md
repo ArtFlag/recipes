@@ -30,17 +30,18 @@ Deploy is automatic on every merge to master.
 yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/theme-search-algolia@latest
 ```
 
-> [!note] 
-> Useful information that users should know, even when skimming content.
+> [!note] Useful information that users should know, even when skimming content.
 
-> [!tip]
->  Helpful advice for doing things better or more easily.
+> [!tip] Helpful advice for doing things better or more easily.
 
-> [!important]
->  Key information users need to know to achieve their goal.
+> [!tip] Helpful advice for doing things better or more easily.
 
-> [!WARNING] 
-> Urgent info that needs immediate user attention to avoid problems.
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> [!important] Key information users need to know to achieve their goal.
+
+> [!WARNING] Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION] Advises about risks or negative outcomes of certain actions.
+> 
+
+ ed fields are not omitted if they are
