@@ -1,52 +1,73 @@
 ---
-title: Seigleton Brioché
+title: Seigliton
 ---
 import BakingStep from "@site/src/components/BakingStep";
 
-- T65 : 300 g
-- Seigle T130 : 200 g
-- Lait : 165 g
-- Oeufs : 100 g (2)
-- Beurre : 100 g
-- Sucre : 50 g
-- Sel : 10 g
-- Levure fraîche : 15 g
-- Pépites chocolat noir : 80 g
-- Jaune d'oeuf pour la dorure: 1
+## Ingrédients (pour 8 pièces d’environ 120–130 g)
 
-## 1. Pétrissage
+### Pâte
 
-1. Dans la cuve du batteur, mélanger les farines, le lait, les oeufs, le sucre, le sel et la levure.
-1. Pétrir à vitesse lente jusqu'à ce que la pâte se décolle des bords.
-1. Augmenter la vitesse et pétrir jusqu'à obtenir un bon réseau de gluten.
-1. Incorporer le beurre ramolli en petits morceaux, petit à petit.
-1. Une fois le beurre bien incorporé, ajouter les pépites de chocolat à vitesse lente.
-   Température de la pâte en fin de pétrissage : environ 24°C.
+- Farine de tradition (T65): 300 g
+- Farine de seigle (T130 de préférence): 200 g
+- Sucre: 60 g
+- Sel: 10 g
+- Levure fraîche: 12 g (ou 4 g levure sèche)
+- Lait tiède: 120 g
+- Eau tiède: 120 g
+- Beurre doux mou: 100 g
+- Œuf: 1 (50 g)
+- Pépites de chocolat (mélange noir, lait, blanc): 200 g
 
-## 2. Pointage (1ère pousse)
+## Procédé
 
-1. Laisser la pâte lever dans un récipient couvert pendant 1h30 à 2h à température ambiante. La pâte doit doubler de volume.
-1. On peut également faire une pousse lente au réfrigérateur pendant une nuit.
+### 1. Pétrissage
 
-## 3. Division et détente
+1. Mélanger farines, sucre et sel.
+1. Ajouter levure, lait, eau, œuf.
+1. Pétrir 5–6 min vitesse lente.
+1. Incorporer le beurre mou.
+1. Pétrir encore 6–8 min jusqu’à pâte homogène (elle reste légèrement collante à cause du seigle).
+1. Ajouter les pépites en fin de pétrissage.
+   Température pâte idéale : 24–25°C.
 
-1. Diviser la pâte en pâtons de la taille souhaitée (par exemple, 120g).
-1. Bouler légèrement les pâtons.
-1. Couvrir et laisser détendre 20 minutes.
+### 2. Pointage
 
-## 4. Façonnage
+1. 1h à température ambiante (pâte couverte).
+1. Rabattre au bout de 30 min si possible.
 
-1. Façonner les pâtons en petites boules ou en petits bâtards courts.
-1. Bien serrer la soudure en dessous.
-1. Déposer sur une plaque de cuisson recouverte de papier sulfurisé.
+### 3. Façonnage
 
-## 5. Apprêt (2ème pousse)
+1. Diviser en 8 pâtons (~125 g).
+1. Bouler grossièrement (aspect rustique, ne pas trop serrer).
+1. Déposer sur plaque avec papier cuisson.
+1. Aplatir légèrement pour obtenir un pavé épais.
 
-- Laisser pousser pendant environ 1h à 1h30 à température ambiante. Les pains doivent bien gonfler.
-- Dorer à l'oeuf avant d'enfourner.
+### 4. Apprêt
 
-## 6. Cuisson
+1. 1h à 1h30 à 24–26°C.
+   La pâte doit gonfler sans trop s’étaler.
 
-- Préchauffer le four à 180°C.
-- <BakingStep temp="180" time="20-25 minutes" fan preheat />
-- Laisser refroidir sur une grille.
+#### Option aspect rustique
+
+- Saupoudrer très légèrement de farine avant cuisson.
+- Ne pas dorer à l’œuf pour garder un aspect craquelé naturel.
+
+### 5. Cuisson
+
+- <BakingStep temp="180" time="16-20 minutes" fan preheat />
+- Coloration brun doré.
+- Refroidir sur grille.
+
+## Résultat attendu
+
+- Croûte fine légèrement fissurée.
+- Mie dense, légèrement grise (seigle).
+- Texture moelleuse mais structurée.
+- Forte présence de pépites visibles en surface.
+
+## Variante plus “boulangerie”
+
+Pour plus de profondeur aromatique :
+
+- Remplacer 100 g de farine de tradition par 100 g de levain liquide (hydratation 100%).
+- Réduire la levure à 6 g.
