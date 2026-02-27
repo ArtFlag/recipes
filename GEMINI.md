@@ -37,6 +37,7 @@ installed.
 *   **TypeScript:** The project uses
     [TypeScript](https://www.typescriptlang.org/) for type checking. The
     TypeScript configuration is in the `tsconfig.json` file.
+*   The search is managed by `docusaurus-search-local`. See the docs at https://github.com/cmfcmf/docusaurus-search-local?tab=readme-ov-file#usage.
 
 # Content Conventions and Style Guide
 
