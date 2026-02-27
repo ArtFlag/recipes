@@ -179,7 +179,7 @@ const config: Config = {
       {
         // see https://github.com/cmfcmf/docusaurus-search-local?tab=readme-ov-file#usage
         indexDocs: true,
-        indexDocSidebarParentCategories: 0,
+        indexDocSidebarParentCategories: 999,
         includeParentCategoriesInPageTitle: false,
         indexBlog: false,
         indexPages: false,
