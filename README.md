@@ -5,6 +5,8 @@
 ## Installation
 
 ```console
+npm  install -g corepack
+corepack enable
 yarn install
 ```
 
