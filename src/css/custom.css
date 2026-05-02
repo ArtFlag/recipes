@@ -14,15 +14,15 @@
   --color-accent: #006154;
 
   /* Backgrounds (light → dark in elevation) */
-  --bg-page: #f0eeea;
-  --bg-subtle: #e8e6e1;
+  --bg-page: #e8e5e0;
+  --bg-subtle: #d8d4cd;
   --bg-elevated: #e4e1db;
   --bg-muted: #d8d4ce;
 
   /* Text */
   --text-base: #565656;
   --text-strong: #424242;
-  --text-on-dark: #f0eeea;
+  --text-on-dark: #e8e5e0;
 
   /* Component tokens */
   --baking-bg: var(--color-accent);

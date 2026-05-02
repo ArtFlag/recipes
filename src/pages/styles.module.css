@@ -1,81 +1,105 @@
 /* stylelint-disable docusaurus/copyright-header */
 
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 2rem 0;
+  padding: 4rem 1.5rem 5rem;
   text-align: center;
   position: relative;
   overflow: hidden;
-  color: white;
-  background-color: var(--ifm-hero-background-color);
+  background-color: var(--color-accent);
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 1.5rem;
-  }
+.heroBanner h1,
+.heroBanner p {
+  color: var(--text-on-dark);
+}
+
+.heroBanner::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  height: 48px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 48' preserveAspectRatio='none'%3E%3Cpath d='M0,32 C360,0 1080,64 1440,16 L1440,48 L0,48 Z' fill='%23e8e5e0'/%3E%3C/svg%3E");
+  background-size: 100% 100%;
+  pointer-events: none;
+}
+
+:global([data-theme='dark']) .heroBanner {
+  background-color: var(--bg-muted);
+}
+
+:global([data-theme='dark']) .heroBanner::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 48' preserveAspectRatio='none'%3E%3Cpath d='M0,32 C360,0 1080,64 1440,16 L1440,48 L0,48 Z' fill='%23125160'/%3E%3C/svg%3E");
 }
 
 .buttons {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
 }
 
 .button {
-  margin: 8px;
-  min-width: 150px;
-  background-color: var(--ifm-color-primary);
+  min-width: 130px;
+  background-color: var(--color-primary);
   border-color: transparent;
-  color: white !important;
+  color: var(--text-on-dark) !important;
   font-weight: var(--ifm-font-weight-light);
 }
+
 .button:hover {
-  background-color: var(--ifm-color-primary-lighter);
-  box-shadow: 2px 2px 8px var(--ifm-color-primary-dark);
+  background-color: var(--color-accent);
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+/* ─── Shortcut grid ──────────────────────────────────────────────────────── */
+
+.container {
+  max-width: 1200px;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem;
 }
 
-.featureImage {
-  height: 200px;
-  width: 200px;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
 }
 
 .shortcutBlock {
-  border: none;
-  margin-left: 15px;
-  width: 300px;
-  padding: 0.5rem;
+  background-color: var(--bg-subtle);
+  border-radius: var(--ifm-card-border-radius);
+  padding: 1.25rem 1.5rem;
 }
 
 .shortcutBlock h2 {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.6em;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  color: var(--text-strong);
 }
 
 .shortcutBlock ul {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
-.shortcutBlock li {
-  padding-bottom: 0.4rem;
+
+.shortcutBlock li a {
+  display: block;
+  padding: 0.35rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  transition: background-color 0.12s ease, padding-left 0.12s ease;
 }
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  margin: 0 80px;
-}
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+
+.shortcutBlock li a:hover {
+  background-color: var(--bg-elevated);
+  padding-left: 0.9rem;
+  text-decoration: none;
 }

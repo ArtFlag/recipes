@@ -230,7 +230,7 @@ function Home() {
   const { siteConfig = {} } = context
   return (
     <Layout description=''>
-      <header className={clsx('hero ', styles.heroBanner)}>
+      <header className={clsx(styles.heroBanner)}>
         <div className='container'>
           <h1 className='hero__title'>{siteConfig.title}</h1>
           <p className='hero__subtitle'>{siteConfig.tagline}</p>
@@ -280,7 +280,7 @@ function Home() {
       </header>
       <main>
         <div className={styles.container}>
-          <div className={styles.flex}>
+          <div className={styles.grid}>
             <Shortcuts contents={shortcuts_bread} />
             <Shortcuts contents={shortcuts_sweet} />
             <Shortcuts contents={shortcuts_savoury} />
