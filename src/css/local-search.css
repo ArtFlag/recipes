@@ -12,17 +12,33 @@
 }
 
 :root[data-theme='dark'] .aa-DetachedSearchButton {
-  background-color: #828282 !important;
+  background-color: var(--bg-elevated) !important;
 }
 
-:root[data-theme='dark'] .aa-DetachedSearchButtonPlaceholder {
-  color: var(--color6) !important;
+:root[data-theme='dark'] .aa-DetachedSearchButtonPlaceholder,
+:root[data-theme='dark'] .aa-DetachedSearchButtonQuery {
+  color: var(--text-on-dark) !important;
 }
 
 .aa-DetachedFormContainer,
 .aa-Panel {
   background-color: rgb(235, 235, 235) !important;
   border-radius: var(--ifm-global-radius) !important;
+}
+
+:root[data-theme='dark'] .aa-DetachedFormContainer,
+:root[data-theme='dark'] .aa-Panel {
+  background-color: var(--bg-page) !important;
+}
+
+:root[data-theme='dark'] .aa-Form,
+:root[data-theme='dark'] .aa-Input {
+  background-color: var(--bg-elevated) !important;
+  color: var(--text-on-dark) !important;
+}
+
+:root[data-theme='dark'] .aa-Input::placeholder {
+  color: var(--text-base) !important;
 }
 
 .aa-Panel {
@@ -36,14 +52,14 @@
 }
 
 svg.aa-SubmitIcon {
-  fill: var(--color2) !important;
+  fill: var(--color-accent) !important;
   width: 16px !important;
 }
 
 :root[data-theme='dark'] svg.aa-SubmitIcon {
-  fill: var(--color6) !important;
+  fill: var(--text-on-dark) !important;
 }
 
 mark[data-markjs] {
-  background-color: var(--color4) !important;
+  background-color: var(--bg-muted) !important;
 }
