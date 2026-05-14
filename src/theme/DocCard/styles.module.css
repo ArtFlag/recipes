@@ -22,3 +22,8 @@
 .cardDescription {
   font-size: 0.8rem;
 }
+
+.cardIcon {
+  font-size: 1.2em;
+  vertical-align: middle;
+}

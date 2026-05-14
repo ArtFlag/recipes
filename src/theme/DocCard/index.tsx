@@ -8,6 +8,7 @@ import {
 import { usePluralForm } from '@docusaurus/theme-common'
 import isInternalUrl from '@docusaurus/isInternalUrl'
 import { translate } from '@docusaurus/Translate'
+import { Icon } from '@iconify/react'
 
 import type { Props } from '@theme/DocCard'
 import Heading from '@theme/Heading'
@@ -17,6 +18,38 @@ import type {
 } from '@docusaurus/plugin-content-docs'
 
 import styles from './styles.module.css'
+
+const CATEGORY_ICONS: Record<string, string> = {
+  // Top-level sections
+  Sweet: 'noto:candy',
+  Pastry: 'noto:baguette-bread',
+  Savoury: 'noto:pot-of-food',
+  Cocktails: 'noto:cocktail-glass',
+  // Sweet
+  Biscuits: 'noto:cookie',
+  'Gâteaux': 'noto:shortcake',
+  'Pâtes': 'noto:flatbread',
+  Tartes: 'noto:pie',
+  Autres: 'noto:fork-and-knife-with-plate',
+  // Pastry
+  Bread: 'noto:bread',
+  Enriched: 'noto:croissant',
+  // Savoury
+  'Fermented foods': 'noto:jar',
+  Mushrooms: 'noto:mushroom',
+  Soups: 'noto:steaming-bowl',
+  Stocks: 'noto:shallow-pan-of-food',
+  Turkish: 'noto:stuffed-flatbread',
+  Indian: 'noto:curry-rice',
+  Pasta: 'noto:spaghetti',
+  Pies: 'noto:pie',
+  Salts: 'noto:salt',
+  Sauces: 'noto:honey-pot',
+  Other: 'noto:fork-and-knife',
+  // Cocktails
+  Gin: 'noto:tropical-drink',
+  Whiskey: 'noto:tumbler-glass',
+}
 
 function useCategoryItemsPlural() {
   const { selectMessage } = usePluralForm()
@@ -84,6 +117,14 @@ function CardLayout({
   )
 }
 
+function CategoryIcon({ label }: { label: string }): JSX.Element {
+  const iconName = CATEGORY_ICONS[label]
+  if (iconName) {
+    return <Icon icon={iconName} className={styles.cardIcon} />
+  }
+  return <span className={styles.cardIcon}>🗃️</span>
+}
+
 function CardCategory({
   item,
 }: {
@@ -100,7 +141,7 @@ function CardCategory({
   return (
     <CardLayout
       href={href}
-      icon='🗃️'
+      icon={<CategoryIcon label={item.label} />}
       title={item.label}
       description={item.description ?? categoryItemsPlural(item.items.length)}
     />
