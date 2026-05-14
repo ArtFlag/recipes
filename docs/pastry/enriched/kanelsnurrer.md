@@ -3,6 +3,9 @@ title: Kanelsnurrer
 tags: ["nordic", "viennoiserie"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 import BakingStep from "@site/src/components/BakingStep";
 
 <table>
@@ -62,12 +65,12 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Cut into 3 cm wide strips. Twist the strips. One end is
    twisted twice around the index and middle fingers of the opposite hand, and one end is stopped down the middle. Or gather the twisted dough into a ring.
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/N0g8hyUGcvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="N0g8hyUGcvk" />
    </div>
 
    Alternative:
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/wNiyp89pTi0?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="wNiyp89pTi0" />
    </div>
 1. Place them on a baking sheet or in muffin tray. Let rise for 30-60 min.
 1. Brush with beaten egg + whole milk.

@@ -28,9 +28,9 @@ import BakingStep from "@site/src/components/BakingStep";
 1. <BakingStep temp="190" time="13 minutes" fan preheat />
 1. Only put them on rack once they've hardened.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ7Ec3bKrxM?si=n3QpAsQtLaKqL_W3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="lJ7Ec3bKrxM" />
 
 ## Bromabakery
 
@@ -111,9 +111,8 @@ Pour environ 10 pièces:
 
 <BakingStep temp="200" time="11 minutes" fan preheat />
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZvAWZUK-kI?si=yLuQYCAvaum-SWyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+
+<YouTube id="YZvAWZUK-kI" />
 
 ## Brown Butter Chocolate Chip Cookies
 

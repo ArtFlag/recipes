@@ -84,6 +84,6 @@ Ingrédients supplémentaires
 1. Quand le chocolat est a 35c, verser sur l'opera et repartir le glaçage tres rapidement.
 1. Laissez prendre 2 heures au réfrigérateur.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pD0q1R9pDEQ?si=GNIOu80z1QupHG06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="pD0q1R9pDEQ" />

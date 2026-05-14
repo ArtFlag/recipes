@@ -2,6 +2,9 @@
 title:  Pizza  (Napolitana)
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 import Percent from "@site/src/components/Percent";
 
 [Pizzapp+](https://apps.apple.com/fr/app/pizzapp/id1228158792#?platform=ipad)
@@ -37,7 +40,7 @@ If dry yeast, divide fresh yeast value by 2
     creating tension and let sit at room temp (19-22c) for at least 4-6h.
 1. Shape and bake, grill at 250/280, no fan, top shelve, on a hot stone roughly 6-7 minutes:
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EI4RoemHe5M?start=1532" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+    <YouTube id="EI4RoemHe5M" />
 
 Recommended tomato: san marzano.
 

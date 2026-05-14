@@ -3,6 +3,9 @@ title: Gâche
 tags: ["french", "brioche"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 - Farine T65: 1kg
 - Sucre semoule blond: 150g
 - Eau: 25cl
@@ -25,7 +28,7 @@ tags: ["french", "brioche"]
 1. Degazer et couper en patons de 380g.
 1. Tressez les patons (5 brins) tant que la pate est foide.
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Gc_QfWpRoQg?start=596" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="Gc_QfWpRoQg" />
 1. Laisser pousser 2h.
 1. Dorer.
 1. Cuire a 150 28-30min, ventiler.

@@ -2,6 +2,9 @@
 title: Naan
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 ## Tawa Naan
 
 - 1 cup all-purpose flour plain flour, Maida
@@ -30,7 +33,7 @@ title: Naan
 1. Put water side naan over tawa, once the naan start bubbling and dough start drying, turn the tawa over flames keeping about 2 inch away from the flames to cook the naan from top. Note: yes naan will stick to tawa and will not fall of, this the reason you cannot use the nonstick skillet.
 1. Once naan browned to your satisfaction, remove, and spread the butter mix over. Place in a on a plate and cover with a cloth to keep warm until serving. Naan is ready!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Be9LHPracE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<YouTube id="9Be9LHPracE" />
 
 ## Sourdough
 

@@ -84,6 +84,6 @@ Le lendemain:
 1. Ajouter le sirop : 50g d'eau + 50g de sucre, ou utiliser le jus de maceration des raisins.
 1. Repasser 3 minutes au four.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/937Uzzgof0E?si=4V_PU_lzRsrRa_XZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="937Uzzgof0E" />

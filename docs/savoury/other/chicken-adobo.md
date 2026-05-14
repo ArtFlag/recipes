@@ -52,6 +52,6 @@ tags: ["filipino", "chicken", "stew"]
 1.  Put the chicken back in the pot to reheat. Coat it with reduced sauce.
 1.  Serve chicken adobo over garlic rice. Garnish with green onions or cilantro.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MGDK3H09j-Y?si=iU5MFHBrXP1ukHYm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="MGDK3H09j-Y" />

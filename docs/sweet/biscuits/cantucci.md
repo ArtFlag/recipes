@@ -60,6 +60,6 @@ Preparation:
 1. Ôtez la plaque du four, retournez les biscuits de l'autre côté, enfournez-les de nouveau et laissez-les cuire 5 minutes encore.
 1. Une fois la double cuisson terminée, transférez les cantucci sur une grille et laissez-les refroidir complètement avant de les déguster.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3wVfO-NTYYw?si=VjvpbjFnPbKRhOvX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="3wVfO-NTYYw" />

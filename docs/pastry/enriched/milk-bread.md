@@ -7,9 +7,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import BakingStep from "@site/src/components/BakingStep";
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lD7a8wfJeWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="lD7a8wfJeWU" />
 
 ## Yudane
 
@@ -89,7 +89,7 @@ Yudane 20% of the bread:
 1. Boule each part and leave to rest for 15 minutes.
 1. Laminate and shape like a batard. See [video](https://youtu.be/tc3coiL36Cg?t=246).
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/tc3coiL36Cg?start=246" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="tc3coiL36Cg" />
    </div>
 1. Oil the sides of the mold (ideally 11x22cm).
 1. Put the rolls in the mold and cover.

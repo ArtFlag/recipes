@@ -61,6 +61,6 @@ Pour un moule de **24cm** de diametre.
 1. Reserver au frigo.
 1. Sucre en poudre avant de servir.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EFsZcT62uXU?si=oix9lN8-qIbLOmK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="EFsZcT62uXU" />

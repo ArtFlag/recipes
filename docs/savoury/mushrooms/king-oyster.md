@@ -24,6 +24,6 @@ tags: ["american", "mushroom", "sandwich"]
 1. When the mushrooms are done, remove from the oven and set aside.
 1. If you're making sandwiches, get your pan hot again. Butter (vegan) each side of your squishy buns and place them butter side down in the hot pan. Keep an eye on them and remove once they've reached your desired level of toasting.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zntV9ffLgvk?si=_mcAYArWwLw1WS3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="zntV9ffLgvk" />

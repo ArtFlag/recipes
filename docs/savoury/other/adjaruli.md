@@ -3,6 +3,9 @@ title: Adjaruli khachapuri
 tags: ["georgian", "cheese", "pizza"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 import BakingStep from "@site/src/components/BakingStep";
 
 For 2 people.
@@ -20,7 +23,7 @@ For 2 people.
 - Water: 1/3 cup
 
 <div class="youtube-video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8ROCm1ZD92Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+  <YouTube id="8ROCm1ZD92Y" />
 </div>
 
 ## Dough

@@ -3,10 +3,13 @@ title: Tarte fine aux pommes
 tags: ["french", "dessert", "apple", "tart"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 import BakingStep from "@site/src/components/BakingStep";
 
 <div class="youtube-video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ClDvzqZ5VbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+  <YouTube id="ClDvzqZ5VbM" />
 </div>
 
 24-26cm:

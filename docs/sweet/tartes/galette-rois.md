@@ -5,9 +5,9 @@ tags: ["french", "dessert", "cake"]
 
 ## Recette normale
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kU9xXehA0_4?si=3LTJuqFZX6bniX98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="kU9xXehA0_4" />
 
 ### Pate feuilletée inversée
 
@@ -84,7 +84,7 @@ Tour 3 : double. Frigo 2 heures.
 
 Galette de 24cm.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1sY752loTo?start=1014" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<YouTube id="Y1sY752loTo" />
 
 - Oeuf: 1
 
@@ -149,6 +149,5 @@ Vers la fin de la cuission, preparez un sirop:
 
 ## Recette version pate feuilletee inversee
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R0xe5nfB0qE?si=uFYfJR9KRTqhNSoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+
+<YouTube id="R0xe5nfB0qE" />

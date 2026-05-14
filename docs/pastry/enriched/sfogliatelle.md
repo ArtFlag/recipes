@@ -130,6 +130,6 @@ import BakingStep from "@site/src/components/BakingStep";
 - **Alternative fat:** Substitute lard with high-quality shortening or butter
   (flavor will differ slightly)
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eS-ws63dwVc?si=6WseaOVO-b8wVBpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="eS-ws63dwVc" />

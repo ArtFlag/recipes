@@ -14,9 +14,9 @@ N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse
 **Example:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique...
 :::
 
-<div class="youtube-video-container">
-<iframe width="736" height="418" src="https://www.youtube.com/embed/tbdAq3B8Pzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="tbdAq3B8Pzs" />
 
 <Tabs>
 <TabItem value="large" label="10-12 croissants" groupId="group1" default>

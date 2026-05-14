@@ -5,13 +5,12 @@ import MyImg from "@site/static/img/brioche-feuilletee.png";
 import BakingStep from "@site/src/components/BakingStep";
 import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9rtAvEXfVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="g9rtAvEXfVc" />
 <br/>
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TBBikR5jK3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-</div>
+
+<YouTube id="TBBikR5jK3E" />
 
 ## Ingredients
 

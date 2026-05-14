@@ -2,6 +2,9 @@
 title: Pain au levain
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 | Ingredient | Proportion | Exemple pour 500g de farine |
 | :--------: | :--------- | :-------------------------- |
 |   Farine   | 100%       | 500g                        |
@@ -200,7 +203,7 @@ Pour 1 pain:
 
 1.  Faire 3 sets de tiré-plié. Un toutes les 30 minutes. [Video](https://youtu.be/hNzJLP61nnQ?t=271).
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hNzJLP61nnQ?start=271" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+    <YouTube id="hNzJLP61nnQ" />
 
 1.  A ce moment, la pate doit s'etirer jusqu'a devenir comme un rideau sans se dechirer. Si ce n'est pas le cas, refaire un tiré-plié ou 2.
 1.  Attendre que la pate ait atteint le volume souhaité dans le tableau au dessus.
@@ -209,7 +212,7 @@ Pour 1 pain:
     le plan de travail pour augmenter la tension. Saupoudrer de farine
     et couvrir et laisser reposer 20-30 minutes. [Video](https://youtu.be/KkulM98briI?t=529).
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/KkulM98briI?start=529" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+    <YouTube id="KkulM98briI" />
 
 1.  Prendre un banneton, mettre un linge dans le fond, bien saupoudrez
     de farine.
@@ -218,7 +221,7 @@ Pour 1 pain:
     court vers l'autre bord court. Racler la pâte sur le plan pour bien
     la fermer en dessous. [Video](https://youtu.be/hNzJLP61nnQ?t=629).
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hNzJLP61nnQ?start=629" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+    <YouTube id="hNzJLP61nnQ" />
 
 1.  Prendre la pâte et la placer à l'envers dans le banneton, soudure
     sur le dessus.

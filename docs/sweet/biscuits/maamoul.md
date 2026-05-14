@@ -90,6 +90,6 @@ import TabItem from '@theme/TabItem';
 
 <BakingStep temp="230" time="10-15min" fan preheat />
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gWlEw9m3RsU?si=iYVXvkcw1L31MmJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="gWlEw9m3RsU" />

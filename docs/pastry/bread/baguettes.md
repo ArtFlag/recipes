@@ -2,6 +2,9 @@
 title: Baguettes
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 import BakingStep from "@site/src/components/BakingStep";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -46,7 +49,7 @@ Reste:
 1. Apres petrissage, bulk, etc, retard au frigo, faire des patons de 250-300g.
 1. Façonner en baguettes.
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/WdROz5L2n5Y?start=330" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+   <YouTube id="WdROz5L2n5Y" />
    </div>
 
 1. Fermenter 45 min.

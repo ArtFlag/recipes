@@ -3,8 +3,11 @@ title: Crême pâtissière
 tags: ["french", "pastry"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 <div class="youtube-video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hmRTfsL9zWg?start=186" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+  <YouTube id="hmRTfsL9zWg" />
 </div>
 
 - Lait entier : 375g

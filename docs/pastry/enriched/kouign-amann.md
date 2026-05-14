@@ -3,6 +3,9 @@ title: Kouign-Amann
 tags: ["french", "viennoiserie"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 ## Détrempe
 
 - Farine: 333 Kg (T55 / 00 / riche en protéines)
@@ -30,7 +33,7 @@ Sucre: 130g
    au milieu et fermer le beurre dessus.
 
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=507" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="DFsS1JoTKLI" />
    </div>
 
 1. Prendre la détrempe et mettre le beurre au milieu et bien fermer de tous les cotés.
@@ -48,7 +51,7 @@ Sucre: 130g
 1. Replier les coin vers le centre a se toucher.
 1. Le placer dans le moule, soudures coté moule.
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFsS1JoTKLI?controls=0&amp;start=759" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="DFsS1JoTKLI" />
    </div>
 ### Roulé
 

@@ -3,6 +3,9 @@ title: Turkish eggs
 tags: ["turkish", "egg", "breakfast"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 - 1 cup Turkish or Greek yogurt, at room temperature
 - 1 clove garlic
 - ½ teaspoon freshly ground black pepper
@@ -50,7 +53,7 @@ Poached Eggs:
 1. Drizzle some jalapeño oil. Top with eggs and 1 to 2 spoonfuls of Aleppo butter. Sprinkle sea salt on top.
 
 <div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpuLqnK8ywg?si=I9QbPbjpKgtP3Uff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<YouTube id="wpuLqnK8ywg" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTN0flxZe7w?si=6KmosuR_TQ8oKngX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<YouTube id="cTN0flxZe7w" />
 </div>

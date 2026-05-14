@@ -77,6 +77,6 @@ Dough:
 - Salt: 4.5g 1.8%
 - Olive Oil: 15g 6.0%
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxgBEvkhnFg?si=abd-g-kmnUrcDCxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="FxgBEvkhnFg" />

@@ -3,7 +3,10 @@ title: Tarte suprême chocolat
 tags: ["french", "dessert", "tart", "chocolate"]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TcCIcE1hr8?start=33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="7TcCIcE1hr8" />
 
 ## Pâte
 

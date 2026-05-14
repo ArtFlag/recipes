@@ -53,9 +53,9 @@ Concerver 3-4 jours frigo. 2-3 mois au congélateur.
 
 Abaisser a 2-3mm et laisser reposer 1h avant utilisation. 2mm lève moins que 3mm.
 
-<div class="youtube-video-container">
-<iframe  width="736" height="418" src="https://www.youtube.com/embed/rcSOGffhU0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="rcSOGffhU0Y" />
 
 ## Pate feuilletée inversée
 

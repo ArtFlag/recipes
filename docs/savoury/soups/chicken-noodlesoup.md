@@ -63,6 +63,6 @@ For the soup:
 1. Simmer, stirring occasionally, until the pasta is as cooked as you like it, 10 to 15 minutes.
 1. Stir in the herbs, then season to taste with salt and pepper.
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cR36DqjOvig?si=nMkXBETVagCZjb_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="cR36DqjOvig" />

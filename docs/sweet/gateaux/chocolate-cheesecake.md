@@ -25,6 +25,6 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Pour mixture in the mold through a strainer.
 1. <BakingStep temp="170" time="30-35" preheat />
 
-<div class="youtube-video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rp7zgw1DLhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-</div>
+import YouTube from '@site/src/components/YouTube'
+
+<YouTube id="rp7zgw1DLhM" />

@@ -3,6 +3,9 @@ title: Tiramisu
 tags: ["italian", "dessert", "coffee"]
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 ## Biscuits cuillères
 
 Un 40 aine:
@@ -49,4 +52,4 @@ Un 40 aine:
 
 Avant de servir, saupoudrer généreusement de cacao. Si potiron, saupoudrer plus legerement d'un melange cacao/canelle (1:1 ou 1:2).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1AIdNFscBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<YouTube id="n1AIdNFscBU" />

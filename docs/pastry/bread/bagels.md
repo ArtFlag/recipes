@@ -2,6 +2,9 @@
 title: Bagels
 ---
 
+
+import YouTube from '@site/src/components/YouTube'
+
 Yields: 8 to 12 pieces.
 
 Dough:
@@ -40,7 +43,7 @@ or
    hole until it's about 3.5cm to 5cm in diameter.
 
    <div class="youtube-video-container">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/W8j-ZUp7KD0?start=254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+   <YouTube id="W8j-ZUp7KD0" />
    </div>
 
 1. Place six bagels on each of the baking sheets.
