@@ -29,6 +29,11 @@ jobs:
         with:
           cmd: install
 
+      - name: Typecheck
+        uses: borales/actions-yarn@v5
+        with:
+          cmd: typecheck
+
       - name: Build docs
         uses: borales/actions-yarn@v5
         with:
