@@ -22,26 +22,22 @@ const config: Config = {
         {
           label: 'Bread',
           position: 'left',
-          type: 'doc',
-          docId: '/category/bread',
+          to: '/pastry',
         },
         {
           label: 'Sweet',
           position: 'left',
-          type: 'doc',
-          docId: '/category/biscuits',
+          to: '/sweet',
         },
         {
           label: 'Savoury',
           position: 'left',
-          type: 'doc',
-          docId: '/category/other',
+          to: '/savoury',
         },
         {
           label: 'Cocktails',
           position: 'left',
-          type: 'doc',
-          docId: '/category/other-1',
+          to: '/cocktails',
         },
         {
           label: 'Tags',
