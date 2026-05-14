@@ -29,3 +29,15 @@ Environ **60g/L** ou **1:16**
 1. Attendre environ 4-5 minutes.
 1. Rabaissez doucement le piston.
 1. Servez dans des tasses préalablement réchauffées avec de l'eau chaude.
+
+## French Press Latte
+
+Ratio **1:5** café:eau
+
+| Contenant   | Cafe | Eau  | Lait        |
+|-------------|------|------|-------------|
+| Cafetière   | 20g  | 100g | 200ml       |
+
+1. Préparer le café normalement (voir Cafetière a piston ci-dessus).
+1. Chauffer et mousser 1.5 cup de lait.
+1. Verser le café dans une tasse, puis ajouter le lait chaud.
