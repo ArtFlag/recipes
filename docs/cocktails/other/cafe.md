@@ -34,9 +34,9 @@ Environ **60g/L** ou **1:16**
 
 Ratio **~1:5** café:eau
 
-| Contenant   | Cafe | Eau  | Lait        |
-|-------------|------|------|-------------|
-| Cafetière   | 20g  | 90g  | 170ml       |
+| Contenant | Cafe | Eau  | Lait  |
+|-----------|------|------|-------|
+| Cafetière | 15g  | 120g | 150ml |
 
 1. Préparer le café normalement (voir Cafetière a piston ci-dessus).
 1. Chauffer et mousser 1.5 cup de lait.
