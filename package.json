@@ -13,7 +13,7 @@
     "upgrade": "yarn set version latest && yarn up @docusaurus/core@latest @docusaurus/plugin-client-redirects@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^2.0.1",
+    "@cmfcmf/docusaurus-search-local": "patch:@cmfcmf/docusaurus-search-local@npm%3A2.0.1#~/.yarn/patches/@cmfcmf-docusaurus-search-local-npm-2.0.1-94bef15203.patch",
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/plugin-client-redirects": "^3.10.1",
     "@docusaurus/preset-classic": "^3.10.1",
