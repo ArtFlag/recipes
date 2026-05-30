@@ -13,13 +13,13 @@ import BakingStep from "@site/src/components/BakingStep";
 - Butter: 120g
 - Eggs: 2, room temperature
 - All purpose flour: 500g
-- Sugar: 75g
+- Sugar: 80g
 
 ## Rugelach Filling
 
 - 150 g dark chocolate
-- 80 g butter
-- 60 g sugar
+- 70 g butter
+- 20 g sugar
 - 20 g cocoa powder
 - 2 g cinnamon (about 1 tsp)
 - 1 g salt
