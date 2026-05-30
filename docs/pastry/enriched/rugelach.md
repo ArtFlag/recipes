@@ -7,7 +7,7 @@ import BakingStep from "@site/src/components/BakingStep";
 
 ## Rugelach Dough
 
-- Milk: 180 ml, room temperature
+- Milk: 150 ml, room temperature
 - Salt: 4g
 - Instant dry yeast: 7g (1 packet)
 - Butter: 120g
