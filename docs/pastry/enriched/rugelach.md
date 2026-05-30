@@ -17,11 +17,12 @@ import BakingStep from "@site/src/components/BakingStep";
 
 ## Rugelach Filling
 
-- Cocoa powder: 75g
-- Sugar (brown): 75g
-- Cinnamon: 1 tsp
-- Green cardamom powder: 1 tsp
-- Butter: 50g, melted
+- 150 g dark chocolate
+- 80 g butter
+- 60 g sugar
+- 20 g cocoa powder
+- 2 g cinnamon (about 1 tsp)
+- 1 g salt
 
 ## Egg Wash
 
@@ -41,8 +42,8 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Mix dough ingredients and knead until ready.
 1. Let rest until doubled in size.
 1. Flatten into a rectangle, 30x20. Long side near you.
-1. Spread chocolate filling. Leave a bit of empty space on the lower long side.
-1. Fold the dough over itself, long side to long side.
+1. Spread room-temp chocolate filling. Leave a bit of empty space on the lower long side.
+1. Fold the dough over the half, then the chocolate face onto the other half.
 1. Flour as needed and roll out the dough length-wise to 15-40cm or so.
    You should see the filling through it.
 1. Cut into long triangle, 6-7cm at the base.
