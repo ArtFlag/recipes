@@ -39,7 +39,7 @@ Crisp, buttery, melt-in-your-mouth slice-and-bake cookies with umami depth from 
 
 1. Preheat oven to 350°F (175°C). Line a light-colored aluminum baking sheet with parchment paper.
 1. Slice chilled logs into 10 mm discs; arrange on the prepared sheet.
-1. Bake 20–22 minutes until edges are lightly golden.
+1. Bake 15-17 minutes until edges are lightly golden.
 1. Cool 5 minutes on the sheet, then transfer to a wire rack.
 
 ## Notes
