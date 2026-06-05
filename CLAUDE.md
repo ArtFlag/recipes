@@ -25,7 +25,7 @@ This is a [Docusaurus](https://docusaurus.io/) site that serves as a personal re
 
 ## Recipe Content Conventions
 
-Each recipe file must have frontmatter with `title` and `tags`. Tags must include at least one for the **country of origin** and one for the **dish type**.
+Each recipe file must have frontmatter with `title` and `tags`. Tags must include at least one for the **country of origin** and one for the **dish type**. All units in metric/gram/liter system.
 
 ```md
 ---
