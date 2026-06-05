@@ -10,7 +10,7 @@ Brown butter + extra ripe bananas + crème fraîche. Denser, more flavourful, st
 - Bananes très mûres (pelées): 350g (~4 bananes)
 - Beurre noisette: 115g
 - Sucre roux: 150g
-- Crème fraîche épaisse: 80g
+- Crème fraîche épaisse: 70g
 - Œufs: 2
 - Extrait de vanille: 1 c.à.c
 - Farine T55: 220g
