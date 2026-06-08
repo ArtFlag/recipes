@@ -54,18 +54,9 @@ Exceeding smoke point carbonizes the oil, which we don't want because it leads t
 
 [Video](https://www.youtube.com/watch?v=By5_xL-BPwY)
 
-## Sweet potatoes — 2-step Japanese method
+## Sweet potatoes
 
 Produces an intensely sweet result by activating amylase enzymes before finishing.
 
 1. **Step 1 — enzyme activation:** Oven at 160 °C for 80 minutes. Amylase converts starches into maltose, dramatically increasing sweetness.
 1. **Step 2 — finish:** Raise oven to 230 °C for 10 minutes. The sugars caramelize and the flesh turns custard-soft.
-
-## Steps to clean pipes
-
-1. Boil Water.
-1. Add Baking Soda: Pour about 1/2 cup of baking soda down the drain.
-1. Add Vinegar: Follow with 1 cup of vinegar. You will see fizzing as the two react.
-1. Cover the Drain: Place a drain plug or cloth over the drain to keep the reaction concentrated.
-1. Wait: Let the mixture sit for 10-15 minutes.
-1. Flush with Hot Water.

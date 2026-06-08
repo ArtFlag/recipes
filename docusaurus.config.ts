@@ -69,6 +69,10 @@ const config: Config = {
               href: '/recipes/notes',
             },
             {
+              label: 'Household',
+              href: '/recipes/household',
+            },
+            {
               label: 'Sauces',
               href: '/recipes/sauces',
             },
