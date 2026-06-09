@@ -2,23 +2,10 @@
 title: Pâte feuilletée
 tags: ["pâte"]
 ---
-import MyImg from "@site/static/img/tour-simple.png";
-
-| Ingrédient               | Rôle principal                                          | Dosage recommandé              | Remarques                                                  |
-| ------------------------ | ------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------- |
-| Farine                   | Base de la pâte, structure du gluten                    | 100 % (référence)              | Idéal : gruau (12–13 % protéines) ; ou mélange T45 + T65   |
-| Eau                      | Hydratation, formation du gluten, contrôle température  | Variable (42–50 % hydratation) | Ajuster selon conditions et proportion lait                |
-| Lait                     | Moelleux, couleur dorée, goût riche                     | Max. 20 %                      | Peut être remplacé en partie par poudre de lait            |
-| Poudre de lait           | Intensifie le goût sans ajouter de liquide              | 2–4 %                          | À utiliser en complément ou substitution partielle au lait |
-| Sucre                    | Nourrit la levure, coloration, goût                     | 8–12 %                         | Jusqu’à 20 % peut être remplacé par miel                   |
-| Miel                     | Douceur, conservation, arômes                           | ≤ 20 % du sucre                | Améliore la conservation et la couleur                     |
-| Sel                      | Régule fermentation, renforce gluten, équilibre saveurs | 2 %                            | Trop peu : pâte faible ; trop : fermentation ralentie      |
-| Levure fraîche           | Fermentation, volume, légèreté                          | 2–2,5 %                        | Cassante, non collante = qualité                           |
-| Levure sèche instantanée | Même rôle                                               | ÷2 par rapport à la fraîche    | Ex. 30 g fraîche = 15 g sèche                              |
-| Beurre d’incorporation   | Souplesse, saveur, texture                              | 5–10 %                         | À ajouter dans la détrempe                                 |
-| Beurre de tourage        | Feuilletage, croustillant                               | 30–50 %                        | Utiliser un beurre AOP 82–86 % MG ou beurre sec 84 %       |
 
 ## Détrempe
+
+Pour 2 grande pates feuilletées:
 
 - Farine type 55: 500g
 - Eau temperée: 250g
@@ -30,9 +17,13 @@ Tourage:
 
 - Beurre de tourage (84% mat grasse): Moitié du poids de l'eau+farine: 370g-375g
 
-> **Note**: Ajouter 4–8 % du poids du beurre en farine pour faciliter le travail du beurre (~15g–30g pour 370g de beurre).
+:::note
+Ajouter 4–8 % du poids du beurre en farine pour faciliter le travail du beurre (~15g–30g pour 370g de beurre).
+:::
 
 ## Préparation
+
+3 tours simple.
 
 Preparation: 2 jours. Au moins 5 tours simples.
 
@@ -44,10 +35,8 @@ Preparation: 2 jours. Au moins 5 tours simples.
 1. Quand le beurre a la meme texture que la pate, mettre le beurre milieu et l'enfermer dans la pate.
 1. Etaler la pate sur 3-4mm dans le sense du raccord.
 1. Tour simple.
-   <img src={MyImg}/>
-
 1. Recommencer pour le 2eme tour simple. Frigo 30min-2h.
-1. Recommencer pour rajouter 3 tours.
+1. Recommencer pour rajouter le 3eme tour simple.
 
 Concerver 3-4 jours frigo. 2-3 mois au congélateur.
 
@@ -70,6 +59,25 @@ Détrempe:
 - Farine : 280 g
 - Eau : 120 g
 - Sel : 12 g
+
+
+## Table
+
+
+| Ingrédient               | Rôle principal                                          | Dosage recommandé              | Remarques                                                  |
+| ------------------------ | ------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------- |
+| Farine                   | Base de la pâte, structure du gluten                    | 100 % (référence)              | Idéal : gruau (12–13 % protéines) ; ou mélange T45 + T65   |
+| Eau                      | Hydratation, formation du gluten, contrôle température  | Variable (42–50 % hydratation) | Ajuster selon conditions et proportion lait                |
+| Lait                     | Moelleux, couleur dorée, goût riche                     | Max. 20 %                      | Peut être remplacé en partie par poudre de lait            |
+| Poudre de lait           | Intensifie le goût sans ajouter de liquide              | 2–4 %                          | À utiliser en complément ou substitution partielle au lait |
+| Sucre                    | Nourrit la levure, coloration, goût                     | 8–12 %                         | Jusqu’à 20 % peut être remplacé par miel                   |
+| Miel                     | Douceur, conservation, arômes                           | ≤ 20 % du sucre                | Améliore la conservation et la couleur                     |
+| Sel                      | Régule fermentation, renforce gluten, équilibre saveurs | 2 %                            | Trop peu : pâte faible ; trop : fermentation ralentie      |
+| Levure fraîche           | Fermentation, volume, légèreté                          | 2–2,5 %                        | Cassante, non collante = qualité                           |
+| Levure sèche instantanée | Même rôle                                               | ÷2 par rapport à la fraîche    | Ex. 30 g fraîche = 15 g sèche                              |
+| Beurre d’incorporation   | Souplesse, saveur, texture                              | 5–10 %                         | À ajouter dans la détrempe                                 |
+| Beurre de tourage        | Feuilletage, croustillant                               | 30–50 %                        | Utiliser un beurre AOP 82–86 % MG ou beurre sec 84 %       |
+
 
 - [Pate sablée](/recipes/sweet/pates/pate-sablee)
 - [Pate sucrée](/recipes/sweet/pates/pate-sucree)
