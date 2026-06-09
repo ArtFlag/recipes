@@ -30,6 +30,8 @@ Tourage:
 
 - Beurre de tourage (84% mat grasse): Moitié du poids de l'eau+farine: 370g-375g
 
+> **Note**: Ajouter 4–8 % du poids du beurre en farine pour faciliter le travail du beurre (~15g–30g pour 370g de beurre).
+
 ## Préparation
 
 Preparation: 2 jours. Au moins 5 tours simples.
