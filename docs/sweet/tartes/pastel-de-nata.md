@@ -46,11 +46,11 @@ ou voir [pate feuilletée](../pates/pate-feuilletee.md)
 
 **Montage**
 
-1. Étaler la pâte en rectangle de 3mm d'épaisseur. Rouler serré en boudin de 30cm.
+1. Étaler la pâte en rectangle de 3mm d'épaisseur. Rouler serré en boudin de 24cm de long.
 1. Découper 12 tronçons d'environ 2cm. Beurrer généreusement un moule à muffins.
 1. Poser chaque tronçon à plat dans une alvéole. Avec les pouces mouillés, étaler la pâte du centre vers les bords jusqu'à former un fond et des parois de 2-3mm.
 1. Remplir aux 3/4 avec la crème froide.
-1. <BakingStep temp="260" time="12-15 minutes" preheat />
+1. <BakingStep temp="260" time="14-17 minutes" preheat />
 
 Les pastéis doivent ressortir avec des taches brunes et noires en surface — c'est caractéristique. La crème doit encore légèrement trembler au centre à la sortie du four.
 
