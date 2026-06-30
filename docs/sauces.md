@@ -17,6 +17,18 @@ Keep in the refrigerator.
 Use 1/3 or 1/4 of this batch size for any typical stir-fry dish, and thicken
 with a cornstarch slurry in the final stages of cooking.
 
+## Stir fry sauce
+
+- Salt: 1/2 tsp
+- Sugar: 1 tsp
+- Cooking wine: 1 tbsp
+- Chicken bouillon powder: 1 tsp
+- Cornstarch: 2 tsp
+- Water: 2 tbsp
+- Oyster sauce: 1 tsp
+
+Mix all ingredients together. Add to the wok at the end of cooking.
+
 ## Marsala mushroom sauce
 
 - Marsala: 250g
