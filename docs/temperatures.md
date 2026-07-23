@@ -23,3 +23,19 @@ title: Temperatures
 ## Ground meats, burgers, meat loaf, sausages except chicken/turkey
 
 71c
+
+## Tenderizing Meat with Baking Soda
+
+Using baking soda (sodium bicarbonate) raises the pH on the meat's surface, making it more difficult for the proteins to bond tightly. This keeps the meat tender and moist when cooked, preventing it from turning dry or rubbery.
+
+### Ground Meat Example (Turkey, Beef, Pork)
+
+This technique is especially useful for ground turkey (400g), which can easily become dry.
+
+- **Ratio**: **1/2 tsp of baking soda** dissolved in **1 tbsp of water** for **400g** of ground turkey.
+- **Steps**:
+  1. Dissolve the baking soda in water.
+  1. Gently mix the solution into the ground meat.
+  1. Let it rest at room temperature for **15 to 20 minutes**.
+  1. Cook as usual (no need to rinse).
+
