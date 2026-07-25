@@ -2,6 +2,8 @@
 title: Sauces
 ---
 
+import YouTube from '@site/src/components/YouTube'
+
 ## Stir fry brown sauce
 
 1. 1 tbsp dark soy sauce
@@ -28,6 +30,82 @@ with a cornstarch slurry in the final stages of cooking.
 - Oyster sauce: 1 tsp
 
 Mix all ingredients together. Add to the wok at the end of cooking.
+
+## Japanese sauces and dressings
+
+### Traditional teriyaki sauce
+
+*Usual use: A sweet-savory glaze for grilled chicken, beef, pork, tofu, or fish (especially salmon).*
+
+- Soy sauce: 1/2 cup (120ml)
+- Mirin: 1/2 cup (120ml)
+- Sake: 1/2 cup (120ml)
+- Sugar: 1.5 tbsp (22g)
+
+1. Combine the soy sauce, mirin, sake, and sugar in a small saucepan.
+1. Bring the mixture to a boil over medium-high heat, stirring until the sugar is fully dissolved.
+1. Reduce the heat to low and simmer for 10-15 minutes, or until the sauce reduces by one-third and becomes slightly syrupy.
+1. Let the sauce cool. Store in an airtight container in the refrigerator.
+
+### Wafu dressing
+
+*Usual use: A refreshing salad dressing for fresh greens, shredded cabbage, tomatoes, or cold tofu.*
+
+- Soy sauce: 3 tbsp (45ml)
+- Rice vinegar: 3 tbsp (45ml)
+- Neutral vegetable oil: 1/4 cup (60ml)
+- Sesame oil: 1 tsp (5ml)
+- Grated onion: 2 tbsp (30g)
+- Sugar: 1 tbsp (12g)
+- Toasted sesame seeds: 1 tsp (3g)
+
+1. Grate the onion using a fine grater.
+1. Combine the grated onion, rice vinegar, soy sauce, vegetable oil, sugar, sesame oil, and toasted sesame seeds in a small bowl or jar.
+1. Whisk vigorously (or seal the jar and shake well) until the sugar is fully dissolved and the mixture is emulsified.
+1. Store in an airtight container in the refrigerator for up to 1 week. Shake well before serving.
+
+### Basic wafu dressing
+
+*Usual use: A simple, quick salad dressing for everyday green salads.*
+
+- Soy sauce: 2 tbsp
+- Rice vinegar: 2 tbsp
+- Neutral vegetable oil: 2 tbsp
+- Toasted white sesame seeds: 1 tbsp
+- Sugar: 1 tsp
+
+1. Combine the toasted white sesame seeds, neutral vegetable oil, sugar, rice vinegar, and soy sauce in a small bowl or jar.
+1. Whisk vigorously (or seal the jar and shake well) until the sugar is fully dissolved and the mixture is emulsified.
+1. Store in an airtight container in the refrigerator. Shake well before serving.
+
+### Chuka dressing
+
+*Usual use: A sesame-soy dressing for seaweed salads, glass noodles (harusame), sliced cucumbers, or cold noodle dishes.*
+
+- Soy sauce: 1.5 tbsp
+- Rice vinegar: 1.5 tbsp
+- Toasted sesame oil: 1 tbsp
+- Toasted ground sesame seeds: 1 tbsp
+- Sugar: 1 tsp
+
+1. Combine the soy sauce, rice vinegar, toasted sesame oil, sugar, and toasted ground sesame seeds in a small bowl or jar.
+1. Whisk vigorously (or seal the jar and shake well) until the sugar is fully dissolved and the ingredients are well emulsified.
+1. Store in an airtight container in the refrigerator. Shake well before serving.
+
+### Miso dressing
+
+*Usual use: A rich dressing or dip for sturdy greens, steamed/roasted vegetables, tofu, or root vegetables.*
+
+- Water: 1 tbsp
+- Extra virgin olive oil: 1 tbsp
+- Rice vinegar: 1 tbsp
+- Miso: 2 tbsp
+- Sugar: 1/2 tsp
+- Ground black pepper: 1/8 tsp
+
+1. Combine the water, extra virgin olive oil, rice vinegar, miso, sugar, and ground black pepper in a small bowl or jar.
+1. Whisk vigorously (or seal the jar and shake well) until the miso is fully dissolved and the mixture is emulsified.
+1. Store in an airtight container in the refrigerator for up to 3 days. Shake well before serving.
 
 ## Marsala mushroom sauce
 
@@ -132,4 +210,4 @@ Mix 2 tablespoons of tahini, 2.5 tablespoons of honey, 2 teaspoons of cocoa.
 1. Once is looks like wet sand, slowly whisk in 1
    cup of warm stock (chicken, fish, vegetable). Always on low heat.
 
-https://www.youtube.com/shorts/ERK4NhO4Zug
+<YouTube id="ERK4NhO4Zug" />
