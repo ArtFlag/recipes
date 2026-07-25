@@ -107,6 +107,57 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 1. Whisk vigorously (or seal the jar and shake well) until the miso is fully dissolved and the mixture is emulsified.
 1. Store in an airtight container in the refrigerator for up to 3 days. Shake well before serving.
 
+## Korean sauces and dressings
+
+### Ssamjang (쌈장)
+
+*Usual use: A thick, savory barbecue dipping sauce for grilled meats (wrapped in lettuce leaves) and dipping fresh vegetables.*
+
+- Toasted sesame oil: 1 tbsp (15ml)
+- Honey or corn syrup: 1 tbsp (15ml)
+- Doenjang (fermented soybean paste): 2 tbsp (30g)
+- Gochujang (Korean chili paste): 1 tbsp (15g)
+- Minced garlic: 1 tsp (5g)
+- Chopped scallion: 1 tbsp (10g)
+- Toasted sesame seeds: 1 tsp (3g)
+
+1. Combine the toasted sesame oil, honey, doenjang, gochujang, and minced garlic in a small bowl.
+1. Mix thoroughly until the mixture is uniform and smooth.
+1. Stir in the chopped scallion and toasted sesame seeds just before serving.
+
+### Yangnyeom sauce (Korean chicken glaze)
+
+*Usual use: A sweet, sticky, and spicy glaze used to coat Korean fried chicken, glazed meatballs, or barbecue meats.*
+
+- Rice syrup or honey: 3 tbsp (45ml)
+- Soy sauce: 2 tbsp (30ml)
+- Mirin: 2 tbsp (30ml)
+- Toasted sesame oil: 1 tbsp (15ml)
+- Gochujang (Korean chili paste): 3 tbsp (45g)
+- Minced garlic: 1 tbsp (15g)
+- Grated ginger: 1 tsp (5g)
+- Brown sugar: 1 tbsp (12g)
+
+1. Combine all the liquids (rice syrup, soy sauce, mirin, sesame oil) and Gochujang in a small saucepan over medium heat.
+1. Whisk in the minced garlic, grated ginger, and brown sugar.
+1. Bring the mixture to a gentle simmer, stirring constantly, for about 2-3 minutes until the sugar dissolves and the glaze thickens slightly.
+1. Coat fried chicken or proteins immediately, or store in the refrigerator.
+
+### Chogochujang (초고추장)
+
+*Usual use: A sweet, sour, and spicy dipping sauce commonly served with blanched broccoli, seafood (octopus, raw fish), or dumplings.*
+
+- Rice vinegar: 2 tbsp (30ml)
+- Honey: 1 tbsp (15ml)
+- Toasted sesame oil: 1/2 tsp (5ml)
+- Gochujang (Korean chili paste): 3 tbsp (45g)
+- Sugar: 1 tbsp (12g)
+- Toasted sesame seeds: 1 tsp (3g)
+
+1. Combine the rice vinegar, honey, and toasted sesame oil in a small bowl.
+1. Stir in the Gochujang and sugar, whisking until the sugar is fully dissolved and the sauce is smooth.
+1. Sprinkle toasted sesame seeds on top before serving. Store in the refrigerator for up to 2 weeks.
+
 ## Marsala mushroom sauce
 
 - Marsala: 250g
