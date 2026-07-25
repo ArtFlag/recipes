@@ -158,6 +158,24 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 1. Stir in the Gochujang and sugar, whisking until the sugar is fully dissolved and the sauce is smooth.
 1. Sprinkle toasted sesame seeds on top before serving. Store in the refrigerator for up to 2 weeks.
 
+### Cho-ganjang (Korean pancake dipping sauce / 초간장)
+
+*Usual use: A tangy, savory dipping sauce for savory pancakes (pajeon, kimchijeon/kimchi pancakes), dumplings, or fried snacks.*
+
+- Soy sauce: 2 tbsp (30ml)
+- Rice vinegar: 1 tbsp (15ml)
+- Water: 1 tbsp (15ml)
+- Sugar: 1/2 tsp (2g)
+- Toasted sesame oil: 1/2 tsp (2ml)
+- Minced garlic: 1/2 tsp (2g)
+- Chopped scallion: 1 tbsp (10g)
+- Toasted sesame seeds: 1/2 tsp (1g)
+- Gochugaru (Korean chili flakes): 1/2 tsp (1g)
+
+1. Combine the soy sauce, rice vinegar, water, and sugar in a small bowl. Stir until the sugar is completely dissolved.
+1. Add the toasted sesame oil, minced garlic, chopped scallion, toasted sesame seeds, and gochugaru.
+1. Whisk together until well combined. Serve immediately alongside fresh, hot kimchi pancakes.
+
 ## Marsala mushroom sauce
 
 - Marsala: 250g
