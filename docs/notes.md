@@ -28,14 +28,22 @@ import YouTube from '@site/src/components/YouTube'
 1. Add stock reduce further.
 1. Add roux to reduction.
 
+:::note[Example Ratio]
+To thicken **1 cup (240ml)** of stock to a rich, medium-bodied consistency:
+- **Roux:** Use 1 tablespoon (15g) of butter and 1 tablespoon (15g) of flour.
+- **Method:** Whisk the cooled roux directly into hot, simmering stock, then simmer for at least 2–3 minutes to cook out any raw flour taste.
+:::
+
 ## Reinforce and reduce chicken stock
 
-1. Saute or rost a mirepoix.
-1. Add chicken stock.
-1. Add herbs.
-1. Bring to a boil.
-1. Reduce by half.
-1. Strain.
+This technique is used to intensify the flavor and body of a weak or store-bought stock by infusing it with fresh aromatics and reducing its water content.
+
+1. **Aromatics:** Sauté or roast a mirepoix (onions, carrots, celery) until deeply caramelized to build a fond and robust flavor base.
+1. **Combine:** Pour in the chicken stock and deglaze the pan.
+1. **Infuse:** Add fresh herbs (e.g., thyme, parsley stems, bay leaf) and black peppercorns.
+1. **Simmer:** Bring the liquid to a boil, then immediately reduce the heat to a gentle simmer.
+1. **Reduce:** Let it simmer uncovered until the volume is reduced by half. This concentrates both the flavor and the gelatin.
+1. **Strain:** Pass the reinforced stock through a fine-mesh sieve (chinois) and discard the solids.
 
 ## Reference
 

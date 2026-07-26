@@ -80,6 +80,10 @@ const config: Config = {
               label: 'Grill',
               href: '/recipes/grill',
             },
+            {
+              label: 'Meats',
+              href: '/recipes/meats',
+            },
           ],
         },
         {
