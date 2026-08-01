@@ -41,3 +41,12 @@ Ratio **~1:5** café:eau
 1. Préparer le café normalement (voir Cafetière a piston ci-dessus).
 1. Chauffer et mousser 1.5 cup de lait.
 1. Verser le café dans une tasse, puis ajouter le lait chaud.
+
+## Examples
+
+### Small glass - cafe au lait
+
+- 15 g coffee grounds
+- 90 g water
+
+And add 80 g milk
