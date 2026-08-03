@@ -100,5 +100,4 @@ Recommended tomato: san marzano.
 1. Let rest 15 minutes and rework the gluten until the dough is smooth.
 1. Add a bit of olive oil on top and leave covered for 1 hour at room temp.
 
-
 [Video](https://www.youtube.com/watch?v=OjsCEJ8CWlg)

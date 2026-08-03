@@ -35,7 +35,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Traditional teriyaki sauce
 
-*Usual use: A sweet-savory glaze for grilled chicken, beef, pork, tofu, or fish (especially salmon).*
+_Usual use: A sweet-savory glaze for grilled chicken, beef, pork, tofu, or fish (especially salmon)._
 
 - Soy sauce: 1/2 cup (120ml)
 - Mirin: 1/2 cup (120ml)
@@ -49,7 +49,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Wafu dressing
 
-*Usual use: A refreshing salad dressing for fresh greens, shredded cabbage, tomatoes, or cold tofu.*
+_Usual use: A refreshing salad dressing for fresh greens, shredded cabbage, tomatoes, or cold tofu._
 
 - Soy sauce: 3 tbsp (45ml)
 - Rice vinegar: 3 tbsp (45ml)
@@ -66,7 +66,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Basic wafu dressing
 
-*Usual use: A simple, quick salad dressing for everyday green salads.*
+_Usual use: A simple, quick salad dressing for everyday green salads._
 
 - Soy sauce: 2 tbsp
 - Rice vinegar: 2 tbsp
@@ -80,7 +80,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Chuka dressing
 
-*Usual use: A sesame-soy dressing for seaweed salads, glass noodles (harusame), sliced cucumbers, or cold noodle dishes.*
+_Usual use: A sesame-soy dressing for seaweed salads, glass noodles (harusame), sliced cucumbers, or cold noodle dishes._
 
 - Soy sauce: 1.5 tbsp
 - Rice vinegar: 1.5 tbsp
@@ -94,7 +94,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Miso dressing
 
-*Usual use: A rich dressing or dip for sturdy greens, steamed/roasted vegetables, tofu, or root vegetables.*
+_Usual use: A rich dressing or dip for sturdy greens, steamed/roasted vegetables, tofu, or root vegetables._
 
 - Water: 1 tbsp
 - Extra virgin olive oil: 1 tbsp
@@ -111,7 +111,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Ssamjang (쌈장)
 
-*Usual use: A thick, savory barbecue dipping sauce for grilled meats (wrapped in lettuce leaves) and dipping fresh vegetables.*
+_Usual use: A thick, savory barbecue dipping sauce for grilled meats (wrapped in lettuce leaves) and dipping fresh vegetables._
 
 - Toasted sesame oil: 1 tbsp (15ml)
 - Honey or corn syrup: 1 tbsp (15ml)
@@ -127,7 +127,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Yangnyeom sauce (Korean chicken glaze)
 
-*Usual use: A sweet, sticky, and spicy glaze used to coat Korean fried chicken, glazed meatballs, or barbecue meats.*
+_Usual use: A sweet, sticky, and spicy glaze used to coat Korean fried chicken, glazed meatballs, or barbecue meats._
 
 - Rice syrup or honey: 3 tbsp (45ml)
 - Soy sauce: 2 tbsp (30ml)
@@ -145,7 +145,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Chogochujang (초고추장)
 
-*Usual use: A sweet, sour, and spicy dipping sauce commonly served with blanched broccoli, seafood (octopus, raw fish), or dumplings.*
+_Usual use: A sweet, sour, and spicy dipping sauce commonly served with blanched broccoli, seafood (octopus, raw fish), or dumplings._
 
 - Rice vinegar: 2 tbsp (30ml)
 - Honey: 1 tbsp (15ml)
@@ -160,7 +160,7 @@ Mix all ingredients together. Add to the wok at the end of cooking.
 
 ### Cho-ganjang (Korean pancake dipping sauce / 초간장)
 
-*Usual use: A tangy, savory dipping sauce for savory pancakes (pajeon, kimchijeon/kimchi pancakes), dumplings, or fried snacks.*
+_Usual use: A tangy, savory dipping sauce for savory pancakes (pajeon, kimchijeon/kimchi pancakes), dumplings, or fried snacks._
 
 - Soy sauce: 2 tbsp (30ml)
 - Rice vinegar: 1 tbsp (15ml)

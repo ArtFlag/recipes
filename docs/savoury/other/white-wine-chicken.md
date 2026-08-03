@@ -16,7 +16,6 @@ tags: ["chicken", "white wine", "sauce", "french"]
 - Mustard: 1 tsp
 - Butter: 2 tbsp
 
-
 1. Season the chicken thighs with salt and black pepper on both sides.
 1. Heat olive oil in a large skillet over medium-high heat. Add the chicken thighs, skin-side down, and cook until the skin is golden brown and crispy, about 5-7 minutes. Flip and cook for another 5 minutes. Remove the chicken from the skillet and set aside.
 1. In the same skillet, add the minced garlic and chopped onion. Sauté until the onion is translucent and fragrant, about 3-4 minutes.

@@ -23,5 +23,5 @@ tags: ["french", "dessert"]
 7.  Testez avec la pointe d'un couteau.
 8.  Laissez refroidir avant de servir.
 
-*Un plus* : Mélangez sucre en poudre et sucre glace par moitié et ce
+_Un plus_ : Mélangez sucre en poudre et sucre glace par moitié et ce
 sera meilleur !

@@ -13,7 +13,6 @@ tags: ["french", "chicken", "dinner", "vinegar"]
 - Tarragon
 - Butter: 1 tbps
 
-
 1. Brown thighs skin down until golden.
 1. Set chicken aside, keep some fat in the pan and brown shallots and garlic
 1. Add chicken broth and white wine and red wine.

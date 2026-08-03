@@ -45,7 +45,6 @@ import YouTube from '@site/src/components/YouTube'
 1. Let rest until the dough has tripled in volume since step 4 (4-5 hours).
 1. The dough must triple ultimately.
 
-
 1. When it has fermented enough, dump it on a floured counter top and fold it like a tube.
    <div class="youtube-video-container">
    <YouTube id="Uxe0BSWSZeU" />

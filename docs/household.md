@@ -1,3 +1,4 @@
+# Household
 
 ## Steps to clean pipes
 
@@ -7,7 +8,6 @@
 1. Cover the Drain: Place a drain plug or cloth over the drain to keep the reaction concentrated.
 1. Wait: Let the mixture sit for 10-15 minutes.
 1. Flush with Hot Water.
-
 
 ## Laundry softener
 
@@ -26,12 +26,14 @@ Citric acid can be used as a fabric softener substitute because it helps neutral
 Do not put dry citric acid directly onto clothes.
 
 Benefits: 
+
 - Softens fabrics without coating fibers.
 - Helps remove detergent residue.
 - Reduces mineral buildup in hard-water areas.
 - Usually leaves towels more absorbent than conventional fabric softeners.
 
 Important Precautions:
+
 - Do not mix citric acid with chlorine bleach.
 - Avoid excessive concentrations, as highly acidic solutions may contribute to corrosion of some washing machine components over long periods.
 - If your washing machine manufacturer advises against acidic rinse additives, follow the manufacturer's guidance.

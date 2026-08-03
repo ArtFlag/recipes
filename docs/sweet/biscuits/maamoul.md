@@ -74,7 +74,6 @@ import TabItem from '@theme/TabItem';
 1. Open a dough ball, place filling in the center, and close it.
 1. Flatten slightly and press into a maamoul mold to shape or use a fork to create patterns.
 
-
 </TabItem>
 <TabItem value="Diamonds" label="Diamonds">
 
@@ -86,7 +85,6 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 </Tabs>
-
 
 <BakingStep temp="230" time="10-15min" fan preheat />
 

@@ -33,7 +33,6 @@ Poached Eggs:
 - 4 large eggs
 - 1 pinch sea salt
 
-
 1. Yogurt spread: Place yogurt in a medium bowl and grate in garlic; mix to combine. Season with pepper, salt, and cayenne. Add dill and mix thoroughly. Set aside at room temperature.
 
 1. Aleppo butter: Melt butter in a saucepan over medium heat; heat until bubbles begin to burst. Add chile flakes, paprika, and cumin. Stir until color is uniform. Turn off heat and let spices infuse.

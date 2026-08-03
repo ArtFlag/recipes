@@ -51,18 +51,18 @@ import YouTube from '@site/src/components/YouTube'
 ## Pate feuilletée inversée
 
 Beurre manié:
+
 - Beurre : 280 g
 - Farine : 120 g
 
 Détrempe:
+
 - Beurre : 100 g
 - Farine : 280 g
 - Eau : 120 g
 - Sel : 12 g
 
-
 ## Table
-
 
 | Ingrédient               | Rôle principal                                          | Dosage recommandé              | Remarques                                                  |
 | ------------------------ | ------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------- |
@@ -77,7 +77,6 @@ Détrempe:
 | Levure sèche instantanée | Même rôle                                               | ÷2 par rapport à la fraîche    | Ex. 30 g fraîche = 15 g sèche                              |
 | Beurre d’incorporation   | Souplesse, saveur, texture                              | 5–10 %                         | À ajouter dans la détrempe                                 |
 | Beurre de tourage        | Feuilletage, croustillant                               | 30–50 %                        | Utiliser un beurre AOP 82–86 % MG ou beurre sec 84 %       |
-
 
 - [Pate sablée](/recipes/sweet/pates/pate-sablee)
 - [Pate sucrée](/recipes/sweet/pates/pate-sucree)

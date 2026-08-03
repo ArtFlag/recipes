@@ -35,7 +35,6 @@ import YouTube from '@site/src/components/YouTube'
 1. Une fois refroidi, enlever la gousse de vanille.
 1. Mettre dans un mixeur, et ajouter le mascarpone et bien battre en augmentant progressivement la vitesse. La crême doit être lisse et brillante.
 
-
 ## Version micro-ondes
 
 - Œuf : 10g

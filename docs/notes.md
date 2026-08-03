@@ -30,8 +30,10 @@ import YouTube from '@site/src/components/YouTube'
 
 :::note[Example Ratio]
 To thicken **1 cup (240ml)** of stock to a rich, medium-bodied consistency:
+
 - **Roux:** Use 1 tablespoon (15g) of butter and 1 tablespoon (15g) of flour.
 - **Method:** Whisk the cooled roux directly into hot, simmering stock, then simmer for at least 2–3 minutes to cook out any raw flour taste.
+
 :::
 
 ## Reinforce and reduce chicken stock

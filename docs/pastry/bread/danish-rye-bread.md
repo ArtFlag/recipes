@@ -2,7 +2,7 @@
 title: Danish rye bread
 ---
 
-# Danish Rye Bread (Rugbrød)
+## Danish Rye Bread (Rugbrød)
 
 A dense, flavorful sourdough rye bread that's a staple in Danish cuisine. Perfect for open-faced sandwiches (smørrebrød).
 

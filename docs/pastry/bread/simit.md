@@ -5,17 +5,17 @@ tags: ["Turkey", "Bread"]
 
 ## Ingredients
 
-*   luke-warm water: 300 g
-*   instant (fast action) dried yeast: 4 g (or 12 g fresh yeast)
-*   strong white bread flour, pasta or pizza flour: 500 g
-*   salt: 8 g
-*   sugar: 40g
+-   luke-warm water: 300 g
+-   instant (fast action) dried yeast: 4 g (or 12 g fresh yeast)
+-   strong white bread flour, pasta or pizza flour: 500 g
+-   salt: 8 g
+-   sugar: 40g
 
 **Topping:**
 
-*   grape molasses (üzüm pekmezi): 50 ml
-*   water: 80 ml
-*   sesame seeds, toasted: 200–300 g
+-   grape molasses (üzüm pekmezi): 50 ml
+-   water: 80 ml
+-   sesame seeds, toasted: 200–300 g
 
 ## Steps
 

@@ -38,4 +38,3 @@ This technique is especially useful for ground turkey (400g), which can easily b
   1. Gently mix the solution into the ground meat.
   1. Let it rest at room temperature for **15 to 20 minutes**.
   1. Cook as usual (no need to rinse).
-

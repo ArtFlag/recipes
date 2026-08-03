@@ -5,11 +5,13 @@ title: Gochujang cookies
 ## Ingredients
 
 Gochujang Caramel Swirl
+
 - 2 tablespoons (28 g) unsalted butter room temperature
 - ¼ cup (50 g) brown sugar packed
 - 2 ½ tablespoons (50 g) Gochujang
 
 Cookie Dough
+
 - 2 ½ cup (320 g) all-purpose flour spooned and leveled
 - 2 teaspoon baking powder
 - 1 teaspoon salt

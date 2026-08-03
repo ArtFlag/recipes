@@ -8,6 +8,7 @@ tags: ["pâte"]
 ## Recette
 
 Pâte :
+
 - Beurre (Isigny de préférence) : 150 gr
 - Sucre glace : 95 gr
 - Poudre d'amandes : 30 gr
@@ -17,6 +18,7 @@ Pâte :
 - Poudre de vanille : 1 pointe de couteau
 
 Dorure :
+
 - 1 jaune d'œuf
 - 4gr de crème liquide
 

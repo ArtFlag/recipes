@@ -24,5 +24,4 @@ import YouTube from '@site/src/components/YouTube'
 1. Laisser reposer les oeufs 4 minutes dans le vinaigre. Lorsqu'ils sont legerement opaques, couper le feu sous l'autre casseroles et sortir les oeufs avec une ecumoire et les plonger dans l'eau bouillante.
 1. Sortir les oeufs apres 4-5 minutes
 
-
 <YouTube id="YFpnNixm5Vs" />

@@ -67,7 +67,7 @@ or
 - Black sesame seeds 1 tbsp
 - Flaky see salt: heaping half tablespoon
 
-# Sourdough
+## Sourdough
 
 Day One: The Dough
 

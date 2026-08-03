@@ -4,7 +4,7 @@ This is a recipe website built with [Docusaurus](https://docusaurus.io/). The
 recipes are written in Markdown and are located in the `docs` directory. The
 website is configured to be deployed on GitHub Pages.
 
-# Building and Running
+## Building and Running
 
 To get started with the project, you need to have [Yarn](https://yarnpkg.com/)
 installed.
@@ -22,24 +22,24 @@ installed.
 4.  **Deploy the project:** ```bash yarn deploy ``` This command deploys the
     website to GitHub Pages.
 
-# Development Conventions
+## Development Conventions
 
-*   **Content:** All recipes are located in the `docs` directory. They are
+-   **Content:** All recipes are located in the `docs` directory. They are
     organized into categories and subcategories, which are defined in the
     `sidebars.ts` file.
-*   **Static Assets:** Static assets, such as images and fonts, are stored in
+-   **Static Assets:** Static assets, such as images and fonts, are stored in
     the `static` directory.
-*   **Custom Components:** Custom React components are located in the
+-   **Custom Components:** Custom React components are located in the
     `src/components` directory.
-*   **Styling:** Custom CSS is located in the `src/css` directory.
-*   **Dependencies:** The project uses [Yarn](https://yarnpkg.com/) for package
+-   **Styling:** Custom CSS is located in the `src/css` directory.
+-   **Dependencies:** The project uses [Yarn](https://yarnpkg.com/) for package
     management. Dependencies are defined in the `package.json` file.
-*   **TypeScript:** The project uses
+-   **TypeScript:** The project uses
     [TypeScript](https://www.typescriptlang.org/) for type checking. The
     TypeScript configuration is in the `tsconfig.json` file.
-*   The search is managed by `docusaurus-search-local`. See the docs at https://github.com/cmfcmf/docusaurus-search-local?tab=readme-ov-file#usage.
+-   The search is managed by `docusaurus-search-local`. See the docs at <https://github.com/cmfcmf/docusaurus-search-local?tab=readme-ov-file#usage>.
 
-# Content Conventions and Style Guide
+## Content Conventions and Style Guide
 
 The website mostly has recipes. Each recipe is defined by:
 

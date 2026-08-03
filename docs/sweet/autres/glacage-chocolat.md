@@ -28,7 +28,6 @@ tags: ["french", "icing"]
 - Chocolat noir: 150g
 - Beurre mou: 60g
 
-
 1. Melanger gelatine et eau, et reserver au frigo 20 minutes.
 1. Porter le sucre + eau a 103c et porter hors du feu.
 1. Verser le cacao dans le sirop et bien melanger.

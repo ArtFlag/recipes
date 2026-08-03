@@ -18,8 +18,10 @@ Environ **60g/L** ou **1:16**
 | Regular cup | 17g    | 300g |
 
 :::note
+
 - 1 CAC = 8g de café fin
 - 1/4 cup = 23g
+
 :::
 
 1. Chauffer l'eau a 85c.

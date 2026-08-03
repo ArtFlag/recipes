@@ -41,6 +41,7 @@ To maintain it, 1 tea spoon of sugar/ginger. Once a week if it's in the fridge.
 
 :::info Alcohol levels
 For 21ºC - 23ºC:
+
 - 1 day on countertop: 0.2% alc by volume
 - 2 days on countertop: 1% alc by volume
 - 3 days on countertop: 1.5% alc by volume

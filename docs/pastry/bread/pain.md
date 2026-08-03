@@ -13,6 +13,7 @@ import YouTube from '@site/src/components/YouTube'
 |    Sel     | 2%         | 10g (2%)                    |
 
 :::note[Test]
+
 - Plus la farine a de protéine, plus il est possible d'hydrater.
 
   Pour déterminer la capacité d'absorbtion d'une farine, mélanger 50g de

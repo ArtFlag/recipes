@@ -94,7 +94,6 @@ Duck must cook really slowly to render the fat and crisp the skin. Use a heavy s
 
 <YouTube id="YFpnNixm5Vs" />
 
-
 ### Pan-Seared Lamb Loin Chops
 
 - Lamb loin chops: 4 thick-cut chops (approx. 2.5cm thick)

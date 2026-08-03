@@ -111,7 +111,6 @@ Pour environ 10 pièces:
 
 <BakingStep temp="200" time="11 minutes" fan preheat />
 
-
 <YouTube id="YZvAWZUK-kI" />
 
 ## Brown Butter Chocolate Chip Cookies

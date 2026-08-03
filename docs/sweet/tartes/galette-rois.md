@@ -12,6 +12,7 @@ import YouTube from '@site/src/components/YouTube'
 ### Pate feuilletée inversée
 
 Beurre manié :
+
 - Beurre AOP : 195g
 - Farine T55 : 75g
 
@@ -20,6 +21,7 @@ Beurre manié :
 1. Minimum 2 heures, max 5 heures.
 
 Détrempe :
+
 - Farine T55 : 225g
 - Eau froide : 97g
 - Beurre mou: 33g
@@ -148,6 +150,5 @@ Vers la fin de la cuission, preparez un sirop:
 1. Sortir la galette et badigeonez la galette.
 
 ## Recette version pate feuilletee inversee
-
 
 <YouTube id="R0xe5nfB0qE" />

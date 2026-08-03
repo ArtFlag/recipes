@@ -28,5 +28,6 @@ tendres).
 1. Repos. Attendre au minimum 3 mois, idéalement 12 mois avant consommation.
 
 ## Résultat
+
 Vin de noix sombre, légèrement amer, aromatique, autour de 16–18°.
 Se sert frais, en apéritif ou digestif.
