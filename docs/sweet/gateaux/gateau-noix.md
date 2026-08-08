@@ -7,7 +7,7 @@ import BakingStep from "@site/src/components/BakingStep";
 
 Une version périgourdine raffinée : riche en noix, extrêmement moelleuse grâce à l'utilisation de blancs d'œufs montés en neige et sublimée par un beurre noisette et un soupçon de rhum ambré.
 
-Accompagnement idéal : servez ce gâteau tiède ou à température ambiante avec une [crème anglaise au sirop d'érable et bourbon](../autres/maple-bourbon-anglaise.md) bien fraîche ou un [caramel au beurre salé](../autres/caramel-alice.md).
+Accompagnement idéal : servez ce gâteau tiède ou à température ambiante avec une [crème anglaise](../autres/creme-anglaise.md) (ou sa déclinaison [au sirop d'érable et bourbon](../autres/maple-bourbon-anglaise.md)) bien fraîche ou un [caramel au beurre salé](../autres/caramel-alice.md).
 
 Pour 8 personnes
 
