@@ -12,7 +12,7 @@ Accompagnement idéal : servez ce gâteau tiède ou à température ambiante ave
 Pour 8 personnes
 
 - Noix (en poudre): 150g
-- Sucre en poudre: 150g (100g pour l'appareil, 50g pour serrer les blancs)
+- Sucre en poudre: 140g (90g pour l'appareil, 50g pour serrer les blancs)
 - Beurre doux: 100g
 - Œufs: 4 (jaunes et blancs séparés)
 - Farine de blé T55: 40g
