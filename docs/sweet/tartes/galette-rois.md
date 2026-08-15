@@ -5,8 +5,6 @@ tags: ["french", "dessert", "cake"]
 
 ## Recette normale
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="kU9xXehA0_4" />
 
 ### Pate feuilletée inversée

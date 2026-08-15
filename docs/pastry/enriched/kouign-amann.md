@@ -3,9 +3,6 @@ title: Kouign-Amann
 tags: ["french", "viennoiserie"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 ## Détrempe
 
 - Farine: 333 Kg (T55 / 00 / riche en protéines)

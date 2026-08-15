@@ -3,9 +3,6 @@ title: Tarte suprême chocolat
 tags: ["french", "dessert", "tart", "chocolate"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="7TcCIcE1hr8" />
 
 ## Pâte

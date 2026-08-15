@@ -4,7 +4,6 @@ title: Pita
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import Percent from "@site/src/components/Percent";
 
 ## Turkihsh-style pita
 

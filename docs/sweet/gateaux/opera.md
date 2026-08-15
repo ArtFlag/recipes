@@ -3,8 +3,6 @@ title: Opera
 tags: ["french", "dessert", "cake"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 Pour 1 opéra de 30 cm X 30 cm (8-10 personnes).
 
 **Biscuit joconde:**
@@ -83,7 +81,5 @@ Ingrédients supplémentaires
 1. Faites fondre 100g de chocolat au bain marie. Ajouter 15g d'huile de pépin de raisin ou huile vegetale  quand le chocolat est fondue et melanger doucement.
 1. Quand le chocolat est a 35c, verser sur l'opera et repartir le glaçage tres rapidement.
 1. Laissez prendre 2 heures au réfrigérateur.
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="pD0q1R9pDEQ" />

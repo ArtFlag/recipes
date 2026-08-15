@@ -1,7 +1,6 @@
 ---
 title: Seigliton
 ---
-import BakingStep from "@site/src/components/BakingStep";
 
 ## Ingrédients (pour 8 pièces d’environ 120–130 g)
 

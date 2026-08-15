@@ -11,8 +11,6 @@ tags: ["ferment"]
   - More salt if you intend to preserve the food for a longer time.
 - Grains: 1½-2 percent weight of dry grains
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="W6Aq8TodxHs" />
 
 ## Meats

@@ -3,8 +3,6 @@ title: Rugelach
 tags: ["jewish", "viennoiserie"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 ## Rugelach Dough
 
 - Milk: 150 ml, room temperature

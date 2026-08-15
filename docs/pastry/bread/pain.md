@@ -2,9 +2,6 @@
 title: Pain au levain
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 | Ingredient | Proportion | Exemple pour 500g de farine |
 | :--------: | :--------- | :-------------------------- |
 |   Farine   | 100%       | 500g                        |

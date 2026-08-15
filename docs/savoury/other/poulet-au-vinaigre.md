@@ -25,6 +25,4 @@ tags: ["french", "chicken", "dinner", "vinegar"]
 1. Add taragon and a knob of cold butter.
 1. Add a splash of red vinegar and serve.
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="YFpnNixm5Vs" />

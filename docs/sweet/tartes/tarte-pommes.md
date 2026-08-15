@@ -2,11 +2,6 @@
 title: Tarte aux pommes
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
-import BakingStep from "@site/src/components/BakingStep";
-
 <div class="youtube-video-container">
   <YouTube id="IPbTzm6K-d0" />
 </div>

@@ -5,7 +5,6 @@ tags: ["french", "viennoiserie"]
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import BakingStep from "@site/src/components/BakingStep";
 
 :::note
 Pour le tourage, il faut du beurre de tourage.
@@ -13,8 +12,6 @@ N'importe quel beurre ayant un point de fusion eleve devrait marcher. Mat grasse
 
 **Example:** beurre de barratte AOP, beurre charrente-poitou, beurre president gastronomique...
 :::
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="tbdAq3B8Pzs" />
 

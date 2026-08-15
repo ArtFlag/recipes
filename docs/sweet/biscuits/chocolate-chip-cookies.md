@@ -3,9 +3,6 @@ title: Chocolate chip cookies
 tags: ["american", "cookies"]
 ---
 
-import Percent from "@site/src/components/Percent";
-import BakingStep from "@site/src/components/BakingStep";
-
 ## Emojoie Macadamia cookies
 
 - Flour: 150g
@@ -27,8 +24,6 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Divide in 125g balls.
 1. <BakingStep temp="190" time="13 minutes" fan preheat />
 1. Only put them on rack once they've hardened.
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="lJ7Ec3bKrxM" />
 

@@ -2,8 +2,6 @@
 title: Sauces
 ---
 
-import YouTube from '@site/src/components/YouTube'
-
 ## Stir fry brown sauce
 
 1. 1 tbsp dark soy sauce

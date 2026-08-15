@@ -3,8 +3,6 @@ title: Oatmeal cookies
 tags: ["american", "cookies"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - 2 eggs
 - 1 cup (250g) peanut butter
 - 1/3 cup (100g) pure maple syrup

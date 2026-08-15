@@ -2,10 +2,6 @@
 title: Baguettes
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
-import BakingStep from "@site/src/components/BakingStep";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 

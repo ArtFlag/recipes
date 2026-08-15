@@ -3,8 +3,6 @@ title: Gougère
 tags: ["french", "cheese", "appetizer"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - Beurre: 75g
 - Comté rapé: 200g
 - Eau: 250ml

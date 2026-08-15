@@ -3,8 +3,6 @@ title: Sfogliatelle
 tags: ["italian", "viennoiserie"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 **Yield:** 6 servings
 **Active Time:** 45 minutes
 **Total Time:** 15 hours (includes resting periods)
@@ -129,7 +127,5 @@ import BakingStep from "@site/src/components/BakingStep";
   mixture
 - **Alternative fat:** Substitute lard with high-quality shortening or butter
   (flavor will differ slightly)
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="eS-ws63dwVc" />

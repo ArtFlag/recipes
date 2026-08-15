@@ -3,9 +3,6 @@ title: Turkish eggs
 tags: ["turkish", "egg", "breakfast"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 - 1 cup Turkish or Greek yogurt, at room temperature
 - 1 clove garlic
 - ½ teaspoon freshly ground black pepper

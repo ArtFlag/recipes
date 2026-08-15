@@ -2,9 +2,6 @@
 title: Brioche
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-import Percent from "@site/src/components/Percent";
-
 export const i = {
   'farine': 320,
   'lait': 70,
@@ -45,7 +42,5 @@ export const i = {
 <div class="youtube-video-container">
   <YouTube id="5d9eUgVhRn8" />
 </div>
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="QqBKaLnUw5A" />

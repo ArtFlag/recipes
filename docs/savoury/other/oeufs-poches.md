@@ -12,8 +12,6 @@ tags: ["french", "egg", "technique"]
 
 Servir avec une [sauce hollandaise](../sauces/sauce-hollandaise.md) ou [turkish eggs](../turkish/turkish-eggs.md).
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="mrq3iZcvHAw" />
 
 ## Variante avec vinaigre

@@ -3,8 +3,6 @@ title: Trapizzino
 tags: ["italian", "bread"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - Flour: 560g (half tipo 00 and tipo 1, if possible)
 - Instant Dry yeast: 0.8g
 - Water: 420g

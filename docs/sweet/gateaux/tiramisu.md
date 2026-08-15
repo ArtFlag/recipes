@@ -3,9 +3,6 @@ title: Tiramisu
 tags: ["italian", "dessert", "coffee"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 ## Biscuits cuillères
 
 Un 40 aine:

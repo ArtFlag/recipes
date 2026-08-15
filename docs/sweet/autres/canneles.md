@@ -3,8 +3,6 @@ title: Cannelés
 tags: ["french", "viennoiserie"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - Lait entier: 1 demi-litre
 - Oeufs: 2 œufs + 2 jaunes
 - Farine: 130 g

@@ -2,11 +2,6 @@
 title:  Pizza  (Napolitana)
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
-import Percent from "@site/src/components/Percent";
-
 [Pizzapp+](https://apps.apple.com/fr/app/pizzapp/id1228158792#?platform=ipad)
 or [Pizza calculator](https://pizza-calculator.the-bread-code.io/)
 

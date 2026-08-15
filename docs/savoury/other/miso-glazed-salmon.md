@@ -5,8 +5,6 @@ tags:
   - fish
 ---
 
-import YouTube from '@site/src/components/YouTube'
-
 A quick, restaurant-quality dish featuring a sweet-savory glaze and perfectly crispy skin.
 
 <div class="youtube-video-container">

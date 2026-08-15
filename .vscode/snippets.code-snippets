@@ -39,8 +39,6 @@
     "prefix": ["baking", "baking", "component", "oven"],
     "scope": "markdown",
     "body": [
-      "import BakingStep from \"@site/src/components/BakingStep\";",
-      "",
       "<BakingStep temp=\"$1\" time=\"$2\" fan preheat />",
       "",
       ""
@@ -51,19 +49,27 @@
     "scope": "markdown",
     "prefix": "percentage",
     "body": [
-      "import Percent from \"@site/src/components/Percent\";",
-      "",
       "<Percent value=\"$1\" reference=\"$2\" showSign />",
       "",
       ""
     ],
     "description": "Insert percentage component"
   },
+  "youtube": {
+    "scope": "markdown",
+    "prefix": ["youtube", "yt"],
+    "body": [
+      "<YouTube id=\"$1\" />",
+      "",
+      ""
+    ],
+    "description": "Insert YouTube component"
+  },
   "video": {
     "scope": "markdown",
     "prefix": "video",
-    "body": ["<div class=\"youtube-video-container\">", "$1", "</div>", ""],
-    "description": "Insert video"
+    "body": ["<div class=\"youtube-video-container\">", "  <YouTube id=\"$1\" />", "</div>", ""],
+    "description": "Insert video container with YouTube"
   },
   "variables": {
     "scope": "markdown",

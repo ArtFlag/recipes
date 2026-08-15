@@ -3,8 +3,6 @@ title: Scones
 tags: ["british", "biscuits"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 ## Ingredients
 
 - Plain flour: 500g (4 cups)

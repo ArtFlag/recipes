@@ -3,8 +3,6 @@ title: Chocolate cheesecake
 tags: ["cheesecake"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - 15cm Round shaped mold
 - Dark Chocolate (55% Equatorial Noir): 80g
 - Heavy cream：100g
@@ -24,7 +22,5 @@ import BakingStep from "@site/src/components/BakingStep";
 1. Put in the cheese in the egg mixture and add the chocolate cream and mix each time.
 1. Pour mixture in the mold through a strainer.
 1. <BakingStep temp="170" time="30-35" preheat />
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="rp7zgw1DLhM" />

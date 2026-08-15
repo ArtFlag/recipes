@@ -2,7 +2,6 @@
 title: Brownies
 tags: ["american", "dessert"]
 ---
-import BakingStep from "@site/src/components/BakingStep";
 
 19x19cm square pan
 

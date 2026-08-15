@@ -2,9 +2,6 @@
 title: Naan
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 ## Tawa Naan
 
 - 1 cup all-purpose flour plain flour, Maida

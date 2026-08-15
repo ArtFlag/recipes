@@ -3,8 +3,6 @@ title: Carrot cake
 tags: ["american", "cake", "fruits"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 **Cake:**
 
 - All-purpose flour: 2 cups (250 grams)

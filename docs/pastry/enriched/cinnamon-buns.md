@@ -2,7 +2,6 @@
 title: Cinnamon buns
 ---
 
-import BakingStep from '@site/src/components/BakingStep'
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 

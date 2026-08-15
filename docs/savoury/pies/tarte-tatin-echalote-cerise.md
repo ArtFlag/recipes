@@ -3,9 +3,6 @@ title: Tarte Tatin aux échalotes et cerises
 tags: ["french", "pie", "tart", "shallot", "cherry"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-import YouTube from "@site/src/components/YouTube";
-
 ## Ingrédients
 
 - Échalotes: 4 (épluchées et coupées en deux dans la longueur)

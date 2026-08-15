@@ -3,8 +3,6 @@ title: Banana bread
 tags: ["american", "bread", "fruits"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 Brown butter + extra ripe bananas + crème fraîche. Denser, more flavourful, stays moist for days.
 
 - Bananes très mûres (pelées): 350g (~4 bananes)

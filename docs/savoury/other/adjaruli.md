@@ -3,11 +3,6 @@ title: Adjaruli khachapuri
 tags: ["georgian", "cheese", "pizza"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
-import BakingStep from "@site/src/components/BakingStep";
-
 For 2 people.
 
 - Cheese:

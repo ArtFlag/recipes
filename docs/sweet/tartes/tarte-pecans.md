@@ -3,8 +3,6 @@ title: Tarte aux noix de pécan
 tags: ["french", "dessert", "nuts", "tart"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 Pour un moule de **24cm** de diametre.
 
 ## J-1
@@ -60,7 +58,5 @@ Pour un moule de **24cm** de diametre.
 1. (Optionel) Glacage au sirop legerement tiede.
 1. Reserver au frigo.
 1. Sucre en poudre avant de servir.
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="EFsZcT62uXU" />

@@ -2,7 +2,6 @@
 title: Focaccia
 tags: ["italian", "bread"]
 ---
-import BakingStep from "@site/src/components/BakingStep";
 
 ## Baker's yeast
 
@@ -76,7 +75,5 @@ Dough:
 - Water: 25g 10.0%
 - Salt: 4.5g 1.8%
 - Olive Oil: 15g 6.0%
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="FxgBEvkhnFg" />

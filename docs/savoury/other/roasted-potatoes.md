@@ -17,6 +17,4 @@ tags: ["potato", "roast", "technique"]
 1. Roast at 200 °C until golden and crisp (40+ minutes).
 1. Season
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="q3FaOflvjeA" />

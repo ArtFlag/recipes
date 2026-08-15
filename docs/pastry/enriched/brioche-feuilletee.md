@@ -2,10 +2,8 @@
 title: Brioche feuilletée
 ---
 import MyImg from "@site/static/img/brioche-feuilletee.png";
-import BakingStep from "@site/src/components/BakingStep";
-import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
 
-import YouTube from '@site/src/components/YouTube'
+import MyImg2 from "@site/static/img/brioche-feuilletee2.png";
 
 <YouTube id="g9rtAvEXfVc" />
 <br/>

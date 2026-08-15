@@ -3,11 +3,6 @@ title: Kanelsnurrer
 tags: ["nordic", "viennoiserie"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
-import BakingStep from "@site/src/components/BakingStep";
-
 <table>
   <tr>
     <th>Dough</th>

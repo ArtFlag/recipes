@@ -3,8 +3,6 @@ title: Ladi Pav
 tags: ["indian", "brioche"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - Salt: 10g
 - AP Flour: 480g
 - Sugar: 15g

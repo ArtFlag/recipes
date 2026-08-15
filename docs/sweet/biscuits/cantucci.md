@@ -3,8 +3,6 @@ title: Cantucci
 tags: ["italian", "biscuits"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 Ingrédients (pour 20 pièces) :
 
 Pour les biscuits :
@@ -59,7 +57,5 @@ Preparation:
 1. Enfournez-les de nouveau à 180°C dans un four ventilé pendant 5 minutes.
 1. Ôtez la plaque du four, retournez les biscuits de l'autre côté, enfournez-les de nouveau et laissez-les cuire 5 minutes encore.
 1. Une fois la double cuisson terminée, transférez les cantucci sur une grille et laissez-les refroidir complètement avant de les déguster.
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="3wVfO-NTYYw" />

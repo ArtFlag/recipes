@@ -58,6 +58,4 @@ tags: ["italian", "pasta", "cheese"]
 
 Use this cream in a pan with a bit of pasta water, add the pasta, mix well, heat to low.
 
-import YouTube from '@site/src/components/YouTube'
-
 <YouTube id="33Cjb7XlOPk" />

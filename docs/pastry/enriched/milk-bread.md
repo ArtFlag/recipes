@@ -5,9 +5,6 @@ tags: ["japanese", "brioche"]
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import BakingStep from "@site/src/components/BakingStep";
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="lD7a8wfJeWU" />
 

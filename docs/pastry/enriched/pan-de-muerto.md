@@ -4,7 +4,6 @@ tags: ["latino", "brioche"]
 ---
 
 import MyImg from "@site/static/img/pandemuerto.png";
-import BakingStep from "@site/src/components/BakingStep";
 
 Yields 2 buns.
 

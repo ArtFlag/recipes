@@ -5,8 +5,6 @@ tags:
   - pastry
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 ## Ingredients
 
 ### Lievitino (pre-ferment)

@@ -3,8 +3,6 @@ title: Pastel de Nata
 tags: ["portuguese", "tartes"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 **Pâte feuilletée rapide (rough puff)**
 
 - Farine T55: 250g

@@ -2,9 +2,6 @@
 title: Notes
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 ## Pan sauce
 
 1. High heat with neutral oil (canola, etc).

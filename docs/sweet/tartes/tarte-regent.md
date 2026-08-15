@@ -3,8 +3,6 @@ title: Tarte du régent
 tags: ["french", "dessert", "tart", "chocolate"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - [1 pâte sablée](/recipes/sweet/pates/pate-sablee)
 - 100g chocolat noir (de couverture, de prefrence)
 - 75g beurre ramolli

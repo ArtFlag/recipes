@@ -2,9 +2,6 @@
 title: Ciabatta
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 ## Sourdough
 
 - Bread Flour: 515g

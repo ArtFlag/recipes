@@ -3,9 +3,6 @@ title: Crême pâtissière
 tags: ["french", "pastry"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 <div class="youtube-video-container">
   <YouTube id="hmRTfsL9zWg" />
 </div>

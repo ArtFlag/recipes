@@ -2,9 +2,6 @@
 title: Bagels
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 Yields: 8 to 12 pieces.
 
 Dough:

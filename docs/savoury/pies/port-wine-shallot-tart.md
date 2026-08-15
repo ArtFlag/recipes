@@ -3,8 +3,6 @@ title: Port-Wine & Shallot Tart
 tags: ["french", "tart", "pie", "shallot"]
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 **Serves:** 6  
 **Time:** about 1½ hours
 

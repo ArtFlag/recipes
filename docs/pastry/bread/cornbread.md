@@ -2,8 +2,6 @@
 title: Cornbread
 ---
 
-import BakingStep from "@site/src/components/BakingStep";
-
 - Fine cornmeal: 1 cup (120g)
 - AP flour 1 cup (125g)
 - Baking powder: 1 teaspoon

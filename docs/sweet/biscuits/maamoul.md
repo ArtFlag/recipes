@@ -2,7 +2,6 @@
 title: Maamoul
 tags: ["middle eastern", "biscuits"]
 ---
-import BakingStep from "@site/src/components/BakingStep";
 
 ## Ingredients
 
@@ -87,7 +86,5 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 <BakingStep temp="230" time="10-15min" fan preheat />
-
-import YouTube from '@site/src/components/YouTube'
 
 <YouTube id="gWlEw9m3RsU" />

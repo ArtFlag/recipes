@@ -2,8 +2,6 @@
 title: Meats
 ---
 
-import YouTube from '@site/src/components/YouTube'
-
 ## Chicken
 
 ### Roast Chicken

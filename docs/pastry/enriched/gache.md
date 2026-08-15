@@ -3,9 +3,6 @@ title: Gâche
 tags: ["french", "brioche"]
 ---
 
-
-import YouTube from '@site/src/components/YouTube'
-
 - Farine T65: 1kg
 - Sucre semoule blond: 150g
 - Eau: 25cl
