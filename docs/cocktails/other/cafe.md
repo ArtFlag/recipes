@@ -34,21 +34,7 @@ Environ **60g/L** ou **1:16**
 
 ## French Press Latte
 
-Ratio **~1:5** café:eau
-
-| Contenant | Cafe | Eau  | Lait  |
-|-----------|------|------|-------|
-| Cafetière | 15g  | 120g | 150ml |
-
-1. Préparer le café normalement (voir Cafetière a piston ci-dessus).
-1. Chauffer et mousser 1.5 cup de lait.
-1. Verser le café dans une tasse, puis ajouter le lait chaud.
-
-## Examples
-
-### Small glass - cafe au lait
-
-- 15 g coffee grounds
-- 90 g water
-
-And add 80 g milk
+| Contenant           | Cafe | Eau  | Lait  |
+|---------------------|------|------|-------|
+| Regular cup (300ml) | 15g  | 100g | 150ml |
+| Small cup (150ml)   | 13g  | 90g  | 80ml  |
