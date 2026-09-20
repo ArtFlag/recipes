@@ -38,3 +38,9 @@ Environ **60g/L** ou **1:16**
 |---------------------|------|------|-------|
 | Regular cup (300ml) | 15g  | 100g | 150ml |
 | Small cup (150ml)   | 13g  | 90g  | 80ml  |
+
+:::note
+
+- Température idéale pour chauffer / faire mousser le lait (*steam*) : **60°C – 65°C** (ne pas dépasser 70°C pour ne pas brûler le lait et altérer sa douceur).
+
+:::
