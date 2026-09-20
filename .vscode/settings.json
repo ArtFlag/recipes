@@ -24,5 +24,7 @@
   "[properties]": {
     "editor.formatOnSave": false
   },
-  "chat.disableAIFeatures": false
+  "chat.disableAIFeatures": false,
+  "vale.valeCLI.config": "${workspaceFolder}/.vale.ini",
+  "vale.enableSpellcheck": false
 }
