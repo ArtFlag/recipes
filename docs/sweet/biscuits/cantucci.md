@@ -1,5 +1,5 @@
 ---
-title: Cantucci
+title: Cantucci / Croquets aux amandes
 tags: ["italian", "biscuits"]
 ---
 
@@ -7,14 +7,14 @@ Ingrédients (pour 20 pièces) :
 
 Pour les biscuits :
 
-- FarineP 280g (T45 ou T55)
+- Farine: 280g (T45 ou T55)
 - Sucre: 150g
 - Œufs: 2
 - Amande decortiquee: 130g
 - Levure chimique: 8g
 - Beurre fondu: 30g
 - Miel liquide: 1 c.à.s
-- Orange (zeste): 1
+- Orange (zeste): 1 ou eau de fleur d'oranger: 1 cuillère à soupe
 - Citron jaune bio (zeste): 1
 - Sel: 1 pincée (2% de 280 / 5g )
 
@@ -48,14 +48,13 @@ Preparation:
 1. Déposez-les sur la plaque du four avec du papier sulfurisé en dessous en les espaçant.
 1. A l'aide d'un pinceau, badigeonnez la surface des deux boudins avec le jaune d'œuf mélangé à l'eau.
 1. Préchauffez le four à 180°C (statique).
-1. <BakingStep temp="180" time="30 min" preheat />
+1. <BakingStep temp="180" time="20-25 min" preheat />
 
 ## Façonnage des biscuits
 
 1. Transférez les boudins sur le plan de travail. Laissez-les tiédir 2 minutes, puis, avec un grand couteau, coupez-les encore chauds en biais sur 1,5 cm de largeur.
 1. Remettez les biscuits à plat sur la plaque du four.
-1. Enfournez-les de nouveau à 180°C dans un four ventilé pendant 5 minutes.
-1. Ôtez la plaque du four, retournez les biscuits de l'autre côté, enfournez-les de nouveau et laissez-les cuire 5 minutes encore.
+1. <BakingStep temp="150" time="10-15 minutes" preheat /> pour la deuxième cuisson afin de les faire sécher, en les retournant à mi-cuisson.
 1. Une fois la double cuisson terminée, transférez les cantucci sur une grille et laissez-les refroidir complètement avant de les déguster.
 
 <YouTube id="3wVfO-NTYYw" />
