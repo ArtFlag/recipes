@@ -40,3 +40,7 @@ Shashushuli (or *Chashushuli*, from the Georgian word for "stewed") is a classic
 1. Stir in the minced garlic, chopped fresh cilantro, parsley, and basil. Taste and adjust salt and pepper if needed.
 1. Turn off the heat, cover the pot, and let it rest for 5 minutes before serving to allow the fresh herbs and garlic aromas to infuse into the sauce.
 1. Serve hot with warm crusty Georgian bread (shotis puri) or mashed potatoes.
+
+:::tip[See also]
+See also the classic French red-wine braised beef stew: [Bœuf bourguignon](./boeuf-bourguignon.md).
+:::

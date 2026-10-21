@@ -70,6 +70,29 @@ Duck must cook really slowly to render the fat and crisp the skin. Use a heavy s
 
 ## Beef
 
+### Beef Cuts / Coupes de bœuf (FR / EN / DE)
+
+_Voir le [glossaire trilingue complet des coupes de bœuf](./beef-cuts.md)._
+
+| Français | Anglais (US/UK) | Allemand | Utilisation |
+| :--- | :--- | :--- | :--- |
+| **Paleron** | Chuck / Chuck roast / Blade | Schaufelstück / Bugblatt | Bourguignon, braisé, mijoté |
+| **Gîte / Jarret** | Beef shank / Shin | Rinderwade / Hesse / Beinscheibe | Bourguignon, pot-au-feu, osso buco |
+| **Macreuse** | Shoulder clod / Chuck tender | Dicker Bug / Schulter | Bourguignon, braisé, pot-au-feu |
+| **Joue** | Beef cheek | Rinderbacke / Ochsenbacke | Bourguignon, braisé longue cuisson |
+| **Queue** | Oxtail | Ochsenschwanz | Ragoût, bouillon riche en gélatine |
+| **Plat de côtes** | Short ribs | Querrippe / Spannrippe | Braisé, BBQ, pot-au-feu |
+| **Poitrine** | Brisket | Rinderbrust | BBQ, fumé, pot-au-feu |
+| **Filet** | Tenderloin / Filet mignon | Rinderfilet / Lende | Steaks tendres, tournedos, rôtis |
+| **Faux-filet** | Strip steak / NY strip / Sirloin | Rumpsteak / Zwischenrippenstück | Poêlé, grillade |
+| **Entrecôte** | Ribeye | Entrecôte / Rib-Eye / Hochrippe | Poêlé, grillade |
+| **Côte de bœuf** | Bone-in ribeye / Prime rib | Hochrippe am Knochen / Ochsenkotelett | Grillade, four |
+| **Rumsteck** | Rump steak / Top sirloin | Hüfte / Rinderhüfte / Hüftsteak | Steaks, brochettes, rôti |
+| **Bavette d'aloyau** | Flank steak / Flap meat | Flanksteak / Bavette | Grillade rapide, tranché contre le grain |
+| **Onglet** | Hanger steak | Nierenzapfen | Poêlé à feu très vif (saignant) |
+| **Hampe** | Skirt steak | Kronfleisch / Saumfleisch | Grillé à feu vif, fajitas |
+| **Gîte à la noix / Tende de tranche** | Top round / Bottom round | Oberschale / Unterschale | Roulades (*Rouladen*), rôti, carpaccio |
+
 ### Steak Stainless steel
 
 1. Dry brine the steak over night or 1 hour before cooking. Don't salt right before cooking.

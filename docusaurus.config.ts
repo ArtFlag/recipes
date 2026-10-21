@@ -84,6 +84,10 @@ const config: Config = {
               label: 'Meats',
               href: '/recipes/meats',
             },
+            {
+              label: 'Beef cuts',
+              href: '/recipes/beef-cuts',
+            },
           ],
         },
         {
