@@ -114,7 +114,7 @@ const shortcuts_savoury = {
   title: 'Savoury',
   links: [
     {
-      id: 'savoury/other/chicken-adobo',
+      id: 'savoury/asian/chicken-adobo',
       title: 'Chicken adobo',
     },
     {
@@ -146,7 +146,7 @@ const shortcuts_savoury = {
       title: 'Marinated zucchini',
     },
     {
-      id: 'savoury/other/chicken-broccoli',
+      id: 'savoury/asian/chicken-broccoli',
       title: 'Chicken and broccoli',
     },
     {

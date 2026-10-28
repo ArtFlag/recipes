@@ -26,5 +26,6 @@
   },
   "chat.disableAIFeatures": false,
   "vale.valeCLI.config": "${workspaceFolder}/.vale.ini",
+  "vale.valeCLI.noGlobal": true,
   "vale.enableSpellcheck": false
 }
