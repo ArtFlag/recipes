@@ -1,6 +1,6 @@
 ---
 title: Petits farcis
-tags: ["french", "casserole", "main", "vegetable", "pork"]
+tags: ["french", "casserole", "main", "vegetable", "pork", "stuffing"]
 ---
 
 Pour 6 à 8 personnes.
@@ -43,3 +43,9 @@ Pour 6 à 8 personnes.
 - Si nécessaire, complétez les restes de viande avec un peu de chair à saucisse.
 - Les farcis sont encore meilleurs réchauffés le lendemain !
 :::
+
+## Related recipes
+
+- [Stuffed Peppers with Ground Turkey](./stuffed-peppers.md)
+- [Stuffed Tomatoes](./stuffed-tomatoes.md)
+- [Celeri stuffing](./celery-stuffing.md)

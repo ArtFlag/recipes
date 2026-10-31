@@ -1,6 +1,6 @@
 ---
 title: Stuffed Tomatoes
-tags: ["italian", "tomato", "gratin", "vegetarian"]
+tags: ["italian", "tomato", "gratin", "vegetarian", "stuffing"]
 ---
 
 - Tomates rondes: 6 grosses (type cœur de bœuf)
@@ -27,3 +27,16 @@ tags: ["italian", "tomato", "gratin", "vegetarian"]
    plat. Arroser les tomates et le fond du plat d'huile d'olive.
 1. Enfourner 35-40 minutes jusqu'à ce que les tomates soient confites et la
    chapelure dorée. Servir tiède ou à température ambiante.
+
+:::tip[Conseils anti-détrempage]
+- **Tapisser le fond** : Déposer une pincée de riz cru, de chapelure ou de semoule fine au fond de chaque tomate avant de farcir pour absorber les sucs pendant la cuisson.
+- **Bien dégorger** : Saler l'intérieur des cavités et laisser égoutter les tomates tête en bas sur du papier absorbant ou une grille pendant 20 à 30 minutes.
+- **Riz bien al dente** : Sous-cuire le riz de 2 à 3 minutes afin qu'il s'imbibe du jus de cuisson au four sans devenir pâteux.
+- **Égoutter la pulpe** : Si les tomates sont très aqueuses, égoutter une partie de l'eau de végétation de la chair prélevée avant de la mélanger à la farce.
+:::
+
+## Related recipes
+
+- [Stuffed Peppers with Ground Turkey](./stuffed-peppers.md)
+- [Petits farcis](./petits-farcis.md)
+- [Celeri stuffing](./celery-stuffing.md)

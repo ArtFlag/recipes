@@ -1,6 +1,6 @@
 ---
 title: Celeri stuffing
-tags: ["american", "celery", "thanksgiving"]
+tags: ["american", "celery", "thanksgiving", "stuffing"]
 ---
 
 -   125 grammes de noix
@@ -43,3 +43,9 @@ Version simple :
 -   2 teaspoons poultry seasoning
 -   salt and pepper to taste
 -   240ml chicken broth
+
+## Related recipes
+
+- [Stuffed Peppers with Ground Turkey](./stuffed-peppers.md)
+- [Stuffed Tomatoes](./stuffed-tomatoes.md)
+- [Petits farcis](./petits-farcis.md)
