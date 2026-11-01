@@ -11,13 +11,13 @@ Yields 2 buns.
 
 - Farine: 500g
 - Sucre: 100g
-- Lait: 130g
+- Lait: 90g
 - Levure fraiche: 15g
 - Oeufs: 150g (3)
 - Sel: 8 g
 - Zeste d'orange: 1 c. à soupe
 - Fleur d'oranger: 1 c. à café
-- Beurre froid (coupé en dés): 150 g
+- Beurre froid (coupé en dés): 135 g
 
 ## Method
 
