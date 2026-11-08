@@ -8,14 +8,14 @@ tags: ["pâte"]
 | Eau                                 | 60ml          |
 | Sel                                 | 1 pincée / 6g |
 | Farine 55                           | 250 g         |
-| Beurre                              | 125 g         |
+| Beurre (très froid, coupé en petits morceaux) | 125 g         |
 | Optionel: Sachet de levure chimique | 1/2 sachet    |
 
-1.  Dans un saladier melanger tous les ingredients secs.
-1.  Petrir un peu pour avoir une pate sableuse.
-1.  Ajouter l'eau graduellement.
+1.  Dans un saladier, mélanger tous les ingrédients secs.
+1.  Ajouter le beurre très froid coupé en petits morceaux et sabler du bout des doigts pour avoir une pâte sableuse.
+1.  Ajouter l'eau graduellement et rassembler la pâte en boule. **Ne surtout pas travailler la pâte.**
 1.  Si la pate est trop collante, ajouter un peu de farine.
-    Si la pate est trop seche, ajouter un peu d'eau.
+    Si la pate est trop seche, continuer a melanger un peu et ajouter un peu d'eau apres.
 1.  Mettre la pâte en galette, l'envelopper d'un film et la laisser
     reposer la nuit au frigo.
 1.  Pour la cuisson, etaler la pate dans le moule et remettre au frigo pour 20 minutes minimum.
