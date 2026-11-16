@@ -73,7 +73,7 @@ const shortcuts_sweet = {
     },
     {
       id: 'sweet/autres/canneles',
-      title: 'Cannelés',
+      title: 'Canelés',
     },
     {
       id: 'sweet/tartes/tarte-regent',

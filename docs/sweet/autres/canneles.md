@@ -1,5 +1,5 @@
 ---
-title: Cannelés
+title: Canelés
 tags: ["french", "viennoiserie"]
 ---
 
