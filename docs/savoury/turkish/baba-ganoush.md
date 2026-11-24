@@ -3,6 +3,9 @@ title: Baba Ganoush
 tags: ["lebanese","israeli", "aubergine", "dip"]
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 :::tip[Making Eggplant Easily Digestible]
 Eggplants (aubergines) belong to the nightshade family and contain solanine, bitter
 compounds, and tough fibers that can sometimes cause bloating or indigestion. To make
@@ -88,9 +91,30 @@ fresh vegetables, walnuts, pomegranate molasses, and herbs (without tahini).
 
 A silky, modern twist on baba ganoush from the London vegetarian restaurant Bubala, enriched
 with white miso and confit garlic, and finished with curry leaf oil, crispy curry leaves,
-and toasted pine nuts. Serves 6–8 as part of a mezze spread.
+and toasted pine nuts.
 
 ### Ingredients
+
+<Tabs defaultValue="2">
+<TabItem value="2" label="2 aubergines (serves 2–3)">
+
+**For the baba ganoush:**
+- Eggplants (medium): 2 (~400 g / 14 oz)
+- Tahini: 45 g (1½ oz)
+- Confit garlic: 12 g (~½ oz, about 2–3 cloves)
+- Raw garlic: 1/4 small clove (a small sliver)
+- White miso paste: 8 g (~1/3 oz, about 1.5 tsp)
+- Salt: 1/3 tsp (plus extra to taste)
+- Black pepper (freshly ground): to taste
+
+**For the garnish:**
+- Pine nuts: 1 tsp
+- Rapeseed (or canola) oil: 1–2 tbsp (for frying)
+- Fresh curry leaves: 1–2 sprigs
+- Curry leaf oil: 1 tbsp
+
+</TabItem>
+<TabItem value="6" label="6 aubergines (serves 6–8)">
 
 **For the baba ganoush:**
 - Eggplants (medium): 6 (~1.2 kg / 2 lbs 12 oz)
@@ -106,6 +130,9 @@ and toasted pine nuts. Serves 6–8 as part of a mezze spread.
 - Rapeseed (or canola) oil: 2–3 tbsp (for frying)
 - Fresh curry leaves: 4 sprigs
 - Curry leaf oil: 3 tbsp
+
+</TabItem>
+</Tabs>
 
 **For the confit garlic (makes ~500 g):**
 - Garlic cloves (peeled): 250 g (9 oz, about 6 heads)
@@ -142,7 +169,7 @@ and toasted pine nuts. Serves 6–8 as part of a mezze spread.
    emulsified. Taste and adjust salt and pepper as needed.
 1. **Prepare the garnish:** Toast the pine nuts in a small dry frying pan over medium heat
    until golden brown, then set aside.
-1. In the same pan, heat 2–3 tbsp rapeseed oil over high heat. Drop in the remaining 4
+1. In the same pan, heat the frying rapeseed oil over high heat. Drop in the garnish
    sprigs of fresh curry leaves and shallow-fry for a few seconds until sizzling and crisp.
    Remove with a slotted spoon and drain on paper towels.
 1. **Serve:** Spoon the baba ganoush onto a shallow serving bowl or plate and create a
