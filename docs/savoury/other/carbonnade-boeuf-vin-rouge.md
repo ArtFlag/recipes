@@ -37,5 +37,6 @@ Pour 4 à 6 personnes.
 :::tip[Conseils & Variantes]
 - **Choix de la viande** : Privilégiez des morceaux gélatineux qui deviennent fondants au mijotage (paleron, gîte, macreuse ou joue). Voir le [glossaire complet des coupes de bœuf](../../beef-cuts.md).
 - **Pain d'épices** : Il apporte la liaison et les notes épicées typiques de la carbonnade. Vous pouvez utiliser un [pain d'épices maison](../../sweet/gateaux/pain-epices.md) ou, à défaut, du pain de campagne tartiné de moutarde avec une pincée de quatre-épices.
+- **Version traditionnelle à la bière** : Voir la [carbonnade flamande](./carbonnade-flamande.md) classique préparée à la bière brune.
 - **Patience** : Comme le [bœuf bourguignon](./boeuf-bourguignon.md), la carbonnade est encore meilleure réchauffée le lendemain, une fois les arômes bien fondus.
 :::
