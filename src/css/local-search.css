@@ -61,5 +61,5 @@ svg.aa-SubmitIcon {
 }
 
 mark[data-markjs] {
-  background-color: var(--bg-muted) !important;
+  background-color: rgba(0, 0, 0, 0.003) !important;
 }
