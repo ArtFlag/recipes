@@ -103,3 +103,23 @@
   padding-left: 0.9rem;
   text-decoration: none;
 }
+
+.latestBlock {
+  margin-bottom: 1.25rem;
+}
+
+.latestGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 0.25rem 1.25rem;
+}
+
+.latestGrid li {
+  min-width: 0;
+}
+
+.latestGrid li a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

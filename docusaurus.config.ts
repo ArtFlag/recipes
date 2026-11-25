@@ -1,5 +1,6 @@
 import type { Config } from '@docusaurus/types'
 import type * as Preset from '@docusaurus/preset-classic'
+import recentRecipesPlugin from './src/plugins/recent-recipes'
 
 const config: Config = {
   title: 'Recipes',
@@ -182,6 +183,7 @@ const config: Config = {
     },
   ],
   plugins: [
+    recentRecipesPlugin,
     [
       '@cmfcmf/docusaurus-search-local',
       {

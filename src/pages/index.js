@@ -4,6 +4,7 @@ import Layout from '@theme/Layout'
 import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import { usePluginData } from '@docusaurus/useGlobalData'
 import styles from './styles.module.css'
 
 const shortcuts_bread = {
@@ -225,9 +226,30 @@ function Shortcuts({ contents }) {
   )
 }
 
+function LatestRecipes({ recipes }) {
+  if (!recipes || recipes.length === 0) {
+    return null
+  }
+  return (
+    <section className={clsx(styles.shortcutBlock, styles.latestBlock)}>
+      <h2>Latest recipes</h2>
+      <ul className={styles.latestGrid}>
+        {recipes.map((recipe) => (
+          <li key={recipe.id}>
+            <Link to={useBaseUrl('/recipes/' + recipe.id)} title={recipe.title}>
+              {recipe.title}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
 function Home() {
   const context = useDocusaurusContext()
   const { siteConfig = {} } = context
+  const recentRecipes = usePluginData('recent-recipes')
   return (
     <Layout description=''>
       <header className={clsx(styles.heroBanner)}>
@@ -280,6 +302,7 @@ function Home() {
       </header>
       <main>
         <div className={styles.container}>
+          <LatestRecipes recipes={recentRecipes} />
           <div className={styles.grid}>
             <Shortcuts contents={shortcuts_bread} />
             <Shortcuts contents={shortcuts_sweet} />
