@@ -278,3 +278,44 @@ Mix 2 tablespoons of tahini, 2.5 tablespoons of honey, 2 teaspoons of cocoa.
    cup of warm stock (chicken, fish, vegetable). Always on low heat.
 
 <YouTube id="ERK4NhO4Zug" />
+
+## Black peppercorn sauce
+
+- Black peppercorns (slightly crushed): 2.5 (g)
+- Green peppercorns: 2.5 (g)
+- Cognac: 1 splash + 1 dash
+- [Demi-glace](./savoury/stocks/chicken-stock.md#15-minute-veal-broth-chris-young): 1 big spoonful
+- Cream: 150 (g)
+- Lemon juice: 1 squeeze
+- MSG: 1 pinch
+
+1. Roast the peppercorns in a hot pan.
+1. Add a splash of cognac.
+1. Flambé the cognac.
+1. Once it has reduced down and the pan is almost dry again, add a big spoonful of demi-glace and 150 g of cream.
+1. Reduce the sauce until it coats the back of a spoon.
+1. Finish with a squeeze of lemon juice, a dash of cognac, and a pinch of MSG.
+1. Serve.
+
+## Demi-glace red wine sauce
+
+_Usual use: Serve with roast beef tenderloin._
+
+- Clarified butter: 20 (g)
+- Shallots (thinly sliced): 75 (g)
+- Garlic: 2 (cloves)
+- Red wine: 250 (g)
+- Port wine: 30 (g)
+- Tomato concentrate: 1 (spoonful)
+- [Veal demi-glace](./savoury/stocks/chicken-stock.md#15-minute-veal-broth-chris-young): 60 (g)
+- Parsley: 1 (sprig)
+- Tarragon: 1 (sprig)
+- Butter: 1 (knob)
+
+1. Put the clarified butter, shallots, garlic, red wine, and port wine in a pan.
+1. Flambé the alcohol.
+1. Let reduce.
+1. Add a spoonful of tomato concentrate and 60 g of veal demi-glace.
+1. Add a sprig of parsley and a sprig of tarragon.
+1. Bring back to a simmer, then strain.
+1. Return to a pot and stir in a knob of butter.
